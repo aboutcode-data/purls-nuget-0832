@@ -12,6 +12,7 @@
 - pkg:nuget/IntelligentPlant.IndustrialAppStore.DependencyInjection@3.3.0-pre.382
 - pkg:nuget/IntelligentPlant.IndustrialAppStore.DependencyInjection@3.4.0
 - pkg:nuget/IntelligentPlant.IndustrialAppStore.DependencyInjection@3.4.1
+- pkg:nuget/IntelligentPlant.IndustrialAppStore.DependencyInjection@3.5.0
 - pkg:nuget/IntelligentPlant.IndustrialAppStore.DependencyInjection@3.5.0-pre.409
 - pkg:nuget/IntelligentPlant.IndustrialAppStore.DependencyInjection@3.5.0-pre.414
 - pkg:nuget/IntelligentPlant.IndustrialAppStore.DependencyInjection@3.5.0-pre.417
