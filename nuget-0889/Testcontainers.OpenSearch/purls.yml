@@ -1,0 +1,4 @@
+- pkg:nuget/Testcontainers.OpenSearch@4.5.0
+- pkg:nuget/Testcontainers.OpenSearch@4.6.0
+- pkg:nuget/Testcontainers.OpenSearch@4.7.0
+- pkg:nuget/Testcontainers.OpenSearch@4.9.0
