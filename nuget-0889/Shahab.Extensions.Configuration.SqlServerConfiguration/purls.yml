@@ -1,0 +1,3 @@
+- pkg:nuget/Shahab.Extensions.Configuration.SqlServerConfiguration@0.0.1
+- pkg:nuget/Shahab.Extensions.Configuration.SqlServerConfiguration@0.0.1-enable-ci-cd.1%2B12
+- pkg:nuget/Shahab.Extensions.Configuration.SqlServerConfiguration@8.0.0
