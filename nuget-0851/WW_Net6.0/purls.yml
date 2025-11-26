@@ -22,6 +22,7 @@
 - pkg:nuget/WW_Net6.0@6.0.2024.4193-trial
 - pkg:nuget/WW_Net6.0@6.0.2024.4251-trial
 - pkg:nuget/WW_Net6.0@6.0.2024.9111-trial
+- pkg:nuget/WW_Net6.0@6.0.2025.11262-trial
 - pkg:nuget/WW_Net6.0@6.0.2025.1151-trial
 - pkg:nuget/WW_Net6.0@6.0.2025.1231-trial
 - pkg:nuget/WW_Net6.0@6.0.2025.2071-trial
