@@ -80,6 +80,7 @@
 - pkg:nuget/Pyro.Google@1.9.20
 - pkg:nuget/Pyro.Google@1.9.3
 - pkg:nuget/Pyro.Google@1.9.31
+- pkg:nuget/Pyro.Google@1.9.34
 - pkg:nuget/Pyro.Google@1.9.5
 - pkg:nuget/Pyro.Google@1.9.6
 - pkg:nuget/Pyro.Google@1.9.7
