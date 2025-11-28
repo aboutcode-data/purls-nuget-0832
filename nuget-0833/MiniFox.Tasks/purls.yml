@@ -1,2 +1,3 @@
 - pkg:nuget/MiniFox.Tasks@6.0.0
 - pkg:nuget/MiniFox.Tasks@8.0.0
+- pkg:nuget/MiniFox.Tasks@8.0.3
