@@ -30,6 +30,7 @@
 - pkg:nuget/CK.DB.Workspace@13.0.0
 - pkg:nuget/CK.DB.Workspace@13.0.1
 - pkg:nuget/CK.DB.Workspace@13.0.2
+- pkg:nuget/CK.DB.Workspace@14.1.1
 - pkg:nuget/CK.DB.Workspace@2.0.0
 - pkg:nuget/CK.DB.Workspace@3.0.0
 - pkg:nuget/CK.DB.Workspace@4.0.0

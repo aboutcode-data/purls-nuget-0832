@@ -40,6 +40,7 @@
 - pkg:nuget/CK.DB.User.UserTwitter.AccessToken.Tests@13.0.0
 - pkg:nuget/CK.DB.User.UserTwitter.AccessToken.Tests@13.0.1
 - pkg:nuget/CK.DB.User.UserTwitter.AccessToken.Tests@13.0.2
+- pkg:nuget/CK.DB.User.UserTwitter.AccessToken.Tests@14.1.1
 - pkg:nuget/CK.DB.User.UserTwitter.AccessToken.Tests@2.0.0
 - pkg:nuget/CK.DB.User.UserTwitter.AccessToken.Tests@3.0.0
 - pkg:nuget/CK.DB.User.UserTwitter.AccessToken.Tests@4.0.0

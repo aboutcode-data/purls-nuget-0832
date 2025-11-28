@@ -12,3 +12,4 @@
 - pkg:nuget/CK.IO.DelayedCommand@0.39.2
 - pkg:nuget/CK.IO.DelayedCommand@0.40.0
 - pkg:nuget/CK.IO.DelayedCommand@0.40.1
+- pkg:nuget/CK.IO.DelayedCommand@0.42.1
