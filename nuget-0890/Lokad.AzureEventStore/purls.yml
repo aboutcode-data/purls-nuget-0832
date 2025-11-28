@@ -27,6 +27,7 @@
 - pkg:nuget/Lokad.AzureEventStore@13.0.1
 - pkg:nuget/Lokad.AzureEventStore@13.0.2
 - pkg:nuget/Lokad.AzureEventStore@14.0.0
+- pkg:nuget/Lokad.AzureEventStore@14.1.0
 - pkg:nuget/Lokad.AzureEventStore@2.0.0
 - pkg:nuget/Lokad.AzureEventStore@2.1.0
 - pkg:nuget/Lokad.AzureEventStore@2.1.1

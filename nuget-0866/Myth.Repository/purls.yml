@@ -26,3 +26,4 @@
 - pkg:nuget/Myth.Repository@3.0.4-preview.9
 - pkg:nuget/Myth.Repository@4.0.1-preview.1
 - pkg:nuget/Myth.Repository@4.0.1-preview.7
+- pkg:nuget/Myth.Repository@4.1.0-preview.2
