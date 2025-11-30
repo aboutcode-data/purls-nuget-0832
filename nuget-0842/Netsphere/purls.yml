@@ -80,6 +80,7 @@
 - pkg:nuget/Netsphere@0.39.0
 - pkg:nuget/Netsphere@0.4.0
 - pkg:nuget/Netsphere@0.40.1
+- pkg:nuget/Netsphere@0.41.1
 - pkg:nuget/Netsphere@0.5.0
 - pkg:nuget/Netsphere@0.5.1
 - pkg:nuget/Netsphere@0.5.2
