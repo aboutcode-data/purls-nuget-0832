@@ -42,5 +42,6 @@
 - pkg:nuget/CP.Extensions.Hosting.ReactiveUI.WinUI@2.1.6
 - pkg:nuget/CP.Extensions.Hosting.ReactiveUI.WinUI@2.1.8
 - pkg:nuget/CP.Extensions.Hosting.ReactiveUI.WinUI@2.2.2
+- pkg:nuget/CP.Extensions.Hosting.ReactiveUI.WinUI@2.3.13
 - pkg:nuget/CP.Extensions.Hosting.ReactiveUI.WinUI@2.3.3
 - pkg:nuget/CP.Extensions.Hosting.ReactiveUI.WinUI@2.3.4
