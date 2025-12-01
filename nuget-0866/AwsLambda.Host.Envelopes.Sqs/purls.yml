@@ -1,1 +1,2 @@
 - pkg:nuget/AwsLambda.Host.Envelopes.Sqs@1.0.0
+- pkg:nuget/AwsLambda.Host.Envelopes.Sqs@1.2.1
