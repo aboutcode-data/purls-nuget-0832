@@ -14,3 +14,4 @@
 - pkg:nuget/Elvia.Meldingsportalen.Schema.Kafka@1.0.6
 - pkg:nuget/Elvia.Meldingsportalen.Schema.Kafka@1.1.0
 - pkg:nuget/Elvia.Meldingsportalen.Schema.Kafka@1.1.19-beta
+- pkg:nuget/Elvia.Meldingsportalen.Schema.Kafka@1.1.22-beta
