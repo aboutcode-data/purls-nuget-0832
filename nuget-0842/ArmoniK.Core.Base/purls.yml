@@ -3879,6 +3879,8 @@
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jg0342.53.sha.e4e4ceb0
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jg0342.55.sha.1c247180
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jg0342.56.sha.248a0c72
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-jg10.91.sha.25c5ba04
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-jg10.92.sha.af28301c
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgchiseledimages.10.sha.1f77376e
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgchiseledimages.10.sha.23021b90
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgchiseledimages.10.sha.48c28328
