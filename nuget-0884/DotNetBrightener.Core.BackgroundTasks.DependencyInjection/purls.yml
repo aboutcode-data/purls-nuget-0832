@@ -140,3 +140,4 @@
 - pkg:nuget/DotNetBrightener.Core.BackgroundTasks.DependencyInjection@2025.0.9-preview-473
 - pkg:nuget/DotNetBrightener.Core.BackgroundTasks.DependencyInjection@2025.0.9-preview-481
 - pkg:nuget/DotNetBrightener.Core.BackgroundTasks.DependencyInjection@2025.0.9-preview-487
+- pkg:nuget/DotNetBrightener.Core.BackgroundTasks.DependencyInjection@2026.0.1-preview-676
