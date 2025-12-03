@@ -84,6 +84,7 @@
 - pkg:nuget/Microsoft.SemanticKernel.Yaml@1.63.0
 - pkg:nuget/Microsoft.SemanticKernel.Yaml@1.64.0
 - pkg:nuget/Microsoft.SemanticKernel.Yaml@1.65.0
+- pkg:nuget/Microsoft.SemanticKernel.Yaml@1.68.0
 - pkg:nuget/Microsoft.SemanticKernel.Yaml@1.7.0
 - pkg:nuget/Microsoft.SemanticKernel.Yaml@1.7.1
 - pkg:nuget/Microsoft.SemanticKernel.Yaml@1.8.0

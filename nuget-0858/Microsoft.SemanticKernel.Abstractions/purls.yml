@@ -114,6 +114,7 @@
 - pkg:nuget/Microsoft.SemanticKernel.Abstractions@1.63.0
 - pkg:nuget/Microsoft.SemanticKernel.Abstractions@1.64.0
 - pkg:nuget/Microsoft.SemanticKernel.Abstractions@1.65.0
+- pkg:nuget/Microsoft.SemanticKernel.Abstractions@1.68.0
 - pkg:nuget/Microsoft.SemanticKernel.Abstractions@1.7.0
 - pkg:nuget/Microsoft.SemanticKernel.Abstractions@1.7.1
 - pkg:nuget/Microsoft.SemanticKernel.Abstractions@1.8.0

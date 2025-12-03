@@ -44,6 +44,7 @@
 - pkg:nuget/ARCtrl.Spreadsheet@3.0.0-alpha.4
 - pkg:nuget/ARCtrl.Spreadsheet@3.0.0-beta.1
 - pkg:nuget/ARCtrl.Spreadsheet@3.0.0-beta.12
+- pkg:nuget/ARCtrl.Spreadsheet@3.0.0-beta.14
 - pkg:nuget/ARCtrl.Spreadsheet@3.0.0-beta.2
 - pkg:nuget/ARCtrl.Spreadsheet@3.0.0-beta.3
 - pkg:nuget/ARCtrl.Spreadsheet@3.0.0-beta.8

@@ -2881,6 +2881,7 @@
 - pkg:nuget/Mosaik.FrontEnd.Core@25.11.62608
 - pkg:nuget/Mosaik.FrontEnd.Core@25.11.62672
 - pkg:nuget/Mosaik.FrontEnd.Core@25.11.62891
+- pkg:nuget/Mosaik.FrontEnd.Core@25.12.63008
 - pkg:nuget/Mosaik.FrontEnd.Core@25.2.55754
 - pkg:nuget/Mosaik.FrontEnd.Core@25.2.55770
 - pkg:nuget/Mosaik.FrontEnd.Core@25.2.55782

@@ -123,6 +123,7 @@
 - pkg:nuget/Microsoft.SemanticKernel@1.63.0
 - pkg:nuget/Microsoft.SemanticKernel@1.64.0
 - pkg:nuget/Microsoft.SemanticKernel@1.65.0
+- pkg:nuget/Microsoft.SemanticKernel@1.68.0
 - pkg:nuget/Microsoft.SemanticKernel@1.7.0
 - pkg:nuget/Microsoft.SemanticKernel@1.7.1
 - pkg:nuget/Microsoft.SemanticKernel@1.8.0
