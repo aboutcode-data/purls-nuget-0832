@@ -1,1 +1,12 @@
+- pkg:nuget/Convex.Client.Extensions.Blazor@0.0.1-alpha
+- pkg:nuget/Convex.Client.Extensions.Blazor@0.0.2-alpha
+- pkg:nuget/Convex.Client.Extensions.Blazor@0.0.7-alpha
+- pkg:nuget/Convex.Client.Extensions.Blazor@0.1.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Blazor@0.2.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Blazor@0.3.0-alpha
 - pkg:nuget/Convex.Client.Extensions.Blazor@0.3.1
+- pkg:nuget/Convex.Client.Extensions.Blazor@0.4.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Blazor@0.4.1-alpha
+- pkg:nuget/Convex.Client.Extensions.Blazor@1.0.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Blazor@2.0.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Blazor@3.0.0-alpha
