@@ -1,2 +1,3 @@
 - pkg:nuget/Fabr.Core@0.1.14-alpha
 - pkg:nuget/Fabr.Core@0.1.15-alpha
+- pkg:nuget/Fabr.Core@1.0.61-alpha
