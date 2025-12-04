@@ -28,6 +28,7 @@
 - pkg:nuget/CometBackup.CometAPI.SDK@0.33.0
 - pkg:nuget/CometBackup.CometAPI.SDK@0.34.0
 - pkg:nuget/CometBackup.CometAPI.SDK@0.35.0
+- pkg:nuget/CometBackup.CometAPI.SDK@0.37.0
 - pkg:nuget/CometBackup.CometAPI.SDK@0.4.0
 - pkg:nuget/CometBackup.CometAPI.SDK@0.6.0
 - pkg:nuget/CometBackup.CometAPI.SDK@0.7.0
