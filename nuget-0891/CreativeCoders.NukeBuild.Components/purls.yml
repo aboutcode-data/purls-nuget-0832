@@ -19,3 +19,4 @@
 - pkg:nuget/CreativeCoders.NukeBuild.Components@4.4.0
 - pkg:nuget/CreativeCoders.NukeBuild.Components@4.5.0
 - pkg:nuget/CreativeCoders.NukeBuild.Components@4.6.0
+- pkg:nuget/CreativeCoders.NukeBuild.Components@5.1.0
