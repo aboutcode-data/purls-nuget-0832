@@ -10,3 +10,4 @@
 - pkg:nuget/CreativeCoders.Data.NoSql@4.4.0
 - pkg:nuget/CreativeCoders.Data.NoSql@4.5.0
 - pkg:nuget/CreativeCoders.Data.NoSql@4.6.0
+- pkg:nuget/CreativeCoders.Data.NoSql@5.1.0
