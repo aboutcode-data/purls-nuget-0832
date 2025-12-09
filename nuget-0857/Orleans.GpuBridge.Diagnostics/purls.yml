@@ -1,1 +1,2 @@
 - pkg:nuget/Orleans.GpuBridge.Diagnostics@0.1.0
+- pkg:nuget/Orleans.GpuBridge.Diagnostics@0.2.1
