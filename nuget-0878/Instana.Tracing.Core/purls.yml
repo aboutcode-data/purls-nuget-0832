@@ -167,3 +167,4 @@
 - pkg:nuget/Instana.Tracing.Core@1.298.2
 - pkg:nuget/Instana.Tracing.Core@1.300.1
 - pkg:nuget/Instana.Tracing.Core@1.302.1
+- pkg:nuget/Instana.Tracing.Core@1.309.2
