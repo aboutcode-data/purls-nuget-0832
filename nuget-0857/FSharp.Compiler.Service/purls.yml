@@ -183,6 +183,7 @@
 - pkg:nuget/FSharp.Compiler.Service@43.10.100-preview7.25380.108
 - pkg:nuget/FSharp.Compiler.Service@43.10.100-preview7.25451.107
 - pkg:nuget/FSharp.Compiler.Service@43.10.100-rc2.25502.107
+- pkg:nuget/FSharp.Compiler.Service@43.10.101
 - pkg:nuget/FSharp.Compiler.Service@43.7.200
 - pkg:nuget/FSharp.Compiler.Service@43.7.200-preview.22569.1
 - pkg:nuget/FSharp.Compiler.Service@43.7.300
