@@ -97,4 +97,5 @@
 - pkg:nuget/EvDb.Adapters.Store.EvDbRelationalCommon@4.0.22
 - pkg:nuget/EvDb.Adapters.Store.EvDbRelationalCommon@4.0.23
 - pkg:nuget/EvDb.Adapters.Store.EvDbRelationalCommon@4.0.24
+- pkg:nuget/EvDb.Adapters.Store.EvDbRelationalCommon@4.0.26
 - pkg:nuget/EvDb.Adapters.Store.EvDbRelationalCommon@4.0.3
