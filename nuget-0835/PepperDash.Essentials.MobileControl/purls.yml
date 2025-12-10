@@ -99,6 +99,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.20.1-ssh-echo-off.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.20.2-theme-saving.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.20.5-mc-subscription-logging.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.25.0-udmCws.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0-beta.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0-beta.2

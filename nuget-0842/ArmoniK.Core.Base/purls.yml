@@ -3822,6 +3822,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.35.1-renovatenuget.5.sha.ac487e11
 - pkg:nuget/ArmoniK.Core.Base@0.35.1-renovatenuget.5.sha.bdaeb09b
 - pkg:nuget/ArmoniK.Core.Base@0.35.1-renovatenuget.5.sha.ede4e3ed
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.104.sha.76ecea29
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.17.sha.b5332b1d
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.19.sha.e727ef77
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.21.sha.9f47837c
@@ -3892,12 +3893,15 @@
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgchiseledimages.9.sha.31b59c3c
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgcve.69.sha.264be491
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgdeleteimages.75.sha.b8df55f4
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-jgfixdate.105.sha.60a3cd57
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgfixsqs.32.sha.a19fc78c
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgfixsqs.34.sha.45ef5be2
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgfixsqs.37.sha.e9f23f67
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgreadinesslog.49.sha.2ee617df
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgstoplater.57.sha.6ee8ff75
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-releases034x.59.sha.0763217e
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatedocker.105.sha.a2f348cb
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.105.sha.d236eb15
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.18.sha.1bf9aa40
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.18.sha.2318bb02
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.24.sha.45e40884
@@ -3931,10 +3935,12 @@
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatemajordocker.49.sha.999387bf
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatemajordocker.51.sha.626bc550
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatemajordocker.57.sha.a98ff6b8
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatemajorgithubactions.105.sha.cb3917ac
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatemajorgithubactions.30.sha.7bf12659
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatemajorgithubactions.30.sha.c0d37603
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatemajorgithubactions.30.sha.d0b3b13e
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatemajorgithubactions.77.sha.d92cdadd
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatenuget.105.sha.711bec37
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatenuget.18.sha.367d1c4b
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatenuget.20.sha.9abfe692
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovatenuget.24.sha.0e6a79e1
