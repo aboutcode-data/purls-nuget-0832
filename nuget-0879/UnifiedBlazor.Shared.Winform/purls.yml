@@ -95,6 +95,7 @@
 - pkg:nuget/UnifiedBlazor.Shared.Winform@0.0.194
 - pkg:nuget/UnifiedBlazor.Shared.Winform@0.0.2
 - pkg:nuget/UnifiedBlazor.Shared.Winform@0.0.20
+- pkg:nuget/UnifiedBlazor.Shared.Winform@0.0.202
 - pkg:nuget/UnifiedBlazor.Shared.Winform@0.0.21
 - pkg:nuget/UnifiedBlazor.Shared.Winform@0.0.22
 - pkg:nuget/UnifiedBlazor.Shared.Winform@0.0.23
