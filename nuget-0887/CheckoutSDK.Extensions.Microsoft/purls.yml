@@ -78,6 +78,7 @@
 - pkg:nuget/CheckoutSDK.Extensions.Microsoft@4.14.1
 - pkg:nuget/CheckoutSDK.Extensions.Microsoft@4.15.0
 - pkg:nuget/CheckoutSDK.Extensions.Microsoft@4.16.0
+- pkg:nuget/CheckoutSDK.Extensions.Microsoft@4.16.2
 - pkg:nuget/CheckoutSDK.Extensions.Microsoft@4.2.0
 - pkg:nuget/CheckoutSDK.Extensions.Microsoft@4.2.1
 - pkg:nuget/CheckoutSDK.Extensions.Microsoft@4.2.2
