@@ -1,2 +1,4 @@
 - pkg:nuget/SaaSCore@0.1.0-preview.1
 - pkg:nuget/SaaSCore@0.1.0-preview.2
+- pkg:nuget/SaaSCore@0.2.0-preview.11
+- pkg:nuget/SaaSCore@0.2.0-preview.8
