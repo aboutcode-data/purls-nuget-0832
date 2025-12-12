@@ -36,6 +36,7 @@
 - pkg:nuget/Kraft@1.0.8
 - pkg:nuget/Kraft@1.0.9
 - pkg:nuget/Kraft@10.0.2
+- pkg:nuget/Kraft@10.0.4
 - pkg:nuget/Kraft@5.0.0
 - pkg:nuget/Kraft@5.0.1
 - pkg:nuget/Kraft@5.0.2
