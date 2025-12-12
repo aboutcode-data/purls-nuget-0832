@@ -1,4 +1,5 @@
 - pkg:nuget/Wkg.AspNetCore@0.0.0-CI-INJECTED
+- pkg:nuget/Wkg.AspNetCore@10.0.19033-rc
 - pkg:nuget/Wkg.AspNetCore@8.2.17541
 - pkg:nuget/Wkg.AspNetCore@8.2.17559
 - pkg:nuget/Wkg.AspNetCore@8.2.17560
