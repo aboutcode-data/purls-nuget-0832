@@ -238,6 +238,7 @@
 - pkg:nuget/SIL.Windows.Forms.Keyboarding@16.2.0-beta0040
 - pkg:nuget/SIL.Windows.Forms.Keyboarding@16.2.0-beta0043
 - pkg:nuget/SIL.Windows.Forms.Keyboarding@17.0.0-beta0079
+- pkg:nuget/SIL.Windows.Forms.Keyboarding@17.0.0-beta0091
 - pkg:nuget/SIL.Windows.Forms.Keyboarding@7.0.0
 - pkg:nuget/SIL.Windows.Forms.Keyboarding@7.0.0-alpha0145
 - pkg:nuget/SIL.Windows.Forms.Keyboarding@7.0.0-alpha0146
