@@ -3,5 +3,6 @@
 - pkg:nuget/EncySoftware.STBaseLib.x64@1.2.1
 - pkg:nuget/EncySoftware.STBaseLib.x64@1.2.2
 - pkg:nuget/EncySoftware.STBaseLib.x64@1.2.3
+- pkg:nuget/EncySoftware.STBaseLib.x64@1.2.4%2B78fa9a86bf1a4f179075ddb494cc71cd7ca298ed
 - pkg:nuget/EncySoftware.STBaseLib.x64@2.0.11%2B71139413e2b534eb844bccb84805b7effb9863a2
 - pkg:nuget/EncySoftware.STBaseLib.x64@2.0.5%2B8423340c3c9672ae77f58a5c5987258dc38851c4
