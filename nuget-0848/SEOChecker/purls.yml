@@ -67,6 +67,7 @@
 - pkg:nuget/SEOChecker@16.0.0-rc0005
 - pkg:nuget/SEOChecker@16.0.2
 - pkg:nuget/SEOChecker@17.0.0
+- pkg:nuget/SEOChecker@17.0.1
 - pkg:nuget/SEOChecker@2.0.0
 - pkg:nuget/SEOChecker@2.0.1
 - pkg:nuget/SEOChecker@2.1.0
