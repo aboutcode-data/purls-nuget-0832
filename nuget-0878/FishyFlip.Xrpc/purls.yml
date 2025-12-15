@@ -38,3 +38,4 @@
 - pkg:nuget/FishyFlip.Xrpc@4.1.0-alpha.4
 - pkg:nuget/FishyFlip.Xrpc@4.1.0-alpha.5
 - pkg:nuget/FishyFlip.Xrpc@4.1.0-alpha.7
+- pkg:nuget/FishyFlip.Xrpc@4.2.0
