@@ -102,3 +102,5 @@
 - pkg:nuget/EonaCat.Blocky@4.1.8%2B6b5391ffaf.20240508
 - pkg:nuget/EonaCat.Blocky@4.2.0
 - pkg:nuget/EonaCat.Blocky@4.2.1
+- pkg:nuget/EonaCat.Blocky@4.2.2
+- pkg:nuget/EonaCat.Blocky@4.2.3
