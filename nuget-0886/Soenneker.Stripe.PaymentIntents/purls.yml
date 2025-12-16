@@ -881,3 +881,4 @@
 - pkg:nuget/Soenneker.Stripe.PaymentIntents@4.0.898
 - pkg:nuget/Soenneker.Stripe.PaymentIntents@4.0.899
 - pkg:nuget/Soenneker.Stripe.PaymentIntents@4.0.906
+- pkg:nuget/Soenneker.Stripe.PaymentIntents@4.0.925

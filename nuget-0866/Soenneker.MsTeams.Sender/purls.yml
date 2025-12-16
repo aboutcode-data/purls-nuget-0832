@@ -312,3 +312,5 @@
 - pkg:nuget/Soenneker.MsTeams.Sender@4.0.352
 - pkg:nuget/Soenneker.MsTeams.Sender@4.0.358
 - pkg:nuget/Soenneker.MsTeams.Sender@4.0.370
+- pkg:nuget/Soenneker.MsTeams.Sender@4.0.374
+- pkg:nuget/Soenneker.MsTeams.Sender@4.0.375
