@@ -40,5 +40,6 @@
 - pkg:nuget/OpenVPNGateMonitor.SharedModels@1.0.65
 - pkg:nuget/OpenVPNGateMonitor.SharedModels@1.0.66
 - pkg:nuget/OpenVPNGateMonitor.SharedModels@1.0.7
+- pkg:nuget/OpenVPNGateMonitor.SharedModels@1.0.76
 - pkg:nuget/OpenVPNGateMonitor.SharedModels@1.0.8
 - pkg:nuget/OpenVPNGateMonitor.SharedModels@1.0.9
