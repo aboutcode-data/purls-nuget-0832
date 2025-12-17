@@ -47,3 +47,5 @@
 - pkg:nuget/ECommons@3.0.1.7
 - pkg:nuget/ECommons@3.0.1.8
 - pkg:nuget/ECommons@3.0.1.9
+- pkg:nuget/ECommons@3.1.0
+- pkg:nuget/ECommons@3.1.0.1
