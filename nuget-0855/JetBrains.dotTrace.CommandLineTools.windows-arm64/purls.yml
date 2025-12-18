@@ -144,3 +144,4 @@
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.windows-arm64@2025.3.0-eap01
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.windows-arm64@2025.3.0-eap02
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.windows-arm64@2025.3.0-eap03
+- pkg:nuget/JetBrains.dotTrace.CommandLineTools.windows-arm64@2025.3.1

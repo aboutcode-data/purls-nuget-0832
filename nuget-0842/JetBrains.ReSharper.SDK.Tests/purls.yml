@@ -446,6 +446,7 @@
 - pkg:nuget/JetBrains.ReSharper.SDK.Tests@2025.3.0-eap02
 - pkg:nuget/JetBrains.ReSharper.SDK.Tests@2025.3.0-eap03
 - pkg:nuget/JetBrains.ReSharper.SDK.Tests@2025.3.0-eap05
+- pkg:nuget/JetBrains.ReSharper.SDK.Tests@2025.3.1
 - pkg:nuget/JetBrains.ReSharper.SDK.Tests@8.0.1086
 - pkg:nuget/JetBrains.ReSharper.SDK.Tests@8.0.1234
 - pkg:nuget/JetBrains.ReSharper.SDK.Tests@8.0.1243
