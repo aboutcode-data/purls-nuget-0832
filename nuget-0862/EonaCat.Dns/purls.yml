@@ -104,3 +104,5 @@
 - pkg:nuget/EonaCat.Dns@4.2.1
 - pkg:nuget/EonaCat.Dns@4.2.2
 - pkg:nuget/EonaCat.Dns@4.2.3
+- pkg:nuget/EonaCat.Dns@4.3.4
+- pkg:nuget/EonaCat.Dns@4.3.5
