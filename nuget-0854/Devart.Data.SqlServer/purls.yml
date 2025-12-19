@@ -8,3 +8,4 @@
 - pkg:nuget/Devart.Data.SqlServer@5.2.193
 - pkg:nuget/Devart.Data.SqlServer@5.2.235
 - pkg:nuget/Devart.Data.SqlServer@5.2.290
+- pkg:nuget/Devart.Data.SqlServer@6.0.0
