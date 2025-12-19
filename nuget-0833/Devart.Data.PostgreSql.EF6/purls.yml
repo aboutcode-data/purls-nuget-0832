@@ -38,3 +38,4 @@
 - pkg:nuget/Devart.Data.PostgreSql.EF6@8.4.193
 - pkg:nuget/Devart.Data.PostgreSql.EF6@8.4.235
 - pkg:nuget/Devart.Data.PostgreSql.EF6@8.4.290
+- pkg:nuget/Devart.Data.PostgreSql.EF6@9.0.0
