@@ -54,3 +54,4 @@
 - pkg:nuget/EasyAbp.EShop.Plugins.FlashSales.MongoDB@5.7.0
 - pkg:nuget/EasyAbp.EShop.Plugins.FlashSales.MongoDB@5.8.0
 - pkg:nuget/EasyAbp.EShop.Plugins.FlashSales.MongoDB@5.8.0-preview.1
+- pkg:nuget/EasyAbp.EShop.Plugins.FlashSales.MongoDB@5.9.0
