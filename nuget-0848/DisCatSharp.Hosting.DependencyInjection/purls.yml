@@ -490,6 +490,7 @@
 - pkg:nuget/DisCatSharp.Hosting.DependencyInjection@10.7.0-nightly-029
 - pkg:nuget/DisCatSharp.Hosting.DependencyInjection@10.7.0-nightly-030
 - pkg:nuget/DisCatSharp.Hosting.DependencyInjection@10.7.0-nightly-031
+- pkg:nuget/DisCatSharp.Hosting.DependencyInjection@10.7.0-nightly-049
 - pkg:nuget/DisCatSharp.Hosting.DependencyInjection@9.8.4
 - pkg:nuget/DisCatSharp.Hosting.DependencyInjection@9.8.4-nightly-00176
 - pkg:nuget/DisCatSharp.Hosting.DependencyInjection@9.8.4-nightly-00177
