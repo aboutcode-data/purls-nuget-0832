@@ -54,6 +54,7 @@
 - pkg:nuget/CodePackage.Mapper@17.4.0
 - pkg:nuget/CodePackage.Mapper@17.4.1
 - pkg:nuget/CodePackage.Mapper@17.4.4
+- pkg:nuget/CodePackage.Mapper@18.0.5
 - pkg:nuget/CodePackage.Mapper@2.0.0
 - pkg:nuget/CodePackage.Mapper@2.0.1
 - pkg:nuget/CodePackage.Mapper@5.0.0

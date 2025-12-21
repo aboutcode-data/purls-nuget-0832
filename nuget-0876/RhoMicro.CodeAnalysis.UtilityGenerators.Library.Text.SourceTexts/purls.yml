@@ -11,3 +11,4 @@
 - pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators.Library.Text.SourceTexts@22.0.1
 - pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators.Library.Text.SourceTexts@22.0.2
 - pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators.Library.Text.SourceTexts@22.0.3
+- pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators.Library.Text.SourceTexts@23.0.0
