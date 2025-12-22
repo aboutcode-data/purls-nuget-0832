@@ -1,1 +1,2 @@
 - pkg:nuget/Franz.Common.Messaging.RabbitMQ@1.6.21
+- pkg:nuget/Franz.Common.Messaging.RabbitMQ@1.7.2
