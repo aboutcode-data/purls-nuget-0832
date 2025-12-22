@@ -189,3 +189,5 @@
 - pkg:nuget/RmsPlus.Pos.Contract@1.2.75
 - pkg:nuget/RmsPlus.Pos.Contract@1.2.76
 - pkg:nuget/RmsPlus.Pos.Contract@1.2.77
+- pkg:nuget/RmsPlus.Pos.Contract@1.2.83
+- pkg:nuget/RmsPlus.Pos.Contract@1.2.84
