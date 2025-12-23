@@ -5,3 +5,4 @@
 - pkg:nuget/OmronFinsNetStandard@1.0.4
 - pkg:nuget/OmronFinsNetStandard@1.0.5-alpha
 - pkg:nuget/OmronFinsNetStandard@1.1.0
+- pkg:nuget/OmronFinsNetStandard@2.0.0
