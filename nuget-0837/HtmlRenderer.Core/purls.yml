@@ -5,3 +5,4 @@
 - pkg:nuget/HtmlRenderer.Core@1.5.1
 - pkg:nuget/HtmlRenderer.Core@1.5.1-beta
 - pkg:nuget/HtmlRenderer.Core@1.5.1-beta1
+- pkg:nuget/HtmlRenderer.Core@1.5.2
