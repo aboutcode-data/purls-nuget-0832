@@ -147,3 +147,4 @@
 - pkg:nuget/SyncSoft.App.SimpleInjector@4.5.0-alpha1
 - pkg:nuget/SyncSoft.App.SimpleInjector@4.5.0-aplha2
 - pkg:nuget/SyncSoft.App.SimpleInjector@4.5.1
+- pkg:nuget/SyncSoft.App.SimpleInjector@4.6.0-alpha3

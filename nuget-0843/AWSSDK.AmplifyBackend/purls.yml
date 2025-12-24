@@ -821,6 +821,7 @@
 - pkg:nuget/AWSSDK.AmplifyBackend@3.7.502.12
 - pkg:nuget/AWSSDK.AmplifyBackend@3.7.502.14
 - pkg:nuget/AWSSDK.AmplifyBackend@3.7.502.21
+- pkg:nuget/AWSSDK.AmplifyBackend@3.7.502.25
 - pkg:nuget/AWSSDK.AmplifyBackend@3.7.502.5
 - pkg:nuget/AWSSDK.AmplifyBackend@4.0.0
 - pkg:nuget/AWSSDK.AmplifyBackend@4.0.0-preview
