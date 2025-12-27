@@ -8,4 +8,5 @@
 - pkg:nuget/Annium.Mesh.Serialization.MessagePack@1.1.17
 - pkg:nuget/Annium.Mesh.Serialization.MessagePack@1.1.18
 - pkg:nuget/Annium.Mesh.Serialization.MessagePack@1.1.24
+- pkg:nuget/Annium.Mesh.Serialization.MessagePack@1.1.28
 - pkg:nuget/Annium.Mesh.Serialization.MessagePack@1.1.9
