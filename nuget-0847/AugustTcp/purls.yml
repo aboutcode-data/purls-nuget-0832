@@ -36,3 +36,5 @@
 - pkg:nuget/AugustTcp@1.0.7
 - pkg:nuget/AugustTcp@1.0.8
 - pkg:nuget/AugustTcp@1.0.9
+- pkg:nuget/AugustTcp@2.1.11
+- pkg:nuget/AugustTcp@2.1.12
