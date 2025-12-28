@@ -18,3 +18,4 @@
 - pkg:nuget/Asp.Versioning.Http@7.1.0
 - pkg:nuget/Asp.Versioning.Http@8.0.0
 - pkg:nuget/Asp.Versioning.Http@8.1.0
+- pkg:nuget/Asp.Versioning.Http@8.1.1
