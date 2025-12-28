@@ -71,6 +71,7 @@
 - pkg:nuget/Dapr.Actors@1.16.0-rc19
 - pkg:nuget/Dapr.Actors@1.16.0-rc20
 - pkg:nuget/Dapr.Actors@1.16.0-rc21
+- pkg:nuget/Dapr.Actors@1.17.0-rc02
 - pkg:nuget/Dapr.Actors@1.2.0
 - pkg:nuget/Dapr.Actors@1.2.0-rc01
 - pkg:nuget/Dapr.Actors@1.3.0
