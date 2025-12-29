@@ -354,6 +354,7 @@
 - pkg:nuget/ThingsGateway.Plugin.BACnet@10.9.99
 - pkg:nuget/ThingsGateway.Plugin.BACnet@12.4.10
 - pkg:nuget/ThingsGateway.Plugin.BACnet@12.4.18
+- pkg:nuget/ThingsGateway.Plugin.BACnet@12.4.20
 - pkg:nuget/ThingsGateway.Plugin.BACnet@12.4.8
 - pkg:nuget/ThingsGateway.Plugin.BACnet@9.0.2.46
 - pkg:nuget/ThingsGateway.Plugin.BACnet@9.0.2.47
