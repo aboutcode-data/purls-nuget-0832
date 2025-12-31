@@ -132,6 +132,8 @@
 - pkg:nuget/Pulumi.MySql@3.2.10-alpha.1745952052
 - pkg:nuget/Pulumi.MySql@3.2.11
 - pkg:nuget/Pulumi.MySql@3.2.11-alpha.1753397934
+- pkg:nuget/Pulumi.MySql@3.2.13
+- pkg:nuget/Pulumi.MySql@3.2.13-alpha.1767139803
 - pkg:nuget/Pulumi.MySql@3.2.3
 - pkg:nuget/Pulumi.MySql@3.2.4
 - pkg:nuget/Pulumi.MySql@3.2.5

@@ -824,6 +824,7 @@
 - pkg:nuget/AWSSDK.ConnectContactLens@3.7.502.19
 - pkg:nuget/AWSSDK.ConnectContactLens@3.7.502.23
 - pkg:nuget/AWSSDK.ConnectContactLens@3.7.502.24
+- pkg:nuget/AWSSDK.ConnectContactLens@3.7.502.25
 - pkg:nuget/AWSSDK.ConnectContactLens@4.0.0
 - pkg:nuget/AWSSDK.ConnectContactLens@4.0.0-preview
 - pkg:nuget/AWSSDK.ConnectContactLens@4.0.0-preview.10

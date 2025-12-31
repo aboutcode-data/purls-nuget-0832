@@ -249,3 +249,5 @@
 - pkg:nuget/TcpWtf.NumberSequence.Client@3.3.1
 - pkg:nuget/TcpWtf.NumberSequence.Client@3.3.2
 - pkg:nuget/TcpWtf.NumberSequence.Client@3.3.3
+- pkg:nuget/TcpWtf.NumberSequence.Client@4.0.2
+- pkg:nuget/TcpWtf.NumberSequence.Client@4.0.3
