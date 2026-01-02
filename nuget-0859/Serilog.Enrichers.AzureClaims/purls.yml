@@ -14,3 +14,4 @@
 - pkg:nuget/Serilog.Enrichers.AzureClaims@1.1.2
 - pkg:nuget/Serilog.Enrichers.AzureClaims@1.1.3
 - pkg:nuget/Serilog.Enrichers.AzureClaims@1.1.4
+- pkg:nuget/Serilog.Enrichers.AzureClaims@1.2.2
