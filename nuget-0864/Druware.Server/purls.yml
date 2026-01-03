@@ -4,3 +4,4 @@
 - pkg:nuget/Druware.Server@1.0.7
 - pkg:nuget/Druware.Server@1.0.8
 - pkg:nuget/Druware.Server@1.1.0
+- pkg:nuget/Druware.Server@1.1.5%2Bde8f9de7a977b7d2deb605ecb0bb47064d51370c
