@@ -9,6 +9,7 @@
 - pkg:nuget/Nalu.Maui@10.1.2%2Bbuild.473
 - pkg:nuget/Nalu.Maui@10.1.4%2Bbuild.479
 - pkg:nuget/Nalu.Maui@10.2.1
+- pkg:nuget/Nalu.Maui@10.2.4
 - pkg:nuget/Nalu.Maui@2.0.0%2Bbuild.69
 - pkg:nuget/Nalu.Maui@2.0.1%2Bbuild.73
 - pkg:nuget/Nalu.Maui@2.0.2%2Bbuild.76
