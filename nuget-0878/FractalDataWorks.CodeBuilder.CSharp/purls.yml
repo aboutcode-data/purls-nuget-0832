@@ -1,3 +1,4 @@
+- pkg:nuget/FractalDataWorks.CodeBuilder.CSharp@0.30.0-alpha.1224
 - pkg:nuget/FractalDataWorks.CodeBuilder.CSharp@0.7.0-alpha.1008
 - pkg:nuget/FractalDataWorks.CodeBuilder.CSharp@0.9.0-alpha.1009.g7f6817e985
 - pkg:nuget/FractalDataWorks.CodeBuilder.CSharp@0.9.0-alpha.1010.gecd88aac50
