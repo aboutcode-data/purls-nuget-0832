@@ -51,3 +51,4 @@
 - pkg:nuget/Microsoft.Bot.Builder.Azure.Queues@4.22.8-preview
 - pkg:nuget/Microsoft.Bot.Builder.Azure.Queues@4.22.9-preview
 - pkg:nuget/Microsoft.Bot.Builder.Azure.Queues@4.23.0-preview
+- pkg:nuget/Microsoft.Bot.Builder.Azure.Queues@4.23.1-preview

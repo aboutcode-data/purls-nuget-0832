@@ -89,3 +89,4 @@
 - pkg:nuget/AIC.Core.Data.MongoDb.Realm@2025.8.29.5
 - pkg:nuget/AIC.Core.Data.MongoDb.Realm@2025.9.11.3
 - pkg:nuget/AIC.Core.Data.MongoDb.Realm@2025.9.14.1
+- pkg:nuget/AIC.Core.Data.MongoDb.Realm@2026.1.5.3
