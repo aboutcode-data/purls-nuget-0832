@@ -8,6 +8,7 @@
 - pkg:nuget/WireMock.Net.AwesomeAssertions@1.13.0
 - pkg:nuget/WireMock.Net.AwesomeAssertions@1.18.0
 - pkg:nuget/WireMock.Net.AwesomeAssertions@1.20.0
+- pkg:nuget/WireMock.Net.AwesomeAssertions@1.23.0
 - pkg:nuget/WireMock.Net.AwesomeAssertions@1.8.0
 - pkg:nuget/WireMock.Net.AwesomeAssertions@1.8.1
 - pkg:nuget/WireMock.Net.AwesomeAssertions@1.8.10
