@@ -1,1 +1,4 @@
 - pkg:nuget/PESEL.FluentValidation@2.0.0
+- pkg:nuget/PESEL.FluentValidation@2.1.1
+- pkg:nuget/PESEL.FluentValidation@2.1.2
+- pkg:nuget/PESEL.FluentValidation@2.1.2-rc.1
