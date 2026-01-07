@@ -1,3 +1,4 @@
+- pkg:nuget/BootstrapBlazor.AzureTranslator@10.0.1
 - pkg:nuget/BootstrapBlazor.AzureTranslator@8.0.0
 - pkg:nuget/BootstrapBlazor.AzureTranslator@8.1.0
 - pkg:nuget/BootstrapBlazor.AzureTranslator@8.1.1
