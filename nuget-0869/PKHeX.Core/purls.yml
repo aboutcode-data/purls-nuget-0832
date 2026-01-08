@@ -88,3 +88,4 @@
 - pkg:nuget/PKHeX.Core@25.6.9
 - pkg:nuget/PKHeX.Core@25.8.31
 - pkg:nuget/PKHeX.Core@25.9.25
+- pkg:nuget/PKHeX.Core@26.1.7
