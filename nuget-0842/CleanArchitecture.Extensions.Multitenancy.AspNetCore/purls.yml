@@ -1,1 +1,2 @@
 - pkg:nuget/CleanArchitecture.Extensions.Multitenancy.AspNetCore@0.2.1
+- pkg:nuget/CleanArchitecture.Extensions.Multitenancy.AspNetCore@0.2.5
