@@ -290,6 +290,7 @@
 - pkg:nuget/Ecng.Interop.Windows@1.0.4
 - pkg:nuget/Ecng.Interop.Windows@1.0.40
 - pkg:nuget/Ecng.Interop.Windows@1.0.403
+- pkg:nuget/Ecng.Interop.Windows@1.0.405
 - pkg:nuget/Ecng.Interop.Windows@1.0.41
 - pkg:nuget/Ecng.Interop.Windows@1.0.42
 - pkg:nuget/Ecng.Interop.Windows@1.0.43
