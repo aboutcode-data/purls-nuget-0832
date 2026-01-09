@@ -30,6 +30,7 @@
 - pkg:nuget/Indice.Scalefin.BancappModule@2.28.0
 - pkg:nuget/Indice.Scalefin.BancappModule@2.29.0
 - pkg:nuget/Indice.Scalefin.BancappModule@2.30.0
+- pkg:nuget/Indice.Scalefin.BancappModule@2.32.0
 - pkg:nuget/Indice.Scalefin.BancappModule@2.9.0-beta01
 - pkg:nuget/Indice.Scalefin.BancappModule@2.9.0-beta02
 - pkg:nuget/Indice.Scalefin.BancappModule@2.9.0-beta03
