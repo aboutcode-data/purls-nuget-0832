@@ -123,6 +123,7 @@
 - pkg:nuget/HermaFx.Castle@1.3.422
 - pkg:nuget/HermaFx.Castle@1.3.425
 - pkg:nuget/HermaFx.Castle@1.3.427
+- pkg:nuget/HermaFx.Castle@1.3.429
 - pkg:nuget/HermaFx.Castle@1.3.43
 - pkg:nuget/HermaFx.Castle@1.3.44
 - pkg:nuget/HermaFx.Castle@1.3.45
