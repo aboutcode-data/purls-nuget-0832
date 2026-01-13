@@ -318,3 +318,4 @@
 - pkg:nuget/Soenneker.DNSimple.Identity@4.0.357
 - pkg:nuget/Soenneker.DNSimple.Identity@4.0.360
 - pkg:nuget/Soenneker.DNSimple.Identity@4.0.388
+- pkg:nuget/Soenneker.DNSimple.Identity@4.0.398
