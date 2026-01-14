@@ -119,3 +119,5 @@
 - pkg:nuget/Soenneker.Instantly.ClientUtil@4.0.234
 - pkg:nuget/Soenneker.Instantly.ClientUtil@4.0.256
 - pkg:nuget/Soenneker.Instantly.ClientUtil@4.0.259
+- pkg:nuget/Soenneker.Instantly.ClientUtil@4.0.260
+- pkg:nuget/Soenneker.Instantly.ClientUtil@4.0.261
