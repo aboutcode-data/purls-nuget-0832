@@ -9,3 +9,4 @@
 - pkg:nuget/FluentMigrator.Extensions.Snowflake@6.2.0
 - pkg:nuget/FluentMigrator.Extensions.Snowflake@7.0.0
 - pkg:nuget/FluentMigrator.Extensions.Snowflake@7.1.0
+- pkg:nuget/FluentMigrator.Extensions.Snowflake@8.0.0
