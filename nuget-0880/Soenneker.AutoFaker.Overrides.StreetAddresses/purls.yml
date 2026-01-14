@@ -61,6 +61,7 @@
 - pkg:nuget/Soenneker.AutoFaker.Overrides.StreetAddresses@3.0.8
 - pkg:nuget/Soenneker.AutoFaker.Overrides.StreetAddresses@3.0.9
 - pkg:nuget/Soenneker.AutoFaker.Overrides.StreetAddresses@4.0.113
+- pkg:nuget/Soenneker.AutoFaker.Overrides.StreetAddresses@4.0.115
 - pkg:nuget/Soenneker.AutoFaker.Overrides.StreetAddresses@4.0.72
 - pkg:nuget/Soenneker.AutoFaker.Overrides.StreetAddresses@4.0.75
 - pkg:nuget/Soenneker.AutoFaker.Overrides.StreetAddresses@4.0.76

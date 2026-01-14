@@ -128,6 +128,7 @@
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Tool@8.0.413
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Tool@8.0.414
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Tool@8.0.415
+- pkg:nuget/Microsoft.DotNet.ApiCompat.Tool@8.0.417
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Tool@9.0.100
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Tool@9.0.100-preview.1.24101.1
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Tool@9.0.100-preview.2.24157.36
