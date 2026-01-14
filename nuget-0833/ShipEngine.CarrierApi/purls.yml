@@ -140,3 +140,4 @@
 - pkg:nuget/ShipEngine.CarrierApi@1.28.7
 - pkg:nuget/ShipEngine.CarrierApi@1.28.8
 - pkg:nuget/ShipEngine.CarrierApi@1.28.9
+- pkg:nuget/ShipEngine.CarrierApi@1.30.0

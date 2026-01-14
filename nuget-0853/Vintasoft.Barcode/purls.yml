@@ -168,6 +168,7 @@
 - pkg:nuget/Vintasoft.Barcode@15.2.7.1
 - pkg:nuget/Vintasoft.Barcode@15.2.8.1
 - pkg:nuget/Vintasoft.Barcode@15.2.9.1
+- pkg:nuget/Vintasoft.Barcode@15.3.5.1
 - pkg:nuget/Vintasoft.Barcode@9.1.5.1
 - pkg:nuget/Vintasoft.Barcode@9.1.6.1
 - pkg:nuget/Vintasoft.Barcode@9.1.7.1
