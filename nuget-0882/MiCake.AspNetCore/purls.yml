@@ -49,3 +49,4 @@
 - pkg:nuget/MiCake.AspNetCore@0.9.0-CI-20250926-020921
 - pkg:nuget/MiCake.AspNetCore@0.9.0-CI-20250927-134346
 - pkg:nuget/MiCake.AspNetCore@0.9.0-CI-20250927-142804
+- pkg:nuget/MiCake.AspNetCore@10.0.0-preview.5
