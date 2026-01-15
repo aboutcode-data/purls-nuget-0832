@@ -1,4 +1,5 @@
 - pkg:nuget/Samhammer.DependencyInjection@1.0.0
+- pkg:nuget/Samhammer.DependencyInjection@10.0.0
 - pkg:nuget/Samhammer.DependencyInjection@2.0.0
 - pkg:nuget/Samhammer.DependencyInjection@2.1.0
 - pkg:nuget/Samhammer.DependencyInjection@2.2.0
