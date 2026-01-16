@@ -8,4 +8,5 @@
 - pkg:nuget/BlockFarmEditor.ClientScripts.RCL@1.1.1
 - pkg:nuget/BlockFarmEditor.ClientScripts.RCL@1.1.2
 - pkg:nuget/BlockFarmEditor.ClientScripts.RCL@1.2.0
+- pkg:nuget/BlockFarmEditor.ClientScripts.RCL@17.1.2
 - pkg:nuget/BlockFarmEditor.ClientScripts.RCL@2.0.0

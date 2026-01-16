@@ -63,6 +63,9 @@
 - pkg:nuget/SpecItEasy.Network@1.2.100-alpha-g0e73270c40
 - pkg:nuget/SpecItEasy.Network@1.2.101%2B428e0ab48a
 - pkg:nuget/SpecItEasy.Network@1.2.103-alpha-gc6076ccd7f
+- pkg:nuget/SpecItEasy.Network@1.2.106-alpha-g9bc2be85a9
+- pkg:nuget/SpecItEasy.Network@1.2.107-alpha-gef1894aad5
+- pkg:nuget/SpecItEasy.Network@1.2.108-alpha-g2909ef49a0
 - pkg:nuget/SpecItEasy.Network@1.2.71-alpha-gd2db404f96
 - pkg:nuget/SpecItEasy.Network@1.2.72-alpha-g8197fd15b8
 - pkg:nuget/SpecItEasy.Network@1.2.73-alpha-g21a67245c8
