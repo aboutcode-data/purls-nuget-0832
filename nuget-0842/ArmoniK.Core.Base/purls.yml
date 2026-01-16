@@ -3825,6 +3825,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-0350119g67c32697.119.sha.67c32697
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.104.sha.76ecea29
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.115.sha.94c60e73
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.143.sha.45502eea
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.17.sha.b5332b1d
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.19.sha.e727ef77
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-SNAPSHOT.21.sha.9f47837c
@@ -3911,6 +3912,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.116.sha.797321ec
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.118.sha.3dff1d80
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.122.sha.143066e3
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.144.sha.358e4459
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.18.sha.1bf9aa40
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.18.sha.2318bb02
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovategithubactions.24.sha.45e40884
