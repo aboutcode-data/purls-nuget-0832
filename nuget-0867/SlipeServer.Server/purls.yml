@@ -390,4 +390,6 @@
 - pkg:nuget/SlipeServer.Server@0.1.0-CI-20250114-204938
 - pkg:nuget/SlipeServer.Server@0.1.0-CI-20250114-220735
 - pkg:nuget/SlipeServer.Server@0.1.0-CI-20250115-124404
+- pkg:nuget/SlipeServer.Server@0.1.0-CI-20260115-230557
+- pkg:nuget/SlipeServer.Server@0.1.0-CI-20260116-000226
 - pkg:nuget/SlipeServer.Server@1.0.0-CI-20201231-173552
