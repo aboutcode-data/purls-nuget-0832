@@ -27,6 +27,7 @@
 - pkg:nuget/Asos.UserSecretsRetriever@1.1.40
 - pkg:nuget/Asos.UserSecretsRetriever@1.1.42
 - pkg:nuget/Asos.UserSecretsRetriever@1.1.43
+- pkg:nuget/Asos.UserSecretsRetriever@1.1.48
 - pkg:nuget/Asos.UserSecretsRetriever@1.1.6
 - pkg:nuget/Asos.UserSecretsRetriever@1.1.7
 - pkg:nuget/Asos.UserSecretsRetriever@1.1.8

@@ -546,6 +546,7 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.RoadRegistry.BackOffice.Api@4.38.2
 - pkg:nuget/Be.Vlaanderen.Basisregisters.RoadRegistry.BackOffice.Api@4.4.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.RoadRegistry.BackOffice.Api@4.41.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.RoadRegistry.BackOffice.Api@4.42.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.RoadRegistry.BackOffice.Api@4.5.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.RoadRegistry.BackOffice.Api@4.6.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.RoadRegistry.BackOffice.Api@4.6.1
