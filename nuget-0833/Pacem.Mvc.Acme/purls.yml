@@ -1,3 +1,4 @@
+- pkg:nuget/Pacem.Mvc.Acme@0.10.0-descartes
 - pkg:nuget/Pacem.Mvc.Acme@0.6.0
 - pkg:nuget/Pacem.Mvc.Acme@0.7.0-atlantis
 - pkg:nuget/Pacem.Mvc.Acme@0.7.0-baalbek
