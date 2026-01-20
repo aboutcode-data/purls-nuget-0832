@@ -67,5 +67,6 @@
 - pkg:nuget/AIC.Core.Security.Cryptography.Streams@2026.1.16.1
 - pkg:nuget/AIC.Core.Security.Cryptography.Streams@2026.1.19.1
 - pkg:nuget/AIC.Core.Security.Cryptography.Streams@2026.1.19.2
+- pkg:nuget/AIC.Core.Security.Cryptography.Streams@2026.1.19.4
 - pkg:nuget/AIC.Core.Security.Cryptography.Streams@2026.1.5.2
 - pkg:nuget/AIC.Core.Security.Cryptography.Streams@2026.1.5.3
