@@ -41,6 +41,7 @@
 - pkg:nuget/Lombiq.Hosting.Tenants.EmailQuotaManagement@9.0.1-alpha.13.osoe-1069
 - pkg:nuget/Lombiq.Hosting.Tenants.EmailQuotaManagement@9.0.1-alpha.14.osoe-1069
 - pkg:nuget/Lombiq.Hosting.Tenants.EmailQuotaManagement@9.0.1-alpha.15.osoe-1069
+- pkg:nuget/Lombiq.Hosting.Tenants.EmailQuotaManagement@9.0.1-alpha.16.osoe-925
 - pkg:nuget/Lombiq.Hosting.Tenants.EmailQuotaManagement@9.0.1-alpha.2.osoe-935
 - pkg:nuget/Lombiq.Hosting.Tenants.EmailQuotaManagement@9.0.1-alpha.4.osoe-1064
 - pkg:nuget/Lombiq.Hosting.Tenants.EmailQuotaManagement@9.0.1-alpha.5.osoe-1064
