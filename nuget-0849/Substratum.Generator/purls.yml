@@ -4,3 +4,4 @@
 - pkg:nuget/Substratum.Generator@0.3.4-alhpa
 - pkg:nuget/Substratum.Generator@0.3.5-alhpa
 - pkg:nuget/Substratum.Generator@0.4.0-alhpa
+- pkg:nuget/Substratum.Generator@1.0.0-beta.6
