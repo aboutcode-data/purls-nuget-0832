@@ -4,3 +4,5 @@
 - pkg:nuget/DuploCloud.Pulumi@0.1.0-alpha.1747269240
 - pkg:nuget/DuploCloud.Pulumi@0.1.0-alpha.1747270275
 - pkg:nuget/DuploCloud.Pulumi@0.1.0-alpha.1747359283
+- pkg:nuget/DuploCloud.Pulumi@0.1.0-alpha.1768958202
+- pkg:nuget/DuploCloud.Pulumi@0.11.32
