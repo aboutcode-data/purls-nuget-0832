@@ -3996,4 +3996,5 @@
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-renovateterraformprovider.57.sha.b375f0e5
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-revert859jgupdateserver.57.sha.782752b1
 - pkg:nuget/ArmoniK.Core.Base@0.36.1-jgfixremove.1.sha.cf6382af
+- pkg:nuget/ArmoniK.Core.Base@0.36.1-renovategithubactions.3.sha.d588284e
 - pkg:nuget/ArmoniK.Core.Base@0.36.1-renovategithubactions.3.sha.def39169
