@@ -1263,6 +1263,7 @@
 - pkg:nuget/AWSSDK.DynamoDBv2@3.7.509.13
 - pkg:nuget/AWSSDK.DynamoDBv2@3.7.509.16
 - pkg:nuget/AWSSDK.DynamoDBv2@3.7.509.2
+- pkg:nuget/AWSSDK.DynamoDBv2@3.7.509.23
 - pkg:nuget/AWSSDK.DynamoDBv2@3.7.509.4
 - pkg:nuget/AWSSDK.DynamoDBv2@3.7.509.6
 - pkg:nuget/AWSSDK.DynamoDBv2@3.7.509.8
