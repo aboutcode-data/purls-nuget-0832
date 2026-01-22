@@ -117,6 +117,7 @@
 - pkg:nuget/AuthScape.AzureCloudService@1.2.392
 - pkg:nuget/AuthScape.AzureCloudService@1.2.394
 - pkg:nuget/AuthScape.AzureCloudService@1.2.434
+- pkg:nuget/AuthScape.AzureCloudService@1.2.504
 - pkg:nuget/AuthScape.AzureCloudService@1.2.90
 - pkg:nuget/AuthScape.AzureCloudService@1.2.92
 - pkg:nuget/AuthScape.AzureCloudService@1.2.94
