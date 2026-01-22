@@ -298,6 +298,7 @@
 - pkg:nuget/AuthScape.Models@1.2.40
 - pkg:nuget/AuthScape.Models@1.2.418
 - pkg:nuget/AuthScape.Models@1.2.42
+- pkg:nuget/AuthScape.Models@1.2.434
 - pkg:nuget/AuthScape.Models@1.2.44
 - pkg:nuget/AuthScape.Models@1.2.46
 - pkg:nuget/AuthScape.Models@1.2.48
