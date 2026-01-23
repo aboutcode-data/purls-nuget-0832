@@ -42,6 +42,7 @@
 - pkg:nuget/Nice3point.Revit.Toolkit@2020.3.0-preview.2.250122
 - pkg:nuget/Nice3point.Revit.Toolkit@2020.3.0-preview.3.250129
 - pkg:nuget/Nice3point.Revit.Toolkit@2020.3.0-preview.4.250314
+- pkg:nuget/Nice3point.Revit.Toolkit@2020.4.0-preview.1.20260122
 - pkg:nuget/Nice3point.Revit.Toolkit@2021.0.0
 - pkg:nuget/Nice3point.Revit.Toolkit@2021.0.1
 - pkg:nuget/Nice3point.Revit.Toolkit@2021.0.10
@@ -73,6 +74,7 @@
 - pkg:nuget/Nice3point.Revit.Toolkit@2021.3.0-preview.2.250122
 - pkg:nuget/Nice3point.Revit.Toolkit@2021.3.0-preview.3.250129
 - pkg:nuget/Nice3point.Revit.Toolkit@2021.3.0-preview.4.250314
+- pkg:nuget/Nice3point.Revit.Toolkit@2021.4.0-preview.1.20260122
 - pkg:nuget/Nice3point.Revit.Toolkit@2022.0.0
 - pkg:nuget/Nice3point.Revit.Toolkit@2022.0.1
 - pkg:nuget/Nice3point.Revit.Toolkit@2022.0.10
@@ -104,6 +106,7 @@
 - pkg:nuget/Nice3point.Revit.Toolkit@2022.3.0-preview.2.250122
 - pkg:nuget/Nice3point.Revit.Toolkit@2022.3.0-preview.3.250129
 - pkg:nuget/Nice3point.Revit.Toolkit@2022.3.0-preview.4.250314
+- pkg:nuget/Nice3point.Revit.Toolkit@2022.4.0-preview.1.20260122
 - pkg:nuget/Nice3point.Revit.Toolkit@2023.0.0
 - pkg:nuget/Nice3point.Revit.Toolkit@2023.0.1
 - pkg:nuget/Nice3point.Revit.Toolkit@2023.0.10
@@ -135,6 +138,7 @@
 - pkg:nuget/Nice3point.Revit.Toolkit@2023.3.0-preview.2.250122
 - pkg:nuget/Nice3point.Revit.Toolkit@2023.3.0-preview.3.250129
 - pkg:nuget/Nice3point.Revit.Toolkit@2023.3.0-preview.4.250314
+- pkg:nuget/Nice3point.Revit.Toolkit@2023.4.0-preview.1.20260122
 - pkg:nuget/Nice3point.Revit.Toolkit@2024.0.0
 - pkg:nuget/Nice3point.Revit.Toolkit@2024.0.1
 - pkg:nuget/Nice3point.Revit.Toolkit@2024.1.0
@@ -153,6 +157,7 @@
 - pkg:nuget/Nice3point.Revit.Toolkit@2024.2.0-preview.2.250122
 - pkg:nuget/Nice3point.Revit.Toolkit@2024.2.0-preview.3.250129
 - pkg:nuget/Nice3point.Revit.Toolkit@2024.2.0-preview.4.250314
+- pkg:nuget/Nice3point.Revit.Toolkit@2024.3.0-preview.1.20260122
 - pkg:nuget/Nice3point.Revit.Toolkit@2025.0.0
 - pkg:nuget/Nice3point.Revit.Toolkit@2025.0.0-preview.1.0
 - pkg:nuget/Nice3point.Revit.Toolkit@2025.0.0-preview.1.1
@@ -169,7 +174,10 @@
 - pkg:nuget/Nice3point.Revit.Toolkit@2025.1.0-preview.2.250122
 - pkg:nuget/Nice3point.Revit.Toolkit@2025.1.0-preview.3.250129
 - pkg:nuget/Nice3point.Revit.Toolkit@2025.1.0-preview.4.250314
+- pkg:nuget/Nice3point.Revit.Toolkit@2025.2.0-preview.1.20260122
 - pkg:nuget/Nice3point.Revit.Toolkit@2026.0.0
 - pkg:nuget/Nice3point.Revit.Toolkit@2026.0.0-preview.1.250122
 - pkg:nuget/Nice3point.Revit.Toolkit@2026.0.0-preview.3.250129
 - pkg:nuget/Nice3point.Revit.Toolkit@2026.0.0-preview.4.250314
+- pkg:nuget/Nice3point.Revit.Toolkit@2026.1.0-preview.1.20260122
+- pkg:nuget/Nice3point.Revit.Toolkit@2027.0.0-preview.1.20260122
