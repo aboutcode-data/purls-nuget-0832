@@ -18,3 +18,4 @@
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Runtime.Core@1.64.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Runtime.Core@1.65.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Runtime.Core@1.68.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Runtime.Core@1.70.0-preview
