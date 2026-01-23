@@ -84,5 +84,6 @@
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Redis@1.68.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Redis@1.7.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Redis@1.7.1-alpha
+- pkg:nuget/Microsoft.SemanticKernel.Connectors.Redis@1.70.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Redis@1.8.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Redis@1.9.0-alpha
