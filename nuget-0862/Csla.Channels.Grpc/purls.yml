@@ -1,3 +1,4 @@
+- pkg:nuget/Csla.Channels.Grpc@10.0.0
 - pkg:nuget/Csla.Channels.Grpc@5.0.0
 - pkg:nuget/Csla.Channels.Grpc@5.0.0-R19082107
 - pkg:nuget/Csla.Channels.Grpc@5.0.0-R19082803

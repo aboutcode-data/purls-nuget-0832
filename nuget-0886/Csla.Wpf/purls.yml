@@ -1,3 +1,4 @@
+- pkg:nuget/Csla.Wpf@10.0.0
 - pkg:nuget/Csla.Wpf@5.0.0
 - pkg:nuget/Csla.Wpf@5.0.0-R19080501
 - pkg:nuget/Csla.Wpf@5.0.0-R19082107
