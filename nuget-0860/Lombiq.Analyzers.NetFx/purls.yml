@@ -12,3 +12,4 @@
 - pkg:nuget/Lombiq.Analyzers.NetFx@5.1.1-alpha.1.osoe-815
 - pkg:nuget/Lombiq.Analyzers.NetFx@5.1.1-alpha.2.osoe-984
 - pkg:nuget/Lombiq.Analyzers.NetFx@5.2.0
+- pkg:nuget/Lombiq.Analyzers.NetFx@5.2.1-alpha.3.osoe-925
