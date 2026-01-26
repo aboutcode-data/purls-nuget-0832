@@ -1,2 +1,4 @@
 - pkg:nuget/Evoluzione.TracedServiceCollection@1.0.0
 - pkg:nuget/Evoluzione.TracedServiceCollection@1.0.1
+- pkg:nuget/Evoluzione.TracedServiceCollection@10.0.0
+- pkg:nuget/Evoluzione.TracedServiceCollection@10.0.0-rc.3
