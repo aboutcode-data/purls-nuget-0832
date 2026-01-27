@@ -6,6 +6,7 @@
 - pkg:nuget/Aicrosoft.Scheduling@6.2.1
 - pkg:nuget/Aicrosoft.Scheduling@6.3.2
 - pkg:nuget/Aicrosoft.Scheduling@6.4.0
+- pkg:nuget/Aicrosoft.Scheduling@8.0.0-beta.260127.1
 - pkg:nuget/Aicrosoft.Scheduling@8.2.0
 - pkg:nuget/Aicrosoft.Scheduling@8.3.0
 - pkg:nuget/Aicrosoft.Scheduling@8.5.0
