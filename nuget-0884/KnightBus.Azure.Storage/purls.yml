@@ -27,6 +27,7 @@
 - pkg:nuget/KnightBus.Azure.Storage@16.2.0
 - pkg:nuget/KnightBus.Azure.Storage@16.2.1
 - pkg:nuget/KnightBus.Azure.Storage@17.2.0
+- pkg:nuget/KnightBus.Azure.Storage@18.0.0-alpha-ff7a73ac
 - pkg:nuget/KnightBus.Azure.Storage@2.0.0
 - pkg:nuget/KnightBus.Azure.Storage@2.0.0-rc.1
 - pkg:nuget/KnightBus.Azure.Storage@2.0.1
