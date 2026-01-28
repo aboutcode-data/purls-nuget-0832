@@ -8,3 +8,4 @@
 - pkg:nuget/Igive.Common.Db@7.0.0
 - pkg:nuget/Igive.Common.Db@7.0.0-beta3
 - pkg:nuget/Igive.Common.Db@7.0.0-beta4
+- pkg:nuget/Igive.Common.Db@8.0.0-beta6
