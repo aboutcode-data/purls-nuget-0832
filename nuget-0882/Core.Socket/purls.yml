@@ -77,3 +77,4 @@
 - pkg:nuget/Core.Socket@3.3.8
 - pkg:nuget/Core.Socket@3.5.7
 - pkg:nuget/Core.Socket@3.8.2
+- pkg:nuget/Core.Socket@3.9.5
