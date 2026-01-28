@@ -1,1 +1,2 @@
 - pkg:nuget/OfX-Azure.ServiceBus@8.2.5
+- pkg:nuget/OfX-Azure.ServiceBus@8.2.6
