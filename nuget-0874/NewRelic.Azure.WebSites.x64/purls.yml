@@ -51,6 +51,7 @@
 - pkg:nuget/NewRelic.Azure.WebSites.x64@10.44.0
 - pkg:nuget/NewRelic.Azure.WebSites.x64@10.44.1
 - pkg:nuget/NewRelic.Azure.WebSites.x64@10.46.1
+- pkg:nuget/NewRelic.Azure.WebSites.x64@10.48.1
 - pkg:nuget/NewRelic.Azure.WebSites.x64@10.5.0
 - pkg:nuget/NewRelic.Azure.WebSites.x64@10.5.1
 - pkg:nuget/NewRelic.Azure.WebSites.x64@10.6.0
