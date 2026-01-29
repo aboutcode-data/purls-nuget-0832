@@ -1,1 +1,5 @@
 - pkg:nuget/FractalDataWorks.Calculations.SignalR@0.2.4-preview.2
+- pkg:nuget/FractalDataWorks.Calculations.SignalR@0.4.0-build.1
+- pkg:nuget/FractalDataWorks.Calculations.SignalR@0.4.0-build.2
+- pkg:nuget/FractalDataWorks.Calculations.SignalR@0.4.0-build.3
+- pkg:nuget/FractalDataWorks.Calculations.SignalR@0.4.0-preview.6
