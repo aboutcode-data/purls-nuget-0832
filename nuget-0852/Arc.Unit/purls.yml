@@ -39,6 +39,7 @@
 - pkg:nuget/Arc.Unit@0.21.0
 - pkg:nuget/Arc.Unit@0.22.0
 - pkg:nuget/Arc.Unit@0.24.0
+- pkg:nuget/Arc.Unit@0.29.1
 - pkg:nuget/Arc.Unit@0.3.0
 - pkg:nuget/Arc.Unit@0.4.0
 - pkg:nuget/Arc.Unit@0.4.1
