@@ -3,3 +3,4 @@
 - pkg:nuget/BertoSoftware.DapperContext.PostgreSQL@1.0.0
 - pkg:nuget/BertoSoftware.DapperContext.PostgreSQL@1.0.1
 - pkg:nuget/BertoSoftware.DapperContext.PostgreSQL@1.0.3
+- pkg:nuget/BertoSoftware.DapperContext.PostgreSQL@1.1.0
