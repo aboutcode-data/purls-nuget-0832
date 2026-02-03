@@ -262,3 +262,4 @@
 - pkg:nuget/Luxoft.Framework.DomainDriven.Generation.Domain@23.2.8
 - pkg:nuget/Luxoft.Framework.DomainDriven.Generation.Domain@23.2.9.3
 - pkg:nuget/Luxoft.Framework.DomainDriven.Generation.Domain@24.1.3
+- pkg:nuget/Luxoft.Framework.DomainDriven.Generation.Domain@25.3.0
