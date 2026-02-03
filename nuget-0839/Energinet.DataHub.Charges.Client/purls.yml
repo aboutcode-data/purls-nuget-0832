@@ -8,3 +8,4 @@
 - pkg:nuget/Energinet.DataHub.Charges.Client@1.26.8
 - pkg:nuget/Energinet.DataHub.Charges.Client@1.28.21
 - pkg:nuget/Energinet.DataHub.Charges.Client@1.6.0
+- pkg:nuget/Energinet.DataHub.Charges.Client@2.0.0
