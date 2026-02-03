@@ -29,3 +29,4 @@
 - pkg:nuget/OCI.DotNetSDK.Mngdmac@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Mngdmac@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Mngdmac@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Mngdmac@127.0.0

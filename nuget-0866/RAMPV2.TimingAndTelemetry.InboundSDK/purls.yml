@@ -45,4 +45,5 @@
 - pkg:nuget/RAMPV2.TimingAndTelemetry.InboundSDK@0.0.62
 - pkg:nuget/RAMPV2.TimingAndTelemetry.InboundSDK@0.0.63
 - pkg:nuget/RAMPV2.TimingAndTelemetry.InboundSDK@0.0.64
+- pkg:nuget/RAMPV2.TimingAndTelemetry.InboundSDK@0.0.66
 - pkg:nuget/RAMPV2.TimingAndTelemetry.InboundSDK@0.0.8
