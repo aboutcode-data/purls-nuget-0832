@@ -103,3 +103,7 @@
 - pkg:nuget/Kdbndp_V9@8.0.2.815
 - pkg:nuget/Kdbndp_V9@8.0.2.829
 - pkg:nuget/Kdbndp_V9@8.0.2.929
+- pkg:nuget/Kdbndp_V9@8.0.3.202
+- pkg:nuget/Kdbndp_V9@8.0.3.204
+- pkg:nuget/Kdbndp_V9@8.0.3.205
+- pkg:nuget/Kdbndp_V9@8.0.3.206

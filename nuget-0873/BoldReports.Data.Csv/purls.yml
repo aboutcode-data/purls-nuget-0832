@@ -13,6 +13,7 @@
 - pkg:nuget/BoldReports.Data.Csv@11.1.10
 - pkg:nuget/BoldReports.Data.Csv@11.1.11
 - pkg:nuget/BoldReports.Data.Csv@11.1.15
+- pkg:nuget/BoldReports.Data.Csv@12.2.9
 - pkg:nuget/BoldReports.Data.Csv@2.4.19
 - pkg:nuget/BoldReports.Data.Csv@2.4.23
 - pkg:nuget/BoldReports.Data.Csv@2.4.24
