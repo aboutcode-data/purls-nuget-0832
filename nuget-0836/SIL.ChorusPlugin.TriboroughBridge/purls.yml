@@ -100,6 +100,7 @@
 - pkg:nuget/SIL.ChorusPlugin.TriboroughBridge@4.2.0-beta0041
 - pkg:nuget/SIL.ChorusPlugin.TriboroughBridge@4.2.0-beta0044
 - pkg:nuget/SIL.ChorusPlugin.TriboroughBridge@4.3.0-beta0045
+- pkg:nuget/SIL.ChorusPlugin.TriboroughBridge@4.3.0-beta0048
 - pkg:nuget/SIL.ChorusPlugin.TriboroughBridge@9.0.17-beta0006
 - pkg:nuget/SIL.ChorusPlugin.TriboroughBridge@9.0.17-beta0007
 - pkg:nuget/SIL.ChorusPlugin.TriboroughBridge@9.0.17-beta0008
