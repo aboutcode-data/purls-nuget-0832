@@ -1,1 +1,2 @@
 - pkg:nuget/Elsa.Persistence.EFCore.SqlServer@3.6.0-rc2
+- pkg:nuget/Elsa.Persistence.EFCore.SqlServer@3.6.0-rc3
