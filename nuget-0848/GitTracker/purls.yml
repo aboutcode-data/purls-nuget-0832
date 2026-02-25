@@ -33,6 +33,8 @@
 - pkg:nuget/GitTracker@0.0.40
 - pkg:nuget/GitTracker@0.0.5
 - pkg:nuget/GitTracker@0.0.6
+- pkg:nuget/GitTracker@0.0.68
+- pkg:nuget/GitTracker@0.0.69
 - pkg:nuget/GitTracker@0.0.7
 - pkg:nuget/GitTracker@0.0.8
 - pkg:nuget/GitTracker@0.0.9

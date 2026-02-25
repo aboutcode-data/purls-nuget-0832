@@ -2,3 +2,4 @@
 - pkg:nuget/Blazorise.Scheduler@1.8.1
 - pkg:nuget/Blazorise.Scheduler@1.8.2
 - pkg:nuget/Blazorise.Scheduler@1.8.8
+- pkg:nuget/Blazorise.Scheduler@2.0.0
