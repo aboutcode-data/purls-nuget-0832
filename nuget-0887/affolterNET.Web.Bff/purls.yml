@@ -8,4 +8,6 @@
 - pkg:nuget/affolterNET.Web.Bff@0.3.11
 - pkg:nuget/affolterNET.Web.Bff@0.3.15
 - pkg:nuget/affolterNET.Web.Bff@0.3.16
+- pkg:nuget/affolterNET.Web.Bff@0.4.10
 - pkg:nuget/affolterNET.Web.Bff@0.4.9
+- pkg:nuget/affolterNET.Web.Bff@0.6.1
