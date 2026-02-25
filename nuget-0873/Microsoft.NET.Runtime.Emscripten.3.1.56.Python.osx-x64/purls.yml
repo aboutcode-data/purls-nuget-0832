@@ -14,6 +14,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Python.osx-x64@9.0.0-rc.2.24468.8
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Python.osx-x64@9.0.1
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Python.osx-x64@9.0.10
+- pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Python.osx-x64@9.0.13
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Python.osx-x64@9.0.2
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Python.osx-x64@9.0.3
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Python.osx-x64@9.0.4

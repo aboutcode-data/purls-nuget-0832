@@ -39,6 +39,7 @@
 - pkg:nuget/Primetec.Dsk.Api.Client@1.0.0
 - pkg:nuget/Primetec.Dsk.Api.Client@1.0.0-develop.20241025105237
 - pkg:nuget/Primetec.Dsk.Api.Client@1.0.0-preview.20241025104637
+- pkg:nuget/Primetec.Dsk.Api.Client@10.0.3-preview.20260216132011
 - pkg:nuget/Primetec.Dsk.Api.Client@9.0.0
 - pkg:nuget/Primetec.Dsk.Api.Client@9.0.0-develop.20241205131100
 - pkg:nuget/Primetec.Dsk.Api.Client@9.0.0-develop.20241205133437

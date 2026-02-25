@@ -42,3 +42,5 @@
 - pkg:nuget/CommonNetFuncs.SubsetModelBinder.Generator@3.7.16
 - pkg:nuget/CommonNetFuncs.SubsetModelBinder.Generator@3.7.17
 - pkg:nuget/CommonNetFuncs.SubsetModelBinder.Generator@3.8.13
+- pkg:nuget/CommonNetFuncs.SubsetModelBinder.Generator@3.8.38
+- pkg:nuget/CommonNetFuncs.SubsetModelBinder.Generator@4.0.17
