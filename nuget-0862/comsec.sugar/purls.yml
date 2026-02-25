@@ -76,6 +76,7 @@
 - pkg:nuget/comsec.sugar@2.0.145
 - pkg:nuget/comsec.sugar@2.0.147
 - pkg:nuget/comsec.sugar@2.0.15
+- pkg:nuget/comsec.sugar@2.0.154
 - pkg:nuget/comsec.sugar@2.0.16
 - pkg:nuget/comsec.sugar@2.0.17
 - pkg:nuget/comsec.sugar@2.0.18

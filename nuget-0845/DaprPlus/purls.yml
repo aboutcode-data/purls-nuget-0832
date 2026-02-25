@@ -3,3 +3,4 @@
 - pkg:nuget/DaprPlus@0.0.2-preview.127
 - pkg:nuget/DaprPlus@0.0.2-preview.204
 - pkg:nuget/DaprPlus@0.0.2-preview.209
+- pkg:nuget/DaprPlus@1.0.222

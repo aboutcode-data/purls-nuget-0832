@@ -28,6 +28,10 @@
 - pkg:nuget/GridLab.Abp.License.Generator@1.3.5
 - pkg:nuget/GridLab.Abp.License.Generator@10.1.0.390
 - pkg:nuget/GridLab.Abp.License.Generator@10.1.0.410
+- pkg:nuget/GridLab.Abp.License.Generator@10.1.0.427
+- pkg:nuget/GridLab.Abp.License.Generator@10.1.0.455
+- pkg:nuget/GridLab.Abp.License.Generator@10.1.0.463
+- pkg:nuget/GridLab.Abp.License.Generator@10.1.0.471
 - pkg:nuget/GridLab.Abp.License.Generator@9.2.1
 - pkg:nuget/GridLab.Abp.License.Generator@9.2.2
 - pkg:nuget/GridLab.Abp.License.Generator@9.2.2.178

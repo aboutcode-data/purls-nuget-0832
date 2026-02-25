@@ -119,6 +119,7 @@
 - pkg:nuget/BTCPayServer.Lightning.All@1.6.1
 - pkg:nuget/BTCPayServer.Lightning.All@1.6.10
 - pkg:nuget/BTCPayServer.Lightning.All@1.6.11
+- pkg:nuget/BTCPayServer.Lightning.All@1.6.13
 - pkg:nuget/BTCPayServer.Lightning.All@1.6.2
 - pkg:nuget/BTCPayServer.Lightning.All@1.6.3
 - pkg:nuget/BTCPayServer.Lightning.All@1.6.4

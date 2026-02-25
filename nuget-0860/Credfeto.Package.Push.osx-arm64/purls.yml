@@ -21,3 +21,4 @@
 - pkg:nuget/Credfeto.Package.Push.osx-arm64@1.6.177.1675-main
 - pkg:nuget/Credfeto.Package.Push.osx-arm64@1.6.177.1676-main
 - pkg:nuget/Credfeto.Package.Push.osx-arm64@1.6.177.1679-main
+- pkg:nuget/Credfeto.Package.Push.osx-arm64@1.6.177.1687-dotnet-sdk-10-0

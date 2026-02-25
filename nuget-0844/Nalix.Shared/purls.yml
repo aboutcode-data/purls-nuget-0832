@@ -14,6 +14,7 @@
 - pkg:nuget/Nalix.Shared@0.9.82
 - pkg:nuget/Nalix.Shared@1.4.3
 - pkg:nuget/Nalix.Shared@1.7.0
+- pkg:nuget/Nalix.Shared@10.0.0
 - pkg:nuget/Nalix.Shared@2.1.7
 - pkg:nuget/Nalix.Shared@2.5.7
 - pkg:nuget/Nalix.Shared@2.7.1
