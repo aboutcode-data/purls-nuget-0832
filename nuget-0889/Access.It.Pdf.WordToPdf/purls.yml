@@ -1,3 +1,4 @@
+- pkg:nuget/Access.It.Pdf.WordToPdf@10.0.0-beta.10
 - pkg:nuget/Access.It.Pdf.WordToPdf@8.18.0
 - pkg:nuget/Access.It.Pdf.WordToPdf@8.18.1
 - pkg:nuget/Access.It.Pdf.WordToPdf@9.2.0
