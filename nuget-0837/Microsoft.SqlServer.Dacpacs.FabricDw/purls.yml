@@ -1,1 +1,2 @@
 - pkg:nuget/Microsoft.SqlServer.Dacpacs.FabricDw@170.0.2
+- pkg:nuget/Microsoft.SqlServer.Dacpacs.FabricDw@170.0.3
