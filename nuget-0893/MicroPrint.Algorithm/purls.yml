@@ -2,6 +2,7 @@
 - pkg:nuget/MicroPrint.Algorithm@1.0.1
 - pkg:nuget/MicroPrint.Algorithm@1.0.10
 - pkg:nuget/MicroPrint.Algorithm@1.0.12
+- pkg:nuget/MicroPrint.Algorithm@1.0.14
 - pkg:nuget/MicroPrint.Algorithm@1.0.2
 - pkg:nuget/MicroPrint.Algorithm@1.0.3
 - pkg:nuget/MicroPrint.Algorithm@1.0.4
