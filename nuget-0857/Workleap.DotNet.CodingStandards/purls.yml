@@ -164,6 +164,8 @@
 - pkg:nuget/Workleap.DotNet.CodingStandards@1.1.48-preview.1
 - pkg:nuget/Workleap.DotNet.CodingStandards@1.1.5
 - pkg:nuget/Workleap.DotNet.CodingStandards@1.1.5-preview.1
+- pkg:nuget/Workleap.DotNet.CodingStandards@1.1.51-preview.3
+- pkg:nuget/Workleap.DotNet.CodingStandards@1.1.53-preview.2
 - pkg:nuget/Workleap.DotNet.CodingStandards@1.1.6
 - pkg:nuget/Workleap.DotNet.CodingStandards@1.1.6-preview.1
 - pkg:nuget/Workleap.DotNet.CodingStandards@1.1.6-preview.2

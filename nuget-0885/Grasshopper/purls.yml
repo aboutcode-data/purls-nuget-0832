@@ -689,6 +689,7 @@
 - pkg:nuget/Grasshopper@8.27.25350.10541-rc
 - pkg:nuget/Grasshopper@8.28.26013.10001-rc
 - pkg:nuget/Grasshopper@8.28.26034.9001-rc
+- pkg:nuget/Grasshopper@8.29.26041.19001-rc
 - pkg:nuget/Grasshopper@8.3.23346.14001-rc
 - pkg:nuget/Grasshopper@8.3.23354.9001-rc
 - pkg:nuget/Grasshopper@8.3.23360.13001-rc

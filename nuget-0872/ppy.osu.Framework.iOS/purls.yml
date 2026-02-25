@@ -611,5 +611,6 @@
 - pkg:nuget/ppy.osu.Framework.iOS@2025.903.0
 - pkg:nuget/ppy.osu.Framework.iOS@2025.908.0
 - pkg:nuget/ppy.osu.Framework.iOS@2025.930.0
+- pkg:nuget/ppy.osu.Framework.iOS@2026.209.0
 - pkg:nuget/ppy.osu.Framework.iOS@83.0.0
 - pkg:nuget/ppy.osu.Framework.iOS@84.0.0

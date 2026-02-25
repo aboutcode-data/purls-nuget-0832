@@ -3869,6 +3869,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-erwindowsimg.24.sha.67d224a8
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-erwindowsimg.25.sha.9f78c016
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-erwindowsimg.26.sha.9c593e36
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-flcoreltsc2019.96.sha.e15a6b7d
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-flrevamppipeline.129.sha.1eed888e
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-flrevamppipeline.129.sha.8436a00d
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-flrevamppipeline.129.sha.fbb1df40
@@ -3899,6 +3900,10 @@
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgchiseledimages.9.sha.31b59c3c
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgcve.69.sha.264be491
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgdeleteimages.75.sha.b8df55f4
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-jgdockerprovider.127.sha.4023e25c
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-jgdockerprovider.128.sha.57bf2672
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-jgdockerprovider.132.sha.069bd4f8
+- pkg:nuget/ArmoniK.Core.Base@0.36.0-jgdockerprovider.132.sha.209850ee
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgfixdate.105.sha.60a3cd57
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgfixsqs.32.sha.a19fc78c
 - pkg:nuget/ArmoniK.Core.Base@0.36.0-jgfixsqs.34.sha.45ef5be2
@@ -3998,4 +4003,18 @@
 - pkg:nuget/ArmoniK.Core.Base@0.36.1-jgfixremove.1.sha.cf6382af
 - pkg:nuget/ArmoniK.Core.Base@0.36.1-renovategithubactions.3.sha.d588284e
 - pkg:nuget/ArmoniK.Core.Base@0.36.1-renovategithubactions.3.sha.def39169
+- pkg:nuget/ArmoniK.Core.Base@0.36.2-admicrobenchdispatch.21.sha.f2126681
+- pkg:nuget/ArmoniK.Core.Base@0.36.2-eractivemqimg.21.sha.b7b43b57
+- pkg:nuget/ArmoniK.Core.Base@0.36.2-fldocwindows.26.sha.de1cd9e3
 - pkg:nuget/ArmoniK.Core.Base@0.36.2-renovategithubactions.4.sha.428e22bf
+- pkg:nuget/ArmoniK.Core.Base@0.37.0-SNAPSHOT.59.sha.6ffd403d
+- pkg:nuget/ArmoniK.Core.Base@0.37.0-jgnunit.60.sha.8e756d19
+- pkg:nuget/ArmoniK.Core.Base@0.37.0-jgnunit.60.sha.8ea2838f
+- pkg:nuget/ArmoniK.Core.Base@0.37.1-SNAPSHOT.2.sha.ed6e1a00
+- pkg:nuget/ArmoniK.Core.Base@0.37.1-SNAPSHOT.21.sha.a248a94c
+- pkg:nuget/ArmoniK.Core.Base@0.37.1-ercancelsessions.1.sha.515f71b8
+- pkg:nuget/ArmoniK.Core.Base@0.37.1-ercancelsessions.4.sha.70cd9e89
+- pkg:nuget/ArmoniK.Core.Base@0.37.1-jgremovepartitionmetrics.3.sha.661ad0f6
+- pkg:nuget/ArmoniK.Core.Base@0.37.1-jgremovepartitionmetrics.3.sha.bc387f84
+- pkg:nuget/ArmoniK.Core.Base@0.37.1-renovategithubactions.1.sha.df4260ac
+- pkg:nuget/ArmoniK.Core.Base@0.37.1-renovatenuget.22.sha.a4475c62

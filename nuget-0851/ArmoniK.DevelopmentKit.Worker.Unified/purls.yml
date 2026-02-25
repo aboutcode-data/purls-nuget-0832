@@ -1718,6 +1718,7 @@
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.19.3-01922gf3db0e14.2.sha.f3db0e14
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.19.3-01922gff1395de.2.sha.ff1395de
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.19.3-SNAPSHOT.2.sha.6dc8d41c
+- pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.19.4-01934gfae6c41d.4.sha.fae6c41d
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.7.2-dbreorganise.25.839e065
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.7.2-dbreorganise.26.84a3dd7
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.7.2-dbreorganise.4.e45d205

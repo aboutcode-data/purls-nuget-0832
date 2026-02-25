@@ -73,6 +73,7 @@
 - pkg:nuget/SuperSimpleTcp@3.0.13
 - pkg:nuget/SuperSimpleTcp@3.0.14
 - pkg:nuget/SuperSimpleTcp@3.0.17
+- pkg:nuget/SuperSimpleTcp@3.0.21
 - pkg:nuget/SuperSimpleTcp@3.0.3
 - pkg:nuget/SuperSimpleTcp@3.0.4
 - pkg:nuget/SuperSimpleTcp@3.0.5

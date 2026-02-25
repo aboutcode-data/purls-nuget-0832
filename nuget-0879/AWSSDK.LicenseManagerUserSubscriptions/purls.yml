@@ -599,6 +599,7 @@
 - pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@3.7.504.25
 - pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@3.7.504.28
 - pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@3.7.504.42
+- pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@3.7.504.47
 - pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@4.0.0
 - pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@4.0.0-preview
 - pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@4.0.0-preview.10

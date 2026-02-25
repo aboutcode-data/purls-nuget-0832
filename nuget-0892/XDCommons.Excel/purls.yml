@@ -169,4 +169,7 @@
 - pkg:nuget/XDCommons.Excel@2506.205.0
 - pkg:nuget/XDCommons.Excel@2506.305.0
 - pkg:nuget/XDCommons.Excel@2510.0.0
+- pkg:nuget/XDCommons.Excel@2512.304.0
+- pkg:nuget/XDCommons.Excel@2512.404.0
+- pkg:nuget/XDCommons.Excel@2512.405.0
 - pkg:nuget/XDCommons.Excel@2604.0.0

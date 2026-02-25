@@ -103,6 +103,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.24.4-mc-connection-issues.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.25.0-udmCws.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.25.0-udmCws.6
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.26.0-feature-circuittype-property-versiport.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0-beta.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0-beta.2

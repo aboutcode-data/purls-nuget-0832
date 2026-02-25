@@ -1194,3 +1194,5 @@
 - pkg:nuget/Soenneker.Extensions.LoggerConfiguration.ApplicationInsights@4.0.1206
 - pkg:nuget/Soenneker.Extensions.LoggerConfiguration.ApplicationInsights@4.0.1211
 - pkg:nuget/Soenneker.Extensions.LoggerConfiguration.ApplicationInsights@4.0.1215
+- pkg:nuget/Soenneker.Extensions.LoggerConfiguration.ApplicationInsights@4.0.1240
+- pkg:nuget/Soenneker.Extensions.LoggerConfiguration.ApplicationInsights@4.0.1245

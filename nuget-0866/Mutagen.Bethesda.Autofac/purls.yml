@@ -464,3 +464,4 @@
 - pkg:nuget/Mutagen.Bethesda.Autofac@0.52.0-alpha.7
 - pkg:nuget/Mutagen.Bethesda.Autofac@0.52.0-alpha.9
 - pkg:nuget/Mutagen.Bethesda.Autofac@0.53.0-alpha.46
+- pkg:nuget/Mutagen.Bethesda.Autofac@0.54.0-alpha.8

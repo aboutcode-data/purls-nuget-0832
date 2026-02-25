@@ -112,6 +112,7 @@
 - pkg:nuget/Parlem.Crm.Proxy@8.0.1
 - pkg:nuget/Parlem.Crm.Proxy@8.0.11
 - pkg:nuget/Parlem.Crm.Proxy@8.0.12
+- pkg:nuget/Parlem.Crm.Proxy@8.0.16
 - pkg:nuget/Parlem.Crm.Proxy@8.0.2
 - pkg:nuget/Parlem.Crm.Proxy@8.0.3
 - pkg:nuget/Parlem.Crm.Proxy@8.0.4

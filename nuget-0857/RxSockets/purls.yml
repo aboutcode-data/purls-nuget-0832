@@ -28,3 +28,4 @@
 - pkg:nuget/RxSockets@6.0.1
 - pkg:nuget/RxSockets@7.0.0
 - pkg:nuget/RxSockets@7.0.2
+- pkg:nuget/RxSockets@7.1.0
