@@ -15,4 +15,5 @@
 - pkg:nuget/SunamoEditorConfig@24.7.16.1
 - pkg:nuget/SunamoEditorConfig@24.9.20.1
 - pkg:nuget/SunamoEditorConfig@25.3.29.1
+- pkg:nuget/SunamoEditorConfig@26.2.23.3
 - pkg:nuget/SunamoEditorConfig@26.2.4.1

@@ -39,3 +39,5 @@
 - pkg:nuget/h5@25.11.62743
 - pkg:nuget/h5@25.3.57184
 - pkg:nuget/h5@25.5.58366
+- pkg:nuget/h5@26.2.64285
+- pkg:nuget/h5@26.2.64462

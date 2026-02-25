@@ -56,3 +56,4 @@
 - pkg:nuget/Up4All.Framework.MessageBus.Abstractions@2.0.620240715
 - pkg:nuget/Up4All.Framework.MessageBus.Abstractions@2.0.820241001
 - pkg:nuget/Up4All.Framework.MessageBus.Abstractions@2.5.1
+- pkg:nuget/Up4All.Framework.MessageBus.Abstractions@3.0.7

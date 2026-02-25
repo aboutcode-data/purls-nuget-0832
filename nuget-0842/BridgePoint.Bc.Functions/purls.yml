@@ -27,3 +27,4 @@
 - pkg:nuget/BridgePoint.Bc.Functions@5.4.4
 - pkg:nuget/BridgePoint.Bc.Functions@5.7.0
 - pkg:nuget/BridgePoint.Bc.Functions@5.8.1
+- pkg:nuget/BridgePoint.Bc.Functions@6.0.1
