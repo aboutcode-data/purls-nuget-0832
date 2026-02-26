@@ -1,6 +1,7 @@
 - pkg:nuget/Altinn.ApiClients.Dialogporten@1.102.0-rc%2B4ad8abb
 - pkg:nuget/Altinn.ApiClients.Dialogporten@1.104.1
 - pkg:nuget/Altinn.ApiClients.Dialogporten@1.104.1-alpha.1771325085%2B4041464
+- pkg:nuget/Altinn.ApiClients.Dialogporten@1.105.1
 - pkg:nuget/Altinn.ApiClients.Dialogporten@1.54.0-rc
 - pkg:nuget/Altinn.ApiClients.Dialogporten@1.54.0-rc.2458d6a
 - pkg:nuget/Altinn.ApiClients.Dialogporten@1.55.0
