@@ -108,6 +108,7 @@
 - pkg:nuget/Xcst.Compiler@2.0.22
 - pkg:nuget/Xcst.Compiler@2.0.23
 - pkg:nuget/Xcst.Compiler@2.0.24
+- pkg:nuget/Xcst.Compiler@2.0.26
 - pkg:nuget/Xcst.Compiler@2.0.3
 - pkg:nuget/Xcst.Compiler@2.0.4.1-pre
 - pkg:nuget/Xcst.Compiler@2.0.5
