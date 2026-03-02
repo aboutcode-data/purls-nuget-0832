@@ -356,6 +356,7 @@
 - pkg:nuget/ThingsGateway.Plugin.SECS@12.4.20
 - pkg:nuget/ThingsGateway.Plugin.SECS@12.4.37
 - pkg:nuget/ThingsGateway.Plugin.SECS@12.4.43
+- pkg:nuget/ThingsGateway.Plugin.SECS@12.4.45
 - pkg:nuget/ThingsGateway.Plugin.SECS@12.4.8
 - pkg:nuget/ThingsGateway.Plugin.SECS@9.0.2.23
 - pkg:nuget/ThingsGateway.Plugin.SECS@9.0.2.26
