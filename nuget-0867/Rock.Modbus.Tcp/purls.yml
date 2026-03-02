@@ -1,1 +1,2 @@
 - pkg:nuget/Rock.Modbus.Tcp@1.0.3
+- pkg:nuget/Rock.Modbus.Tcp@1.1.1
