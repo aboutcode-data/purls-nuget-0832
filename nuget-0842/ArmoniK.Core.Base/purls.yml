@@ -4022,3 +4022,5 @@
 - pkg:nuget/ArmoniK.Core.Base@0.37.2-SNAPSHOT.12.sha.640acac6
 - pkg:nuget/ArmoniK.Core.Base@0.37.2-SNAPSHOT.8.sha.5df6532d
 - pkg:nuget/ArmoniK.Core.Base@0.37.2-renovategithubactions.11.sha.fd9ef40c
+- pkg:nuget/ArmoniK.Core.Base@0.37.3-jgexceptioncache.1.sha.4a612259
+- pkg:nuget/ArmoniK.Core.Base@0.37.3-renovategithubactions.1.sha.aeba9feb
