@@ -268,6 +268,7 @@
 - pkg:nuget/HotChocolate.Primitives@16.0.0-p.11.10
 - pkg:nuget/HotChocolate.Primitives@16.0.0-p.11.14
 - pkg:nuget/HotChocolate.Primitives@16.0.0-p.11.2
+- pkg:nuget/HotChocolate.Primitives@16.0.0-p.11.29
 - pkg:nuget/HotChocolate.Primitives@16.0.0-p.11.3
 - pkg:nuget/HotChocolate.Primitives@16.0.0-p.11.4
 - pkg:nuget/HotChocolate.Primitives@16.0.0-p.11.5
