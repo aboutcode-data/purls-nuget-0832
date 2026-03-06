@@ -4024,4 +4024,5 @@
 - pkg:nuget/ArmoniK.Core.Base@0.37.2-renovategithubactions.11.sha.fd9ef40c
 - pkg:nuget/ArmoniK.Core.Base@0.37.3-jgexceptioncache.1.sha.4a612259
 - pkg:nuget/ArmoniK.Core.Base@0.37.3-renovategithubactions.1.sha.aeba9feb
+- pkg:nuget/ArmoniK.Core.Base@0.37.4-renovategithubactions.1.sha.87655aaa
 - pkg:nuget/ArmoniK.Core.Base@0.37.4-renovatemajorgithubactions.1.sha.326d8849
