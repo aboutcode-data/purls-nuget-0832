@@ -1,3 +1,5 @@
 - pkg:nuget/ScatMan.Cli@0.1.15
 - pkg:nuget/ScatMan.Cli@0.1.21
 - pkg:nuget/ScatMan.Cli@0.1.25
+- pkg:nuget/ScatMan.Cli@0.1.27
+- pkg:nuget/ScatMan.Cli@0.1.28
