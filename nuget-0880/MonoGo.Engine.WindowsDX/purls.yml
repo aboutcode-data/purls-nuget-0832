@@ -11,3 +11,4 @@
 - pkg:nuget/MonoGo.Engine.WindowsDX@1.2.2
 - pkg:nuget/MonoGo.Engine.WindowsDX@1.2.3
 - pkg:nuget/MonoGo.Engine.WindowsDX@1.2.4
+- pkg:nuget/MonoGo.Engine.WindowsDX@1.4.0
