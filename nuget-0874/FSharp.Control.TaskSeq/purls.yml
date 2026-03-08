@@ -6,3 +6,4 @@
 - pkg:nuget/FSharp.Control.TaskSeq@0.3.0
 - pkg:nuget/FSharp.Control.TaskSeq@0.4.0
 - pkg:nuget/FSharp.Control.TaskSeq@0.4.0-alpha.1
+- pkg:nuget/FSharp.Control.TaskSeq@0.6.0
