@@ -7,6 +7,7 @@
 - pkg:nuget/HotChocolate.Utilities.Base36@16.0.0-p.11.10
 - pkg:nuget/HotChocolate.Utilities.Base36@16.0.0-p.11.2
 - pkg:nuget/HotChocolate.Utilities.Base36@16.0.0-p.11.29
+- pkg:nuget/HotChocolate.Utilities.Base36@16.0.0-p.11.32
 - pkg:nuget/HotChocolate.Utilities.Base36@16.0.0-p.8.1
 - pkg:nuget/HotChocolate.Utilities.Base36@16.0.0-p.8.5
 - pkg:nuget/HotChocolate.Utilities.Base36@16.0.0-p.8.6
