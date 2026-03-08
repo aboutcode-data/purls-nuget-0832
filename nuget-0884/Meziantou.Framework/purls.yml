@@ -136,3 +136,4 @@
 - pkg:nuget/Meziantou.Framework@4.4.7
 - pkg:nuget/Meziantou.Framework@4.4.8
 - pkg:nuget/Meziantou.Framework@4.4.9
+- pkg:nuget/Meziantou.Framework@5.0.13
