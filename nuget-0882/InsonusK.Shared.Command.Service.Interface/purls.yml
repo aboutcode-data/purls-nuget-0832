@@ -1,6 +1,7 @@
 - pkg:nuget/InsonusK.Shared.Command.Service.Interface@1.1.10
 - pkg:nuget/InsonusK.Shared.Command.Service.Interface@1.3.10
 - pkg:nuget/InsonusK.Shared.Command.Service.Interface@1.3.10-beta.20260309.33
+- pkg:nuget/InsonusK.Shared.Command.Service.Interface@1.3.11-beta.20260309.34
 - pkg:nuget/InsonusK.Shared.Command.Service.Interface@1.3.3
 - pkg:nuget/InsonusK.Shared.Command.Service.Interface@1.3.3-beta.20260308.32
 - pkg:nuget/InsonusK.Shared.Command.Service.Interface@1.3.4
