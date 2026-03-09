@@ -73,3 +73,4 @@
 - pkg:nuget/OpenIddict.Validation@7.0.0-preview.4.25313.34
 - pkg:nuget/OpenIddict.Validation@7.1.0
 - pkg:nuget/OpenIddict.Validation@7.2.0
+- pkg:nuget/OpenIddict.Validation@7.3.0
