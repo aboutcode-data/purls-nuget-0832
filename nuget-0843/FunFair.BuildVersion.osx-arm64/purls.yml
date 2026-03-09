@@ -15,3 +15,5 @@
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.18.1732-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.18.1782-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.18.1790-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.18.1816-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.18.1817-main
