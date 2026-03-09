@@ -1,1 +1,2 @@
 - pkg:nuget/MVFC.Aspire.Helpers.Redis@6.2.0
+- pkg:nuget/MVFC.Aspire.Helpers.Redis@6.4.0
