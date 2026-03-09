@@ -45,3 +45,4 @@
 - pkg:nuget/Vortice.Win32.Graphics.Direct3D12@2.2.6
 - pkg:nuget/Vortice.Win32.Graphics.Direct3D12@2.2.7
 - pkg:nuget/Vortice.Win32.Graphics.Direct3D12@2.3.0
+- pkg:nuget/Vortice.Win32.Graphics.Direct3D12@2.4.1
