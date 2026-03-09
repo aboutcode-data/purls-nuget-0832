@@ -72,3 +72,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.CharacterLcd@1.1.8
 - pkg:nuget/nanoFramework.Iot.Device.CharacterLcd@1.1.801
 - pkg:nuget/nanoFramework.Iot.Device.CharacterLcd@1.1.82
+- pkg:nuget/nanoFramework.Iot.Device.CharacterLcd@2.0.0-preview.14
