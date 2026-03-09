@@ -7,3 +7,6 @@
 - pkg:nuget/ConstructServices@1.0.6
 - pkg:nuget/ConstructServices@1.0.7
 - pkg:nuget/ConstructServices@1.0.9
+- pkg:nuget/ConstructServices@1.1.0
+- pkg:nuget/ConstructServices@1.2.0
+- pkg:nuget/ConstructServices@1.3.0
