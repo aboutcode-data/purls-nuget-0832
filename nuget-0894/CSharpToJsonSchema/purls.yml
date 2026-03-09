@@ -12,6 +12,7 @@
 - pkg:nuget/CSharpToJsonSchema@3.10.2-dev.32
 - pkg:nuget/CSharpToJsonSchema@3.10.2-dev.34
 - pkg:nuget/CSharpToJsonSchema@3.10.2-dev.39
+- pkg:nuget/CSharpToJsonSchema@3.10.2-dev.80
 - pkg:nuget/CSharpToJsonSchema@3.8.2-dev.10
 - pkg:nuget/CSharpToJsonSchema@3.8.2-dev.13
 - pkg:nuget/CSharpToJsonSchema@3.8.2-dev.9
