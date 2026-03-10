@@ -127,3 +127,4 @@
 - pkg:nuget/DotNext.AspNetCore.Cluster@5.7.1
 - pkg:nuget/DotNext.AspNetCore.Cluster@5.7.2
 - pkg:nuget/DotNext.AspNetCore.Cluster@5.7.3
+- pkg:nuget/DotNext.AspNetCore.Cluster@6.0.0
