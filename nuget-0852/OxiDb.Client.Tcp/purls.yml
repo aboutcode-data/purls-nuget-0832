@@ -1,1 +1,2 @@
 - pkg:nuget/OxiDb.Client.Tcp@0.17.0
+- pkg:nuget/OxiDb.Client.Tcp@0.19.3
