@@ -1,1 +1,2 @@
 - pkg:nuget/FluxIndex.Providers.OpenAI@0.10.3
+- pkg:nuget/FluxIndex.Providers.OpenAI@0.10.6
