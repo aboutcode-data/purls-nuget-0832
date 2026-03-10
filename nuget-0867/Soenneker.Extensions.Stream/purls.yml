@@ -128,3 +128,4 @@
 - pkg:nuget/Soenneker.Extensions.Stream@3.0.90
 - pkg:nuget/Soenneker.Extensions.Stream@3.0.91
 - pkg:nuget/Soenneker.Extensions.Stream@3.0.92
+- pkg:nuget/Soenneker.Extensions.Stream@4.0.106
