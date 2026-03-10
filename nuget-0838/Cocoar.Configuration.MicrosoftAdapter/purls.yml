@@ -11,3 +11,4 @@
 - pkg:nuget/Cocoar.Configuration.MicrosoftAdapter@3.4.0-secrets.28
 - pkg:nuget/Cocoar.Configuration.MicrosoftAdapter@4.2.0-beta.2
 - pkg:nuget/Cocoar.Configuration.MicrosoftAdapter@4.2.0-beta.3
+- pkg:nuget/Cocoar.Configuration.MicrosoftAdapter@4.3.0-flags.4
