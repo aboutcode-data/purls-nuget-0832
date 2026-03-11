@@ -51,3 +51,5 @@
 - pkg:nuget/Soenneker.Dispatchers.Dispatcher@3.0.8
 - pkg:nuget/Soenneker.Dispatchers.Dispatcher@3.0.9
 - pkg:nuget/Soenneker.Dispatchers.Dispatcher@4.0.63
+- pkg:nuget/Soenneker.Dispatchers.Dispatcher@4.0.67
+- pkg:nuget/Soenneker.Dispatchers.Dispatcher@4.0.68
