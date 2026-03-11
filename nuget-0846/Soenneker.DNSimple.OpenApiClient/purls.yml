@@ -51,3 +51,4 @@
 - pkg:nuget/Soenneker.DNSimple.OpenApiClient@4.0.75
 - pkg:nuget/Soenneker.DNSimple.OpenApiClient@4.0.76
 - pkg:nuget/Soenneker.DNSimple.OpenApiClient@4.0.84
+- pkg:nuget/Soenneker.DNSimple.OpenApiClient@4.0.88
