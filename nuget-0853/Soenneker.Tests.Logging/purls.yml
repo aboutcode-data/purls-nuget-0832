@@ -145,3 +145,4 @@
 - pkg:nuget/Soenneker.Tests.Logging@3.0.99
 - pkg:nuget/Soenneker.Tests.Logging@4.0.117
 - pkg:nuget/Soenneker.Tests.Logging@4.0.128
+- pkg:nuget/Soenneker.Tests.Logging@4.0.131

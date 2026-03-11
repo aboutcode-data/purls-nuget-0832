@@ -7,6 +7,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Wpf@10.0.0-preview.6.25359.8
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Wpf@10.0.0-preview.7.25406.3
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Wpf@10.0.0-rc.1.25452.6
+- pkg:nuget/Microsoft.AspNetCore.Components.WebView.Wpf@10.0.50
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Wpf@6.0.0-preview.3.21201.13
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Wpf@6.0.0-preview.4.21253.5
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Wpf@6.0.100-preview.5.760%2Bsha.37f0b2829-azdo.4864672
