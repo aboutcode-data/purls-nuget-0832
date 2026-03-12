@@ -209,3 +209,4 @@
 - pkg:nuget/Soenneker.Extensions.DateTime.Nullable@3.0.99
 - pkg:nuget/Soenneker.Extensions.DateTime.Nullable@4.0.212
 - pkg:nuget/Soenneker.Extensions.DateTime.Nullable@4.0.219
+- pkg:nuget/Soenneker.Extensions.DateTime.Nullable@4.0.220
