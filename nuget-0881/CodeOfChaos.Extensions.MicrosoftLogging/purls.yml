@@ -55,3 +55,4 @@
 - pkg:nuget/CodeOfChaos.Extensions.MicrosoftLogging@0.81.0
 - pkg:nuget/CodeOfChaos.Extensions.MicrosoftLogging@0.81.1
 - pkg:nuget/CodeOfChaos.Extensions.MicrosoftLogging@0.83.1
+- pkg:nuget/CodeOfChaos.Extensions.MicrosoftLogging@0.89.0
