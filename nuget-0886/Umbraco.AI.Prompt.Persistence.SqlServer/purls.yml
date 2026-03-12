@@ -1,1 +1,2 @@
 - pkg:nuget/Umbraco.AI.Prompt.Persistence.SqlServer@1.3.1
+- pkg:nuget/Umbraco.AI.Prompt.Persistence.SqlServer@1.4.0
