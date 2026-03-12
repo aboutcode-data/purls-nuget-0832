@@ -1,4 +1,5 @@
 - pkg:nuget/CoreForms.Web.Infrastructure.OpenTelemetry@10.0.0-alpha.1
+- pkg:nuget/CoreForms.Web.Infrastructure.OpenTelemetry@10.0.1
 - pkg:nuget/CoreForms.Web.Infrastructure.OpenTelemetry@8.2.0
 - pkg:nuget/CoreForms.Web.Infrastructure.OpenTelemetry@8.2.1
 - pkg:nuget/CoreForms.Web.Infrastructure.OpenTelemetry@8.2.2
