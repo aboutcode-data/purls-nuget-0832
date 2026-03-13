@@ -640,3 +640,4 @@
 - pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@4.0.2.2
 - pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@4.0.4
 - pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@4.0.4.11
+- pkg:nuget/AWSSDK.LicenseManagerUserSubscriptions@4.0.4.18
