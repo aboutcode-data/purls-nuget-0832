@@ -64,3 +64,4 @@
 - pkg:nuget/Corvus.Json.SourceGenerator@4.3.9
 - pkg:nuget/Corvus.Json.SourceGenerator@4.5.0
 - pkg:nuget/Corvus.Json.SourceGenerator@4.6.3
+- pkg:nuget/Corvus.Json.SourceGenerator@4.6.5
