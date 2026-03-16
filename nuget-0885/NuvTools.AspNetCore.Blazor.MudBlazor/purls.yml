@@ -1,1 +1,2 @@
 - pkg:nuget/NuvTools.AspNetCore.Blazor.MudBlazor@10.1.2
+- pkg:nuget/NuvTools.AspNetCore.Blazor.MudBlazor@10.1.5

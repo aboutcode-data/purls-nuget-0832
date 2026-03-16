@@ -146,6 +146,7 @@
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@5.2.0.116
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@5.2.0.159
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@5.2.0.160
+- pkg:nuget/FrameworkOfAliveApplication.CoreBase@5.2.0.166
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@8.0.0.15
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@8.0.0.17
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@8.1.0.23
