@@ -67,6 +67,7 @@
 - pkg:nuget/NetCore2Blockly@1.1.2020.29762555
 - pkg:nuget/NetCore2Blockly@1.1.2021.14839170
 - pkg:nuget/NetCore2Blockly@1.1.2021.15334460
+- pkg:nuget/NetCore2Blockly@10.2026.316.437
 - pkg:nuget/NetCore2Blockly@3.2022.223.2358
 - pkg:nuget/NetCore2Blockly@3.2022.224.16
 - pkg:nuget/NetCore2Blockly@5.2022.127.2029
