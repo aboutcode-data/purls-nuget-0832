@@ -1,4 +1,5 @@
 - pkg:nuget/Mancala@1.0.1
+- pkg:nuget/Mancala@10.0.5
 - pkg:nuget/Mancala@2.0.1
 - pkg:nuget/Mancala@2.0.2
 - pkg:nuget/Mancala@7.0.1

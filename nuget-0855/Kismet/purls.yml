@@ -1,4 +1,5 @@
 - pkg:nuget/Kismet@1.0.1
+- pkg:nuget/Kismet@10.0.5
 - pkg:nuget/Kismet@2.0.1
 - pkg:nuget/Kismet@2.0.2
 - pkg:nuget/Kismet@7.0.1
