@@ -94,3 +94,4 @@
 - pkg:nuget/Horse.Messaging.Client@7.3.2
 - pkg:nuget/Horse.Messaging.Client@7.4.0
 - pkg:nuget/Horse.Messaging.Client@8.0.3
+- pkg:nuget/Horse.Messaging.Client@8.0.34

@@ -1,1 +1,2 @@
 - pkg:nuget/Eksen.ValueObjects.AspNetCore@0.3.0
+- pkg:nuget/Eksen.ValueObjects.AspNetCore@0.4.0

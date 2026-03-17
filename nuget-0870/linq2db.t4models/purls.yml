@@ -144,3 +144,4 @@
 - pkg:nuget/linq2db.t4models@6.0.0-rc.1
 - pkg:nuget/linq2db.t4models@6.0.0-rc.2
 - pkg:nuget/linq2db.t4models@6.0.0-rc.3
+- pkg:nuget/linq2db.t4models@6.2.1
