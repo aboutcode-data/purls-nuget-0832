@@ -4,3 +4,4 @@
 - pkg:nuget/IvAt.CommonFramework.DependencyInjection@2.0.5
 - pkg:nuget/IvAt.CommonFramework.DependencyInjection@2.5.0
 - pkg:nuget/IvAt.CommonFramework.DependencyInjection@2.5.1
+- pkg:nuget/IvAt.CommonFramework.DependencyInjection@3.0.4
