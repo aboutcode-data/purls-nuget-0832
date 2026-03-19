@@ -50,6 +50,7 @@
 - pkg:nuget/FluentCommand.Json@13.3.1
 - pkg:nuget/FluentCommand.Json@13.3.3
 - pkg:nuget/FluentCommand.Json@13.4.0
+- pkg:nuget/FluentCommand.Json@15.0.0
 - pkg:nuget/FluentCommand.Json@5.0.0.231
 - pkg:nuget/FluentCommand.Json@6.0.0.240
 - pkg:nuget/FluentCommand.Json@6.0.0.249
