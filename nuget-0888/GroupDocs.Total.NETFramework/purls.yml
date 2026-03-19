@@ -22,3 +22,4 @@
 - pkg:nuget/GroupDocs.Total.NETFramework@25.5.0
 - pkg:nuget/GroupDocs.Total.NETFramework@25.6.0
 - pkg:nuget/GroupDocs.Total.NETFramework@25.7.0
+- pkg:nuget/GroupDocs.Total.NETFramework@26.3.0
