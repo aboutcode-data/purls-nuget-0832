@@ -1176,6 +1176,7 @@
 - pkg:nuget/AWSSDK.CloudFront@3.7.510.1
 - pkg:nuget/AWSSDK.CloudFront@3.7.510.12
 - pkg:nuget/AWSSDK.CloudFront@3.7.510.13
+- pkg:nuget/AWSSDK.CloudFront@3.7.510.16
 - pkg:nuget/AWSSDK.CloudFront@3.7.510.6
 - pkg:nuget/AWSSDK.CloudFront@3.7.6
 - pkg:nuget/AWSSDK.CloudFront@3.7.6.1

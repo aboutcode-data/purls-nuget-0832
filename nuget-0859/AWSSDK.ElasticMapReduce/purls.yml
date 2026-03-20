@@ -1187,6 +1187,7 @@
 - pkg:nuget/AWSSDK.ElasticMapReduce@3.7.505.41
 - pkg:nuget/AWSSDK.ElasticMapReduce@3.7.505.5
 - pkg:nuget/AWSSDK.ElasticMapReduce@3.7.505.8
+- pkg:nuget/AWSSDK.ElasticMapReduce@3.7.506.1
 - pkg:nuget/AWSSDK.ElasticMapReduce@3.7.6
 - pkg:nuget/AWSSDK.ElasticMapReduce@3.7.7
 - pkg:nuget/AWSSDK.ElasticMapReduce@3.7.7.1
