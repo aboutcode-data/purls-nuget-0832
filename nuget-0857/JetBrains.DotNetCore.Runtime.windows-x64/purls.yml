@@ -1,3 +1,4 @@
+- pkg:nuget/JetBrains.DotNetCore.Runtime.windows-x64@10.0.20260317.14
 - pkg:nuget/JetBrains.DotNetCore.Runtime.windows-x64@6.0.20220124.45
 - pkg:nuget/JetBrains.DotNetCore.Runtime.windows-x64@6.0.20220125.46
 - pkg:nuget/JetBrains.DotNetCore.Runtime.windows-x64@6.0.20220226.50
