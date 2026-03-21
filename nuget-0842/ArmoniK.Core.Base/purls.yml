@@ -4031,3 +4031,4 @@
 - pkg:nuget/ArmoniK.Core.Base@0.37.4-renovatenuget.1.sha.24e770ff
 - pkg:nuget/ArmoniK.Core.Base@0.38.0-SNAPSHOT.13.sha.dec9f9d7
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatenuget.1.sha.39421db8
+- pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatenuget.1.sha.c62c403f

@@ -51,6 +51,7 @@
 - pkg:nuget/AWSSDK.Odb@3.7.504.7
 - pkg:nuget/AWSSDK.Odb@3.7.505.5
 - pkg:nuget/AWSSDK.Odb@3.7.505.8
+- pkg:nuget/AWSSDK.Odb@3.7.505.9
 - pkg:nuget/AWSSDK.Odb@4.0.0
 - pkg:nuget/AWSSDK.Odb@4.0.0.1
 - pkg:nuget/AWSSDK.Odb@4.0.0.10

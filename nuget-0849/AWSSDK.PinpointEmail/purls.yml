@@ -1128,6 +1128,7 @@
 - pkg:nuget/AWSSDK.PinpointEmail@3.7.502.51
 - pkg:nuget/AWSSDK.PinpointEmail@3.7.502.52
 - pkg:nuget/AWSSDK.PinpointEmail@3.7.502.55
+- pkg:nuget/AWSSDK.PinpointEmail@3.7.502.56
 - pkg:nuget/AWSSDK.PinpointEmail@4.0.0
 - pkg:nuget/AWSSDK.PinpointEmail@4.0.0-preview
 - pkg:nuget/AWSSDK.PinpointEmail@4.0.0-preview.10
