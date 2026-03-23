@@ -94,3 +94,4 @@
 - pkg:nuget/DbCRUD.MongoDB@2.5.5
 - pkg:nuget/DbCRUD.MongoDB@2.5.6
 - pkg:nuget/DbCRUD.MongoDB@2.5.7
+- pkg:nuget/DbCRUD.MongoDB@2.7.0
