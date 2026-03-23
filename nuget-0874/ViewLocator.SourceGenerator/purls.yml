@@ -29,3 +29,4 @@
 - pkg:nuget/ViewLocator.SourceGenerator@0.138.0
 - pkg:nuget/ViewLocator.SourceGenerator@0.139.0
 - pkg:nuget/ViewLocator.SourceGenerator@0.140.0
+- pkg:nuget/ViewLocator.SourceGenerator@0.148.0

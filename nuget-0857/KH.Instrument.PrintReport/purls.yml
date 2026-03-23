@@ -39,6 +39,7 @@
 - pkg:nuget/KH.Instrument.PrintReport@0.138.0
 - pkg:nuget/KH.Instrument.PrintReport@0.139.0
 - pkg:nuget/KH.Instrument.PrintReport@0.140.0
+- pkg:nuget/KH.Instrument.PrintReport@0.148.0
 - pkg:nuget/KH.Instrument.PrintReport@0.95.0
 - pkg:nuget/KH.Instrument.PrintReport@0.96.0
 - pkg:nuget/KH.Instrument.PrintReport@0.97.0
