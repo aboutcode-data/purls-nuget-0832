@@ -85,6 +85,7 @@
 - pkg:nuget/Pulumi.Splunk@1.2.8-alpha.1719379371
 - pkg:nuget/Pulumi.Splunk@1.2.9
 - pkg:nuget/Pulumi.Splunk@1.2.9-alpha.1725644906
+- pkg:nuget/Pulumi.Splunk@1.3.0
 - pkg:nuget/Pulumi.Splunk@1.3.0-alpha.1678231017%2Ba21558dc
 - pkg:nuget/Pulumi.Splunk@1.3.0-alpha.1679336843%2Bc30bdeeb
 - pkg:nuget/Pulumi.Splunk@1.3.0-alpha.1679423368%2B31227553
@@ -401,3 +402,4 @@
 - pkg:nuget/Pulumi.Splunk@1.3.0-alpha.1765837514
 - pkg:nuget/Pulumi.Splunk@1.3.0-alpha.1767140067
 - pkg:nuget/Pulumi.Splunk@1.3.0-alpha.1769445717
+- pkg:nuget/Pulumi.Splunk@1.3.0-alpha.1774324766
