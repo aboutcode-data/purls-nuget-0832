@@ -195,6 +195,7 @@
 - pkg:nuget/Datadog.Trace.OpenTracing@3.3.1
 - pkg:nuget/Datadog.Trace.OpenTracing@3.4.0
 - pkg:nuget/Datadog.Trace.OpenTracing@3.4.1
+- pkg:nuget/Datadog.Trace.OpenTracing@3.40.0
 - pkg:nuget/Datadog.Trace.OpenTracing@3.5.0
 - pkg:nuget/Datadog.Trace.OpenTracing@3.6.0
 - pkg:nuget/Datadog.Trace.OpenTracing@3.6.1
