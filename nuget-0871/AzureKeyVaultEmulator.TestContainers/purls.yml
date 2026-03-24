@@ -22,3 +22,4 @@
 - pkg:nuget/AzureKeyVaultEmulator.TestContainers@2.6.4
 - pkg:nuget/AzureKeyVaultEmulator.TestContainers@2.6.5
 - pkg:nuget/AzureKeyVaultEmulator.TestContainers@2.7.0
+- pkg:nuget/AzureKeyVaultEmulator.TestContainers@2.9.0
