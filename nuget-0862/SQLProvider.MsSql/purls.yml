@@ -12,6 +12,7 @@
 - pkg:nuget/SQLProvider.MsSql@1.5.15
 - pkg:nuget/SQLProvider.MsSql@1.5.16
 - pkg:nuget/SQLProvider.MsSql@1.5.17
+- pkg:nuget/SQLProvider.MsSql@1.5.18
 - pkg:nuget/SQLProvider.MsSql@1.5.2
 - pkg:nuget/SQLProvider.MsSql@1.5.3
 - pkg:nuget/SQLProvider.MsSql@1.5.6

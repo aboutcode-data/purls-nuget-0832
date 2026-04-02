@@ -4,3 +4,4 @@
 - pkg:nuget/Linger.Excel.EPPlus@0.3.3-alpha
 - pkg:nuget/Linger.Excel.EPPlus@0.4.0-alpha
 - pkg:nuget/Linger.Excel.EPPlus@0.9.8
+- pkg:nuget/Linger.Excel.EPPlus@1.2.0-preview

@@ -1,1 +1,2 @@
 - pkg:nuget/OpenVino.Runtime.TRT@1.0.5
+- pkg:nuget/OpenVino.Runtime.TRT@1.0.7

@@ -1,2 +1,4 @@
 - pkg:nuget/HLCores.AsQueryableProvider@1.0.0
 - pkg:nuget/HLCores.AsQueryableProvider@2.0.0
+- pkg:nuget/HLCores.AsQueryableProvider@3.0.0
+- pkg:nuget/HLCores.AsQueryableProvider@4.0.0

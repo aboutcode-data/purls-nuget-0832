@@ -1,2 +1,4 @@
 - pkg:nuget/Majorsoft.Blazor.Components.GdprConsent@1.4.0
 - pkg:nuget/Majorsoft.Blazor.Components.GdprConsent@1.5.0
+- pkg:nuget/Majorsoft.Blazor.Components.GdprConsent@1.6.0
+- pkg:nuget/Majorsoft.Blazor.Components.GdprConsent@1.6.1
