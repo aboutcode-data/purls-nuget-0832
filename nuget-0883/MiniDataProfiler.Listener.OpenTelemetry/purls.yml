@@ -2,3 +2,4 @@
 - pkg:nuget/MiniDataProfiler.Listener.OpenTelemetry@0.7.0
 - pkg:nuget/MiniDataProfiler.Listener.OpenTelemetry@1.0.0
 - pkg:nuget/MiniDataProfiler.Listener.OpenTelemetry@1.0.1
+- pkg:nuget/MiniDataProfiler.Listener.OpenTelemetry@1.2.1

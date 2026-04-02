@@ -15,3 +15,5 @@
 - pkg:nuget/Monq.Core.HealthChecks@2.0.0-rev-11720390085
 - pkg:nuget/Monq.Core.HealthChecks@2.0.0-rev-11779052886
 - pkg:nuget/Monq.Core.HealthChecks@2.0.1-rev-20504393532
+- pkg:nuget/Monq.Core.HealthChecks@2.1.1
+- pkg:nuget/Monq.Core.HealthChecks@2.1.1-rev-23745374877

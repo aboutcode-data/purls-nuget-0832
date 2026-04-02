@@ -12,3 +12,4 @@
 - pkg:nuget/Llamachant.ExpressApp.Diagnostics@25.1.6.2
 - pkg:nuget/Llamachant.ExpressApp.Diagnostics@25.1.7.1
 - pkg:nuget/Llamachant.ExpressApp.Diagnostics@25.1.7.2
+- pkg:nuget/Llamachant.ExpressApp.Diagnostics@25.2.5.2

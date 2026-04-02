@@ -1,1 +1,2 @@
 - pkg:nuget/DSoftStudio.Mediator.FluentValidation@1.0.0
+- pkg:nuget/DSoftStudio.Mediator.FluentValidation@1.0.8-rc.1

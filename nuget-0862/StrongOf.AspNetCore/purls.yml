@@ -60,3 +60,4 @@
 - pkg:nuget/StrongOf.AspNetCore@1.2.7
 - pkg:nuget/StrongOf.AspNetCore@1.2.7-ga639164e54
 - pkg:nuget/StrongOf.AspNetCore@1.2.8
+- pkg:nuget/StrongOf.AspNetCore@2.1.31
