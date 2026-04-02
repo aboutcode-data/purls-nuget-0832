@@ -1,0 +1,6 @@
+- pkg:nuget/CashCtrlApiNet.AspNetCore@1.0.0-preview-1
+- pkg:nuget/CashCtrlApiNet.AspNetCore@1.0.0-preview-2
+- pkg:nuget/CashCtrlApiNet.AspNetCore@1.0.0-preview-3
+- pkg:nuget/CashCtrlApiNet.AspNetCore@94.0.0
+- pkg:nuget/CashCtrlApiNet.AspNetCore@96.0.0
+- pkg:nuget/CashCtrlApiNet.AspNetCore@99.0.0

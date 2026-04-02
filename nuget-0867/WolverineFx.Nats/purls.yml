@@ -1,2 +1,5 @@
 - pkg:nuget/WolverineFx.Nats@5.18.2
 - pkg:nuget/WolverineFx.Nats@5.19.1
+- pkg:nuget/WolverineFx.Nats@5.25.0
+- pkg:nuget/WolverineFx.Nats@5.26.0
+- pkg:nuget/WolverineFx.Nats@5.27.0

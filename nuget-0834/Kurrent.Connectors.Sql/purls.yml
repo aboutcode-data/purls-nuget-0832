@@ -1,2 +1,6 @@
 - pkg:nuget/Kurrent.Connectors.Sql@1.1.1-alpha.1.33
 - pkg:nuget/Kurrent.Connectors.Sql@1.1.1-alpha.1.47
+- pkg:nuget/Kurrent.Connectors.Sql@1.1.1-alpha.1.62
+- pkg:nuget/Kurrent.Connectors.Sql@1.1.1-alpha.1.63
+- pkg:nuget/Kurrent.Connectors.Sql@1.1.1-alpha.1.64
+- pkg:nuget/Kurrent.Connectors.Sql@1.1.1-alpha.1.65

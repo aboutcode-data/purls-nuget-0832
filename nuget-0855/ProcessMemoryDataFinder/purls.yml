@@ -3,6 +3,7 @@
 - pkg:nuget/ProcessMemoryDataFinder@0.0.3
 - pkg:nuget/ProcessMemoryDataFinder@0.1.0
 - pkg:nuget/ProcessMemoryDataFinder@0.1.1
+- pkg:nuget/ProcessMemoryDataFinder@0.10.1
 - pkg:nuget/ProcessMemoryDataFinder@0.2.0
 - pkg:nuget/ProcessMemoryDataFinder@0.3.0
 - pkg:nuget/ProcessMemoryDataFinder@0.3.1
