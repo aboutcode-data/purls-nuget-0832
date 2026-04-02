@@ -23,3 +23,8 @@
 - pkg:nuget/SQLite.Framework@2.2.0
 - pkg:nuget/SQLite.Framework@2.3.0
 - pkg:nuget/SQLite.Framework@2.4.0
+- pkg:nuget/SQLite.Framework@4.0.0
+- pkg:nuget/SQLite.Framework@4.1.0
+- pkg:nuget/SQLite.Framework@4.1.1
+- pkg:nuget/SQLite.Framework@4.1.2
+- pkg:nuget/SQLite.Framework@4.1.3

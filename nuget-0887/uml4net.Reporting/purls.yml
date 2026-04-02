@@ -26,3 +26,6 @@
 - pkg:nuget/uml4net.Reporting@5.1.0
 - pkg:nuget/uml4net.Reporting@5.1.1
 - pkg:nuget/uml4net.Reporting@5.2.2
+- pkg:nuget/uml4net.Reporting@7.0.1
+- pkg:nuget/uml4net.Reporting@8.0.0
+- pkg:nuget/uml4net.Reporting@8.0.1

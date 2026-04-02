@@ -3,6 +3,8 @@
 - pkg:nuget/SUI.DBS.Response.Logger.Watcher@0.0.11
 - pkg:nuget/SUI.DBS.Response.Logger.Watcher@0.0.12
 - pkg:nuget/SUI.DBS.Response.Logger.Watcher@0.0.13
+- pkg:nuget/SUI.DBS.Response.Logger.Watcher@0.0.16
+- pkg:nuget/SUI.DBS.Response.Logger.Watcher@0.0.17
 - pkg:nuget/SUI.DBS.Response.Logger.Watcher@0.0.2
 - pkg:nuget/SUI.DBS.Response.Logger.Watcher@0.0.3
 - pkg:nuget/SUI.DBS.Response.Logger.Watcher@0.0.4

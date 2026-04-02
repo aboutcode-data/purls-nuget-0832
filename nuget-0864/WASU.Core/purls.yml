@@ -58,3 +58,5 @@
 - pkg:nuget/WASU.Core@25.927.10
 - pkg:nuget/WASU.Core@25.927.9
 - pkg:nuget/WASU.Core@25.930.14
+- pkg:nuget/WASU.Core@26.327.16
+- pkg:nuget/WASU.Core@26.330.13

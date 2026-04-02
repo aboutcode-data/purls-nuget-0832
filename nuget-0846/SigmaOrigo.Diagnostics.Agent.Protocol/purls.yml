@@ -8,3 +8,4 @@
 - pkg:nuget/SigmaOrigo.Diagnostics.Agent.Protocol@1.5.1
 - pkg:nuget/SigmaOrigo.Diagnostics.Agent.Protocol@1.6.0
 - pkg:nuget/SigmaOrigo.Diagnostics.Agent.Protocol@1.7.0
+- pkg:nuget/SigmaOrigo.Diagnostics.Agent.Protocol@1.7.1
