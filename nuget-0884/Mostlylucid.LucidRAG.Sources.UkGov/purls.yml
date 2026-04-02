@@ -1,2 +1,7 @@
 - pkg:nuget/Mostlylucid.LucidRAG.Sources.UkGov@1.0.0-rc5
 - pkg:nuget/Mostlylucid.LucidRAG.Sources.UkGov@1.0.0-rc6
+- pkg:nuget/Mostlylucid.LucidRAG.Sources.UkGov@2.6.0
+- pkg:nuget/Mostlylucid.LucidRAG.Sources.UkGov@2.7.0
+- pkg:nuget/Mostlylucid.LucidRAG.Sources.UkGov@2.7.1
+- pkg:nuget/Mostlylucid.LucidRAG.Sources.UkGov@2.7.3
+- pkg:nuget/Mostlylucid.LucidRAG.Sources.UkGov@2.7.5
