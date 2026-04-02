@@ -23,7 +23,17 @@
 - pkg:nuget/Nalix.Shared@10.6.0
 - pkg:nuget/Nalix.Shared@10.7.0
 - pkg:nuget/Nalix.Shared@11.1.4
+- pkg:nuget/Nalix.Shared@11.3.0
+- pkg:nuget/Nalix.Shared@11.4.0
+- pkg:nuget/Nalix.Shared@11.4.9
+- pkg:nuget/Nalix.Shared@11.5.0
+- pkg:nuget/Nalix.Shared@11.5.1
+- pkg:nuget/Nalix.Shared@11.6.0
 - pkg:nuget/Nalix.Shared@11.6.1
+- pkg:nuget/Nalix.Shared@11.7.0
+- pkg:nuget/Nalix.Shared@11.7.1
+- pkg:nuget/Nalix.Shared@11.7.2
+- pkg:nuget/Nalix.Shared@11.7.3
 - pkg:nuget/Nalix.Shared@11.7.4
 - pkg:nuget/Nalix.Shared@11.7.6
 - pkg:nuget/Nalix.Shared@2.1.7

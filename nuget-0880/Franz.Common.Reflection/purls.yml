@@ -16,3 +16,5 @@
 - pkg:nuget/Franz.Common.Reflection@1.5.9
 - pkg:nuget/Franz.Common.Reflection@1.6.21
 - pkg:nuget/Franz.Common.Reflection@1.7.2
+- pkg:nuget/Franz.Common.Reflection@2.0.1
+- pkg:nuget/Franz.Common.Reflection@2.0.2

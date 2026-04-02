@@ -10,6 +10,7 @@
 - pkg:nuget/EasyAbp.Abp.GraphQL.Web.Altair@1.11.0
 - pkg:nuget/EasyAbp.Abp.GraphQL.Web.Altair@1.12.0
 - pkg:nuget/EasyAbp.Abp.GraphQL.Web.Altair@1.13.0
+- pkg:nuget/EasyAbp.Abp.GraphQL.Web.Altair@1.15.0
 - pkg:nuget/EasyAbp.Abp.GraphQL.Web.Altair@1.2.0
 - pkg:nuget/EasyAbp.Abp.GraphQL.Web.Altair@1.3.0
 - pkg:nuget/EasyAbp.Abp.GraphQL.Web.Altair@1.4.0

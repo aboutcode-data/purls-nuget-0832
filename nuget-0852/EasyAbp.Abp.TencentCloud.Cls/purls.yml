@@ -12,6 +12,7 @@
 - pkg:nuget/EasyAbp.Abp.TencentCloud.Cls@1.21.0
 - pkg:nuget/EasyAbp.Abp.TencentCloud.Cls@1.22.0
 - pkg:nuget/EasyAbp.Abp.TencentCloud.Cls@1.23.0
+- pkg:nuget/EasyAbp.Abp.TencentCloud.Cls@1.25.0
 - pkg:nuget/EasyAbp.Abp.TencentCloud.Cls@1.6.3
 - pkg:nuget/EasyAbp.Abp.TencentCloud.Cls@1.6.4
 - pkg:nuget/EasyAbp.Abp.TencentCloud.Cls@1.6.5

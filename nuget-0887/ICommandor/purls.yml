@@ -2,3 +2,4 @@
 - pkg:nuget/ICommandor@1.0.51
 - pkg:nuget/ICommandor@1.0.6
 - pkg:nuget/ICommandor@1.1.0
+- pkg:nuget/ICommandor@1.2.0

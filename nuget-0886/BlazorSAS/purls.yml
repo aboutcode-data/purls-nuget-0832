@@ -57,5 +57,6 @@
 - pkg:nuget/BlazorSAS@1.0.9
 - pkg:nuget/BlazorSAS@9.0.0
 - pkg:nuget/BlazorSAS@9.0.1
+- pkg:nuget/BlazorSAS@9.0.13
 - pkg:nuget/BlazorSAS@9.0.2
 - pkg:nuget/BlazorSAS@9.0.3

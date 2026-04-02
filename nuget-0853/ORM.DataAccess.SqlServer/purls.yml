@@ -38,4 +38,5 @@
 - pkg:nuget/ORM.DataAccess.SqlServer@26.1.1
 - pkg:nuget/ORM.DataAccess.SqlServer@26.1.2
 - pkg:nuget/ORM.DataAccess.SqlServer@26.1.3
+- pkg:nuget/ORM.DataAccess.SqlServer@26.1.4
 - pkg:nuget/ORM.DataAccess.SqlServer@27.0.0

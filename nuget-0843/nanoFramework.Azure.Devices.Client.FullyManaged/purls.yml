@@ -1,5 +1,6 @@
 - pkg:nuget/nanoFramework.Azure.Devices.Client.FullyManaged@1.2.1
 - pkg:nuget/nanoFramework.Azure.Devices.Client.FullyManaged@1.2.10
+- pkg:nuget/nanoFramework.Azure.Devices.Client.FullyManaged@1.2.107
 - pkg:nuget/nanoFramework.Azure.Devices.Client.FullyManaged@1.2.12
 - pkg:nuget/nanoFramework.Azure.Devices.Client.FullyManaged@1.2.14
 - pkg:nuget/nanoFramework.Azure.Devices.Client.FullyManaged@1.2.16

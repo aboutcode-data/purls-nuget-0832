@@ -10,3 +10,7 @@
 - pkg:nuget/Mapster.Core@1.2.2-pre01
 - pkg:nuget/Mapster.Core@1.2.3-pre01
 - pkg:nuget/Mapster.Core@1.2.3-pre02
+- pkg:nuget/Mapster.Core@10.0.7-pre01
+- pkg:nuget/Mapster.Core@10.0.7-pre02
+- pkg:nuget/Mapster.Core@10.0.7-pre03
+- pkg:nuget/Mapster.Core@10.0.7-pre04

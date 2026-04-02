@@ -173,6 +173,7 @@
 - pkg:nuget/Bitmovin.Api.Sdk@1.244.0
 - pkg:nuget/Bitmovin.Api.Sdk@1.25.0-alpha.0
 - pkg:nuget/Bitmovin.Api.Sdk@1.26.0-alpha.0
+- pkg:nuget/Bitmovin.Api.Sdk@1.261.0
 - pkg:nuget/Bitmovin.Api.Sdk@1.27.0-alpha.0
 - pkg:nuget/Bitmovin.Api.Sdk@1.28.0-alpha.0
 - pkg:nuget/Bitmovin.Api.Sdk@1.29.0-alpha.0

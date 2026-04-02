@@ -106,8 +106,10 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.26.0-feature-circuittype-property-versiport.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.28.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.28.0-fix-implement-IKeyed-on-BridgeBase.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.29.0-feature-add-audioDeviceKey-prop-to-sli.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.29.0-feature-add-network-switch-poe-interfaces.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.29.0-feature-add-network-switch-poe-interfaces.4
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.29.0-feature-web-api-updates.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0-beta.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0-beta.2

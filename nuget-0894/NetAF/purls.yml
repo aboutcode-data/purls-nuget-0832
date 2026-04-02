@@ -83,6 +83,10 @@
 - pkg:nuget/NetAF@3.1.2
 - pkg:nuget/NetAF@3.10.1
 - pkg:nuget/NetAF@3.13.2
+- pkg:nuget/NetAF@3.16.7
+- pkg:nuget/NetAF@3.16.8
+- pkg:nuget/NetAF@3.16.9
+- pkg:nuget/NetAF@3.17.0
 - pkg:nuget/NetAF@3.2.0
 - pkg:nuget/NetAF@3.2.1
 - pkg:nuget/NetAF@3.2.10

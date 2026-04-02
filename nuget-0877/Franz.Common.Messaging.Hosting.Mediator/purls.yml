@@ -7,3 +7,5 @@
 - pkg:nuget/Franz.Common.Messaging.Hosting.Mediator@1.6.21
 - pkg:nuget/Franz.Common.Messaging.Hosting.Mediator@1.7.2
 - pkg:nuget/Franz.Common.Messaging.Hosting.Mediator@1.7.3
+- pkg:nuget/Franz.Common.Messaging.Hosting.Mediator@2.0.1
+- pkg:nuget/Franz.Common.Messaging.Hosting.Mediator@2.0.2

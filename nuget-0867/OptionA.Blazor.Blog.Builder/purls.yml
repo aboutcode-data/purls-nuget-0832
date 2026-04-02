@@ -1,3 +1,4 @@
+- pkg:nuget/OptionA.Blazor.Blog.Builder@10.1.0
 - pkg:nuget/OptionA.Blazor.Blog.Builder@7.2.0
 - pkg:nuget/OptionA.Blazor.Blog.Builder@7.3.0
 - pkg:nuget/OptionA.Blazor.Blog.Builder@7.3.1

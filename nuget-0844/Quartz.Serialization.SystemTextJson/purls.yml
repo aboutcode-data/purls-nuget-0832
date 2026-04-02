@@ -5,3 +5,4 @@
 - pkg:nuget/Quartz.Serialization.SystemTextJson@3.13.1
 - pkg:nuget/Quartz.Serialization.SystemTextJson@3.14.0
 - pkg:nuget/Quartz.Serialization.SystemTextJson@3.15.0
+- pkg:nuget/Quartz.Serialization.SystemTextJson@3.17.0

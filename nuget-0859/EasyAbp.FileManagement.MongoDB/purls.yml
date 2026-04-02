@@ -68,6 +68,7 @@
 - pkg:nuget/EasyAbp.FileManagement.MongoDB@5.0.0-preview.2
 - pkg:nuget/EasyAbp.FileManagement.MongoDB@5.0.0-preview.3
 - pkg:nuget/EasyAbp.FileManagement.MongoDB@5.1.0
+- pkg:nuget/EasyAbp.FileManagement.MongoDB@5.10.0
 - pkg:nuget/EasyAbp.FileManagement.MongoDB@5.2.0
 - pkg:nuget/EasyAbp.FileManagement.MongoDB@5.2.0-preview.1
 - pkg:nuget/EasyAbp.FileManagement.MongoDB@5.2.0-preview.2

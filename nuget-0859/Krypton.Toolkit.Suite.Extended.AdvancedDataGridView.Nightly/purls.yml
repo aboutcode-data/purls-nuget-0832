@@ -15,6 +15,7 @@
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.AdvancedDataGridView.Nightly@100.25.7.209-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.AdvancedDataGridView.Nightly@100.25.8.230-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.AdvancedDataGridView.Nightly@100.25.9.244-alpha
+- pkg:nuget/Krypton.Toolkit.Suite.Extended.AdvancedDataGridView.Nightly@110.26.4.92-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.AdvancedDataGridView.Nightly@80.23.1.10-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.AdvancedDataGridView.Nightly@80.23.1.16-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.AdvancedDataGridView.Nightly@80.23.1.24-alpha
