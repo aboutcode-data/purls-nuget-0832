@@ -158,3 +158,4 @@
 - pkg:nuget/Ark.Tools.EventSourcing@5.3.1
 - pkg:nuget/Ark.Tools.EventSourcing@5.4.0
 - pkg:nuget/Ark.Tools.EventSourcing@5.5.0
+- pkg:nuget/Ark.Tools.EventSourcing@6.0.0

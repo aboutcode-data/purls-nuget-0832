@@ -84,6 +84,7 @@
 - pkg:nuget/Nuuvify.CommonPack.Email.Abstraction@2.0.0-preview.24111902
 - pkg:nuget/Nuuvify.CommonPack.Email.Abstraction@2.0.0-preview.25021001
 - pkg:nuget/Nuuvify.CommonPack.Email.Abstraction@2.0.0-preview.25021006
+- pkg:nuget/Nuuvify.CommonPack.Email.Abstraction@2.3.0-preview.26033108
 - pkg:nuget/Nuuvify.CommonPack.Email.Abstraction@3.0.1-preview.22022423
 - pkg:nuget/Nuuvify.CommonPack.Email.Abstraction@3.0.1-preview.22022424
 - pkg:nuget/Nuuvify.CommonPack.Email.Abstraction@3.0.1-preview.22022425

@@ -1,0 +1,4 @@
+- pkg:nuget/xunit.v3.extensions.ordering@0.1.0
+- pkg:nuget/xunit.v3.extensions.ordering@0.1.1
+- pkg:nuget/xunit.v3.extensions.ordering@0.2.0
+- pkg:nuget/xunit.v3.extensions.ordering@0.3.0

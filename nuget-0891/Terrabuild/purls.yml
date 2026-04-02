@@ -230,6 +230,9 @@
 - pkg:nuget/Terrabuild@0.19.1
 - pkg:nuget/Terrabuild@0.19.2
 - pkg:nuget/Terrabuild@0.19.3
+- pkg:nuget/Terrabuild@0.192.4
+- pkg:nuget/Terrabuild@0.192.4-next
+- pkg:nuget/Terrabuild@0.193.0-next
 - pkg:nuget/Terrabuild@0.20.0
 - pkg:nuget/Terrabuild@0.20.1
 - pkg:nuget/Terrabuild@0.20.2

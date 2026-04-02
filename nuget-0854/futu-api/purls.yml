@@ -1,6 +1,7 @@
 - pkg:nuget/futu-api@0.0.1
 - pkg:nuget/futu-api@1.0.0
 - pkg:nuget/futu-api@1.0.1
+- pkg:nuget/futu-api@10.2.6208
 - pkg:nuget/futu-api@5.10.2208
 - pkg:nuget/futu-api@5.11.2308
 - pkg:nuget/futu-api@5.12.2407

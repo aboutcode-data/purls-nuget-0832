@@ -1353,6 +1353,12 @@
 - pkg:nuget/Pulumi@3.102.0-alpha.74d43ec
 - pkg:nuget/Pulumi@3.102.1-alpha.0df0e2c
 - pkg:nuget/Pulumi@3.102.1-alpha.2138e14
+- pkg:nuget/Pulumi@3.102.1-alpha.2ed39c7
+- pkg:nuget/Pulumi@3.102.1-alpha.50195f9
+- pkg:nuget/Pulumi@3.102.1-alpha.6383d9b
+- pkg:nuget/Pulumi@3.102.1-alpha.75807a2
+- pkg:nuget/Pulumi@3.102.1-alpha.81cdcfa
+- pkg:nuget/Pulumi@3.102.1-alpha.eff4080
 - pkg:nuget/Pulumi@3.11.0
 - pkg:nuget/Pulumi@3.11.0-alpha.1628736683%2B2d70324b
 - pkg:nuget/Pulumi@3.11.0-alpha.1628736736%2Becb98b66

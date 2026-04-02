@@ -1,2 +1,4 @@
 - pkg:nuget/Casedev@0.10.2
+- pkg:nuget/Casedev@0.12.0
+- pkg:nuget/Casedev@0.13.0
 - pkg:nuget/Casedev@0.2.3

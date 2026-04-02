@@ -37,6 +37,7 @@
 - pkg:nuget/ModernUOSchemaGenerator@2.12.6
 - pkg:nuget/ModernUOSchemaGenerator@2.12.8
 - pkg:nuget/ModernUOSchemaGenerator@2.12.9
+- pkg:nuget/ModernUOSchemaGenerator@2.14.3
 - pkg:nuget/ModernUOSchemaGenerator@2.2.0
 - pkg:nuget/ModernUOSchemaGenerator@2.2.1
 - pkg:nuget/ModernUOSchemaGenerator@2.2.2

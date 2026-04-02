@@ -1165,6 +1165,7 @@
 - pkg:nuget/AWSSDK.Pricing@3.7.502.58
 - pkg:nuget/AWSSDK.Pricing@3.7.502.59
 - pkg:nuget/AWSSDK.Pricing@3.7.502.6
+- pkg:nuget/AWSSDK.Pricing@3.7.502.60
 - pkg:nuget/AWSSDK.Pricing@4.0.0
 - pkg:nuget/AWSSDK.Pricing@4.0.0-preview
 - pkg:nuget/AWSSDK.Pricing@4.0.0-preview.10
@@ -1206,3 +1207,7 @@
 - pkg:nuget/AWSSDK.Pricing@4.0.2.8
 - pkg:nuget/AWSSDK.Pricing@4.0.3.18
 - pkg:nuget/AWSSDK.Pricing@4.0.3.19
+- pkg:nuget/AWSSDK.Pricing@4.0.3.20
+- pkg:nuget/AWSSDK.Pricing@4.0.3.21
+- pkg:nuget/AWSSDK.Pricing@4.0.3.22
+- pkg:nuget/AWSSDK.Pricing@4.0.3.23

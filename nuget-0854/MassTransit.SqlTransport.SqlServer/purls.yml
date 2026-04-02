@@ -266,4 +266,10 @@
 - pkg:nuget/MassTransit.SqlTransport.SqlServer@9.0.0-develop.31
 - pkg:nuget/MassTransit.SqlTransport.SqlServer@9.0.0-develop.33
 - pkg:nuget/MassTransit.SqlTransport.SqlServer@9.0.0-develop.34
+- pkg:nuget/MassTransit.SqlTransport.SqlServer@9.1.0
+- pkg:nuget/MassTransit.SqlTransport.SqlServer@9.1.0-develop.100
 - pkg:nuget/MassTransit.SqlTransport.SqlServer@9.1.0-develop.71
+- pkg:nuget/MassTransit.SqlTransport.SqlServer@9.1.0-develop.94
+- pkg:nuget/MassTransit.SqlTransport.SqlServer@9.1.0-develop.96
+- pkg:nuget/MassTransit.SqlTransport.SqlServer@9.1.0-develop.98
+- pkg:nuget/MassTransit.SqlTransport.SqlServer@9.1.0-develop.99

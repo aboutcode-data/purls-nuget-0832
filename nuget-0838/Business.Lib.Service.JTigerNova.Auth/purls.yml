@@ -212,6 +212,13 @@
 - pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.31.2
 - pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.31.3
 - pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.32.0
+- pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.33.0
+- pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.33.1
+- pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.33.2
+- pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.33.3
+- pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.33.4
+- pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.34.0
+- pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.35.0
 - pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.4.0
 - pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.5.0
 - pkg:nuget/Business.Lib.Service.JTigerNova.Auth@5.6.0

@@ -372,6 +372,8 @@
 - pkg:nuget/LangChain.Core@0.17.1-dev.7
 - pkg:nuget/LangChain.Core@0.17.1-dev.84
 - pkg:nuget/LangChain.Core@0.17.1-dev.9
+- pkg:nuget/LangChain.Core@0.17.1-dev.91
+- pkg:nuget/LangChain.Core@0.17.1-dev.94
 - pkg:nuget/LangChain.Core@0.8.0
 - pkg:nuget/LangChain.Core@0.8.1
 - pkg:nuget/LangChain.Core@0.8.2

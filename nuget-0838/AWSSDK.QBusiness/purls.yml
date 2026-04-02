@@ -339,6 +339,7 @@
 - pkg:nuget/AWSSDK.QBusiness@3.7.504.30
 - pkg:nuget/AWSSDK.QBusiness@3.7.504.33
 - pkg:nuget/AWSSDK.QBusiness@3.7.504.34
+- pkg:nuget/AWSSDK.QBusiness@3.7.504.35
 - pkg:nuget/AWSSDK.QBusiness@4.0.0
 - pkg:nuget/AWSSDK.QBusiness@4.0.0-preview
 - pkg:nuget/AWSSDK.QBusiness@4.0.0-preview.10
@@ -380,4 +381,8 @@
 - pkg:nuget/AWSSDK.QBusiness@4.0.5.2
 - pkg:nuget/AWSSDK.QBusiness@4.0.5.4
 - pkg:nuget/AWSSDK.QBusiness@4.0.5.8
+- pkg:nuget/AWSSDK.QBusiness@4.0.7.10
+- pkg:nuget/AWSSDK.QBusiness@4.0.7.11
+- pkg:nuget/AWSSDK.QBusiness@4.0.7.12
+- pkg:nuget/AWSSDK.QBusiness@4.0.7.13
 - pkg:nuget/AWSSDK.QBusiness@4.0.7.8

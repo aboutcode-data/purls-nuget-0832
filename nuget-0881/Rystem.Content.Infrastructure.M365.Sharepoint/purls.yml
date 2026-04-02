@@ -1,3 +1,4 @@
+- pkg:nuget/Rystem.Content.Infrastructure.M365.Sharepoint@10.0.7
 - pkg:nuget/Rystem.Content.Infrastructure.M365.Sharepoint@4.0.0
 - pkg:nuget/Rystem.Content.Infrastructure.M365.Sharepoint@4.0.3
 - pkg:nuget/Rystem.Content.Infrastructure.M365.Sharepoint@4.0.4

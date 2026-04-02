@@ -50,6 +50,7 @@
 - pkg:nuget/OCI.DotNetSDK.Marketplace@122.0.0
 - pkg:nuget/OCI.DotNetSDK.Marketplace@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Marketplace@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Marketplace@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Marketplace@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Marketplace@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Marketplace@14.2.0

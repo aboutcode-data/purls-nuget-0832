@@ -1,4 +1,6 @@
 - pkg:nuget/Shimakaze.Sdk.Csf.Converter@0.0.1-preview.11
 - pkg:nuget/Shimakaze.Sdk.Csf.Converter@0.0.1-preview.12
 - pkg:nuget/Shimakaze.Sdk.Csf.Converter@0.0.1-preview.12-patch.1
+- pkg:nuget/Shimakaze.Sdk.Csf.Converter@0.0.1-preview.15
 - pkg:nuget/Shimakaze.Sdk.Csf.Converter@0.1.0-alpha.1
+- pkg:nuget/Shimakaze.Sdk.Csf.Converter@0.1.0-develop.1%2B628

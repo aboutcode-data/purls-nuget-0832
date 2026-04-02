@@ -134,5 +134,6 @@
 - pkg:nuget/DecSm.Atom@2.0.0-rc.145
 - pkg:nuget/DecSm.Atom@2.1.0-rc.49
 - pkg:nuget/DecSm.Atom@2.3.0-rc.23
+- pkg:nuget/DecSm.Atom@2.3.0-rc.26
 - pkg:nuget/DecSm.Atom@3.0.0-beta.feature-v-next.96
 - pkg:nuget/DecSm.Atom@3.0.0-beta.feature-v-next.98

@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.3.27.28-prerelease
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.3.27.30-prerelease
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.3.30.33-prerelease
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.3.31.39-prerelease
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.4.1.41-prerelease

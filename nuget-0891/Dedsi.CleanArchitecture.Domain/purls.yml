@@ -1,4 +1,5 @@
 - pkg:nuget/Dedsi.CleanArchitecture.Domain@10.0.5
+- pkg:nuget/Dedsi.CleanArchitecture.Domain@10.10.2
 - pkg:nuget/Dedsi.CleanArchitecture.Domain@8.2.1
 - pkg:nuget/Dedsi.CleanArchitecture.Domain@8.2.1.1
 - pkg:nuget/Dedsi.CleanArchitecture.Domain@8.2.1.2

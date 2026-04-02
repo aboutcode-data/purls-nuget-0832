@@ -43,6 +43,7 @@
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMSSQL@2.3.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMSSQL@2.3.1
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMSSQL@20.0.0
+- pkg:nuget/WorkflowEngine.NETCore-ProviderForMSSQL@20.0.8
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMSSQL@3.0.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMSSQL@3.0.1
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMSSQL@3.0.2

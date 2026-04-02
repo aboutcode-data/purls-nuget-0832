@@ -657,6 +657,7 @@
 - pkg:nuget/AWSSDK.BillingConductor@3.7.504.36
 - pkg:nuget/AWSSDK.BillingConductor@3.7.504.39
 - pkg:nuget/AWSSDK.BillingConductor@3.7.504.40
+- pkg:nuget/AWSSDK.BillingConductor@3.7.504.41
 - pkg:nuget/AWSSDK.BillingConductor@3.7.504.7
 - pkg:nuget/AWSSDK.BillingConductor@4.0.0
 - pkg:nuget/AWSSDK.BillingConductor@4.0.0-preview
@@ -695,5 +696,9 @@
 - pkg:nuget/AWSSDK.BillingConductor@4.0.1.1
 - pkg:nuget/AWSSDK.BillingConductor@4.0.1.2
 - pkg:nuget/AWSSDK.BillingConductor@4.0.1.4
+- pkg:nuget/AWSSDK.BillingConductor@4.0.4.11
+- pkg:nuget/AWSSDK.BillingConductor@4.0.4.12
+- pkg:nuget/AWSSDK.BillingConductor@4.0.4.13
+- pkg:nuget/AWSSDK.BillingConductor@4.0.4.14
 - pkg:nuget/AWSSDK.BillingConductor@4.0.4.2
 - pkg:nuget/AWSSDK.BillingConductor@4.0.4.9

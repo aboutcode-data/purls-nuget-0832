@@ -41,6 +41,19 @@
 - pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.213
 - pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.216
 - pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.243
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.301
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.302
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.303
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.304
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.306
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.307
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.308
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.309
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.310
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.311
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.312
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.313
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.314
 - pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.72
 - pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.73
 - pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.74
@@ -62,3 +75,6 @@
 - pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.97
 - pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.98
 - pkg:nuget/MyLittleContentEngine.BlogSite@0.0.0-alpha.0.99
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.1
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.2-alpha.0.1
+- pkg:nuget/MyLittleContentEngine.BlogSite@0.0.2-alpha.0.2

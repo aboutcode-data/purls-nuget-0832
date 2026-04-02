@@ -21,3 +21,10 @@
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1840-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1842-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1860-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1862-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1863-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1864-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1865-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1866-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1867-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1869-main

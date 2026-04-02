@@ -198,3 +198,4 @@
 - pkg:nuget/Ark.Tools.ResourceWatcher.WorkerHost.Sql@5.3.1
 - pkg:nuget/Ark.Tools.ResourceWatcher.WorkerHost.Sql@5.4.0
 - pkg:nuget/Ark.Tools.ResourceWatcher.WorkerHost.Sql@5.5.0
+- pkg:nuget/Ark.Tools.ResourceWatcher.WorkerHost.Sql@6.0.0

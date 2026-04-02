@@ -192,3 +192,4 @@
 - pkg:nuget/ScottPlot@5.0.7-beta
 - pkg:nuget/ScottPlot@5.0.8-beta
 - pkg:nuget/ScottPlot@5.0.9-beta
+- pkg:nuget/ScottPlot@5.1.58

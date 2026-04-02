@@ -35,3 +35,6 @@
 - pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.49
 - pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.50
 - pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.51
+- pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.56
+- pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.57
+- pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.58

@@ -48,6 +48,10 @@
 - pkg:nuget/Cisco.Api@2.0.95
 - pkg:nuget/Cisco.Api@2.0.96
 - pkg:nuget/Cisco.Api@3.0.1
+- pkg:nuget/Cisco.Api@3.0.111
+- pkg:nuget/Cisco.Api@3.0.114
+- pkg:nuget/Cisco.Api@3.0.115
+- pkg:nuget/Cisco.Api@3.0.116
 - pkg:nuget/Cisco.Api@3.0.17
 - pkg:nuget/Cisco.Api@3.0.19
 - pkg:nuget/Cisco.Api@3.0.20

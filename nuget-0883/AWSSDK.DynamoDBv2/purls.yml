@@ -1272,6 +1272,7 @@
 - pkg:nuget/AWSSDK.DynamoDBv2@3.7.512.6
 - pkg:nuget/AWSSDK.DynamoDBv2@3.7.512.9
 - pkg:nuget/AWSSDK.DynamoDBv2@3.7.513
+- pkg:nuget/AWSSDK.DynamoDBv2@3.7.513.1
 - pkg:nuget/AWSSDK.DynamoDBv2@4.0.0
 - pkg:nuget/AWSSDK.DynamoDBv2@4.0.0-preview
 - pkg:nuget/AWSSDK.DynamoDBv2@4.0.0-preview.10
@@ -1303,6 +1304,10 @@
 - pkg:nuget/AWSSDK.DynamoDBv2@4.0.1.8
 - pkg:nuget/AWSSDK.DynamoDBv2@4.0.1.9
 - pkg:nuget/AWSSDK.DynamoDBv2@4.0.16
+- pkg:nuget/AWSSDK.DynamoDBv2@4.0.17.2
+- pkg:nuget/AWSSDK.DynamoDBv2@4.0.17.3
+- pkg:nuget/AWSSDK.DynamoDBv2@4.0.17.4
+- pkg:nuget/AWSSDK.DynamoDBv2@4.0.17.5
 - pkg:nuget/AWSSDK.DynamoDBv2@4.0.2
 - pkg:nuget/AWSSDK.DynamoDBv2@4.0.2.1
 - pkg:nuget/AWSSDK.DynamoDBv2@4.0.2.2

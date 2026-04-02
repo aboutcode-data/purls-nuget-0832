@@ -10,3 +10,10 @@
 - pkg:nuget/Substratum.Generator@1.0.0-beta.6
 - pkg:nuget/Substratum.Generator@1.0.0-beta.63
 - pkg:nuget/Substratum.Generator@1.0.6
+- pkg:nuget/Substratum.Generator@2.0.0
+- pkg:nuget/Substratum.Generator@2.1.0
+- pkg:nuget/Substratum.Generator@2.1.1
+- pkg:nuget/Substratum.Generator@2.4.0
+- pkg:nuget/Substratum.Generator@2.5.0
+- pkg:nuget/Substratum.Generator@2.5.1
+- pkg:nuget/Substratum.Generator@2.6.0

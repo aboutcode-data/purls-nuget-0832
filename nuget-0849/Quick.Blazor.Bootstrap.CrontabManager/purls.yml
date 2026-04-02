@@ -1,3 +1,6 @@
+- pkg:nuget/Quick.Blazor.Bootstrap.CrontabManager@2026.12.327
+- pkg:nuget/Quick.Blazor.Bootstrap.CrontabManager@2026.13.327
+- pkg:nuget/Quick.Blazor.Bootstrap.CrontabManager@2026.14.328
 - pkg:nuget/Quick.Blazor.Bootstrap.CrontabManager@4.1.0
 - pkg:nuget/Quick.Blazor.Bootstrap.CrontabManager@4.1.1
 - pkg:nuget/Quick.Blazor.Bootstrap.CrontabManager@4.1.2

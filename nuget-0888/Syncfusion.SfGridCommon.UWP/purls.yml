@@ -352,3 +352,4 @@
 - pkg:nuget/Syncfusion.SfGridCommon.UWP@32.2.5
 - pkg:nuget/Syncfusion.SfGridCommon.UWP@32.2.9
 - pkg:nuget/Syncfusion.SfGridCommon.UWP@33.1.45
+- pkg:nuget/Syncfusion.SfGridCommon.UWP@33.1.46

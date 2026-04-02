@@ -1,3 +1,4 @@
+- pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0
 - pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-beta.10
 - pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-beta.100
 - pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-beta.101
@@ -69,6 +70,7 @@
 - pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-beta.911
 - pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-beta.920
 - pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-beta.950
+- pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-dev-227
 - pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-rc1
 - pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-rc1.1
 - pkg:nuget/LiveChartsCore.SkiaSharpView.WPF@2.0.0-rc1.2

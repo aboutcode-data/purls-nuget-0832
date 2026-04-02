@@ -45,3 +45,4 @@
 - pkg:nuget/Microsoft.PowerApps.CLI.Tool@1.46.1
 - pkg:nuget/Microsoft.PowerApps.CLI.Tool@1.47.1
 - pkg:nuget/Microsoft.PowerApps.CLI.Tool@1.48.2
+- pkg:nuget/Microsoft.PowerApps.CLI.Tool@2.5.1

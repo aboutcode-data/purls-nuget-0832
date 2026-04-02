@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Artifacts@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Artifacts@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Artifacts@127.0.0
+- pkg:nuget/OCI.DotNetSDK.Artifacts@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Artifacts@14.2.0
 - pkg:nuget/OCI.DotNetSDK.Artifacts@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Artifacts@15.1.0

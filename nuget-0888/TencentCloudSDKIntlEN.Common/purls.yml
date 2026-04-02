@@ -220,6 +220,12 @@
 - pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.1258
 - pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.1264
 - pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.1268
+- pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.1281
+- pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.1282
+- pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.1283
+- pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.1284
+- pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.1285
+- pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.1286
 - pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.839
 - pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.842
 - pkg:nuget/TencentCloudSDKIntlEN.Common@3.0.843

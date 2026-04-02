@@ -1,4 +1,12 @@
 - pkg:nuget/FireSoft.Win.Standard@10.0.11
+- pkg:nuget/FireSoft.Win.Standard@10.0.22
+- pkg:nuget/FireSoft.Win.Standard@10.0.23
+- pkg:nuget/FireSoft.Win.Standard@10.0.24
+- pkg:nuget/FireSoft.Win.Standard@10.0.25
+- pkg:nuget/FireSoft.Win.Standard@10.0.26
+- pkg:nuget/FireSoft.Win.Standard@10.0.27
+- pkg:nuget/FireSoft.Win.Standard@10.0.28
+- pkg:nuget/FireSoft.Win.Standard@10.0.29
 - pkg:nuget/FireSoft.Win.Standard@8.0.12
 - pkg:nuget/FireSoft.Win.Standard@8.0.13
 - pkg:nuget/FireSoft.Win.Standard@8.0.14
