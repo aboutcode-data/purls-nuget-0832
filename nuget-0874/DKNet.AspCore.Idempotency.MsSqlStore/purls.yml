@@ -1,0 +1,3 @@
+- pkg:nuget/DKNet.AspCore.Idempotency.MsSqlStore@10.0.23
+- pkg:nuget/DKNet.AspCore.Idempotency.MsSqlStore@10.0.24
+- pkg:nuget/DKNet.AspCore.Idempotency.MsSqlStore@10.0.25

@@ -1,1 +1,2 @@
 - pkg:nuget/BarcodeLib.Ocr.Maltese@8.0.0-alpha1
+- pkg:nuget/BarcodeLib.Ocr.Maltese@8.0.0.5
