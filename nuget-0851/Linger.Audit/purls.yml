@@ -25,3 +25,4 @@
 - pkg:nuget/Linger.Audit@0.9.1-preview
 - pkg:nuget/Linger.Audit@0.9.5
 - pkg:nuget/Linger.Audit@0.9.8
+- pkg:nuget/Linger.Audit@1.2.0-preview

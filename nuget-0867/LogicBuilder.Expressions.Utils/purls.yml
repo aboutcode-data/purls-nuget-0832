@@ -36,3 +36,4 @@
 - pkg:nuget/LogicBuilder.Expressions.Utils@6.0.2
 - pkg:nuget/LogicBuilder.Expressions.Utils@6.0.3
 - pkg:nuget/LogicBuilder.Expressions.Utils@7.0.0
+- pkg:nuget/LogicBuilder.Expressions.Utils@8.0.0

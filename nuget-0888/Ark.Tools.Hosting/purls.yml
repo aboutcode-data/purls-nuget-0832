@@ -61,3 +61,4 @@
 - pkg:nuget/Ark.Tools.Hosting@5.3.1
 - pkg:nuget/Ark.Tools.Hosting@5.4.0
 - pkg:nuget/Ark.Tools.Hosting@5.5.0
+- pkg:nuget/Ark.Tools.Hosting@6.0.0

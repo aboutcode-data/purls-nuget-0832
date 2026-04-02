@@ -12,6 +12,7 @@
 - pkg:nuget/EasyAbp.Abp.BlobStoring.TencentCloud@1.14.0
 - pkg:nuget/EasyAbp.Abp.BlobStoring.TencentCloud@1.15.0
 - pkg:nuget/EasyAbp.Abp.BlobStoring.TencentCloud@1.16.0
+- pkg:nuget/EasyAbp.Abp.BlobStoring.TencentCloud@1.18.0
 - pkg:nuget/EasyAbp.Abp.BlobStoring.TencentCloud@1.2.0
 - pkg:nuget/EasyAbp.Abp.BlobStoring.TencentCloud@1.2.1
 - pkg:nuget/EasyAbp.Abp.BlobStoring.TencentCloud@1.2.2

@@ -10,3 +10,5 @@
 - pkg:nuget/Frank.Channels.DependencyInjection@2.1.0
 - pkg:nuget/Frank.Channels.DependencyInjection@2.1.6-preview
 - pkg:nuget/Frank.Channels.DependencyInjection@2.2.0
+- pkg:nuget/Frank.Channels.DependencyInjection@2.2.7-preview
+- pkg:nuget/Frank.Channels.DependencyInjection@2.2.8-preview
