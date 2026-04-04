@@ -478,3 +478,4 @@
 - pkg:nuget/AWSSDK.VerifiedPermissions@4.0.7.2
 - pkg:nuget/AWSSDK.VerifiedPermissions@4.0.7.3
 - pkg:nuget/AWSSDK.VerifiedPermissions@4.0.7.4
+- pkg:nuget/AWSSDK.VerifiedPermissions@4.0.7.5
