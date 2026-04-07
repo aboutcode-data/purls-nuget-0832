@@ -10,6 +10,7 @@
 - pkg:nuget/Reo.Core.Elastic.Geo@10.0.84
 - pkg:nuget/Reo.Core.Elastic.Geo@10.0.85
 - pkg:nuget/Reo.Core.Elastic.Geo@10.0.9
+- pkg:nuget/Reo.Core.Elastic.Geo@10.0.90
 - pkg:nuget/Reo.Core.Elastic.Geo@3.1.10133
 - pkg:nuget/Reo.Core.Elastic.Geo@3.1.10135
 - pkg:nuget/Reo.Core.Elastic.Geo@3.1.10139
