@@ -12,6 +12,7 @@
 - pkg:nuget/CS2Launcher.AspNetCore.Launcher@1.0.0-rc.0.111
 - pkg:nuget/CS2Launcher.AspNetCore.Launcher@1.0.0-rc.0.12
 - pkg:nuget/CS2Launcher.AspNetCore.Launcher@1.0.0-rc.0.13
+- pkg:nuget/CS2Launcher.AspNetCore.Launcher@1.0.0-rc.0.134
 - pkg:nuget/CS2Launcher.AspNetCore.Launcher@1.0.0-rc.0.14
 - pkg:nuget/CS2Launcher.AspNetCore.Launcher@1.0.0-rc.0.15
 - pkg:nuget/CS2Launcher.AspNetCore.Launcher@1.0.0-rc.0.16
