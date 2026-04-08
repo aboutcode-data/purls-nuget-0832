@@ -9,3 +9,4 @@
 - pkg:nuget/Avalonia.HtmlRenderer@11.0.0-preview7
 - pkg:nuget/Avalonia.HtmlRenderer@11.0.0-rc1.1
 - pkg:nuget/Avalonia.HtmlRenderer@11.2.0
+- pkg:nuget/Avalonia.HtmlRenderer@12.0.0
