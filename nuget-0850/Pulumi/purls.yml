@@ -1359,6 +1359,7 @@
 - pkg:nuget/Pulumi@3.102.1-alpha.75807a2
 - pkg:nuget/Pulumi@3.102.1-alpha.81cdcfa
 - pkg:nuget/Pulumi@3.102.1-alpha.eff4080
+- pkg:nuget/Pulumi@3.102.2-alpha.e36ad54
 - pkg:nuget/Pulumi@3.11.0
 - pkg:nuget/Pulumi@3.11.0-alpha.1628736683%2B2d70324b
 - pkg:nuget/Pulumi@3.11.0-alpha.1628736736%2Becb98b66
