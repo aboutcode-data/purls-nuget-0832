@@ -67,6 +67,7 @@
 - pkg:nuget/Microsoft.JavaScript.Hermes@0.0.0-2603.31006-ba485131
 - pkg:nuget/Microsoft.JavaScript.Hermes@0.0.0-2603.31007-fd36e08d
 - pkg:nuget/Microsoft.JavaScript.Hermes@0.0.0-2603.31008-8c32e8f2
+- pkg:nuget/Microsoft.JavaScript.Hermes@0.0.0-2604.8001-81c529e0
 - pkg:nuget/Microsoft.JavaScript.Hermes@0.1.13
 - pkg:nuget/Microsoft.JavaScript.Hermes@0.1.14
 - pkg:nuget/Microsoft.JavaScript.Hermes@0.1.15
