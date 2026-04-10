@@ -7,3 +7,4 @@
 - pkg:nuget/vm2.Ulid@1.0.3-preview.20250921.22
 - pkg:nuget/vm2.Ulid@1.0.4-alpha.0.2
 - pkg:nuget/vm2.Ulid@1.0.5
+- pkg:nuget/vm2.Ulid@3.0.0-preview.1
