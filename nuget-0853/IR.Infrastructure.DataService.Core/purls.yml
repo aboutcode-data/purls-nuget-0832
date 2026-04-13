@@ -5,3 +5,5 @@
 - pkg:nuget/IR.Infrastructure.DataService.Core@2.1.38
 - pkg:nuget/IR.Infrastructure.DataService.Core@2.1.50
 - pkg:nuget/IR.Infrastructure.DataService.Core@2.1.51
+- pkg:nuget/IR.Infrastructure.DataService.Core@2.1.53
+- pkg:nuget/IR.Infrastructure.DataService.Core@2.1.54
