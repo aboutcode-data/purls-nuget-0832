@@ -39,3 +39,4 @@
 - pkg:nuget/Foundatio.Xunit@11.0.8
 - pkg:nuget/Foundatio.Xunit@11.1.0
 - pkg:nuget/Foundatio.Xunit@12.0.0
+- pkg:nuget/Foundatio.Xunit@13.0.0-beta5

@@ -1,2 +1,3 @@
 - pkg:nuget/IN.Notifications@8.0.0.3
+- pkg:nuget/IN.Notifications@8.0.10
 - pkg:nuget/IN.Notifications@9.0.11
