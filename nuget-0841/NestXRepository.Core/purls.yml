@@ -12,3 +12,4 @@
 - pkg:nuget/NestXRepository.Core@1.1.1
 - pkg:nuget/NestXRepository.Core@1.1.5
 - pkg:nuget/NestXRepository.Core@2.0.3
+- pkg:nuget/NestXRepository.Core@2.1.0
