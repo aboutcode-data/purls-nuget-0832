@@ -92,3 +92,4 @@
 - pkg:nuget/Indiko.Blocks.Tracing.OpenTelemetry@2.1.1
 - pkg:nuget/Indiko.Blocks.Tracing.OpenTelemetry@2.2.3
 - pkg:nuget/Indiko.Blocks.Tracing.OpenTelemetry@2.5.0
+- pkg:nuget/Indiko.Blocks.Tracing.OpenTelemetry@2.5.1
