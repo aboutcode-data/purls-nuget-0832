@@ -92,6 +92,7 @@
 - pkg:nuget/CCSWE.nanoFramework.NeoPixel@1.0.72
 - pkg:nuget/CCSWE.nanoFramework.NeoPixel@1.0.8
 - pkg:nuget/CCSWE.nanoFramework.NeoPixel@1.0.9
+- pkg:nuget/CCSWE.nanoFramework.NeoPixel@1.1.122
 - pkg:nuget/CCSWE.nanoFramework.NeoPixel@1.1.18
 - pkg:nuget/CCSWE.nanoFramework.NeoPixel@1.1.19
 - pkg:nuget/CCSWE.nanoFramework.NeoPixel@1.1.20
