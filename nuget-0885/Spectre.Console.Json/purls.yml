@@ -203,3 +203,5 @@
 - pkg:nuget/Spectre.Console.Json@0.55.0
 - pkg:nuget/Spectre.Console.Json@0.55.1-alpha.0.11
 - pkg:nuget/Spectre.Console.Json@0.55.1-alpha.0.12
+- pkg:nuget/Spectre.Console.Json@0.55.1-alpha.0.14
+- pkg:nuget/Spectre.Console.Json@0.55.1-alpha.0.15
