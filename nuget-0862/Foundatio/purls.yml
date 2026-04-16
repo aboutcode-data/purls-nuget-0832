@@ -171,6 +171,7 @@
 - pkg:nuget/Foundatio@11.1.0
 - pkg:nuget/Foundatio@12.0.0
 - pkg:nuget/Foundatio@13.0.0-beta5
+- pkg:nuget/Foundatio@13.0.0-beta6
 - pkg:nuget/Foundatio@2.0.361
 - pkg:nuget/Foundatio@2.0.363
 - pkg:nuget/Foundatio@2.0.365
