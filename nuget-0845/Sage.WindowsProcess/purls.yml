@@ -1,6 +1,7 @@
 - pkg:nuget/Sage.WindowsProcess@1.0.0
 - pkg:nuget/Sage.WindowsProcess@1.0.0.1
 - pkg:nuget/Sage.WindowsProcess@1.0.0.10
+- pkg:nuget/Sage.WindowsProcess@1.0.0.12
 - pkg:nuget/Sage.WindowsProcess@1.0.0.2
 - pkg:nuget/Sage.WindowsProcess@1.0.0.3
 - pkg:nuget/Sage.WindowsProcess@1.0.0.4
