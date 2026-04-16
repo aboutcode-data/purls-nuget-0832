@@ -167,6 +167,7 @@
 - pkg:nuget/Sitko.Core.Puppeteer@11.76.0
 - pkg:nuget/Sitko.Core.Puppeteer@11.8.0
 - pkg:nuget/Sitko.Core.Puppeteer@11.8.1
+- pkg:nuget/Sitko.Core.Puppeteer@11.83.0
 - pkg:nuget/Sitko.Core.Puppeteer@11.9.0
 - pkg:nuget/Sitko.Core.Puppeteer@8.29.0
 - pkg:nuget/Sitko.Core.Puppeteer@8.30.0

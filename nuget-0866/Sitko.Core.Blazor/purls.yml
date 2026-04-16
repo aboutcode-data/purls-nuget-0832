@@ -167,6 +167,7 @@
 - pkg:nuget/Sitko.Core.Blazor@11.76.0
 - pkg:nuget/Sitko.Core.Blazor@11.8.0
 - pkg:nuget/Sitko.Core.Blazor@11.8.1
+- pkg:nuget/Sitko.Core.Blazor@11.83.0
 - pkg:nuget/Sitko.Core.Blazor@11.9.0
 - pkg:nuget/Sitko.Core.Blazor@9.0.0
 - pkg:nuget/Sitko.Core.Blazor@9.0.0-beta.1
