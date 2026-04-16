@@ -16,4 +16,5 @@
 - pkg:nuget/OmniDataAccess.SqlDatabases@1.1.0-rc4
 - pkg:nuget/OmniDataAccess.SqlDatabases@1.2.0-rc.1.250914
 - pkg:nuget/OmniDataAccess.SqlDatabases@1.2.0-rc.2.251007
+- pkg:nuget/OmniDataAccess.SqlDatabases@2.0.0-rc1.260416
 - pkg:nuget/OmniDataAccess.SqlDatabases@2025.7.1
