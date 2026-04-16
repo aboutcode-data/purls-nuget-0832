@@ -1,2 +1,5 @@
 - pkg:nuget/FlowOrchestrator.SqlServer@1.5.1
 - pkg:nuget/FlowOrchestrator.SqlServer@1.5.1-preview.27
+- pkg:nuget/FlowOrchestrator.SqlServer@1.7.0-preview.34
+- pkg:nuget/FlowOrchestrator.SqlServer@1.7.0-preview.35
+- pkg:nuget/FlowOrchestrator.SqlServer@1.7.0-preview.36
