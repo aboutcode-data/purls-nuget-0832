@@ -2,3 +2,5 @@
 - pkg:nuget/Shuttle.Recall.Logging@17.0.1
 - pkg:nuget/Shuttle.Recall.Logging@18.0.0
 - pkg:nuget/Shuttle.Recall.Logging@20.0.0
+- pkg:nuget/Shuttle.Recall.Logging@21.0.0-alpha
+- pkg:nuget/Shuttle.Recall.Logging@21.0.1-beta
