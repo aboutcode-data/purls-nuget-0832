@@ -491,6 +491,7 @@
 - pkg:nuget/Pulumi.GitLab@9.10.0-alpha.1771913335
 - pkg:nuget/Pulumi.GitLab@9.11.0-alpha.1773727554
 - pkg:nuget/Pulumi.GitLab@9.11.0-alpha.1774760700
+- pkg:nuget/Pulumi.GitLab@9.11.0-alpha.1776407093
 - pkg:nuget/Pulumi.GitLab@9.2.0
 - pkg:nuget/Pulumi.GitLab@9.2.0-alpha.1752731712
 - pkg:nuget/Pulumi.GitLab@9.2.0-alpha.1752772127
