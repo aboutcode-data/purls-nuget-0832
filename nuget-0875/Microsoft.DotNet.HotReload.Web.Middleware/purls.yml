@@ -1,1 +1,2 @@
 - pkg:nuget/Microsoft.DotNet.HotReload.Web.Middleware@10.0.101
+- pkg:nuget/Microsoft.DotNet.HotReload.Web.Middleware@10.0.107

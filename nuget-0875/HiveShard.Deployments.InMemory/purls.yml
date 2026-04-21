@@ -1,1 +1,2 @@
 - pkg:nuget/HiveShard.Deployments.InMemory@3.0.3
+- pkg:nuget/HiveShard.Deployments.InMemory@3.2.1
