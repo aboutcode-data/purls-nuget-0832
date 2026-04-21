@@ -35,3 +35,4 @@
 - pkg:nuget/dotnetCampus.SyncTool@3.17.6
 - pkg:nuget/dotnetCampus.SyncTool@3.17.6-alpha01
 - pkg:nuget/dotnetCampus.SyncTool@3.17.7
+- pkg:nuget/dotnetCampus.SyncTool@3.19.2

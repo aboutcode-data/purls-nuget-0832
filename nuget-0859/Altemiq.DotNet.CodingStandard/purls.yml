@@ -43,6 +43,7 @@
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.233
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.235
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.24
+- pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.240
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.25
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.26
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.27
