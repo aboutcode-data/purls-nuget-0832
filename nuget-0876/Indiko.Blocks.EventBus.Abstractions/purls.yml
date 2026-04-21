@@ -153,3 +153,4 @@
 - pkg:nuget/Indiko.Blocks.EventBus.Abstractions@2.2.3
 - pkg:nuget/Indiko.Blocks.EventBus.Abstractions@2.5.0
 - pkg:nuget/Indiko.Blocks.EventBus.Abstractions@2.5.1
+- pkg:nuget/Indiko.Blocks.EventBus.Abstractions@2.6.2
