@@ -40,6 +40,7 @@
 - pkg:nuget/CK.Setup.Dependency@21.0.0
 - pkg:nuget/CK.Setup.Dependency@22.0.0
 - pkg:nuget/CK.Setup.Dependency@22.0.1
+- pkg:nuget/CK.Setup.Dependency@23.0.0
 - pkg:nuget/CK.Setup.Dependency@4.0.0
 - pkg:nuget/CK.Setup.Dependency@4.0.0-b01
 - pkg:nuget/CK.Setup.Dependency@6.0.0
