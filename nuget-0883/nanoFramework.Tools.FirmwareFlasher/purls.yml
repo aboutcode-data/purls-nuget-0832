@@ -120,6 +120,7 @@
 - pkg:nuget/nanoFramework.Tools.FirmwareFlasher@2.5.122
 - pkg:nuget/nanoFramework.Tools.FirmwareFlasher@2.5.125
 - pkg:nuget/nanoFramework.Tools.FirmwareFlasher@2.5.126
+- pkg:nuget/nanoFramework.Tools.FirmwareFlasher@2.5.135
 - pkg:nuget/nanoFramework.Tools.FirmwareFlasher@2.5.2
 - pkg:nuget/nanoFramework.Tools.FirmwareFlasher@2.5.21
 - pkg:nuget/nanoFramework.Tools.FirmwareFlasher@2.5.24
