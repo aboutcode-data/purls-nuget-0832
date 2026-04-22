@@ -32,3 +32,4 @@
 - pkg:nuget/OneImlx.Terminal.Authentication@6.2.2-rc.250615438
 - pkg:nuget/OneImlx.Terminal.Authentication@6.3.2
 - pkg:nuget/OneImlx.Terminal.Authentication@6.3.2-rc.250621442
+- pkg:nuget/OneImlx.Terminal.Authentication@7.0.0-er.260422449
