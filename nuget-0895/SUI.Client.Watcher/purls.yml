@@ -23,6 +23,7 @@
 - pkg:nuget/SUI.Client.Watcher@0.0.49
 - pkg:nuget/SUI.Client.Watcher@0.0.5
 - pkg:nuget/SUI.Client.Watcher@0.0.50
+- pkg:nuget/SUI.Client.Watcher@0.0.54
 - pkg:nuget/SUI.Client.Watcher@0.0.6
 - pkg:nuget/SUI.Client.Watcher@0.0.7
 - pkg:nuget/SUI.Client.Watcher@0.0.8
