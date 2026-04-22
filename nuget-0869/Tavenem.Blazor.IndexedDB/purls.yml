@@ -16,3 +16,4 @@
 - pkg:nuget/Tavenem.Blazor.IndexedDB@6.3.4
 - pkg:nuget/Tavenem.Blazor.IndexedDB@7.0.3-preview-0002
 - pkg:nuget/Tavenem.Blazor.IndexedDB@7.0.5-preview-0001
+- pkg:nuget/Tavenem.Blazor.IndexedDB@7.1.2
