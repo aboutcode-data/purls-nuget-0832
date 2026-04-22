@@ -2,3 +2,4 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.CloudStorage@2.14.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.CloudStorage@2.15.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.CloudStorage@2.19.0
+- pkg:nuget/TestTrackingDiagrams.Extensions.CloudStorage@2.20.0
