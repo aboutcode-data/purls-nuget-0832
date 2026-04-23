@@ -121,6 +121,7 @@
 - pkg:nuget/Exizent.CaseManagement.Client@0.0.490-preview
 - pkg:nuget/Exizent.CaseManagement.Client@0.0.502-preview
 - pkg:nuget/Exizent.CaseManagement.Client@0.0.505-preview
+- pkg:nuget/Exizent.CaseManagement.Client@0.0.522-preview
 - pkg:nuget/Exizent.CaseManagement.Client@0.0.54-preview
 - pkg:nuget/Exizent.CaseManagement.Client@0.0.57-preview
 - pkg:nuget/Exizent.CaseManagement.Client@0.0.6-preview
