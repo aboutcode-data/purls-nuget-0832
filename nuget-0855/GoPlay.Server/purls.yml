@@ -25,3 +25,4 @@
 - pkg:nuget/GoPlay.Server@0.2.9
 - pkg:nuget/GoPlay.Server@0.9.0
 - pkg:nuget/GoPlay.Server@1.0.0
+- pkg:nuget/GoPlay.Server@1.0.3
