@@ -44,3 +44,5 @@
 - pkg:nuget/Credfeto.Tsql.Formatter.Cmd.linux-arm64@0.1.7.449-main
 - pkg:nuget/Credfeto.Tsql.Formatter.Cmd.linux-arm64@0.1.7.451-main
 - pkg:nuget/Credfeto.Tsql.Formatter.Cmd.linux-arm64@0.1.7.452-main
+- pkg:nuget/Credfeto.Tsql.Formatter.Cmd.linux-arm64@0.1.7.467-main
+- pkg:nuget/Credfeto.Tsql.Formatter.Cmd.linux-arm64@0.1.7.468-main
