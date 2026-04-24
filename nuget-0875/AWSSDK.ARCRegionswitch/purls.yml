@@ -35,6 +35,7 @@
 - pkg:nuget/AWSSDK.ARCRegionswitch@3.7.504
 - pkg:nuget/AWSSDK.ARCRegionswitch@3.7.504.5
 - pkg:nuget/AWSSDK.ARCRegionswitch@3.7.505.10
+- pkg:nuget/AWSSDK.ARCRegionswitch@3.7.505.11
 - pkg:nuget/AWSSDK.ARCRegionswitch@3.7.505.4
 - pkg:nuget/AWSSDK.ARCRegionswitch@3.7.505.5
 - pkg:nuget/AWSSDK.ARCRegionswitch@3.7.505.8
