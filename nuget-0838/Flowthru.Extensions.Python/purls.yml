@@ -1,3 +1,5 @@
 - pkg:nuget/Flowthru.Extensions.Python@0.1.31
 - pkg:nuget/Flowthru.Extensions.Python@0.1.32
+- pkg:nuget/Flowthru.Extensions.Python@0.10.0
+- pkg:nuget/Flowthru.Extensions.Python@0.10.0-preview.55
 - pkg:nuget/Flowthru.Extensions.Python@0.6.0
