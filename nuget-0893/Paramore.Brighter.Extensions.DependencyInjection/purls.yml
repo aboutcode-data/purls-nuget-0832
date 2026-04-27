@@ -11,6 +11,7 @@
 - pkg:nuget/Paramore.Brighter.Extensions.DependencyInjection@10.0.0-preview.8
 - pkg:nuget/Paramore.Brighter.Extensions.DependencyInjection@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.Extensions.DependencyInjection@10.0.1
+- pkg:nuget/Paramore.Brighter.Extensions.DependencyInjection@10.4.1
 - pkg:nuget/Paramore.Brighter.Extensions.DependencyInjection@2.0.4
 - pkg:nuget/Paramore.Brighter.Extensions.DependencyInjection@9.0.1
 - pkg:nuget/Paramore.Brighter.Extensions.DependencyInjection@9.0.1-beta.1
