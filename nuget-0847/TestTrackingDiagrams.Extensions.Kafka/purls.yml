@@ -5,3 +5,6 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.Kafka@2.22.28
 - pkg:nuget/TestTrackingDiagrams.Extensions.Kafka@2.23.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.Kafka@2.23.1
+- pkg:nuget/TestTrackingDiagrams.Extensions.Kafka@2.24.0
+- pkg:nuget/TestTrackingDiagrams.Extensions.Kafka@2.24.1
+- pkg:nuget/TestTrackingDiagrams.Extensions.Kafka@2.25.0

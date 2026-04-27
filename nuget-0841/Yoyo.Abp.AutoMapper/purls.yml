@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Abp.AutoMapper@1.0.0
+- pkg:nuget/Yoyo.Abp.AutoMapper@10.3.0
 - pkg:nuget/Yoyo.Abp.AutoMapper@6.4.0
 - pkg:nuget/Yoyo.Abp.AutoMapper@7.3.0
 - pkg:nuget/Yoyo.Abp.AutoMapper@7.3.0.10
