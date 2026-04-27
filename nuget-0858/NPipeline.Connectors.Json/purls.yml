@@ -5,3 +5,4 @@
 - pkg:nuget/NPipeline.Connectors.Json@0.38.2
 - pkg:nuget/NPipeline.Connectors.Json@0.40.0
 - pkg:nuget/NPipeline.Connectors.Json@0.40.1
+- pkg:nuget/NPipeline.Connectors.Json@0.40.3
