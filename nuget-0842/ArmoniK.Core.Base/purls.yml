@@ -4056,8 +4056,10 @@
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-SNAPSHOT.17.sha.2279aaf1
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-SNAPSHOT.19.sha.e6cf5a0b
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-SNAPSHOT.21.sha.f376083c
+- pkg:nuget/ArmoniK.Core.Base@0.38.1-SNAPSHOT.25.sha.0e7f9a9d
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-jgfixrabbit.7.sha.fe9d5a94
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovateallminorpatch.1.sha.23bfa353
+- pkg:nuget/ArmoniK.Core.Base@0.38.1-renovateallminorpatch.26.sha.df793338
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovategithubactions.1.sha.04a78198
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovategithubactions.1.sha.0ec80118
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovategithubactions.1.sha.111ff1a1
@@ -4075,12 +4077,16 @@
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovategithubactions.1.sha.ba7f7db8
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovategithubactions.1.sha.c102dc47
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovategithubactions.1.sha.f4a8c867
+- pkg:nuget/ArmoniK.Core.Base@0.38.1-renovategithubactions.26.sha.6d2c68ba
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatemajorgithubactions.1.sha.a1a22a65
+- pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatemajorgithubactions.26.sha.836a1f2e
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatenuget.1.sha.39421db8
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatenuget.1.sha.4aa2ee77
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatenuget.1.sha.4e137c09
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatenuget.1.sha.b4885ebb
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatenuget.1.sha.c62c403f
+- pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatenuget.26.sha.1b506ebc
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatepindependencies.1.sha.5ca18a0e
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatepindependencies.22.sha.90d3342e
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatepindependencies.7.sha.90f83dd2
+- pkg:nuget/ArmoniK.Core.Base@0.38.1-renovateterraformprovider.26.sha.e6e589fc
