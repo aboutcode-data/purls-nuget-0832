@@ -2,3 +2,4 @@
 - pkg:nuget/ZeroAlloc.Serialisation.SystemTextJson@1.1.0
 - pkg:nuget/ZeroAlloc.Serialisation.SystemTextJson@1.2.1
 - pkg:nuget/ZeroAlloc.Serialisation.SystemTextJson@2.0.0
+- pkg:nuget/ZeroAlloc.Serialisation.SystemTextJson@2.0.1
