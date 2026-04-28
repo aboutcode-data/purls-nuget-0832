@@ -102,3 +102,4 @@
 - pkg:nuget/GAAPICommon@2.6.1
 - pkg:nuget/GAAPICommon@2.7.0-alpha.3
 - pkg:nuget/GAAPICommon@2.7.0-alpha.7
+- pkg:nuget/GAAPICommon@2.7.0-rc.1
