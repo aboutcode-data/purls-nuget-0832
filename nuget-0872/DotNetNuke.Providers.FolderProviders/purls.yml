@@ -3,6 +3,7 @@
 - pkg:nuget/DotNetNuke.Providers.FolderProviders@10.0.1
 - pkg:nuget/DotNetNuke.Providers.FolderProviders@10.1.0
 - pkg:nuget/DotNetNuke.Providers.FolderProviders@10.1.1
+- pkg:nuget/DotNetNuke.Providers.FolderProviders@10.3.2-rc.1
 - pkg:nuget/DotNetNuke.Providers.FolderProviders@9.10.0
 - pkg:nuget/DotNetNuke.Providers.FolderProviders@9.10.1
 - pkg:nuget/DotNetNuke.Providers.FolderProviders@9.10.2
