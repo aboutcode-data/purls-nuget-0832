@@ -1,2 +1,3 @@
 - pkg:nuget/Mud.HttpUtils.Generator@1.6.4
 - pkg:nuget/Mud.HttpUtils.Generator@1.6.5
+- pkg:nuget/Mud.HttpUtils.Generator@2.0.0-preview3
