@@ -3,4 +3,6 @@
 - pkg:nuget/Flowthru.Extensions.Python@0.10.0
 - pkg:nuget/Flowthru.Extensions.Python@0.10.0-preview.55
 - pkg:nuget/Flowthru.Extensions.Python@0.12.0-preview.64
+- pkg:nuget/Flowthru.Extensions.Python@0.12.1
+- pkg:nuget/Flowthru.Extensions.Python@0.12.1-preview.66
 - pkg:nuget/Flowthru.Extensions.Python@0.6.0
