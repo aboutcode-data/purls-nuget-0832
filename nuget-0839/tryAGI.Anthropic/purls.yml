@@ -13,3 +13,4 @@
 - pkg:nuget/tryAGI.Anthropic@3.8.1-dev.88
 - pkg:nuget/tryAGI.Anthropic@3.8.1-dev.89
 - pkg:nuget/tryAGI.Anthropic@3.8.1-dev.94
+- pkg:nuget/tryAGI.Anthropic@3.8.2
