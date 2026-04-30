@@ -2,3 +2,4 @@
 - pkg:nuget/Cerbi.Serilog.GovernanceAnalyzer@1.1.2
 - pkg:nuget/Cerbi.Serilog.GovernanceAnalyzer@1.2.42
 - pkg:nuget/Cerbi.Serilog.GovernanceAnalyzer@1.3.52
+- pkg:nuget/Cerbi.Serilog.GovernanceAnalyzer@1.3.56
