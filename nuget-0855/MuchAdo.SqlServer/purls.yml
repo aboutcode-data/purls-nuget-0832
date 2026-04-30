@@ -16,3 +16,4 @@
 - pkg:nuget/MuchAdo.SqlServer@0.0.25
 - pkg:nuget/MuchAdo.SqlServer@0.0.26
 - pkg:nuget/MuchAdo.SqlServer@0.0.9
+- pkg:nuget/MuchAdo.SqlServer@1.1.0
