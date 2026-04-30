@@ -22,6 +22,7 @@
 - pkg:nuget/Indigina.WMS.SearchEngine.WebApi@1.0.43
 - pkg:nuget/Indigina.WMS.SearchEngine.WebApi@1.0.44
 - pkg:nuget/Indigina.WMS.SearchEngine.WebApi@1.0.5
+- pkg:nuget/Indigina.WMS.SearchEngine.WebApi@1.0.51
 - pkg:nuget/Indigina.WMS.SearchEngine.WebApi@1.0.6
 - pkg:nuget/Indigina.WMS.SearchEngine.WebApi@1.0.7
 - pkg:nuget/Indigina.WMS.SearchEngine.WebApi@1.0.8
