@@ -4,3 +4,5 @@
 - pkg:nuget/Telerik.CLI@1.0.1
 - pkg:nuget/Telerik.CLI@1.0.1-develop.2
 - pkg:nuget/Telerik.CLI@1.1.0-develop.1
+- pkg:nuget/Telerik.CLI@1.1.1
+- pkg:nuget/Telerik.CLI@1.1.1-develop.1
