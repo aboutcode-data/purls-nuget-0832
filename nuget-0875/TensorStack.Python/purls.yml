@@ -1,2 +1,3 @@
 - pkg:nuget/TensorStack.Python@0.6.12
+- pkg:nuget/TensorStack.Python@0.6.20
 - pkg:nuget/TensorStack.Python@0.6.9
