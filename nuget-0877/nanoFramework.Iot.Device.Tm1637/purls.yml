@@ -43,3 +43,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Tm1637@1.2.864
 - pkg:nuget/nanoFramework.Iot.Device.Tm1637@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Tm1637@1.2.95
+- pkg:nuget/nanoFramework.Iot.Device.Tm1637@2.0.0-preview.49
