@@ -369,6 +369,7 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.BuildingRegistry.Api.BackOffice.Abstractions@5.1.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.BuildingRegistry.Api.BackOffice.Abstractions@5.1.1
 - pkg:nuget/Be.Vlaanderen.Basisregisters.BuildingRegistry.Api.BackOffice.Abstractions@5.1.2
+- pkg:nuget/Be.Vlaanderen.Basisregisters.BuildingRegistry.Api.BackOffice.Abstractions@5.10.1
 - pkg:nuget/Be.Vlaanderen.Basisregisters.BuildingRegistry.Api.BackOffice.Abstractions@5.2.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.BuildingRegistry.Api.BackOffice.Abstractions@5.3.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.BuildingRegistry.Api.BackOffice.Abstractions@5.4.0

@@ -168,6 +168,7 @@
 - pkg:nuget/Sitko.Core.Configuration.Vault@11.8.0
 - pkg:nuget/Sitko.Core.Configuration.Vault@11.8.1
 - pkg:nuget/Sitko.Core.Configuration.Vault@11.83.0
+- pkg:nuget/Sitko.Core.Configuration.Vault@11.85.0
 - pkg:nuget/Sitko.Core.Configuration.Vault@11.9.0
 - pkg:nuget/Sitko.Core.Configuration.Vault@8.0.0
 - pkg:nuget/Sitko.Core.Configuration.Vault@8.0.0-preview.0
