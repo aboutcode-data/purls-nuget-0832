@@ -19,3 +19,4 @@
 - pkg:nuget/OneSignalSDK.DotNet@5.2.1
 - pkg:nuget/OneSignalSDK.DotNet@5.2.2
 - pkg:nuget/OneSignalSDK.DotNet@6.1.0
+- pkg:nuget/OneSignalSDK.DotNet@6.1.7
