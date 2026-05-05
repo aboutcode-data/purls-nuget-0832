@@ -22,3 +22,5 @@
 - pkg:nuget/BarcodeParserBuilder@0.1.6
 - pkg:nuget/BarcodeParserBuilder@0.1.7
 - pkg:nuget/BarcodeParserBuilder@0.1.8
+- pkg:nuget/BarcodeParserBuilder@0.2.0-preview1
+- pkg:nuget/BarcodeParserBuilder@0.2.0-rc1
