@@ -2,3 +2,4 @@
 - pkg:nuget/Tailgrape.GateKeeper.API@1.0.20
 - pkg:nuget/Tailgrape.GateKeeper.API@1.0.24
 - pkg:nuget/Tailgrape.GateKeeper.API@1.0.31
+- pkg:nuget/Tailgrape.GateKeeper.API@1.0.33
