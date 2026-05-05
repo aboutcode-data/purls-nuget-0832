@@ -83,6 +83,7 @@
 - pkg:nuget/Simplidots.SalesInvoice.Common.Util@0.0.52-beta.20260317.2
 - pkg:nuget/Simplidots.SalesInvoice.Common.Util@0.0.53-beta.20260421.1
 - pkg:nuget/Simplidots.SalesInvoice.Common.Util@0.0.56
+- pkg:nuget/Simplidots.SalesInvoice.Common.Util@0.0.57-beta.20260505.1
 - pkg:nuget/Simplidots.SalesInvoice.Common.Util@0.0.6
 - pkg:nuget/Simplidots.SalesInvoice.Common.Util@0.0.7
 - pkg:nuget/Simplidots.SalesInvoice.Common.Util@0.0.8
