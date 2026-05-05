@@ -5,3 +5,4 @@
 - pkg:nuget/twinsphere.TypedAasMetamodels.Semantics@1.0.0-rc-20250423
 - pkg:nuget/twinsphere.TypedAasMetamodels.Semantics@1.1.0
 - pkg:nuget/twinsphere.TypedAasMetamodels.Semantics@1.1.0-rc-20250909
+- pkg:nuget/twinsphere.TypedAasMetamodels.Semantics@1.3.0
