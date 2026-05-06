@@ -175,3 +175,6 @@
 - pkg:nuget/InfluxDB3.Client@1.8.0-dev.4066
 - pkg:nuget/InfluxDB3.Client@1.8.0-dev.4095
 - pkg:nuget/InfluxDB3.Client@1.9.0-dev.4448
+- pkg:nuget/InfluxDB3.Client@1.9.0-dev.4648
+- pkg:nuget/InfluxDB3.Client@1.9.0-dev.4657
+- pkg:nuget/InfluxDB3.Client@1.9.0-dev.4679
