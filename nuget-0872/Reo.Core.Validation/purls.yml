@@ -56,6 +56,7 @@
 - pkg:nuget/Reo.Core.Validation@1.0.969
 - pkg:nuget/Reo.Core.Validation@10.0.127
 - pkg:nuget/Reo.Core.Validation@10.0.129
+- pkg:nuget/Reo.Core.Validation@10.0.131
 - pkg:nuget/Reo.Core.Validation@10.0.14
 - pkg:nuget/Reo.Core.Validation@10.0.28
 - pkg:nuget/Reo.Core.Validation@10.0.33

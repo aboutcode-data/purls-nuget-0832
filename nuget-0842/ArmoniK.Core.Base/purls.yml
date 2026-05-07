@@ -4093,3 +4093,4 @@
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-renovateallminorpatch.1.sha.d6f2bb61
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-renovatenuget.1.sha.24a7e2bc
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-renovatepindependencies.1.sha.21882088
+- pkg:nuget/ArmoniK.Core.Base@0.38.2-renovatepindependencies.5.sha.30525abd

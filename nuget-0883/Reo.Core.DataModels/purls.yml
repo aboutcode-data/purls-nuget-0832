@@ -9,6 +9,7 @@
 - pkg:nuget/Reo.Core.DataModels@1.0.95
 - pkg:nuget/Reo.Core.DataModels@10.0.127
 - pkg:nuget/Reo.Core.DataModels@10.0.129
+- pkg:nuget/Reo.Core.DataModels@10.0.131
 - pkg:nuget/Reo.Core.DataModels@10.0.14
 - pkg:nuget/Reo.Core.DataModels@10.0.28
 - pkg:nuget/Reo.Core.DataModels@10.0.33
