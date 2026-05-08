@@ -44,3 +44,4 @@
 - pkg:nuget/CommonNetFuncs.Excel.Common@3.7.17
 - pkg:nuget/CommonNetFuncs.Excel.Common@3.8.38
 - pkg:nuget/CommonNetFuncs.Excel.Common@4.0.17
+- pkg:nuget/CommonNetFuncs.Excel.Common@4.0.36

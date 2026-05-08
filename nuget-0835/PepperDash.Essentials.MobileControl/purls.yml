@@ -187,6 +187,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-meter-feedback-interface.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-meter-feedback-interface.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-unique-client-ids.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-testing.15
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates-claude-tests.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.3
