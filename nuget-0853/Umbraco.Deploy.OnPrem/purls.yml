@@ -123,6 +123,7 @@
 - pkg:nuget/Umbraco.Deploy.OnPrem@16.0.0-rc5
 - pkg:nuget/Umbraco.Deploy.OnPrem@16.0.1
 - pkg:nuget/Umbraco.Deploy.OnPrem@16.0.2
+- pkg:nuget/Umbraco.Deploy.OnPrem@17.1.0-rc2
 - pkg:nuget/Umbraco.Deploy.OnPrem@9.0.0
 - pkg:nuget/Umbraco.Deploy.OnPrem@9.0.0-beta001
 - pkg:nuget/Umbraco.Deploy.OnPrem@9.0.0-beta002
