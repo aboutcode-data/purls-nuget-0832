@@ -32,3 +32,4 @@
 - pkg:nuget/SFA.DAS.Payments.EarningEvents.Messages@2.0.0-prerelease-4
 - pkg:nuget/SFA.DAS.Payments.EarningEvents.Messages@2.0.0-prerelease-751
 - pkg:nuget/SFA.DAS.Payments.EarningEvents.Messages@2.0.8-prerelease-4
+- pkg:nuget/SFA.DAS.Payments.EarningEvents.Messages@2.0.9-prerelease-2

@@ -332,6 +332,7 @@
 - pkg:nuget/Taxi.SharedLibraries@0.5.251
 - pkg:nuget/Taxi.SharedLibraries@0.5.26
 - pkg:nuget/Taxi.SharedLibraries@0.5.27
+- pkg:nuget/Taxi.SharedLibraries@0.5.275
 - pkg:nuget/Taxi.SharedLibraries@0.5.3
 - pkg:nuget/Taxi.SharedLibraries@0.5.31
 - pkg:nuget/Taxi.SharedLibraries@0.5.32
