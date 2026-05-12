@@ -9,7 +9,9 @@
 - pkg:nuget/Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x86@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x86@10.0.1
 - pkg:nuget/Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x86@10.0.7
+- pkg:nuget/Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x86@10.0.8
 - pkg:nuget/Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x86@11.0.0-preview.2.26159.112
+- pkg:nuget/Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x86@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x86@6.0.0
 - pkg:nuget/Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x86@6.0.0-rc.1.21451.13
 - pkg:nuget/Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x86@6.0.0-rc.2.21480.5

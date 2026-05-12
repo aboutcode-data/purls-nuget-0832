@@ -272,3 +272,4 @@
 - pkg:nuget/Microsoft.TemplateEngine.Utils@9.0.302
 - pkg:nuget/Microsoft.TemplateEngine.Utils@9.0.304
 - pkg:nuget/Microsoft.TemplateEngine.Utils@9.0.305
+- pkg:nuget/Microsoft.TemplateEngine.Utils@9.0.314

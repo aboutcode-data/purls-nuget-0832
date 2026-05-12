@@ -44,6 +44,7 @@
 - pkg:nuget/OCI.DotNetSDK.Accessgovernancecp@122.0.0
 - pkg:nuget/OCI.DotNetSDK.Accessgovernancecp@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Accessgovernancecp@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Accessgovernancecp@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Accessgovernancecp@60.1.0
 - pkg:nuget/OCI.DotNetSDK.Accessgovernancecp@61.0.0
 - pkg:nuget/OCI.DotNetSDK.Accessgovernancecp@62.0.0

@@ -10,6 +10,7 @@
 - pkg:nuget/System.Reflection.MetadataLoadContext@10.0.7
 - pkg:nuget/System.Reflection.MetadataLoadContext@11.0.0-preview.1.26104.118
 - pkg:nuget/System.Reflection.MetadataLoadContext@11.0.0-preview.2.26159.112
+- pkg:nuget/System.Reflection.MetadataLoadContext@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Reflection.MetadataLoadContext@4.6.0
 - pkg:nuget/System.Reflection.MetadataLoadContext@4.6.0-preview.18571.3
 - pkg:nuget/System.Reflection.MetadataLoadContext@4.6.0-preview.19073.11
