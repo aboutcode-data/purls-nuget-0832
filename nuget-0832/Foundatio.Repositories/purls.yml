@@ -350,3 +350,4 @@
 - pkg:nuget/Foundatio.Repositories@7.9.1
 - pkg:nuget/Foundatio.Repositories@7.9.2
 - pkg:nuget/Foundatio.Repositories@7.9.3
+- pkg:nuget/Foundatio.Repositories@8.0.0-beta1

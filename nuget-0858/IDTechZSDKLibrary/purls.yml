@@ -2,6 +2,8 @@
 - pkg:nuget/IDTechZSDKLibrary@1.0.0.10
 - pkg:nuget/IDTechZSDKLibrary@1.0.0.11
 - pkg:nuget/IDTechZSDKLibrary@1.0.0.12
+- pkg:nuget/IDTechZSDKLibrary@1.0.0.16
+- pkg:nuget/IDTechZSDKLibrary@1.0.0.17
 - pkg:nuget/IDTechZSDKLibrary@1.0.0.2
 - pkg:nuget/IDTechZSDKLibrary@1.0.0.3
 - pkg:nuget/IDTechZSDKLibrary@1.0.0.4

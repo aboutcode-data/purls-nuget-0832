@@ -8,7 +8,9 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@10.0.7
+- pkg:nuget/Microsoft.AspNetCore.Components.Forms@10.0.8
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@11.0.0-preview.1.26104.118
+- pkg:nuget/Microsoft.AspNetCore.Components.Forms@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@3.0.0-preview9.19424.4
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@3.0.0-rc1.19457.4
@@ -193,6 +195,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@9.0.0-rc.2.24474.3
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@9.0.1
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@9.0.13
+- pkg:nuget/Microsoft.AspNetCore.Components.Forms@9.0.16
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@9.0.2
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.Components.Forms@9.0.4
