@@ -1,5 +1,6 @@
 - pkg:nuget/DotnetPackaging.Tool@10.1.30
 - pkg:nuget/DotnetPackaging.Tool@10.1.31
+- pkg:nuget/DotnetPackaging.Tool@10.1.32
 - pkg:nuget/DotnetPackaging.Tool@7.1.25
 - pkg:nuget/DotnetPackaging.Tool@7.1.26
 - pkg:nuget/DotnetPackaging.Tool@7.1.27
