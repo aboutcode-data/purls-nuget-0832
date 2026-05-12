@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.wasi-wasm@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.wasi-wasm@10.0.7
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.wasi-wasm@11.0.0-preview.1.26104.118
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.wasi-wasm@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.wasi-wasm@9.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.wasi-wasm@9.0.0-preview.1.24080.9
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.wasi-wasm@9.0.0-preview.2.24128.5
