@@ -97,6 +97,7 @@
 - pkg:nuget/Google.Apis.SiteVerification.v1@1.7.0.27-beta
 - pkg:nuget/Google.Apis.SiteVerification.v1@1.7.0.28-beta
 - pkg:nuget/Google.Apis.SiteVerification.v1@1.7.0.29-beta
+- pkg:nuget/Google.Apis.SiteVerification.v1@1.74.0.1783
 - pkg:nuget/Google.Apis.SiteVerification.v1@1.8.0.290-rc
 - pkg:nuget/Google.Apis.SiteVerification.v1@1.8.1.300
 - pkg:nuget/Google.Apis.SiteVerification.v1@1.8.1.310

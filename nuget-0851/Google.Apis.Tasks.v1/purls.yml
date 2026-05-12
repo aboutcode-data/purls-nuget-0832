@@ -131,6 +131,7 @@
 - pkg:nuget/Google.Apis.Tasks.v1@1.7.0.25-beta
 - pkg:nuget/Google.Apis.Tasks.v1@1.7.0.26-beta
 - pkg:nuget/Google.Apis.Tasks.v1@1.7.0.27-beta
+- pkg:nuget/Google.Apis.Tasks.v1@1.74.0.3958
 - pkg:nuget/Google.Apis.Tasks.v1@1.8.0.270-rc
 - pkg:nuget/Google.Apis.Tasks.v1@1.8.1.280
 - pkg:nuget/Google.Apis.Tasks.v1@1.8.1.290

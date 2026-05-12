@@ -92,3 +92,4 @@
 - pkg:nuget/Google.Apis.Translate.v3@1.68.0.3589
 - pkg:nuget/Google.Apis.Translate.v3@1.68.0.3639
 - pkg:nuget/Google.Apis.Translate.v3@1.69.0.3766
+- pkg:nuget/Google.Apis.Translate.v3@1.74.0.4045
