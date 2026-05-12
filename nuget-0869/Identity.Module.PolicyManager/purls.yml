@@ -10,6 +10,7 @@
 - pkg:nuget/Identity.Module.PolicyManager@1.0.8
 - pkg:nuget/Identity.Module.PolicyManager@1.0.9
 - pkg:nuget/Identity.Module.PolicyManager@2.5.110
+- pkg:nuget/Identity.Module.PolicyManager@2.5.117
 - pkg:nuget/Identity.Module.PolicyManager@2.5.12
 - pkg:nuget/Identity.Module.PolicyManager@2.5.15
 - pkg:nuget/Identity.Module.PolicyManager@2.5.18

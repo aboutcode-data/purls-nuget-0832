@@ -25,3 +25,4 @@
 - pkg:nuget/TGL.Backend.Core@2.0.0
 - pkg:nuget/TGL.Backend.Core@2.1.2
 - pkg:nuget/TGL.Backend.Core@2.1.3
+- pkg:nuget/TGL.Backend.Core@2.1.4
