@@ -37,5 +37,7 @@
 - pkg:nuget/ViaInfoNetCoreLibrary@7.4.2
 - pkg:nuget/ViaInfoNetCoreLibrary@7.5.0
 - pkg:nuget/ViaInfoNetCoreLibrary@7.5.1
+- pkg:nuget/ViaInfoNetCoreLibrary@7.6.0
 - pkg:nuget/ViaInfoNetCoreLibrary@9.0.0
 - pkg:nuget/ViaInfoNetCoreLibrary@9.0.1
+- pkg:nuget/ViaInfoNetCoreLibrary@9.2.0
