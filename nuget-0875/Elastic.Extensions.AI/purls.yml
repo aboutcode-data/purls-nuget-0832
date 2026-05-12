@@ -1,1 +1,2 @@
 - pkg:nuget/Elastic.Extensions.AI@0.41.0
+- pkg:nuget/Elastic.Extensions.AI@0.44.1
