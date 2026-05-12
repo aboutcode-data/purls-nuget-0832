@@ -4100,6 +4100,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatepindependencies.22.sha.90d3342e
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovatepindependencies.7.sha.90f83dd2
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovateterraformprovider.26.sha.e6e589fc
+- pkg:nuget/ArmoniK.Core.Base@0.38.2-SNAPSHOT.8.sha.f1a492d9
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-renovateallminorpatch.1.sha.d6f2bb61
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-renovatenuget.1.sha.24a7e2bc
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-renovatepindependencies.1.sha.21882088

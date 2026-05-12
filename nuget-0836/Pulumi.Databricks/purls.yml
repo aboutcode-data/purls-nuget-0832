@@ -561,3 +561,4 @@
 - pkg:nuget/Pulumi.Databricks@1.92.0-alpha.1777271103
 - pkg:nuget/Pulumi.Databricks@1.92.0-alpha.1777876019
 - pkg:nuget/Pulumi.Databricks@1.92.0-alpha.1777961875
+- pkg:nuget/Pulumi.Databricks@1.93.0-alpha.1778567374
