@@ -1,2 +1,3 @@
 - pkg:nuget/DSB.Framework.Lite.Hangfire.Extensions@1.0.0-alpha
 - pkg:nuget/DSB.Framework.Lite.Hangfire.Extensions@1.0.1-alpha
+- pkg:nuget/DSB.Framework.Lite.Hangfire.Extensions@1.0.6
