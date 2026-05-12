@@ -8,6 +8,8 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@10.0.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@10.0.7
+- pkg:nuget/Microsoft.EntityFrameworkCore.Templates@10.0.8
+- pkg:nuget/Microsoft.EntityFrameworkCore.Templates@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@7.0.0
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@7.0.0-rc.1.22426.7
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@7.0.0-rc.2.22472.11
@@ -72,6 +74,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@9.0.0-rc.2.24474.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@9.0.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@9.0.10
+- pkg:nuget/Microsoft.EntityFrameworkCore.Templates@9.0.16
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@9.0.2
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@9.0.3
 - pkg:nuget/Microsoft.EntityFrameworkCore.Templates@9.0.4
