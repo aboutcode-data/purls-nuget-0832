@@ -169,5 +169,6 @@
 - pkg:nuget/AgentHub.Service.Sale.EntityFrameworkCore@1.0.277
 - pkg:nuget/AgentHub.Service.Sale.EntityFrameworkCore@1.0.278
 - pkg:nuget/AgentHub.Service.Sale.EntityFrameworkCore@1.0.279
+- pkg:nuget/AgentHub.Service.Sale.EntityFrameworkCore@1.0.288
 - pkg:nuget/AgentHub.Service.Sale.EntityFrameworkCore@6.0.0
 - pkg:nuget/AgentHub.Service.Sale.EntityFrameworkCore@6.0.1
