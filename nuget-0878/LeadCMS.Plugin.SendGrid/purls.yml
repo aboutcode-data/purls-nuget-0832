@@ -2,3 +2,4 @@
 - pkg:nuget/LeadCMS.Plugin.SendGrid@1.4.9-pre
 - pkg:nuget/LeadCMS.Plugin.SendGrid@1.5.10-pre
 - pkg:nuget/LeadCMS.Plugin.SendGrid@1.5.11-pre
+- pkg:nuget/LeadCMS.Plugin.SendGrid@1.5.17-pre

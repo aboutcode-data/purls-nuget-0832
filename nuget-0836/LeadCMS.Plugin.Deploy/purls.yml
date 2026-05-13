@@ -2,3 +2,4 @@
 - pkg:nuget/LeadCMS.Plugin.Deploy@1.4.9-pre
 - pkg:nuget/LeadCMS.Plugin.Deploy@1.5.10-pre
 - pkg:nuget/LeadCMS.Plugin.Deploy@1.5.11-pre
+- pkg:nuget/LeadCMS.Plugin.Deploy@1.5.17-pre
