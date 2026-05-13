@@ -13,3 +13,4 @@
 - pkg:nuget/nanoFramework.System.Runtime.Serialization@1.0.55
 - pkg:nuget/nanoFramework.System.Runtime.Serialization@1.0.57
 - pkg:nuget/nanoFramework.System.Runtime.Serialization@1.0.7
+- pkg:nuget/nanoFramework.System.Runtime.Serialization@2.0.0-preview.8
