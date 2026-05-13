@@ -1,3 +1,4 @@
 - pkg:nuget/SharpAstro.StbImage@2.30.11%2B92e967b8f46a18992f215053e10a24d613997262
 - pkg:nuget/SharpAstro.StbImage@2.30.41%2B7190245a2f7cb00b1ec9cbecfc7944449308d00c
 - pkg:nuget/SharpAstro.StbImage@2.30.51%2B1fa5b67c220961e1d81e63bfd0047f22ccc7b4ff
+- pkg:nuget/SharpAstro.StbImage@2.30.61%2B0df93f8ea9b176f92e9f38a6c237754c8a55d0ab
