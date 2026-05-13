@@ -2,6 +2,7 @@
 - pkg:nuget/Bit.BlazorEmpty@10.2.0
 - pkg:nuget/Bit.BlazorEmpty@10.4.3-pre-01
 - pkg:nuget/Bit.BlazorEmpty@10.4.4-pre-01
+- pkg:nuget/Bit.BlazorEmpty@10.4.4-pre-04
 - pkg:nuget/Bit.BlazorEmpty@7.2.0
 - pkg:nuget/Bit.BlazorEmpty@7.2.0-pre-01
 - pkg:nuget/Bit.BlazorEmpty@7.2.0-pre-02
