@@ -2,3 +2,5 @@
 - pkg:nuget/Druware.Server.Controllers@1.0.8
 - pkg:nuget/Druware.Server.Controllers@1.1.0
 - pkg:nuget/Druware.Server.Controllers@1.1.11%2B0a00a6dac9df8317722c287827a91bfb9ea9eb66
+- pkg:nuget/Druware.Server.Controllers@1.1.14%2Be5e74a17514265e55ddb39e295e9bc74a35f14f8
+- pkg:nuget/Druware.Server.Controllers@1.1.15%2Be5e74a17514265e55ddb39e295e9bc74a35f14f8
