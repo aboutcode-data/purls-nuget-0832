@@ -622,6 +622,7 @@
 - pkg:nuget/AWSSDK.RedshiftServerless@3.7.504.25
 - pkg:nuget/AWSSDK.RedshiftServerless@3.7.504.26
 - pkg:nuget/AWSSDK.RedshiftServerless@3.7.504.27
+- pkg:nuget/AWSSDK.RedshiftServerless@3.7.504.29
 - pkg:nuget/AWSSDK.RedshiftServerless@4.0.0
 - pkg:nuget/AWSSDK.RedshiftServerless@4.0.0-preview
 - pkg:nuget/AWSSDK.RedshiftServerless@4.0.0-preview.10

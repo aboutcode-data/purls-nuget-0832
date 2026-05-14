@@ -841,6 +841,7 @@
 - pkg:nuget/AWSSDK.IoTSiteWise@3.7.503.56
 - pkg:nuget/AWSSDK.IoTSiteWise@3.7.503.57
 - pkg:nuget/AWSSDK.IoTSiteWise@3.7.503.58
+- pkg:nuget/AWSSDK.IoTSiteWise@3.7.503.60
 - pkg:nuget/AWSSDK.IoTSiteWise@3.7.6
 - pkg:nuget/AWSSDK.IoTSiteWise@3.7.6.1
 - pkg:nuget/AWSSDK.IoTSiteWise@3.7.6.2
