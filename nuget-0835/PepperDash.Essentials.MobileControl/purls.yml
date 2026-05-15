@@ -122,6 +122,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.0-webview-eventhandler.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.3.1-fix-add-client.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.32.0-feat-load-webapi-without-config.2
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.36.0-hotfix-udpClient-clean.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.4.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.4.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.4.2
