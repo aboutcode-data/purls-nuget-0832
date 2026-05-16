@@ -994,3 +994,4 @@
 - pkg:nuget/AWSSDK.IoTSiteWise@4.0.4.22
 - pkg:nuget/AWSSDK.IoTSiteWise@4.0.4.23
 - pkg:nuget/AWSSDK.IoTSiteWise@4.0.4.24
+- pkg:nuget/AWSSDK.IoTSiteWise@4.0.4.32

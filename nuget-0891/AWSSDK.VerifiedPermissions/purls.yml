@@ -475,6 +475,7 @@
 - pkg:nuget/AWSSDK.VerifiedPermissions@4.0.5
 - pkg:nuget/AWSSDK.VerifiedPermissions@4.0.6.5
 - pkg:nuget/AWSSDK.VerifiedPermissions@4.0.7.1
+- pkg:nuget/AWSSDK.VerifiedPermissions@4.0.7.13
 - pkg:nuget/AWSSDK.VerifiedPermissions@4.0.7.2
 - pkg:nuget/AWSSDK.VerifiedPermissions@4.0.7.3
 - pkg:nuget/AWSSDK.VerifiedPermissions@4.0.7.4
