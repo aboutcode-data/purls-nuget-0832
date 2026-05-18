@@ -16,3 +16,4 @@
 - pkg:nuget/Promethix.Framework.Ado@1.1.0-alpha
 - pkg:nuget/Promethix.Framework.Ado@1.1.1
 - pkg:nuget/Promethix.Framework.Ado@2.0.99-alpha
+- pkg:nuget/Promethix.Framework.Ado@2.1.0
