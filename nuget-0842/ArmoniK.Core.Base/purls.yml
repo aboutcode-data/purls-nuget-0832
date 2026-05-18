@@ -4102,6 +4102,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.38.1-renovateterraformprovider.26.sha.e6e589fc
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-SNAPSHOT.20.sha.bca893bc
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-SNAPSHOT.8.sha.f1a492d9
+- pkg:nuget/ArmoniK.Core.Base@0.38.2-choreupgrademongodbdriver3x.19.sha.50a1081d
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-fixmongosessionlivenesscheck.17.sha.c46d5d60
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-jgagentmd.3.sha.62ab0c9f
 - pkg:nuget/ArmoniK.Core.Base@0.38.2-jgagentmd.3.sha.8eeec880
