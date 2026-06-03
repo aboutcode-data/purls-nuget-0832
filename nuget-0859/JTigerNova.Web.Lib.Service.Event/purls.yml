@@ -209,3 +209,9 @@
 - pkg:nuget/JTigerNova.Web.Lib.Service.Event@5.7.1
 - pkg:nuget/JTigerNova.Web.Lib.Service.Event@5.7.2
 - pkg:nuget/JTigerNova.Web.Lib.Service.Event@6.13.1
+- pkg:nuget/JTigerNova.Web.Lib.Service.Event@6.13.4
+- pkg:nuget/JTigerNova.Web.Lib.Service.Event@6.15.1
+- pkg:nuget/JTigerNova.Web.Lib.Service.Event@6.16.3
+- pkg:nuget/JTigerNova.Web.Lib.Service.Event@6.16.4
+- pkg:nuget/JTigerNova.Web.Lib.Service.Event@6.16.7
+- pkg:nuget/JTigerNova.Web.Lib.Service.Event@6.19.0
