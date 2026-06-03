@@ -283,6 +283,9 @@
 - pkg:nuget/gzMath@2.12.315.1
 - pkg:nuget/gzMath@2.12.32.1
 - pkg:nuget/gzMath@2.12.33.1
+- pkg:nuget/gzMath@2.12.330.1
+- pkg:nuget/gzMath@2.12.331.1
+- pkg:nuget/gzMath@2.12.332.1
 - pkg:nuget/gzMath@2.12.34.1
 - pkg:nuget/gzMath@2.12.35.1
 - pkg:nuget/gzMath@2.12.36.1
