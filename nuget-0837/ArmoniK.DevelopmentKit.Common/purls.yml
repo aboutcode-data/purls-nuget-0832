@@ -1744,6 +1744,9 @@
 - pkg:nuget/ArmoniK.DevelopmentKit.Common@0.19.4-01934gfae6c41d.4.sha.fae6c41d
 - pkg:nuget/ArmoniK.DevelopmentKit.Common@0.19.4-SNAPSHOT.10.sha.9d94135f
 - pkg:nuget/ArmoniK.DevelopmentKit.Common@0.19.4-SNAPSHOT.13.sha.9c5bdc3d
+- pkg:nuget/ArmoniK.DevelopmentKit.Common@0.19.5-01942g09861f9a.2.sha.09861f9a
+- pkg:nuget/ArmoniK.DevelopmentKit.Common@0.19.5-01942g3ba0e0aa.2.sha.3ba0e0aa
+- pkg:nuget/ArmoniK.DevelopmentKit.Common@0.19.5-01942g92cf2c2a.2.sha.92cf2c2a
 - pkg:nuget/ArmoniK.DevelopmentKit.Common@0.3.2
 - pkg:nuget/ArmoniK.DevelopmentKit.Common@0.3.3
 - pkg:nuget/ArmoniK.DevelopmentKit.Common@0.3.4
