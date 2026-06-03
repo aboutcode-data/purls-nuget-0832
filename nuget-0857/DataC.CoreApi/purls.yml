@@ -192,6 +192,7 @@
 - pkg:nuget/DataC.CoreApi@8.0.2.9
 - pkg:nuget/DataC.CoreApi@8.0.3
 - pkg:nuget/DataC.CoreApi@8.0.3.1
+- pkg:nuget/DataC.CoreApi@8.0.3.16
 - pkg:nuget/DataC.CoreApi@8.0.3.2
 - pkg:nuget/DataC.CoreApi@8.0.3.3
 - pkg:nuget/DataC.CoreApi@8.0.3.4
