@@ -50,4 +50,7 @@
 - pkg:nuget/Shiny.Extensions.WebHosting@2.0.0-preview-0034
 - pkg:nuget/Shiny.Extensions.WebHosting@2.0.0-preview-0036
 - pkg:nuget/Shiny.Extensions.WebHosting@2.1.0-beta-0043
+- pkg:nuget/Shiny.Extensions.WebHosting@4.0.0
 - pkg:nuget/Shiny.Extensions.WebHosting@4.0.0-beta-0002
+- pkg:nuget/Shiny.Extensions.WebHosting@4.0.0-beta-0059
+- pkg:nuget/Shiny.Extensions.WebHosting@4.0.0-beta-0063
