@@ -1,5 +1,7 @@
 - pkg:nuget/Pyro.Google@1.10.13
 - pkg:nuget/Pyro.Google@1.10.14
+- pkg:nuget/Pyro.Google@1.10.24
+- pkg:nuget/Pyro.Google@1.10.27
 - pkg:nuget/Pyro.Google@1.10.4
 - pkg:nuget/Pyro.Google@1.8.100
 - pkg:nuget/Pyro.Google@1.8.101
