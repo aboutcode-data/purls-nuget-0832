@@ -243,3 +243,4 @@
 - pkg:nuget/EasilyNET.Mongo.ConsoleDebug@4.25.905.150
 - pkg:nuget/EasilyNET.Mongo.ConsoleDebug@4.25.911.151
 - pkg:nuget/EasilyNET.Mongo.ConsoleDebug@4.25.921.71
+- pkg:nuget/EasilyNET.Mongo.ConsoleDebug@6.26.525.103
