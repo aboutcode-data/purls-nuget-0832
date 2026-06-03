@@ -59,3 +59,5 @@
 - pkg:nuget/CommonNetFuncs.Excel.OpenXml@4.0.23
 - pkg:nuget/CommonNetFuncs.Excel.OpenXml@4.0.36
 - pkg:nuget/CommonNetFuncs.Excel.OpenXml@4.0.47
+- pkg:nuget/CommonNetFuncs.Excel.OpenXml@4.0.50
+- pkg:nuget/CommonNetFuncs.Excel.OpenXml@4.0.51
