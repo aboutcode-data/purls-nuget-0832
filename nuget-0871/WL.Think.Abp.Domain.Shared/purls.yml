@@ -68,3 +68,5 @@
 - pkg:nuget/WL.Think.Abp.Domain.Shared@1.0.2-beta.90
 - pkg:nuget/WL.Think.Abp.Domain.Shared@1.0.2-beta.91
 - pkg:nuget/WL.Think.Abp.Domain.Shared@1.0.2-beta.92
+- pkg:nuget/WL.Think.Abp.Domain.Shared@1.0.2.28
+- pkg:nuget/WL.Think.Abp.Domain.Shared@1.0.2.29
