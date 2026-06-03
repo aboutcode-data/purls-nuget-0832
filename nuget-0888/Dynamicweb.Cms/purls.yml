@@ -183,6 +183,9 @@
 - pkg:nuget/Dynamicweb.Cms@10.24.6
 - pkg:nuget/Dynamicweb.Cms@10.24.7
 - pkg:nuget/Dynamicweb.Cms@10.25.2-PreRelease
+- pkg:nuget/Dynamicweb.Cms@10.25.9
+- pkg:nuget/Dynamicweb.Cms@10.26.6
+- pkg:nuget/Dynamicweb.Cms@10.27.0-PreRelease
 - pkg:nuget/Dynamicweb.Cms@10.3.0
 - pkg:nuget/Dynamicweb.Cms@10.3.1
 - pkg:nuget/Dynamicweb.Cms@10.3.10
