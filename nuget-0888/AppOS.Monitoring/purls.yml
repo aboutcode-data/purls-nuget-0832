@@ -6,3 +6,4 @@
 - pkg:nuget/AppOS.Monitoring@1.1.0
 - pkg:nuget/AppOS.Monitoring@2.0.0
 - pkg:nuget/AppOS.Monitoring@3.0.2
+- pkg:nuget/AppOS.Monitoring@8.0.1
