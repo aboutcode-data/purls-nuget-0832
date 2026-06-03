@@ -17,6 +17,7 @@
 - pkg:nuget/Smdn.LibHighlightSharp.LangDefs@4.16.0
 - pkg:nuget/Smdn.LibHighlightSharp.LangDefs@4.18.0
 - pkg:nuget/Smdn.LibHighlightSharp.LangDefs@4.2.0
+- pkg:nuget/Smdn.LibHighlightSharp.LangDefs@4.20.0
 - pkg:nuget/Smdn.LibHighlightSharp.LangDefs@4.3.0
 - pkg:nuget/Smdn.LibHighlightSharp.LangDefs@4.4.0
 - pkg:nuget/Smdn.LibHighlightSharp.LangDefs@4.5.0
