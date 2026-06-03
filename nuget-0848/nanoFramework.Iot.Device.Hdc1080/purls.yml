@@ -94,3 +94,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Hdc1080@1.2.869
 - pkg:nuget/nanoFramework.Iot.Device.Hdc1080@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Hdc1080@1.2.889
+- pkg:nuget/nanoFramework.Iot.Device.Hdc1080@2.0.0-preview.73
