@@ -124,6 +124,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.32.0-feat-load-webapi-without-config.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.36.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.36.0-hotfix-udpClient-clean.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.36.2-fix-videoCodec-routing-issues.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.4.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.4.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.4.2
@@ -189,6 +190,8 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-meter-feedback-interface.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-meter-feedback-interface.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-unique-client-ids.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.3
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.4
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-testing.15
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates-claude-tests.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.2
