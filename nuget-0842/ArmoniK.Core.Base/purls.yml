@@ -4118,6 +4118,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.38.3-flgcs.8.sha.55049b4c
 - pkg:nuget/ArmoniK.Core.Base@0.39.0
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-SNAPSHOT.10.sha.4f5a9ea4
+- pkg:nuget/ArmoniK.Core.Base@0.39.1-SNAPSHOT.29.sha.8ab794fa
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-SNAPSHOT.4.sha.30367b1e
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-SNAPSHOT.8.sha.b116dbb4
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-ciremovepipinstallartefacts.5.sha.00a95e54
