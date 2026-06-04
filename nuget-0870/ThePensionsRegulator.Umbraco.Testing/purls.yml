@@ -70,3 +70,5 @@
 - pkg:nuget/ThePensionsRegulator.Umbraco.Testing@9.3.0-beta010
 - pkg:nuget/ThePensionsRegulator.Umbraco.Testing@9.3.0-beta011
 - pkg:nuget/ThePensionsRegulator.Umbraco.Testing@9.3.0-beta018
+- pkg:nuget/ThePensionsRegulator.Umbraco.Testing@9.3.0-beta021
+- pkg:nuget/ThePensionsRegulator.Umbraco.Testing@9.3.0-beta022
