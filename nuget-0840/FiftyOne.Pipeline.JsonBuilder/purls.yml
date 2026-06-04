@@ -205,3 +205,4 @@
 - pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.28
 - pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.29
 - pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.45
+- pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.49
