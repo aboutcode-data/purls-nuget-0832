@@ -68,3 +68,5 @@
 - pkg:nuget/CommonNetFuncs.Excel.ClosedXml@4.0.17
 - pkg:nuget/CommonNetFuncs.Excel.ClosedXml@4.0.36
 - pkg:nuget/CommonNetFuncs.Excel.ClosedXml@4.0.37
+- pkg:nuget/CommonNetFuncs.Excel.ClosedXml@4.0.50
+- pkg:nuget/CommonNetFuncs.Excel.ClosedXml@4.0.51
