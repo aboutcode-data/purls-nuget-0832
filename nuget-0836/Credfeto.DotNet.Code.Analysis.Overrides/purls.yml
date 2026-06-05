@@ -115,3 +115,5 @@
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.400-main
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.427-dotnet-sdk-10-0
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.428-dotnet-sdk-10-0
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.450-main
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.451-main
