@@ -4129,6 +4129,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovateaneoconsultingarmonikd.22.sha.9d6839cc
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovateaneoconsultingarmonikd.22.sha.ef491f42
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovategithubactions.11.sha.306c190a
+- pkg:nuget/ArmoniK.Core.Base@0.39.1-renovategithubactions.30.sha.4266b441
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovategithubactions.30.sha.ae37d251
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovatemajorgithubactions.9.sha.2e4088d6
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovatenuget.22.sha.28910728
