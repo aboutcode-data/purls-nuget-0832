@@ -14,3 +14,4 @@
 - pkg:nuget/NorthSouthSystems.NET.Sdk@6.1.5
 - pkg:nuget/NorthSouthSystems.NET.Sdk@6.2.5
 - pkg:nuget/NorthSouthSystems.NET.Sdk@7.0.2
+- pkg:nuget/NorthSouthSystems.NET.Sdk@8.1.7
