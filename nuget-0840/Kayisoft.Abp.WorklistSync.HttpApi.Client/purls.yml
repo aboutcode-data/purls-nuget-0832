@@ -150,3 +150,4 @@
 - pkg:nuget/Kayisoft.Abp.WorklistSync.HttpApi.Client@5.0.8
 - pkg:nuget/Kayisoft.Abp.WorklistSync.HttpApi.Client@5.1.3
 - pkg:nuget/Kayisoft.Abp.WorklistSync.HttpApi.Client@5.1.5
+- pkg:nuget/Kayisoft.Abp.WorklistSync.HttpApi.Client@5.1.6
