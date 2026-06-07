@@ -148,3 +148,4 @@
 - pkg:nuget/Kayisoft.Abp.DicomWorklist.Producer.ActiveMQ@5.0.7
 - pkg:nuget/Kayisoft.Abp.DicomWorklist.Producer.ActiveMQ@5.0.8
 - pkg:nuget/Kayisoft.Abp.DicomWorklist.Producer.ActiveMQ@5.1.3
+- pkg:nuget/Kayisoft.Abp.DicomWorklist.Producer.ActiveMQ@5.1.6
