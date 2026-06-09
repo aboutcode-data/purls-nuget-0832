@@ -210,5 +210,6 @@
 - pkg:nuget/Syncfusion.Maui.Charts@33.1.45
 - pkg:nuget/Syncfusion.Maui.Charts@33.1.46
 - pkg:nuget/Syncfusion.Maui.Charts@33.1.47
+- pkg:nuget/Syncfusion.Maui.Charts@33.2.12
 - pkg:nuget/Syncfusion.Maui.Charts@33.2.6
 - pkg:nuget/Syncfusion.Maui.Charts@33.2.7
