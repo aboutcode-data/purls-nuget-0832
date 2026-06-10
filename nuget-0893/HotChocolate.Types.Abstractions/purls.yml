@@ -150,3 +150,4 @@
 - pkg:nuget/HotChocolate.Types.Abstractions@16.1.0-p.13
 - pkg:nuget/HotChocolate.Types.Abstractions@16.1.2
 - pkg:nuget/HotChocolate.Types.Abstractions@16.1.4-p.3
+- pkg:nuget/HotChocolate.Types.Abstractions@16.1.4-p.5
