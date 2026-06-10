@@ -1,4 +1,5 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.browser-wasm@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.NETCore.App.Runtime.browser-wasm@11.0.0-preview.5.26302.115
 - pkg:nuget/Microsoft.NETCore.App.Runtime.browser-wasm@5.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.browser-wasm@5.0.0-preview.5.20278.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.browser-wasm@5.0.0-preview.6.20305.6
