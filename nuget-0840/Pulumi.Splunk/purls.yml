@@ -406,3 +406,4 @@
 - pkg:nuget/Pulumi.Splunk@1.4.0-alpha.1774890584
 - pkg:nuget/Pulumi.Splunk@1.4.0-alpha.1776322604
 - pkg:nuget/Pulumi.Splunk@1.5.0-alpha.1780904478
+- pkg:nuget/Pulumi.Splunk@1.5.0-alpha.1781081598
