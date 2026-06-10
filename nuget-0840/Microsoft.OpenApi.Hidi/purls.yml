@@ -106,3 +106,4 @@
 - pkg:nuget/Microsoft.OpenApi.Hidi@3.2.0
 - pkg:nuget/Microsoft.OpenApi.Hidi@3.5.1
 - pkg:nuget/Microsoft.OpenApi.Hidi@3.5.2
+- pkg:nuget/Microsoft.OpenApi.Hidi@3.7.0
