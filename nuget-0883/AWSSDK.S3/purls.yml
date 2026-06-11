@@ -1384,6 +1384,7 @@
 - pkg:nuget/AWSSDK.S3@4.0.20.2
 - pkg:nuget/AWSSDK.S3@4.0.23.3
 - pkg:nuget/AWSSDK.S3@4.0.23.5
+- pkg:nuget/AWSSDK.S3@4.0.24.3
 - pkg:nuget/AWSSDK.S3@4.0.3
 - pkg:nuget/AWSSDK.S3@4.0.3.1
 - pkg:nuget/AWSSDK.S3@4.0.3.2
