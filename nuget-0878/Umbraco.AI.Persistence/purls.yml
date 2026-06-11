@@ -1,4 +1,5 @@
 - pkg:nuget/Umbraco.AI.Persistence@1.10.1
+- pkg:nuget/Umbraco.AI.Persistence@1.13.0
 - pkg:nuget/Umbraco.AI.Persistence@1.4.1
 - pkg:nuget/Umbraco.AI.Persistence@1.5.0
 - pkg:nuget/Umbraco.AI.Persistence@1.7.0
