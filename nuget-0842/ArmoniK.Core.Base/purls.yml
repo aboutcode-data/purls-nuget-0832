@@ -4137,3 +4137,4 @@
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovatenuget.22.sha.b887b5f3
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovatenugethtcmock.22.sha.8c54d7cd
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovateaneoconsultingarmonikd.1.sha.991f2083
+- pkg:nuget/ArmoniK.Core.Base@0.39.2-renovatenuget.1.sha.2158c787
