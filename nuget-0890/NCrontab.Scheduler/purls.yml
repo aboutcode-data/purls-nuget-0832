@@ -54,5 +54,6 @@
 - pkg:nuget/NCrontab.Scheduler@2.0.6-pre
 - pkg:nuget/NCrontab.Scheduler@2.1.1-pre
 - pkg:nuget/NCrontab.Scheduler@2.1.10
+- pkg:nuget/NCrontab.Scheduler@2.1.16
 - pkg:nuget/NCrontab.Scheduler@2.1.4-pre
 - pkg:nuget/NCrontab.Scheduler@2.1.8-pre
