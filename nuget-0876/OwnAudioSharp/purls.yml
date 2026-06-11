@@ -27,3 +27,6 @@
 - pkg:nuget/OwnAudioSharp@1.0.68
 - pkg:nuget/OwnAudioSharp@2.3.0
 - pkg:nuget/OwnAudioSharp@2.5.0
+- pkg:nuget/OwnAudioSharp@3.0.11
+- pkg:nuget/OwnAudioSharp@3.0.13
+- pkg:nuget/OwnAudioSharp@3.0.7
