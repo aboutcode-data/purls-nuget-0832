@@ -26,3 +26,5 @@
 - pkg:nuget/SBMConnector@1.4.4
 - pkg:nuget/SBMConnector@1.4.5
 - pkg:nuget/SBMConnector@1.4.6
+- pkg:nuget/SBMConnector@1.5.4
+- pkg:nuget/SBMConnector@1.5.8
