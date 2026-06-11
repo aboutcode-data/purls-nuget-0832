@@ -1,2 +1,3 @@
 - pkg:nuget/CoreDX.Serilog.Sinks.EntityFrameworkCore@1.0.0
 - pkg:nuget/CoreDX.Serilog.Sinks.EntityFrameworkCore@1.1.0
+- pkg:nuget/CoreDX.Serilog.Sinks.EntityFrameworkCore@1.2.1
