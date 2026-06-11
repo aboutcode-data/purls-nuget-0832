@@ -122,3 +122,4 @@
 - pkg:nuget/Microsoft.ApplicationInsights.Web@2.9.0-beta3
 - pkg:nuget/Microsoft.ApplicationInsights.Web@2.9.1
 - pkg:nuget/Microsoft.ApplicationInsights.Web@3.1.0
+- pkg:nuget/Microsoft.ApplicationInsights.Web@3.1.2
