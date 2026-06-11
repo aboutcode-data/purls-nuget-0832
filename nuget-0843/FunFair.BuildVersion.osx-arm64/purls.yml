@@ -37,3 +37,13 @@
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1940-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1941-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1980-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1992-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.1993-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.2025-add-unit-tests
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.2026-add-unit-tests
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.2030-add-unit-tests
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.2031-add-unit-tests
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.2032-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.2040-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.2048-coverage-funfai
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.19.2056-main
