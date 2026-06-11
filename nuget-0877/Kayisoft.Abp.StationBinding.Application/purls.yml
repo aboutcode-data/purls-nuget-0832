@@ -207,3 +207,4 @@
 - pkg:nuget/Kayisoft.Abp.StationBinding.Application@5.1.3
 - pkg:nuget/Kayisoft.Abp.StationBinding.Application@5.1.5
 - pkg:nuget/Kayisoft.Abp.StationBinding.Application@5.1.6
+- pkg:nuget/Kayisoft.Abp.StationBinding.Application@5.1.7
