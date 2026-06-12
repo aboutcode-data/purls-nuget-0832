@@ -1,4 +1,5 @@
 - pkg:nuget/JS.Abp.DynamicMenu.Blazor@10.0.2
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor@10.4.1
 - pkg:nuget/JS.Abp.DynamicMenu.Blazor@6.0.2
 - pkg:nuget/JS.Abp.DynamicMenu.Blazor@7.0.0
 - pkg:nuget/JS.Abp.DynamicMenu.Blazor@7.2.1
