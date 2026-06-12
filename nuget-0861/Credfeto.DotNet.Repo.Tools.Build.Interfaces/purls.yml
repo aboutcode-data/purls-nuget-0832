@@ -2305,3 +2305,5 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.2.3097-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.2.3100-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.2.3104-packages-interf
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.2.3108-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.2.3109-main
