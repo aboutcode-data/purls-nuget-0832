@@ -125,6 +125,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.36.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.36.0-hotfix-udpClient-clean.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.36.2-fix-videoCodec-routing-issues.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.36.4
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.36.4-fix-null-properties-on-DeviceStateMessageBase.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.37.0-feature-air-media-sharing-interface.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.37.0-feature-web-api-updates.6
