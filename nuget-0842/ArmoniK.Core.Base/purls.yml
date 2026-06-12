@@ -4136,6 +4136,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovatenuget.22.sha.28910728
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovatenuget.22.sha.b887b5f3
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovatenugethtcmock.22.sha.8c54d7cd
+- pkg:nuget/ArmoniK.Core.Base@0.39.2-SNAPSHOT.10.sha.777b66a5
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-featvalidatetaskdependencies.1.sha.76393e5a
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-featvalidatetaskdependencies.1.sha.f1fee10f
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovateaneoconsultingarmonikd.1.sha.991f2083
