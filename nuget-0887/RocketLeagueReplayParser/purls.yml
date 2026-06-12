@@ -70,6 +70,8 @@
 - pkg:nuget/RocketLeagueReplayParser@3.13.2
 - pkg:nuget/RocketLeagueReplayParser@3.13.3
 - pkg:nuget/RocketLeagueReplayParser@3.13.4
+- pkg:nuget/RocketLeagueReplayParser@3.19.0
+- pkg:nuget/RocketLeagueReplayParser@3.19.1
 - pkg:nuget/RocketLeagueReplayParser@3.2.0
 - pkg:nuget/RocketLeagueReplayParser@3.2.1
 - pkg:nuget/RocketLeagueReplayParser@3.3.0
