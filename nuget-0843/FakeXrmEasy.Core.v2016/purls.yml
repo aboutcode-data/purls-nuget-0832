@@ -15,6 +15,7 @@
 - pkg:nuget/FakeXrmEasy.Core.v2016@2.6.0
 - pkg:nuget/FakeXrmEasy.Core.v2016@2.7.0
 - pkg:nuget/FakeXrmEasy.Core.v2016@2.8.0
+- pkg:nuget/FakeXrmEasy.Core.v2016@2.9.2
 - pkg:nuget/FakeXrmEasy.Core.v2016@3.0.1-rc1.11
 - pkg:nuget/FakeXrmEasy.Core.v2016@3.0.1-rc1.12
 - pkg:nuget/FakeXrmEasy.Core.v2016@3.0.1-rc1.6
