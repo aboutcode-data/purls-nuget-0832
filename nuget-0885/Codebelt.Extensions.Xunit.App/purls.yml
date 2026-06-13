@@ -9,6 +9,7 @@
 - pkg:nuget/Codebelt.Extensions.Xunit.App@10.0.5
 - pkg:nuget/Codebelt.Extensions.Xunit.App@10.0.6
 - pkg:nuget/Codebelt.Extensions.Xunit.App@11.0.0-rc.1
+- pkg:nuget/Codebelt.Extensions.Xunit.App@11.1.0
 - pkg:nuget/Codebelt.Extensions.Xunit.App@8.4.0
 - pkg:nuget/Codebelt.Extensions.Xunit.App@8.4.1
 - pkg:nuget/Codebelt.Extensions.Xunit.App@9.0.0
