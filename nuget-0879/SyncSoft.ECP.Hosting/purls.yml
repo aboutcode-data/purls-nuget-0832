@@ -79,3 +79,4 @@
 - pkg:nuget/SyncSoft.ECP.Hosting@4.6.0
 - pkg:nuget/SyncSoft.ECP.Hosting@4.6.0-alpha3
 - pkg:nuget/SyncSoft.ECP.Hosting@5.0.0-alpha3
+- pkg:nuget/SyncSoft.ECP.Hosting@5.0.0-alpha4
