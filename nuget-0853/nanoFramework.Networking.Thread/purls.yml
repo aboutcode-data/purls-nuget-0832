@@ -18,3 +18,5 @@
 - pkg:nuget/nanoFramework.Networking.Thread@1.0.40
 - pkg:nuget/nanoFramework.Networking.Thread@1.0.42
 - pkg:nuget/nanoFramework.Networking.Thread@1.0.43
+- pkg:nuget/nanoFramework.Networking.Thread@1.0.51
+- pkg:nuget/nanoFramework.Networking.Thread@2.0.0-preview.5
