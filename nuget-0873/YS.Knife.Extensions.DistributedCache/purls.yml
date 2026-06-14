@@ -26,4 +26,5 @@
 - pkg:nuget/YS.Knife.Extensions.DistributedCache@0.0.35
 - pkg:nuget/YS.Knife.Extensions.DistributedCache@0.0.41
 - pkg:nuget/YS.Knife.Extensions.DistributedCache@0.0.42
+- pkg:nuget/YS.Knife.Extensions.DistributedCache@0.0.75
 - pkg:nuget/YS.Knife.Extensions.DistributedCache@0.0.9
