@@ -6,3 +6,4 @@
 - pkg:nuget/Signals.Aspects.DI.DotNetCore@2.0.0
 - pkg:nuget/Signals.Aspects.DI.DotNetCore@2.0.1
 - pkg:nuget/Signals.Aspects.DI.DotNetCore@3.0.0
+- pkg:nuget/Signals.Aspects.DI.DotNetCore@4.0.0
