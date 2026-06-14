@@ -3,3 +3,8 @@
 - pkg:nuget/Orleans.Lattice@1.0.0
 - pkg:nuget/Orleans.Lattice@3.4.0
 - pkg:nuget/Orleans.Lattice@4.1.1
+- pkg:nuget/Orleans.Lattice@6.0.0
+- pkg:nuget/Orleans.Lattice@6.0.1
+- pkg:nuget/Orleans.Lattice@6.2.0
+- pkg:nuget/Orleans.Lattice@6.2.1
+- pkg:nuget/Orleans.Lattice@6.2.2
