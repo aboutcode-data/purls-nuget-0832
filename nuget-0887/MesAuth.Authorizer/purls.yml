@@ -1,4 +1,6 @@
 - pkg:nuget/MesAuth.Authorizer@10.0.33
+- pkg:nuget/MesAuth.Authorizer@10.19.1
+- pkg:nuget/MesAuth.Authorizer@10.20.1
 - pkg:nuget/MesAuth.Authorizer@10.6.0
 - pkg:nuget/MesAuth.Authorizer@10.6.1
 - pkg:nuget/MesAuth.Authorizer@10.6.2
