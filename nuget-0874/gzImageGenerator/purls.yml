@@ -1,1 +1,5 @@
 - pkg:nuget/gzImageGenerator@2.12.326.1
+- pkg:nuget/gzImageGenerator@2.12.330.1
+- pkg:nuget/gzImageGenerator@2.12.331.1
+- pkg:nuget/gzImageGenerator@2.12.332.1
+- pkg:nuget/gzImageGenerator@2.12.334.1
