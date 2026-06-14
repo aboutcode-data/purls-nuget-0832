@@ -64,3 +64,4 @@
 - pkg:nuget/Paging.Queryable.NET@3.0.22-pre
 - pkg:nuget/Paging.Queryable.NET@3.0.28-pre
 - pkg:nuget/Paging.Queryable.NET@3.0.33
+- pkg:nuget/Paging.Queryable.NET@5.0.2-pre
