@@ -17,3 +17,5 @@
 - pkg:nuget/AppOS.Security.MySQL@2.2.3
 - pkg:nuget/AppOS.Security.MySQL@3.2.7
 - pkg:nuget/AppOS.Security.MySQL@3.7.5
+- pkg:nuget/AppOS.Security.MySQL@8.0.0
+- pkg:nuget/AppOS.Security.MySQL@8.0.1
