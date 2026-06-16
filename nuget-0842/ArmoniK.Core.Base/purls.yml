@@ -4137,8 +4137,12 @@
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovatenuget.22.sha.b887b5f3
 - pkg:nuget/ArmoniK.Core.Base@0.39.1-renovatenugethtcmock.22.sha.8c54d7cd
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-SNAPSHOT.10.sha.777b66a5
+- pkg:nuget/ArmoniK.Core.Base@0.39.2-SNAPSHOT.21.sha.fa902e18
+- pkg:nuget/ArmoniK.Core.Base@0.39.2-docsdeprecateartemis.2.sha.082fef10
+- pkg:nuget/ArmoniK.Core.Base@0.39.2-docsenvvarslocalaccess.1.sha.4b837d8a
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-featvalidatetaskdependencies.1.sha.76393e5a
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-featvalidatetaskdependencies.1.sha.f1fee10f
+- pkg:nuget/ArmoniK.Core.Base@0.39.2-flinterceptorerrors.21.sha.2b7deed6
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovateaneoconsultingarmonikd.1.sha.991f2083
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovatedocker.18.sha.6215c731
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovategithubactions.18.sha.963810ae
