@@ -1,4 +1,5 @@
 - pkg:nuget/Writesonic@0.0.0-dev
+- pkg:nuget/Writesonic@0.0.0-dev.24
 - pkg:nuget/Writesonic@0.0.0-dev.3
 - pkg:nuget/Writesonic@0.0.0-dev.4
 - pkg:nuget/Writesonic@0.0.0-dev.5
