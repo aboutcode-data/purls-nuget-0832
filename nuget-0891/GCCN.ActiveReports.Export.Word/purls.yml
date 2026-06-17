@@ -1,3 +1,4 @@
 - pkg:nuget/GCCN.ActiveReports.Export.Word@18.0.0
 - pkg:nuget/GCCN.ActiveReports.Export.Word@18.2.0
 - pkg:nuget/GCCN.ActiveReports.Export.Word@19.0.1
+- pkg:nuget/GCCN.ActiveReports.Export.Word@20.1.3
