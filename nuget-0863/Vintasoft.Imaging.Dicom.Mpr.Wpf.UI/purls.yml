@@ -227,4 +227,7 @@
 - pkg:nuget/Vintasoft.Imaging.Dicom.Mpr.Wpf.UI@7.1.7.1
 - pkg:nuget/Vintasoft.Imaging.Dicom.Mpr.Wpf.UI@7.1.8.1
 - pkg:nuget/Vintasoft.Imaging.Dicom.Mpr.Wpf.UI@7.1.9.1
+- pkg:nuget/Vintasoft.Imaging.Dicom.Mpr.Wpf.UI@8.0.11.1
+- pkg:nuget/Vintasoft.Imaging.Dicom.Mpr.Wpf.UI@8.0.12.1
+- pkg:nuget/Vintasoft.Imaging.Dicom.Mpr.Wpf.UI@8.0.14.1
 - pkg:nuget/Vintasoft.Imaging.Dicom.Mpr.Wpf.UI@8.0.8.1
