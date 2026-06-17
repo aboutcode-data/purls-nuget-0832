@@ -15,6 +15,7 @@
 - pkg:nuget/AutoFactories.Microsoft.DependencyInjection@1.1.17
 - pkg:nuget/AutoFactories.Microsoft.DependencyInjection@1.1.18
 - pkg:nuget/AutoFactories.Microsoft.DependencyInjection@1.1.19
+- pkg:nuget/AutoFactories.Microsoft.DependencyInjection@1.1.21
 - pkg:nuget/AutoFactories.Microsoft.DependencyInjection@1.1.8
 - pkg:nuget/AutoFactories.Microsoft.DependencyInjection@1.1.8-PullRequest39.26
 - pkg:nuget/AutoFactories.Microsoft.DependencyInjection@1.1.9
