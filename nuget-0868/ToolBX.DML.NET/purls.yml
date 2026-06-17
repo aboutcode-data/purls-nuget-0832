@@ -13,3 +13,4 @@
 - pkg:nuget/ToolBX.DML.NET@2.2.0-beta1
 - pkg:nuget/ToolBX.DML.NET@3.0.0
 - pkg:nuget/ToolBX.DML.NET@3.0.0-beta1
+- pkg:nuget/ToolBX.DML.NET@4.0.0-beta.1
