@@ -16,6 +16,7 @@
 - pkg:nuget/BoldReports.Data.Oracle@12.2.9
 - pkg:nuget/BoldReports.Data.Oracle@13.1.26
 - pkg:nuget/BoldReports.Data.Oracle@13.1.36
+- pkg:nuget/BoldReports.Data.Oracle@13.1.37
 - pkg:nuget/BoldReports.Data.Oracle@3.1.101
 - pkg:nuget/BoldReports.Data.Oracle@3.1.31
 - pkg:nuget/BoldReports.Data.Oracle@3.1.32
