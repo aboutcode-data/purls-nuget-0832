@@ -33,3 +33,4 @@
 - pkg:nuget/FakeXrmEasy.Core.v2016@3.6.0
 - pkg:nuget/FakeXrmEasy.Core.v2016@3.7.0
 - pkg:nuget/FakeXrmEasy.Core.v2016@3.8.0
+- pkg:nuget/FakeXrmEasy.Core.v2016@3.9.3
