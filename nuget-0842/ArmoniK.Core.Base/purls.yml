@@ -4139,6 +4139,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-SNAPSHOT.10.sha.777b66a5
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-SNAPSHOT.21.sha.fa902e18
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-SNAPSHOT.33.sha.376fba84
+- pkg:nuget/ArmoniK.Core.Base@0.39.2-SNAPSHOT.47.sha.bf57836f
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-docsdeprecateartemis.2.sha.082fef10
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-docsenvvarslocalaccess.1.sha.4b837d8a
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-docsversionmigrationpolicy.2.sha.8ed6e2ce
@@ -4147,6 +4148,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-flinterceptorerrors.21.sha.2b7deed6
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-flinterceptorerrors.22.sha.d605dcd3
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-flinterceptorerrors.36.sha.e7c36e58
+- pkg:nuget/ArmoniK.Core.Base@0.39.2-refactorremovetimeoutexception.48.sha.9c9fda5d
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovateaneoconsultingarmonikd.1.sha.991f2083
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovatedocker.18.sha.6215c731
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovategithubactions.18.sha.963810ae
