@@ -76,3 +76,4 @@
 - pkg:nuget/BTCPayServer.Lightning.CLightning@1.6.3
 - pkg:nuget/BTCPayServer.Lightning.CLightning@1.6.4
 - pkg:nuget/BTCPayServer.Lightning.CLightning@1.7.1
+- pkg:nuget/BTCPayServer.Lightning.CLightning@1.7.2
