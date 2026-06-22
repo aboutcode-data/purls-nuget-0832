@@ -168,6 +168,7 @@
 - pkg:nuget/VonageWebRTC@145.0.0-dev.532
 - pkg:nuget/VonageWebRTC@145.0.0-dev.545
 - pkg:nuget/VonageWebRTC@145.0.0-dev.557
+- pkg:nuget/VonageWebRTC@145.0.0-dev.558
 - pkg:nuget/VonageWebRTC@145.0.109
 - pkg:nuget/VonageWebRTC@84.0.0-alpha.35
 - pkg:nuget/VonageWebRTC@84.0.0-alpha.36
