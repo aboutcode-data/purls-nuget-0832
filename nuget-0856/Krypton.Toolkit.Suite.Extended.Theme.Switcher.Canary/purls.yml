@@ -8,6 +8,7 @@
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Theme.Switcher.Canary@100.25.7.200-beta
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Theme.Switcher.Canary@100.25.8.234-beta
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Theme.Switcher.Canary@100.25.9.265-beta
+- pkg:nuget/Krypton.Toolkit.Suite.Extended.Theme.Switcher.Canary@110.26.6.173-beta
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Theme.Switcher.Canary@6.0.2109
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Theme.Switcher.Canary@6.2110.274-beta
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Theme.Switcher.Canary@6.2111.313-beta
