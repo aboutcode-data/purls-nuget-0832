@@ -22,3 +22,4 @@
 - pkg:nuget/Kayisoft.Abp.DicomSrParsing.PostSrParser@5.0.8
 - pkg:nuget/Kayisoft.Abp.DicomSrParsing.PostSrParser@5.1.3
 - pkg:nuget/Kayisoft.Abp.DicomSrParsing.PostSrParser@5.1.6
+- pkg:nuget/Kayisoft.Abp.DicomSrParsing.PostSrParser@5.1.9
