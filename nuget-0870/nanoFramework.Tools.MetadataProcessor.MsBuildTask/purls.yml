@@ -22,3 +22,5 @@
 - pkg:nuget/nanoFramework.Tools.MetadataProcessor.MsBuildTask@4.0.0-preview.5
 - pkg:nuget/nanoFramework.Tools.MetadataProcessor.MsBuildTask@4.0.0-preview.65
 - pkg:nuget/nanoFramework.Tools.MetadataProcessor.MsBuildTask@4.0.0-preview.8
+- pkg:nuget/nanoFramework.Tools.MetadataProcessor.MsBuildTask@4.0.0-preview.97
+- pkg:nuget/nanoFramework.Tools.MetadataProcessor.MsBuildTask@4.0.0-preview.98
