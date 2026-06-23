@@ -196,6 +196,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-meter-feedback-interface.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-unique-client-ids.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.10
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.26
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.4
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-testing.15
