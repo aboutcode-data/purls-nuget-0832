@@ -27,3 +27,5 @@
 - pkg:nuget/SharpInference.Cli@0.8.2-alpha.0.36
 - pkg:nuget/SharpInference.Cli@0.8.2-alpha.0.37
 - pkg:nuget/SharpInference.Cli@0.8.2-alpha.0.38
+- pkg:nuget/SharpInference.Cli@0.8.2-alpha.0.48
+- pkg:nuget/SharpInference.Cli@0.8.2-alpha.0.49
