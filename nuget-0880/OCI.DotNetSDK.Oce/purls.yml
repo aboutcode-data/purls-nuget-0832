@@ -54,6 +54,7 @@
 - pkg:nuget/OCI.DotNetSDK.Oce@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Oce@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Oce@14.2.0
+- pkg:nuget/OCI.DotNetSDK.Oce@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Oce@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Oce@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Oce@15.2.0
