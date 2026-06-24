@@ -1,4 +1,5 @@
 - pkg:nuget/Diamond.Core.Clonable.Newtonsoft@10.1.1
+- pkg:nuget/Diamond.Core.Clonable.Newtonsoft@10.1.3
 - pkg:nuget/Diamond.Core.Clonable.Newtonsoft@5.0.1
 - pkg:nuget/Diamond.Core.Clonable.Newtonsoft@5.0.5
 - pkg:nuget/Diamond.Core.Clonable.Newtonsoft@5.0.8
