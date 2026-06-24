@@ -104,3 +104,5 @@
 - pkg:nuget/MonorailCss@0.0.5-alpha.0.3
 - pkg:nuget/MonorailCss@0.0.5-alpha.0.62
 - pkg:nuget/MonorailCss@0.0.5-alpha.0.99
+- pkg:nuget/MonorailCss@0.1.2-alpha.0.2
+- pkg:nuget/MonorailCss@0.1.2-alpha.0.3
