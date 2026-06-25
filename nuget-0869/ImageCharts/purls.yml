@@ -203,6 +203,7 @@
 - pkg:nuget/ImageCharts@6.1.108
 - pkg:nuget/ImageCharts@6.1.118
 - pkg:nuget/ImageCharts@6.1.140
+- pkg:nuget/ImageCharts@6.1.141
 - pkg:nuget/ImageCharts@6.1.199
 - pkg:nuget/ImageCharts@6.1.200
 - pkg:nuget/ImageCharts@6.1.201
