@@ -181,3 +181,4 @@
 - pkg:nuget/POS365.Integrations@2.0.3-dev
 - pkg:nuget/POS365.Integrations@2.0.5-dev-ja-POS-6261-1
 - pkg:nuget/POS365.Integrations@2.0.6-dev-ja-POS-6261-1
+- pkg:nuget/POS365.Integrations@2.0.8-dev-ja-pos-6336-1
