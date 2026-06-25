@@ -4161,4 +4161,6 @@
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovatenuget.1.sha.2158c787
 - pkg:nuget/ArmoniK.Core.Base@0.39.2-renovatenuget.18.sha.c3157a90
 - pkg:nuget/ArmoniK.Core.Base@0.40.0-jgpostgressql.67.sha.91c91b04
+- pkg:nuget/ArmoniK.Core.Base@0.40.1-SNAPSHOT.2.sha.1504f0af
+- pkg:nuget/ArmoniK.Core.Base@0.40.1-jffixrenovate.1.sha.8e53435e
 - pkg:nuget/ArmoniK.Core.Base@0.40.1-renovategithubactions.1.sha.b713dc6f
