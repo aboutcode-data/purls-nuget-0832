@@ -1,1 +1,9 @@
 - pkg:nuget/Arbeidstilsynet.Receiver@1.2.3
+- pkg:nuget/Arbeidstilsynet.Receiver@1.6.0
+- pkg:nuget/Arbeidstilsynet.Receiver@1.6.0-alpha2
+- pkg:nuget/Arbeidstilsynet.Receiver@1.6.0-alpha3
+- pkg:nuget/Arbeidstilsynet.Receiver@1.6.0-alpha5
+- pkg:nuget/Arbeidstilsynet.Receiver@1.6.1
+- pkg:nuget/Arbeidstilsynet.Receiver@1.6.1-alpha1
+- pkg:nuget/Arbeidstilsynet.Receiver@1.6.3
+- pkg:nuget/Arbeidstilsynet.Receiver@1.6.4
