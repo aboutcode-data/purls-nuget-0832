@@ -241,4 +241,5 @@
 - pkg:nuget/HotChocolate.Fusion.Execution.Types@16.2.0-p.5
 - pkg:nuget/HotChocolate.Fusion.Execution.Types@16.2.0-p.6
 - pkg:nuget/HotChocolate.Fusion.Execution.Types@16.2.1
+- pkg:nuget/HotChocolate.Fusion.Execution.Types@16.3.0
 - pkg:nuget/HotChocolate.Fusion.Execution.Types@16.3.0-p.2
