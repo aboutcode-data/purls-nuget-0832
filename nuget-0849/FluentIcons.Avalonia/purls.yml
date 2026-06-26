@@ -163,3 +163,4 @@
 - pkg:nuget/FluentIcons.Avalonia@2.1.321-preview
 - pkg:nuget/FluentIcons.Avalonia@2.1.324-ci
 - pkg:nuget/FluentIcons.Avalonia@2.1.330-ci
+- pkg:nuget/FluentIcons.Avalonia@2.1.331-ci
