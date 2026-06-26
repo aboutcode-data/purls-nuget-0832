@@ -136,6 +136,7 @@
 - pkg:nuget/UGestor.Web.Service@4.2.0.109
 - pkg:nuget/UGestor.Web.Service@4.2.0.179
 - pkg:nuget/UGestor.Web.Service@4.2.0.205
+- pkg:nuget/UGestor.Web.Service@4.2.0.231
 - pkg:nuget/UGestor.Web.Service@4.2.0.75
 - pkg:nuget/UGestor.Web.Service@4.2.0.77
 - pkg:nuget/UGestor.Web.Service@4.2.0.91
