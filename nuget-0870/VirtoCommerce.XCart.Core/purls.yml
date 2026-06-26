@@ -1,4 +1,5 @@
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1000.0-alpha.213-variation-configuration-type
+- pkg:nuget/VirtoCommerce.XCart.Core@3.1000.5
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1001.0-alpha.218-variation-configuration-type
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1001.0-alpha.222-variation-configuration-type
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1001.0-alpha.223-variation-configuration-type
