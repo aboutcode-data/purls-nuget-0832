@@ -185,3 +185,4 @@
 - pkg:nuget/Ark.Tools.FtpClient.ArxOne@5.4.0
 - pkg:nuget/Ark.Tools.FtpClient.ArxOne@5.5.0
 - pkg:nuget/Ark.Tools.FtpClient.ArxOne@6.0.0
+- pkg:nuget/Ark.Tools.FtpClient.ArxOne@6.0.4
