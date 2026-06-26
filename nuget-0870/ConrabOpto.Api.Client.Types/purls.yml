@@ -1384,6 +1384,7 @@
 - pkg:nuget/ConrabOpto.Api.Client.Types@6.179.8
 - pkg:nuget/ConrabOpto.Api.Client.Types@6.179.9
 - pkg:nuget/ConrabOpto.Api.Client.Types@6.180.0
+- pkg:nuget/ConrabOpto.Api.Client.Types@6.180.1-beta-03
 - pkg:nuget/ConrabOpto.Api.Client.Types@6.42.0
 - pkg:nuget/ConrabOpto.Api.Client.Types@6.42.0-beta-01
 - pkg:nuget/ConrabOpto.Api.Client.Types@6.42.0-beta-02
