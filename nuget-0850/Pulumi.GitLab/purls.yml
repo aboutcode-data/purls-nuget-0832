@@ -8,6 +8,7 @@
 - pkg:nuget/Pulumi.GitLab@1.4.0-preview-alpha.1586450433%2Bg4fe6ce2
 - pkg:nuget/Pulumi.GitLab@1.5.0-alpha.1586907706%2Bg241b443
 - pkg:nuget/Pulumi.GitLab@1.5.0-alpha.1587155913%2Bg30d2ddc
+- pkg:nuget/Pulumi.GitLab@10.0.0
 - pkg:nuget/Pulumi.GitLab@2.0.0
 - pkg:nuget/Pulumi.GitLab@2.0.0-beta.1
 - pkg:nuget/Pulumi.GitLab@2.1.0
