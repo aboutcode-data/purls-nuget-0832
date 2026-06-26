@@ -102,3 +102,4 @@
 - pkg:nuget/Umbraco.Community.SimpleWorkspaceViews@17.0.4-alpha.4
 - pkg:nuget/Umbraco.Community.SimpleWorkspaceViews@17.1.0
 - pkg:nuget/Umbraco.Community.SimpleWorkspaceViews@18.0.0-alpha.1
+- pkg:nuget/Umbraco.Community.SimpleWorkspaceViews@18.0.0-alpha.6
