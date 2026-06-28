@@ -43,6 +43,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Auth@121.3.0.3
 - pkg:nuget/Xamarin.GooglePlayServices.Auth@121.4.0
 - pkg:nuget/Xamarin.GooglePlayServices.Auth@121.4.0.1
+- pkg:nuget/Xamarin.GooglePlayServices.Auth@121.6.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.Auth@29.0.0
 - pkg:nuget/Xamarin.GooglePlayServices.Auth@29.0.0-beta1
 - pkg:nuget/Xamarin.GooglePlayServices.Auth@29.0.0.1
