@@ -12,6 +12,7 @@
 - pkg:nuget/Volo.Docs.Admin.Application@10.2.0
 - pkg:nuget/Volo.Docs.Admin.Application@10.3.0-rc.1
 - pkg:nuget/Volo.Docs.Admin.Application@10.4.1
+- pkg:nuget/Volo.Docs.Admin.Application@10.5.0
 - pkg:nuget/Volo.Docs.Admin.Application@10.5.0-rc.1
 - pkg:nuget/Volo.Docs.Admin.Application@10.5.0-rc.4
 - pkg:nuget/Volo.Docs.Admin.Application@2.0.0
