@@ -2,6 +2,7 @@
 - pkg:nuget/Volo.Abp.BackgroundJobs.Quartz@10.1.1
 - pkg:nuget/Volo.Abp.BackgroundJobs.Quartz@10.2.0
 - pkg:nuget/Volo.Abp.BackgroundJobs.Quartz@10.3.0-rc.1
+- pkg:nuget/Volo.Abp.BackgroundJobs.Quartz@10.5.0
 - pkg:nuget/Volo.Abp.BackgroundJobs.Quartz@10.5.0-rc.1
 - pkg:nuget/Volo.Abp.BackgroundJobs.Quartz@2.2.0
 - pkg:nuget/Volo.Abp.BackgroundJobs.Quartz@2.2.1
