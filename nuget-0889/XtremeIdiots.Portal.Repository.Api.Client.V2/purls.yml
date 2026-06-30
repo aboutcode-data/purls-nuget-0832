@@ -152,3 +152,4 @@
 - pkg:nuget/XtremeIdiots.Portal.Repository.Api.Client.V2@2.1.284
 - pkg:nuget/XtremeIdiots.Portal.Repository.Api.Client.V2@3.0.15
 - pkg:nuget/XtremeIdiots.Portal.Repository.Api.Client.V2@3.0.16
+- pkg:nuget/XtremeIdiots.Portal.Repository.Api.Client.V2@4.0.1
