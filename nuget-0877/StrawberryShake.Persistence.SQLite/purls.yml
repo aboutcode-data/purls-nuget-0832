@@ -1134,5 +1134,6 @@
 - pkg:nuget/StrawberryShake.Persistence.SQLite@16.2.3
 - pkg:nuget/StrawberryShake.Persistence.SQLite@16.3.0
 - pkg:nuget/StrawberryShake.Persistence.SQLite@16.3.0-p.2
+- pkg:nuget/StrawberryShake.Persistence.SQLite@16.4.0-p.11
 - pkg:nuget/StrawberryShake.Persistence.SQLite@16.4.0-p.8
 - pkg:nuget/StrawberryShake.Persistence.SQLite@16.4.0-p.9
