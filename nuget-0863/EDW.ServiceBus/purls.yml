@@ -246,3 +246,4 @@
 - pkg:nuget/EDW.ServiceBus@1.2.308
 - pkg:nuget/EDW.ServiceBus@1.2.328
 - pkg:nuget/EDW.ServiceBus@1.2.333
+- pkg:nuget/EDW.ServiceBus@1.2.338
