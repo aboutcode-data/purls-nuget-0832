@@ -22,3 +22,5 @@
 - pkg:nuget/Lumeo.Templates@3.4.0
 - pkg:nuget/Lumeo.Templates@3.5.2
 - pkg:nuget/Lumeo.Templates@3.5.3
+- pkg:nuget/Lumeo.Templates@4.0.1
+- pkg:nuget/Lumeo.Templates@4.0.2
