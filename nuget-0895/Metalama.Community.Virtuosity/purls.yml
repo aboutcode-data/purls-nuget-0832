@@ -140,6 +140,7 @@
 - pkg:nuget/Metalama.Community.Virtuosity@2025.1.11
 - pkg:nuget/Metalama.Community.Virtuosity@2025.1.12
 - pkg:nuget/Metalama.Community.Virtuosity@2025.1.13
+- pkg:nuget/Metalama.Community.Virtuosity@2025.1.19
 - pkg:nuget/Metalama.Community.Virtuosity@2025.1.2-preview
 - pkg:nuget/Metalama.Community.Virtuosity@2025.1.3-rc
 - pkg:nuget/Metalama.Community.Virtuosity@2025.1.4-rc
