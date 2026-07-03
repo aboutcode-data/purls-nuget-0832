@@ -12,6 +12,7 @@
 - pkg:nuget/Trivial.Console@1.0.0
 - pkg:nuget/Trivial.Console@1.1.0
 - pkg:nuget/Trivial.Console@1.2.0
+- pkg:nuget/Trivial.Console@10.0.0-preview2
 - pkg:nuget/Trivial.Console@2.0.0
 - pkg:nuget/Trivial.Console@2.1.0
 - pkg:nuget/Trivial.Console@2.2.0
