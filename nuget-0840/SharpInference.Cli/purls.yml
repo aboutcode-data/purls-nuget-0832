@@ -1,3 +1,4 @@
+- pkg:nuget/SharpInference.Cli@0.10.1-alpha.0.17
 - pkg:nuget/SharpInference.Cli@0.10.1-alpha.0.2
 - pkg:nuget/SharpInference.Cli@0.10.1-alpha.0.3
 - pkg:nuget/SharpInference.Cli@0.10.1-alpha.0.4
