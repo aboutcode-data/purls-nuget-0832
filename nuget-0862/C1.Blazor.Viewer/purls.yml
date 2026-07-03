@@ -1,3 +1,4 @@
+- pkg:nuget/C1.Blazor.Viewer@10.0.20261.90
 - pkg:nuget/C1.Blazor.Viewer@8.0.20241.820-beta
 - pkg:nuget/C1.Blazor.Viewer@8.0.20241.872-beta
 - pkg:nuget/C1.Blazor.Viewer@8.0.20241.927-beta
