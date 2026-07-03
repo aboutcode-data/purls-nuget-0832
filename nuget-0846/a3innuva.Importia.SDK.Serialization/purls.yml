@@ -32,6 +32,7 @@
 - pkg:nuget/a3innuva.Importia.SDK.Serialization@2.42.0
 - pkg:nuget/a3innuva.Importia.SDK.Serialization@2.42.1-alpha.11
 - pkg:nuget/a3innuva.Importia.SDK.Serialization@2.47.3
+- pkg:nuget/a3innuva.Importia.SDK.Serialization@2.48.0
 - pkg:nuget/a3innuva.Importia.SDK.Serialization@2.8.0
 - pkg:nuget/a3innuva.Importia.SDK.Serialization@2.8.1
 - pkg:nuget/a3innuva.Importia.SDK.Serialization@2.8.2
