@@ -4,6 +4,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.GoFeatureFlag@13.4.0
 - pkg:nuget/CommunityToolkit.Aspire.GoFeatureFlag@13.4.0-beta.651
 - pkg:nuget/CommunityToolkit.Aspire.GoFeatureFlag@13.4.0-beta.671
+- pkg:nuget/CommunityToolkit.Aspire.GoFeatureFlag@13.4.1-beta.676
 - pkg:nuget/CommunityToolkit.Aspire.GoFeatureFlag@9.1.1-beta.168
 - pkg:nuget/CommunityToolkit.Aspire.GoFeatureFlag@9.1.1-beta.169
 - pkg:nuget/CommunityToolkit.Aspire.GoFeatureFlag@9.1.1-beta.173
