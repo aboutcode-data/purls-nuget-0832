@@ -4,6 +4,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.McpInspector@13.4.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.McpInspector@13.4.0-beta.651
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.McpInspector@13.4.0-beta.671
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.McpInspector@13.4.1-beta.676
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.McpInspector@9.5.1-beta.320
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.McpInspector@9.5.1-beta.321
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.McpInspector@9.5.1-beta.322
