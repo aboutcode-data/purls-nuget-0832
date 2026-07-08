@@ -129,6 +129,8 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.36.4-fix-null-properties-on-DeviceStateMessageBase.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.37.0-feature-air-media-sharing-interface.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.37.0-feature-screenLiftController-updates.2
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.37.0-feature-version-data-touchpanel-ui-schema.2
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.37.0-feature-version-data-touchpanel-ui-schema.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.37.0-feature-web-api-updates.6
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.4.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.4.1
