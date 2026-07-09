@@ -495,3 +495,4 @@
 - pkg:nuget/Pulumi.MySql@3.4.0-alpha.1782372247
 - pkg:nuget/Pulumi.MySql@3.4.0-alpha.1782718506
 - pkg:nuget/Pulumi.MySql@3.4.0-alpha.1782894009
+- pkg:nuget/Pulumi.MySql@3.4.0-alpha.1783583056
