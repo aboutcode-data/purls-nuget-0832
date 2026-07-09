@@ -58,3 +58,4 @@
 - pkg:nuget/Google.Apis.BackupforGKE.v1@1.70.0.3877
 - pkg:nuget/Google.Apis.BackupforGKE.v1@1.71.0.3917
 - pkg:nuget/Google.Apis.BackupforGKE.v1@1.73.0.4094
+- pkg:nuget/Google.Apis.BackupforGKE.v1@1.75.0.4192
