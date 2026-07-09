@@ -1,2 +1,4 @@
 - pkg:nuget/mostlylucid.ephemeral.atoms.imagesharp@2.3.1
 - pkg:nuget/mostlylucid.ephemeral.atoms.imagesharp@2.3.1-alpha0
+- pkg:nuget/mostlylucid.ephemeral.atoms.imagesharp@2.6.2
+- pkg:nuget/mostlylucid.ephemeral.atoms.imagesharp@2.9.0
