@@ -22,3 +22,4 @@
 - pkg:nuget/Google.Apis.CloudSupport.v2@1.69.0.3793
 - pkg:nuget/Google.Apis.CloudSupport.v2@1.69.0.3805
 - pkg:nuget/Google.Apis.CloudSupport.v2@1.70.0.3812
+- pkg:nuget/Google.Apis.CloudSupport.v2@1.75.0.4205
