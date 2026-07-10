@@ -1,5 +1,8 @@
 - pkg:nuget/VirtoCommerce.NotificationsModule.Data.SqlServer@3.1001.3
+- pkg:nuget/VirtoCommerce.NotificationsModule.Data.SqlServer@3.1001.5
 - pkg:nuget/VirtoCommerce.NotificationsModule.Data.SqlServer@3.1006.0
+- pkg:nuget/VirtoCommerce.NotificationsModule.Data.SqlServer@3.1009.1
+- pkg:nuget/VirtoCommerce.NotificationsModule.Data.SqlServer@3.1010.0
 - pkg:nuget/VirtoCommerce.NotificationsModule.Data.SqlServer@3.213.0
 - pkg:nuget/VirtoCommerce.NotificationsModule.Data.SqlServer@3.213.0-alpha.303
 - pkg:nuget/VirtoCommerce.NotificationsModule.Data.SqlServer@3.214.0
