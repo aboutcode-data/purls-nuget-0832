@@ -72,3 +72,5 @@
 - pkg:nuget/Credfeto.Package.Push.osx-arm64@1.6.177.1947-main
 - pkg:nuget/Credfeto.Package.Push.osx-arm64@1.6.177.1960-main
 - pkg:nuget/Credfeto.Package.Push.osx-arm64@1.6.177.1961-main
+- pkg:nuget/Credfeto.Package.Push.osx-arm64@1.6.177.1965-main
+- pkg:nuget/Credfeto.Package.Push.osx-arm64@1.6.177.1966-main
