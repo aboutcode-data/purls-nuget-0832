@@ -1067,6 +1067,9 @@
 - pkg:nuget/Credfeto.Package.Update@1.10.218.2420-unreachable-nug
 - pkg:nuget/Credfeto.Package.Update@1.10.218.2437-unreachable-nug
 - pkg:nuget/Credfeto.Package.Update@1.10.218.2438-main
+- pkg:nuget/Credfeto.Package.Update@1.10.218.2444-main
+- pkg:nuget/Credfeto.Package.Update@1.10.218.2445-main
+- pkg:nuget/Credfeto.Package.Update@1.10.218.2446-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.26-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.27-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.28-main
