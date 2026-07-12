@@ -20,3 +20,5 @@
 - pkg:nuget/Eventuous.Domain@0.15.1
 - pkg:nuget/Eventuous.Domain@0.16.2
 - pkg:nuget/Eventuous.Domain@0.16.3
+- pkg:nuget/Eventuous.Domain@0.16.5-alpha.0.1
+- pkg:nuget/Eventuous.Domain@0.16.5-alpha.0.2
