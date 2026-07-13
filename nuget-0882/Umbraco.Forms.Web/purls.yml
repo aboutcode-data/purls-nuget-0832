@@ -100,6 +100,7 @@
 - pkg:nuget/Umbraco.Forms.Web@13.6.0
 - pkg:nuget/Umbraco.Forms.Web@13.9.4
 - pkg:nuget/Umbraco.Forms.Web@13.9.6
+- pkg:nuget/Umbraco.Forms.Web@13.9.7
 - pkg:nuget/Umbraco.Forms.Web@14.0.0
 - pkg:nuget/Umbraco.Forms.Web@14.0.0-beta001
 - pkg:nuget/Umbraco.Forms.Web@14.0.0-beta002
@@ -151,6 +152,8 @@
 - pkg:nuget/Umbraco.Forms.Web@17.2.1
 - pkg:nuget/Umbraco.Forms.Web@17.3.0
 - pkg:nuget/Umbraco.Forms.Web@17.3.0-rc
+- pkg:nuget/Umbraco.Forms.Web@17.4.6
+- pkg:nuget/Umbraco.Forms.Web@18.0.4
 - pkg:nuget/Umbraco.Forms.Web@9.0.0
 - pkg:nuget/Umbraco.Forms.Web@9.0.0-beta002
 - pkg:nuget/Umbraco.Forms.Web@9.0.0-beta003
