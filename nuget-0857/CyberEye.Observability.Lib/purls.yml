@@ -70,4 +70,5 @@
 - pkg:nuget/CyberEye.Observability.Lib@1.8.8
 - pkg:nuget/CyberEye.Observability.Lib@1.8.9
 - pkg:nuget/CyberEye.Observability.Lib@1.9.9
+- pkg:nuget/CyberEye.Observability.Lib@3.0.17
 - pkg:nuget/CyberEye.Observability.Lib@3.0.3
