@@ -1,5 +1,6 @@
 - pkg:nuget/SquidStd.Caching@0.19.0
 - pkg:nuget/SquidStd.Caching@0.21.0
 - pkg:nuget/SquidStd.Caching@0.28.0
+- pkg:nuget/SquidStd.Caching@0.32.1
 - pkg:nuget/SquidStd.Caching@0.4.0
 - pkg:nuget/SquidStd.Caching@0.6.0
