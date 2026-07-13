@@ -43,3 +43,4 @@
 - pkg:nuget/Microsoft.Testing.Platform.MSBuild@2.0.0-preview.25452.10
 - pkg:nuget/Microsoft.Testing.Platform.MSBuild@2.0.0-preview.25454.2
 - pkg:nuget/Microsoft.Testing.Platform.MSBuild@2.0.0-preview.25465.3
+- pkg:nuget/Microsoft.Testing.Platform.MSBuild@2.3.2
