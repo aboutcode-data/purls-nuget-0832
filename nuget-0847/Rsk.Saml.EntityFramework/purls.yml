@@ -3,6 +3,7 @@
 - pkg:nuget/Rsk.Saml.EntityFramework@1.0.1
 - pkg:nuget/Rsk.Saml.EntityFramework@10.0.0
 - pkg:nuget/Rsk.Saml.EntityFramework@10.0.1
+- pkg:nuget/Rsk.Saml.EntityFramework@12.0.0
 - pkg:nuget/Rsk.Saml.EntityFramework@2.0.0
 - pkg:nuget/Rsk.Saml.EntityFramework@2.0.0-preview1
 - pkg:nuget/Rsk.Saml.EntityFramework@2.1.0
