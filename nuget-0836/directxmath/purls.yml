@@ -12,6 +12,7 @@
 - pkg:nuget/directxmath@2024.10.15.1
 - pkg:nuget/directxmath@2024.2.15.1
 - pkg:nuget/directxmath@2025.4.3.1
+- pkg:nuget/directxmath@2026.6.12.1
 - pkg:nuget/directxmath@3.0.3
 - pkg:nuget/directxmath@3.0.6
 - pkg:nuget/directxmath@3.0.7
