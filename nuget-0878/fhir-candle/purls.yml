@@ -104,3 +104,4 @@
 - pkg:nuget/fhir-candle@2025.220.1345
 - pkg:nuget/fhir-candle@2025.331.1443
 - pkg:nuget/fhir-candle@2025.611.1422
+- pkg:nuget/fhir-candle@2026.527.1737
