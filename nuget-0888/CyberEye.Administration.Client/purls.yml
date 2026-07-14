@@ -3,4 +3,5 @@
 - pkg:nuget/CyberEye.Administration.Client@1.10.4
 - pkg:nuget/CyberEye.Administration.Client@1.10.7
 - pkg:nuget/CyberEye.Administration.Client@1.9.9
+- pkg:nuget/CyberEye.Administration.Client@3.0.17
 - pkg:nuget/CyberEye.Administration.Client@3.0.3
