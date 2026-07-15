@@ -18,3 +18,5 @@
 - pkg:nuget/DeepCoin.Net@2.5.1
 - pkg:nuget/DeepCoin.Net@2.6.0
 - pkg:nuget/DeepCoin.Net@2.7.0
+- pkg:nuget/DeepCoin.Net@3.10.0
+- pkg:nuget/DeepCoin.Net@4.0.0
