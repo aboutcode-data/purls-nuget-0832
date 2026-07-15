@@ -61,6 +61,7 @@
 - pkg:nuget/Neon.ModelGenerator@4.0.19-preview.2
 - pkg:nuget/Neon.ModelGenerator@4.0.19-preview.3
 - pkg:nuget/Neon.ModelGenerator@4.0.2
+- pkg:nuget/Neon.ModelGenerator@4.0.20-preview.1
 - pkg:nuget/Neon.ModelGenerator@4.0.3
 - pkg:nuget/Neon.ModelGenerator@4.0.3-rc.1
 - pkg:nuget/Neon.ModelGenerator@4.0.3-rc.2
