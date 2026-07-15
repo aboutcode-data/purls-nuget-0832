@@ -14,3 +14,4 @@
 - pkg:nuget/Tmds.DBus.Protocol@0.90.3
 - pkg:nuget/Tmds.DBus.Protocol@0.91.1
 - pkg:nuget/Tmds.DBus.Protocol@0.92.0
+- pkg:nuget/Tmds.DBus.Protocol@0.94.2
