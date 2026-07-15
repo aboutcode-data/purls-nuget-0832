@@ -1,2 +1,6 @@
 - pkg:nuget/Digizuite.Sitecore@11.1.0
 - pkg:nuget/Digizuite.Sitecore@11.1.2
+- pkg:nuget/Digizuite.Sitecore@12.0.5
+- pkg:nuget/Digizuite.Sitecore@12.0.6.1
+- pkg:nuget/Digizuite.Sitecore@12.0.7
+- pkg:nuget/Digizuite.Sitecore@12.1.0
