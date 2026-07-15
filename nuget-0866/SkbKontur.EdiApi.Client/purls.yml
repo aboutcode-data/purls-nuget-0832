@@ -102,6 +102,7 @@
 - pkg:nuget/SkbKontur.EdiApi.Client@2.23.5-pre.9
 - pkg:nuget/SkbKontur.EdiApi.Client@2.23.6-pre.10
 - pkg:nuget/SkbKontur.EdiApi.Client@2.24.1-pre.1
+- pkg:nuget/SkbKontur.EdiApi.Client@2.24.3-pre.103
 - pkg:nuget/SkbKontur.EdiApi.Client@2.3.1
 - pkg:nuget/SkbKontur.EdiApi.Client@2.3.1-pre1
 - pkg:nuget/SkbKontur.EdiApi.Client@2.3.1-pre2
