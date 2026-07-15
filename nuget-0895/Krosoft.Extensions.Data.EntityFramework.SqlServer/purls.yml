@@ -24,3 +24,5 @@
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.SqlServer@2025.9.14.3023
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.SqlServer@2025.9.9.2855
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.SqlServer@2026.2.3.5280
+- pkg:nuget/Krosoft.Extensions.Data.EntityFramework.SqlServer@2026.6.25.7874
+- pkg:nuget/Krosoft.Extensions.Data.EntityFramework.SqlServer@2026.6.25.7875
