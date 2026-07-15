@@ -1,3 +1,6 @@
 - pkg:nuget/QaaS.Mocker.CommunicationObjects@2.0.0-alpha.1
 - pkg:nuget/QaaS.Mocker.CommunicationObjects@2.1.1
 - pkg:nuget/QaaS.Mocker.CommunicationObjects@2.2.0
+- pkg:nuget/QaaS.Mocker.CommunicationObjects@2.3.2
+- pkg:nuget/QaaS.Mocker.CommunicationObjects@2.3.3
+- pkg:nuget/QaaS.Mocker.CommunicationObjects@2.3.4
