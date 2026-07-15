@@ -2,3 +2,5 @@
 - pkg:nuget/SB.OpenSearch.Client@3.4.0-beta.1
 - pkg:nuget/SB.OpenSearch.Client@3.4.0-beta.2
 - pkg:nuget/SB.OpenSearch.Client@3.4.0-beta.3
+- pkg:nuget/SB.OpenSearch.Client@3.4.0-beta.7
+- pkg:nuget/SB.OpenSearch.Client@3.4.0-rc.1
