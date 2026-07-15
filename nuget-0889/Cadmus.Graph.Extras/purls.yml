@@ -1,4 +1,6 @@
 - pkg:nuget/Cadmus.Graph.Extras@0.0.1
+- pkg:nuget/Cadmus.Graph.Extras@10.0.7
+- pkg:nuget/Cadmus.Graph.Extras@14.0.1
 - pkg:nuget/Cadmus.Graph.Extras@2.0.10
 - pkg:nuget/Cadmus.Graph.Extras@2.0.11
 - pkg:nuget/Cadmus.Graph.Extras@2.0.7
