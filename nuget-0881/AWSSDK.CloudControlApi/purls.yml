@@ -761,4 +761,5 @@
 - pkg:nuget/AWSSDK.CloudControlApi@4.0.1.19
 - pkg:nuget/AWSSDK.CloudControlApi@4.0.1.20
 - pkg:nuget/AWSSDK.CloudControlApi@4.0.1.21
+- pkg:nuget/AWSSDK.CloudControlApi@4.0.100.4
 - pkg:nuget/AWSSDK.CloudControlApi@4.0.2.5
