@@ -2,6 +2,9 @@
 - pkg:nuget/Datalake.ExternalAuth.OC@1.0.120
 - pkg:nuget/Datalake.ExternalAuth.OC@1.0.121
 - pkg:nuget/Datalake.ExternalAuth.OC@1.0.129
+- pkg:nuget/Datalake.ExternalAuth.OC@1.0.130
+- pkg:nuget/Datalake.ExternalAuth.OC@1.0.132
+- pkg:nuget/Datalake.ExternalAuth.OC@1.0.133
 - pkg:nuget/Datalake.ExternalAuth.OC@1.0.76
 - pkg:nuget/Datalake.ExternalAuth.OC@1.0.77
 - pkg:nuget/Datalake.ExternalAuth.OC@1.0.78
