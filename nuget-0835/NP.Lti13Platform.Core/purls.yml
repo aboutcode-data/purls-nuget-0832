@@ -2,6 +2,7 @@
 - pkg:nuget/NP.Lti13Platform.Core@0.1.0-beta
 - pkg:nuget/NP.Lti13Platform.Core@0.1.0-preview001
 - pkg:nuget/NP.Lti13Platform.Core@0.1.0-preview002
+- pkg:nuget/NP.Lti13Platform.Core@1.0.0
 - pkg:nuget/NP.Lti13Platform.Core@1.0.0-preview001
 - pkg:nuget/NP.Lti13Platform.Core@1.0.0-preview002
 - pkg:nuget/NP.Lti13Platform.Core@1.0.0-preview003
