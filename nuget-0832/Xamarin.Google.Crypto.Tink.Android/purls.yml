@@ -23,6 +23,7 @@
 - pkg:nuget/Xamarin.Google.Crypto.Tink.Android@1.17.0.2
 - pkg:nuget/Xamarin.Google.Crypto.Tink.Android@1.18.0
 - pkg:nuget/Xamarin.Google.Crypto.Tink.Android@1.18.0.1
+- pkg:nuget/Xamarin.Google.Crypto.Tink.Android@1.22.0.1
 - pkg:nuget/Xamarin.Google.Crypto.Tink.Android@1.6.1
 - pkg:nuget/Xamarin.Google.Crypto.Tink.Android@1.6.1.1
 - pkg:nuget/Xamarin.Google.Crypto.Tink.Android@1.6.1.2
