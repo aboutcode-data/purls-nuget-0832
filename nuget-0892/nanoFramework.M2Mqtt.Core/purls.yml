@@ -45,4 +45,5 @@
 - pkg:nuget/nanoFramework.M2Mqtt.Core@5.1.94
 - pkg:nuget/nanoFramework.M2Mqtt.Core@5.1.96
 - pkg:nuget/nanoFramework.M2Mqtt.Core@5.1.99
+- pkg:nuget/nanoFramework.M2Mqtt.Core@6.0.0-preview.17
 - pkg:nuget/nanoFramework.M2Mqtt.Core@6.0.0-preview.8
