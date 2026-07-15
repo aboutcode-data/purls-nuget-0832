@@ -6,3 +6,4 @@
 - pkg:nuget/FMT.Compilers@2025.9.28.8211
 - pkg:nuget/FMT.Compilers@2025.9.3.19231
 - pkg:nuget/FMT.Compilers@2025.9.3.22281
+- pkg:nuget/FMT.Compilers@2026.2.1
