@@ -80,4 +80,5 @@
 - pkg:nuget/CommonNetFuncs.Web.Middleware@3.8.38
 - pkg:nuget/CommonNetFuncs.Web.Middleware@4.0.17
 - pkg:nuget/CommonNetFuncs.Web.Middleware@4.0.36
+- pkg:nuget/CommonNetFuncs.Web.Middleware@4.1.12
 - pkg:nuget/CommonNetFuncs.Web.Middleware@4.1.3
