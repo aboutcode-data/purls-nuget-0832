@@ -923,3 +923,4 @@
 - pkg:nuget/MassTransit.Azure.Storage@9.2.0-develop.142
 - pkg:nuget/MassTransit.Azure.Storage@9.2.0-develop.145
 - pkg:nuget/MassTransit.Azure.Storage@9.2.0-develop.147
+- pkg:nuget/MassTransit.Azure.Storage@9.2.0-develop.155
