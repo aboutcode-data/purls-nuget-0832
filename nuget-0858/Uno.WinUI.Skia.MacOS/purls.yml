@@ -1424,6 +1424,7 @@
 - pkg:nuget/Uno.WinUI.Skia.MacOS@6.6.0-dev.931
 - pkg:nuget/Uno.WinUI.Skia.MacOS@6.6.0-dev.934
 - pkg:nuget/Uno.WinUI.Skia.MacOS@6.6.0-dev.961
+- pkg:nuget/Uno.WinUI.Skia.MacOS@6.6.166
 - pkg:nuget/Uno.WinUI.Skia.MacOS@6.7.0-dev.144
 - pkg:nuget/Uno.WinUI.Skia.MacOS@6.7.0-dev.177
 - pkg:nuget/Uno.WinUI.Skia.MacOS@6.7.0-dev.178
