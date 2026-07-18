@@ -1089,6 +1089,7 @@
 - pkg:nuget/AWSSDK.LakeFormation@4.0.1.5
 - pkg:nuget/AWSSDK.LakeFormation@4.0.1.8
 - pkg:nuget/AWSSDK.LakeFormation@4.0.100.4
+- pkg:nuget/AWSSDK.LakeFormation@4.0.100.5
 - pkg:nuget/AWSSDK.LakeFormation@4.0.2
 - pkg:nuget/AWSSDK.LakeFormation@4.0.4.10
 - pkg:nuget/AWSSDK.LakeFormation@4.0.4.11
