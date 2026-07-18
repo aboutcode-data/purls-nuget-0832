@@ -1,4 +1,5 @@
 - pkg:nuget/estat.sri.ws.auth.generic@10.1.0
+- pkg:nuget/estat.sri.ws.auth.generic@10.11.7
 - pkg:nuget/estat.sri.ws.auth.generic@10.2.0
 - pkg:nuget/estat.sri.ws.auth.generic@10.3.0
 - pkg:nuget/estat.sri.ws.auth.generic@10.4.0
