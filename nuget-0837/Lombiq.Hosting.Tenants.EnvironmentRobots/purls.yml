@@ -1,3 +1,4 @@
+- pkg:nuget/Lombiq.Hosting.Tenants.EnvironmentRobots@10.0.0
 - pkg:nuget/Lombiq.Hosting.Tenants.EnvironmentRobots@4.0.3-alpha.19.osoe-621
 - pkg:nuget/Lombiq.Hosting.Tenants.EnvironmentRobots@4.1.0
 - pkg:nuget/Lombiq.Hosting.Tenants.EnvironmentRobots@4.1.0-alpha.2.nest-391
