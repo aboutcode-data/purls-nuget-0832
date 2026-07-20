@@ -146,4 +146,5 @@
 - pkg:nuget/Siemens.AspNet.MsTest.Sdk@7.5.17%2B1
 - pkg:nuget/Siemens.AspNet.MsTest.Sdk@7.5.7%2B2
 - pkg:nuget/Siemens.AspNet.MsTest.Sdk@7.5.8%2B1
+- pkg:nuget/Siemens.AspNet.MsTest.Sdk@7.6.11%2B3
 - pkg:nuget/Siemens.AspNet.MsTest.Sdk@7.6.5%2B1
