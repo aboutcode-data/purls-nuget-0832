@@ -3,6 +3,7 @@
 - pkg:nuget/SharpOpenNat@4.0.14
 - pkg:nuget/SharpOpenNat@4.0.16
 - pkg:nuget/SharpOpenNat@4.0.17
+- pkg:nuget/SharpOpenNat@4.0.19
 - pkg:nuget/SharpOpenNat@4.0.2
 - pkg:nuget/SharpOpenNat@4.0.3
 - pkg:nuget/SharpOpenNat@4.0.4
