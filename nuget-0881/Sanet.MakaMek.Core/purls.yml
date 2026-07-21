@@ -204,3 +204,4 @@
 - pkg:nuget/Sanet.MakaMek.Core@0.61.12-preview
 - pkg:nuget/Sanet.MakaMek.Core@0.61.14-preview
 - pkg:nuget/Sanet.MakaMek.Core@0.62.0-preview
+- pkg:nuget/Sanet.MakaMek.Core@0.62.4-preview
