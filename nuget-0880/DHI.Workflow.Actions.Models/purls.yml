@@ -130,3 +130,4 @@
 - pkg:nuget/DHI.Workflow.Actions.Models@4.0.5
 - pkg:nuget/DHI.Workflow.Actions.Models@4.2.1
 - pkg:nuget/DHI.Workflow.Actions.Models@5.0.1
+- pkg:nuget/DHI.Workflow.Actions.Models@5.0.4
