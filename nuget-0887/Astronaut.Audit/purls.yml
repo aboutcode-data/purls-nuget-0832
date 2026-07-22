@@ -1,4 +1,5 @@
 - pkg:nuget/Astronaut.Audit@1.0.0
+- pkg:nuget/Astronaut.Audit@10.1.0
 - pkg:nuget/Astronaut.Audit@3.0.0
 - pkg:nuget/Astronaut.Audit@3.1.0
 - pkg:nuget/Astronaut.Audit@3.2.0
