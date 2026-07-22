@@ -40,6 +40,7 @@
 - pkg:nuget/Volo.Abp.Account.Web@10.5.0
 - pkg:nuget/Volo.Abp.Account.Web@10.5.0-rc.1
 - pkg:nuget/Volo.Abp.Account.Web@10.5.0-rc.4
+- pkg:nuget/Volo.Abp.Account.Web@10.6.0-rc.3
 - pkg:nuget/Volo.Abp.Account.Web@2.0.0
 - pkg:nuget/Volo.Abp.Account.Web@2.0.1
 - pkg:nuget/Volo.Abp.Account.Web@2.1.0
