@@ -14,3 +14,4 @@
 - pkg:nuget/DynamoDb.DistributedLock@1.2.0.15
 - pkg:nuget/DynamoDb.DistributedLock@1.2.1.16
 - pkg:nuget/DynamoDb.DistributedLock@1.2.1.17
+- pkg:nuget/DynamoDb.DistributedLock@1.2.7-preview.5
