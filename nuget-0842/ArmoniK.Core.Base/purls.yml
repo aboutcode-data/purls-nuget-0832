@@ -4174,3 +4174,4 @@
 - pkg:nuget/ArmoniK.Core.Base@0.40.2-renovatemajorgithubactions.6.sha.ff02c9b9
 - pkg:nuget/ArmoniK.Core.Base@0.40.2-renovatenugetarmonikapi.6.sha.3c660bf9
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-jgpostgressql.50.sha.57658b07
+- pkg:nuget/ArmoniK.Core.Base@0.41.0-jgpostgressql.51.sha.ca49385b
