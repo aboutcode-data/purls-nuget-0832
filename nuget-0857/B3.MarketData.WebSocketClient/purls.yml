@@ -1,1 +1,2 @@
 - pkg:nuget/B3.MarketData.WebSocketClient@0.2.0
+- pkg:nuget/B3.MarketData.WebSocketClient@0.6.0
