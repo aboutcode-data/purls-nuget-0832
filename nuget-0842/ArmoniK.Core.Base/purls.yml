@@ -4169,8 +4169,11 @@
 - pkg:nuget/ArmoniK.Core.Base@0.40.1-jffixrenovate.1.sha.8e53435e
 - pkg:nuget/ArmoniK.Core.Base@0.40.1-renovategithubactions.1.sha.b713dc6f
 - pkg:nuget/ArmoniK.Core.Base@0.40.2-SNAPSHOT.5.sha.64a81f65
+- pkg:nuget/ArmoniK.Core.Base@0.40.2-adtaskmergebug.6.sha.81fd619a
+- pkg:nuget/ArmoniK.Core.Base@0.40.2-adtaskmergebug.6.sha.ec9746ee
 - pkg:nuget/ArmoniK.Core.Base@0.40.2-renovateaneoconsultingarmonikd.6.sha.0f661781
 - pkg:nuget/ArmoniK.Core.Base@0.40.2-renovateaneoconsultingarmonikd.6.sha.d61cb80f
+- pkg:nuget/ArmoniK.Core.Base@0.40.2-renovategithubactions.6.sha.699cd8e3
 - pkg:nuget/ArmoniK.Core.Base@0.40.2-renovatemajorgithubactions.6.sha.ff02c9b9
 - pkg:nuget/ArmoniK.Core.Base@0.40.2-renovatenugetarmonikapi.6.sha.3c660bf9
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-jgpostgressql.50.sha.57658b07
