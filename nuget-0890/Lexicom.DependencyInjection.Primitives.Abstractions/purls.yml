@@ -5,6 +5,8 @@
 - pkg:nuget/Lexicom.DependencyInjection.Primitives.Abstractions@10.0.19
 - pkg:nuget/Lexicom.DependencyInjection.Primitives.Abstractions@10.0.25
 - pkg:nuget/Lexicom.DependencyInjection.Primitives.Abstractions@10.0.27
+- pkg:nuget/Lexicom.DependencyInjection.Primitives.Abstractions@10.0.33
+- pkg:nuget/Lexicom.DependencyInjection.Primitives.Abstractions@10.0.41
 - pkg:nuget/Lexicom.DependencyInjection.Primitives.Abstractions@8.0.74
 - pkg:nuget/Lexicom.DependencyInjection.Primitives.Abstractions@8.0.75
 - pkg:nuget/Lexicom.DependencyInjection.Primitives.Abstractions@8.0.76
