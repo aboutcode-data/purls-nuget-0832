@@ -6,3 +6,6 @@
 - pkg:nuget/Billy.Api@2.1.4
 - pkg:nuget/Billy.Api@2.1.5
 - pkg:nuget/Billy.Api@3.0.0
+- pkg:nuget/Billy.Api@4.1.2
+- pkg:nuget/Billy.Api@5.0.0
+- pkg:nuget/Billy.Api@5.2.0
