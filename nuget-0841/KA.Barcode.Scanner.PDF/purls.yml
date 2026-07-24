@@ -22,6 +22,7 @@
 - pkg:nuget/KA.Barcode.Scanner.PDF@7.5.0.54
 - pkg:nuget/KA.Barcode.Scanner.PDF@7.5.0.56
 - pkg:nuget/KA.Barcode.Scanner.PDF@7.5.0.6
+- pkg:nuget/KA.Barcode.Scanner.PDF@7.5.0.60
 - pkg:nuget/KA.Barcode.Scanner.PDF@7.5.0.7
 - pkg:nuget/KA.Barcode.Scanner.PDF@7.5.0.8
 - pkg:nuget/KA.Barcode.Scanner.PDF@7.5.0.9
