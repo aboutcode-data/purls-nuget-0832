@@ -3,3 +3,9 @@
 - pkg:nuget/Kayisoft.Abp.MultipartUploadManagement.Domain.Shared@5.0.3
 - pkg:nuget/Kayisoft.Abp.MultipartUploadManagement.Domain.Shared@5.0.4
 - pkg:nuget/Kayisoft.Abp.MultipartUploadManagement.Domain.Shared@5.0.8
+- pkg:nuget/Kayisoft.Abp.MultipartUploadManagement.Domain.Shared@5.1.3
+- pkg:nuget/Kayisoft.Abp.MultipartUploadManagement.Domain.Shared@5.1.5
+- pkg:nuget/Kayisoft.Abp.MultipartUploadManagement.Domain.Shared@5.1.6
+- pkg:nuget/Kayisoft.Abp.MultipartUploadManagement.Domain.Shared@5.1.9
+- pkg:nuget/Kayisoft.Abp.MultipartUploadManagement.Domain.Shared@5.2.2
+- pkg:nuget/Kayisoft.Abp.MultipartUploadManagement.Domain.Shared@5.2.7
