@@ -256,6 +256,7 @@
 - pkg:nuget/TencentCloudSDK.Goosefs@3.0.1260
 - pkg:nuget/TencentCloudSDK.Goosefs@3.0.1262
 - pkg:nuget/TencentCloudSDK.Goosefs@3.0.1273
+- pkg:nuget/TencentCloudSDK.Goosefs@3.0.1469
 - pkg:nuget/TencentCloudSDK.Goosefs@3.0.688
 - pkg:nuget/TencentCloudSDK.Goosefs@3.0.689
 - pkg:nuget/TencentCloudSDK.Goosefs@3.0.690
