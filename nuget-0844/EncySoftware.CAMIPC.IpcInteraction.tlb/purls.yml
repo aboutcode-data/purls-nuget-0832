@@ -7,3 +7,4 @@
 - pkg:nuget/EncySoftware.CAMIPC.IpcInteraction.tlb@1.2.1%2B78fa9a86bf1a4f179075ddb494cc71cd7ca298ed
 - pkg:nuget/EncySoftware.CAMIPC.IpcInteraction.tlb@2.0.1%2B5a33ac1e1321c68c3dbefe293ed7a2b8b63bd717
 - pkg:nuget/EncySoftware.CAMIPC.IpcInteraction.tlb@2.0.4%2B71139413e2b534eb844bccb84805b7effb9863a2
+- pkg:nuget/EncySoftware.CAMIPC.IpcInteraction.tlb@3.0.1-rc.7%2B756134d8f3e7c74d858059314d45cca4ab449d98
