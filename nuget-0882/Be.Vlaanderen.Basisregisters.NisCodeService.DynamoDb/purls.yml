@@ -10,3 +10,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.NisCodeService.DynamoDb@4.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.NisCodeService.DynamoDb@5.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.NisCodeService.DynamoDb@6.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.NisCodeService.DynamoDb@7.0.0
