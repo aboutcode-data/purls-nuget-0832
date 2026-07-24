@@ -1,3 +1,4 @@
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.10.3
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.10.6
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.13.1
+- pkg:nuget/FluxIndex.Providers.LMSupply@0.13.19
