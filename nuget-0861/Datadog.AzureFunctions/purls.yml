@@ -17,3 +17,5 @@
 - pkg:nuget/Datadog.AzureFunctions@3.40.0
 - pkg:nuget/Datadog.AzureFunctions@3.41.0
 - pkg:nuget/Datadog.AzureFunctions@3.42.0
+- pkg:nuget/Datadog.AzureFunctions@3.47.0
+- pkg:nuget/Datadog.AzureFunctions@3.49.0
