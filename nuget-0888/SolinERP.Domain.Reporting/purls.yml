@@ -967,3 +967,5 @@
 - pkg:nuget/SolinERP.Domain.Reporting@4.0.9651.24498
 - pkg:nuget/SolinERP.Domain.Reporting@4.0.9652.32850
 - pkg:nuget/SolinERP.Domain.Reporting@4.0.9656.23664
+- pkg:nuget/SolinERP.Domain.Reporting@4.0.9701.17292
+- pkg:nuget/SolinERP.Domain.Reporting@4.0.9701.18320
