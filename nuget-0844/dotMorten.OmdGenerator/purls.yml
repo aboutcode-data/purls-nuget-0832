@@ -11,3 +11,6 @@
 - pkg:nuget/dotMorten.OmdGenerator@1.5.0
 - pkg:nuget/dotMorten.OmdGenerator@1.5.1
 - pkg:nuget/dotMorten.OmdGenerator@1.5.2
+- pkg:nuget/dotMorten.OmdGenerator@1.8.2
+- pkg:nuget/dotMorten.OmdGenerator@1.8.3
+- pkg:nuget/dotMorten.OmdGenerator@1.8.3-beta
