@@ -42,6 +42,7 @@
 - pkg:nuget/Magick.NET-Q16-HDRI-AnyCPU@14.12.0
 - pkg:nuget/Magick.NET-Q16-HDRI-AnyCPU@14.13.0
 - pkg:nuget/Magick.NET-Q16-HDRI-AnyCPU@14.13.1
+- pkg:nuget/Magick.NET-Q16-HDRI-AnyCPU@14.14.0
 - pkg:nuget/Magick.NET-Q16-HDRI-AnyCPU@14.2.0
 - pkg:nuget/Magick.NET-Q16-HDRI-AnyCPU@14.3.0
 - pkg:nuget/Magick.NET-Q16-HDRI-AnyCPU@14.4.0
