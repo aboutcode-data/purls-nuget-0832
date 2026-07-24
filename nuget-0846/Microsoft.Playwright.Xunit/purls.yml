@@ -8,3 +8,4 @@
 - pkg:nuget/Microsoft.Playwright.Xunit@1.55.0-beta-1
 - pkg:nuget/Microsoft.Playwright.Xunit@1.55.0-beta-2
 - pkg:nuget/Microsoft.Playwright.Xunit@1.55.0-beta-4
+- pkg:nuget/Microsoft.Playwright.Xunit@1.61.0
