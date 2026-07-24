@@ -1,2 +1,5 @@
 - pkg:nuget/Franz.Common.Mapping.Generators@2.0.1
 - pkg:nuget/Franz.Common.Mapping.Generators@2.0.2
+- pkg:nuget/Franz.Common.Mapping.Generators@2.2.10
+- pkg:nuget/Franz.Common.Mapping.Generators@2.2.15
+- pkg:nuget/Franz.Common.Mapping.Generators@2.2.7
