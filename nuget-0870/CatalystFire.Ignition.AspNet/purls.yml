@@ -61,6 +61,7 @@
 - pkg:nuget/CatalystFire.Ignition.AspNet@12.0.3454-beta
 - pkg:nuget/CatalystFire.Ignition.AspNet@12.0.3461-beta
 - pkg:nuget/CatalystFire.Ignition.AspNet@12.0.3462-beta
+- pkg:nuget/CatalystFire.Ignition.AspNet@12.0.40556-beta
 - pkg:nuget/CatalystFire.Ignition.AspNet@5.0.76-alpha1
 - pkg:nuget/CatalystFire.Ignition.AspNet@5.0.78-alpha1
 - pkg:nuget/CatalystFire.Ignition.AspNet@5.0.80-alpha1
