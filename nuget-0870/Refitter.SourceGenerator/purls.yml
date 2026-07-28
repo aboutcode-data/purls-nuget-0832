@@ -111,3 +111,5 @@
 - pkg:nuget/Refitter.SourceGenerator@1.8.0-preview.101
 - pkg:nuget/Refitter.SourceGenerator@2.0.0-preview.107
 - pkg:nuget/Refitter.SourceGenerator@2.1.0-preview.110
+- pkg:nuget/Refitter.SourceGenerator@2.1.2
+- pkg:nuget/Refitter.SourceGenerator@2.1.2-preview.113
