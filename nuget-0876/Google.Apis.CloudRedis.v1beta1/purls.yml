@@ -178,3 +178,4 @@
 - pkg:nuget/Google.Apis.CloudRedis.v1beta1@1.71.0.3904
 - pkg:nuget/Google.Apis.CloudRedis.v1beta1@1.73.0.4100
 - pkg:nuget/Google.Apis.CloudRedis.v1beta1@1.75.0.4198
+- pkg:nuget/Google.Apis.CloudRedis.v1beta1@1.75.0.4218
