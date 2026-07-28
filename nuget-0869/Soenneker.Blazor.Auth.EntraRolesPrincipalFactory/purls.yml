@@ -109,3 +109,4 @@
 - pkg:nuget/Soenneker.Blazor.Auth.EntraRolesPrincipalFactory@4.0.283
 - pkg:nuget/Soenneker.Blazor.Auth.EntraRolesPrincipalFactory@4.0.284
 - pkg:nuget/Soenneker.Blazor.Auth.EntraRolesPrincipalFactory@4.0.290
+- pkg:nuget/Soenneker.Blazor.Auth.EntraRolesPrincipalFactory@4.0.298
