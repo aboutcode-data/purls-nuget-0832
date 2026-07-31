@@ -70,3 +70,6 @@
 - pkg:nuget/CitrusLime.Core.Rest@3.0.9
 - pkg:nuget/CitrusLime.Core.Rest@3.0.9-CI-20250801-101614
 - pkg:nuget/CitrusLime.Core.Rest@3.0.9-CI-20250804-084447
+- pkg:nuget/CitrusLime.Core.Rest@3.1.0
+- pkg:nuget/CitrusLime.Core.Rest@3.1.0-CI-20260730-143555
+- pkg:nuget/CitrusLime.Core.Rest@3.1.1-CI-20260730-144653
