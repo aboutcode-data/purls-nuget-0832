@@ -149,3 +149,5 @@
 - pkg:nuget/Weasel.Core@9.1.1
 - pkg:nuget/Weasel.Core@9.17.0
 - pkg:nuget/Weasel.Core@9.2.0
+- pkg:nuget/Weasel.Core@9.20.1
+- pkg:nuget/Weasel.Core@9.20.2
