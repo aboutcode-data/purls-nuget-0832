@@ -36,5 +36,6 @@
 - pkg:nuget/GoC.WebTemplate-CoreMVC@5.0.5
 - pkg:nuget/GoC.WebTemplate-CoreMVC@5.0.6
 - pkg:nuget/GoC.WebTemplate-CoreMVC@5.1.0
+- pkg:nuget/GoC.WebTemplate-CoreMVC@5.1.1
 - pkg:nuget/GoC.WebTemplate-CoreMVC@6.0.0
 - pkg:nuget/GoC.WebTemplate-CoreMVC@6.0.0-rc1
