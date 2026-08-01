@@ -93,3 +93,4 @@
 - pkg:nuget/kvps-cli@0.1.91
 - pkg:nuget/kvps-cli@0.1.92
 - pkg:nuget/kvps-cli@0.1.94
+- pkg:nuget/kvps-cli@0.2.3
