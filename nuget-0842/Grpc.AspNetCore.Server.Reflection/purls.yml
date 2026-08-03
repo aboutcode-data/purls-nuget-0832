@@ -94,3 +94,4 @@
 - pkg:nuget/Grpc.AspNetCore.Server.Reflection@2.71.0-pre1
 - pkg:nuget/Grpc.AspNetCore.Server.Reflection@2.76.0-pre1
 - pkg:nuget/Grpc.AspNetCore.Server.Reflection@2.80.0-pre1
+- pkg:nuget/Grpc.AspNetCore.Server.Reflection@2.83.0
