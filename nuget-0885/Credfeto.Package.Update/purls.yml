@@ -1089,6 +1089,7 @@
 - pkg:nuget/Credfeto.Package.Update@1.10.219.2554-set-env-depreca
 - pkg:nuget/Credfeto.Package.Update@1.10.219.2561-main
 - pkg:nuget/Credfeto.Package.Update@1.10.219.2562-package-referen
+- pkg:nuget/Credfeto.Package.Update@1.10.219.2572-package-referen
 - pkg:nuget/Credfeto.Package.Update@1.10.22.26-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.27-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.28-main
