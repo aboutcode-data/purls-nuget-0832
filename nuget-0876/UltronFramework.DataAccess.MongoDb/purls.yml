@@ -53,6 +53,7 @@
 - pkg:nuget/UltronFramework.DataAccess.MongoDb@1.0.71
 - pkg:nuget/UltronFramework.DataAccess.MongoDb@1.0.72
 - pkg:nuget/UltronFramework.DataAccess.MongoDb@1.0.73
+- pkg:nuget/UltronFramework.DataAccess.MongoDb@10.0.8
 - pkg:nuget/UltronFramework.DataAccess.MongoDb@8.0.0
 - pkg:nuget/UltronFramework.DataAccess.MongoDb@8.0.1
 - pkg:nuget/UltronFramework.DataAccess.MongoDb@8.0.10
