@@ -55,6 +55,7 @@
 - pkg:nuget/BundleTransformer.Autoprefixer@1.15.0
 - pkg:nuget/BundleTransformer.Autoprefixer@1.15.3
 - pkg:nuget/BundleTransformer.Autoprefixer@1.15.4
+- pkg:nuget/BundleTransformer.Autoprefixer@1.17.4
 - pkg:nuget/BundleTransformer.Autoprefixer@1.9.1
 - pkg:nuget/BundleTransformer.Autoprefixer@1.9.109
 - pkg:nuget/BundleTransformer.Autoprefixer@1.9.11
