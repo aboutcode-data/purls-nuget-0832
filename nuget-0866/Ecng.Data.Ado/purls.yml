@@ -9,3 +9,5 @@
 - pkg:nuget/Ecng.Data.Ado@1.0.65
 - pkg:nuget/Ecng.Data.Ado@1.0.69
 - pkg:nuget/Ecng.Data.Ado@1.0.7
+- pkg:nuget/Ecng.Data.Ado@1.0.77
+- pkg:nuget/Ecng.Data.Ado@1.0.79
