@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.Saas.HttpApi@10.4.0
 - pkg:nuget/LINGYUN.Abp.Saas.HttpApi@5.1.4
 - pkg:nuget/LINGYUN.Abp.Saas.HttpApi@5.2.0
 - pkg:nuget/LINGYUN.Abp.Saas.HttpApi@5.2.1
