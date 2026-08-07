@@ -7,4 +7,6 @@
 - pkg:nuget/Dekaf.SchemaRegistry@0.0.1-ci.1948
 - pkg:nuget/Dekaf.SchemaRegistry@0.0.1-ci.2216
 - pkg:nuget/Dekaf.SchemaRegistry@0.0.1-ci.413
+- pkg:nuget/Dekaf.SchemaRegistry@1.10.0
 - pkg:nuget/Dekaf.SchemaRegistry@1.4.0
+- pkg:nuget/Dekaf.SchemaRegistry@1.9.1
