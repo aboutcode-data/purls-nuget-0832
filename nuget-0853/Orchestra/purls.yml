@@ -1,3 +1,5 @@
 - pkg:nuget/Orchestra@0.3.1
 - pkg:nuget/Orchestra@0.3.2
+- pkg:nuget/Orchestra@0.7.18
+- pkg:nuget/Orchestra@0.7.20
 - pkg:nuget/Orchestra@0.7.3
