@@ -20,6 +20,7 @@
 - pkg:nuget/Statsig.Dotnet@0.19.6
 - pkg:nuget/Statsig.Dotnet@0.19.6-rc.2606151903
 - pkg:nuget/Statsig.Dotnet@0.20.3-beta.2607310301
+- pkg:nuget/Statsig.Dotnet@0.20.3-beta.2608070259
 - pkg:nuget/Statsig.Dotnet@0.6.1-beta.1
 - pkg:nuget/Statsig.Dotnet@0.6.1-beta.2
 - pkg:nuget/Statsig.Dotnet@0.6.1-beta.2507090240
