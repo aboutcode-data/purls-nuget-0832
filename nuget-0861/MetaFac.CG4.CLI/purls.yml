@@ -90,3 +90,4 @@
 - pkg:nuget/MetaFac.CG4.CLI@3.2.6
 - pkg:nuget/MetaFac.CG4.CLI@3.2.8
 - pkg:nuget/MetaFac.CG4.CLI@4.0.2
+- pkg:nuget/MetaFac.CG4.CLI@4.2.1
