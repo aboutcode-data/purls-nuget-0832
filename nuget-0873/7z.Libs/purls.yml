@@ -23,5 +23,6 @@
 - pkg:nuget/7z.Libs@24.9.0
 - pkg:nuget/7z.Libs@25.0.0
 - pkg:nuget/7z.Libs@25.1.0
+- pkg:nuget/7z.Libs@26.2.0
 - pkg:nuget/7z.Libs@9.20.0
 - pkg:nuget/7z.Libs@9.20.1
