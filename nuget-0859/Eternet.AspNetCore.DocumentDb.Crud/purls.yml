@@ -52,3 +52,5 @@
 - pkg:nuget/Eternet.AspNetCore.DocumentDb.Crud@2.0.26
 - pkg:nuget/Eternet.AspNetCore.DocumentDb.Crud@2.0.28
 - pkg:nuget/Eternet.AspNetCore.DocumentDb.Crud@2.0.6
+- pkg:nuget/Eternet.AspNetCore.DocumentDb.Crud@2.1.12
+- pkg:nuget/Eternet.AspNetCore.DocumentDb.Crud@2.1.14
