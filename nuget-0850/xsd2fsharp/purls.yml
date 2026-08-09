@@ -10,3 +10,7 @@
 - pkg:nuget/xsd2fsharp@1.0.1.16
 - pkg:nuget/xsd2fsharp@1.0.1.17
 - pkg:nuget/xsd2fsharp@1.0.1.18
+- pkg:nuget/xsd2fsharp@1.0.1.23
+- pkg:nuget/xsd2fsharp@1.0.1.24
+- pkg:nuget/xsd2fsharp@1.0.1.33-prerelease
+- pkg:nuget/xsd2fsharp@1.0.1.34
