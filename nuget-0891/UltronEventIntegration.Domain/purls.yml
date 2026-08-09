@@ -44,6 +44,7 @@
 - pkg:nuget/UltronEventIntegration.Domain@1.0.71
 - pkg:nuget/UltronEventIntegration.Domain@1.0.72
 - pkg:nuget/UltronEventIntegration.Domain@1.0.73
+- pkg:nuget/UltronEventIntegration.Domain@10.0.8
 - pkg:nuget/UltronEventIntegration.Domain@8.0.0
 - pkg:nuget/UltronEventIntegration.Domain@8.0.1
 - pkg:nuget/UltronEventIntegration.Domain@8.0.10
