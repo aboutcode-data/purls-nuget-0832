@@ -8,3 +8,4 @@
 - pkg:nuget/Esri.ArcGISRuntime.iOS@200.6.0
 - pkg:nuget/Esri.ArcGISRuntime.iOS@200.7.0
 - pkg:nuget/Esri.ArcGISRuntime.iOS@200.8.0
+- pkg:nuget/Esri.ArcGISRuntime.iOS@300.1.0
