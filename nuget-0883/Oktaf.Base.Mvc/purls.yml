@@ -2,6 +2,8 @@
 - pkg:nuget/Oktaf.Base.Mvc@1.0.1
 - pkg:nuget/Oktaf.Base.Mvc@1.0.2
 - pkg:nuget/Oktaf.Base.Mvc@1.1.0
+- pkg:nuget/Oktaf.Base.Mvc@10.1.0
+- pkg:nuget/Oktaf.Base.Mvc@10.1.1
 - pkg:nuget/Oktaf.Base.Mvc@2.0.0
 - pkg:nuget/Oktaf.Base.Mvc@2.0.2
 - pkg:nuget/Oktaf.Base.Mvc@2.0.3
