@@ -82,6 +82,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.CustomElements@9.0.1
 - pkg:nuget/Microsoft.AspNetCore.Components.CustomElements@9.0.10
 - pkg:nuget/Microsoft.AspNetCore.Components.CustomElements@9.0.16
+- pkg:nuget/Microsoft.AspNetCore.Components.CustomElements@9.0.19
 - pkg:nuget/Microsoft.AspNetCore.Components.CustomElements@9.0.2
 - pkg:nuget/Microsoft.AspNetCore.Components.CustomElements@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.Components.CustomElements@9.0.4
