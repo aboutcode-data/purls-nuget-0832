@@ -1,2 +1,3 @@
 - pkg:nuget/TCIS.Pluggable.Persistence.SqlServer@1.0.0-rc.13
+- pkg:nuget/TCIS.Pluggable.Persistence.SqlServer@1.0.0-rc.14
 - pkg:nuget/TCIS.Pluggable.Persistence.SqlServer@1.0.0-rc.8
