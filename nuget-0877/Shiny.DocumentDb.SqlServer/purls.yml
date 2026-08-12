@@ -5,6 +5,7 @@
 - pkg:nuget/Shiny.DocumentDb.SqlServer@12.2.0-beta-0001
 - pkg:nuget/Shiny.DocumentDb.SqlServer@13.0.0
 - pkg:nuget/Shiny.DocumentDb.SqlServer@13.2.0
+- pkg:nuget/Shiny.DocumentDb.SqlServer@13.2.1
 - pkg:nuget/Shiny.DocumentDb.SqlServer@3.0.1
 - pkg:nuget/Shiny.DocumentDb.SqlServer@3.0.1-beta-0001
 - pkg:nuget/Shiny.DocumentDb.SqlServer@3.1.0
