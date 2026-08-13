@@ -11,6 +11,7 @@
 - pkg:nuget/Soenneker.Cryptography.Ed25519@3.0.7
 - pkg:nuget/Soenneker.Cryptography.Ed25519@3.0.8
 - pkg:nuget/Soenneker.Cryptography.Ed25519@3.0.9
+- pkg:nuget/Soenneker.Cryptography.Ed25519@4.0.105
 - pkg:nuget/Soenneker.Cryptography.Ed25519@4.0.17
 - pkg:nuget/Soenneker.Cryptography.Ed25519@4.0.18
 - pkg:nuget/Soenneker.Cryptography.Ed25519@4.0.21
