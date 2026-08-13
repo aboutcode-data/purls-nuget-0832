@@ -1,1 +1,7 @@
+- pkg:nuget/DecSm.Analyzers.PublicApiSurface@0.1.0-rc.1
+- pkg:nuget/DecSm.Analyzers.PublicApiSurface@0.1.0-rc.11
+- pkg:nuget/DecSm.Analyzers.PublicApiSurface@0.1.0-rc.2
 - pkg:nuget/DecSm.Analyzers.PublicApiSurface@0.1.0-rc.3
+- pkg:nuget/DecSm.Analyzers.PublicApiSurface@0.1.0-rc.4
+- pkg:nuget/DecSm.Analyzers.PublicApiSurface@0.1.0-rc.5
+- pkg:nuget/DecSm.Analyzers.PublicApiSurface@0.1.0-rc.9
