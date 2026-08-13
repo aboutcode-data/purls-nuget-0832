@@ -26,6 +26,7 @@
 - pkg:nuget/Microsoft.WindowsPackageManager.InProcCom@1.12.210-preview
 - pkg:nuget/Microsoft.WindowsPackageManager.InProcCom@1.12.420
 - pkg:nuget/Microsoft.WindowsPackageManager.InProcCom@1.29.70-preview
+- pkg:nuget/Microsoft.WindowsPackageManager.InProcCom@1.30.80-preview
 - pkg:nuget/Microsoft.WindowsPackageManager.InProcCom@1.4.10052
 - pkg:nuget/Microsoft.WindowsPackageManager.InProcCom@1.4.10173
 - pkg:nuget/Microsoft.WindowsPackageManager.InProcCom@1.5.1081
