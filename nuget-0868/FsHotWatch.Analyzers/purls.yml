@@ -1,1 +1,5 @@
 - pkg:nuget/FsHotWatch.Analyzers@0.1.0-alpha.1
+- pkg:nuget/FsHotWatch.Analyzers@0.7.0-alpha.14
+- pkg:nuget/FsHotWatch.Analyzers@0.7.0-alpha.15
+- pkg:nuget/FsHotWatch.Analyzers@0.7.0-alpha.16
+- pkg:nuget/FsHotWatch.Analyzers@0.7.0-alpha.19
