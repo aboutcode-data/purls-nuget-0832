@@ -54,6 +54,7 @@
 - pkg:nuget/iDotNetEx@2.17.0
 - pkg:nuget/iDotNetEx@2.18.0
 - pkg:nuget/iDotNetEx@2.2.0
+- pkg:nuget/iDotNetEx@2.23.0
 - pkg:nuget/iDotNetEx@2.3.0
 - pkg:nuget/iDotNetEx@2.4.0
 - pkg:nuget/iDotNetEx@2.5.0
