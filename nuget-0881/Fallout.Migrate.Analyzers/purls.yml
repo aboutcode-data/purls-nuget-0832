@@ -2,4 +2,15 @@
 - pkg:nuget/Fallout.Migrate.Analyzers@10.3.25
 - pkg:nuget/Fallout.Migrate.Analyzers@10.3.29
 - pkg:nuget/Fallout.Migrate.Analyzers@10.3.42
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.1
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.12
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.13
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.14
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.15
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.17
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.18
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.3
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.5
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.6
+- pkg:nuget/Fallout.Migrate.Analyzers@11.0.7
 - pkg:nuget/Fallout.Migrate.Analyzers@11.0.8
