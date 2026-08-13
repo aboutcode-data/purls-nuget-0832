@@ -52,6 +52,9 @@
 - pkg:nuget/Soenneker.HttpClients.LoggingHandler@4.0.169
 - pkg:nuget/Soenneker.HttpClients.LoggingHandler@4.0.170
 - pkg:nuget/Soenneker.HttpClients.LoggingHandler@4.0.181
+- pkg:nuget/Soenneker.HttpClients.LoggingHandler@4.0.188
+- pkg:nuget/Soenneker.HttpClients.LoggingHandler@4.0.195
+- pkg:nuget/Soenneker.HttpClients.LoggingHandler@4.0.198
 - pkg:nuget/Soenneker.HttpClients.LoggingHandler@4.0.44
 - pkg:nuget/Soenneker.HttpClients.LoggingHandler@4.0.49
 - pkg:nuget/Soenneker.HttpClients.LoggingHandler@4.0.51
