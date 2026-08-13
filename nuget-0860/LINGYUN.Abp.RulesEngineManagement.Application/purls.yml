@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.RulesEngineManagement.Application@10.4.0
 - pkg:nuget/LINGYUN.Abp.RulesEngineManagement.Application@7.1.1.1
 - pkg:nuget/LINGYUN.Abp.RulesEngineManagement.Application@7.2.1.1
 - pkg:nuget/LINGYUN.Abp.RulesEngineManagement.Application@7.2.2.1
