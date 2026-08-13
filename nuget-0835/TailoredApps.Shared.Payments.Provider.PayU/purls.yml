@@ -1,1 +1,3 @@
+- pkg:nuget/TailoredApps.Shared.Payments.Provider.PayU@1.4.10
 - pkg:nuget/TailoredApps.Shared.Payments.Provider.PayU@1.4.4
+- pkg:nuget/TailoredApps.Shared.Payments.Provider.PayU@1.4.8
