@@ -5,3 +5,4 @@
 - pkg:nuget/DotNet.ReproducibleBuilds.Isolated@1.2.25
 - pkg:nuget/DotNet.ReproducibleBuilds.Isolated@1.2.39
 - pkg:nuget/DotNet.ReproducibleBuilds.Isolated@1.2.4
+- pkg:nuget/DotNet.ReproducibleBuilds.Isolated@2.0.5
