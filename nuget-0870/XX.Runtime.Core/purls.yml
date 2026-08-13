@@ -1,2 +1,5 @@
 - pkg:nuget/XX.Runtime.Core@1.0.0
 - pkg:nuget/XX.Runtime.Core@1.0.1
+- pkg:nuget/XX.Runtime.Core@1.0.9
+- pkg:nuget/XX.Runtime.Core@2.0.1
+- pkg:nuget/XX.Runtime.Core@2.0.4
