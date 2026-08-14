@@ -8,6 +8,7 @@
 - pkg:nuget/KY.Generator.Angular@0.9.0
 - pkg:nuget/KY.Generator.Angular@0.9.1
 - pkg:nuget/KY.Generator.Angular@10.0.0-preview.15
+- pkg:nuget/KY.Generator.Angular@10.1.0
 - pkg:nuget/KY.Generator.Angular@2.0.0
 - pkg:nuget/KY.Generator.Angular@2.1.0
 - pkg:nuget/KY.Generator.Angular@2.2.0
