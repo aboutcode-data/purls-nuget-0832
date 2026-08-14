@@ -161,6 +161,8 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.4.9-camera-preset-fix.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.40.0-add-mpc4-support.5
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.40.0-add-mpc4-support.6
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.42.0-feature-mobile-control-https-wss-support.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.42.0-feature-mobile-control-https-wss-support.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.5.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.5.0-DGE-1000.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.5.0-logging-improvements.1
