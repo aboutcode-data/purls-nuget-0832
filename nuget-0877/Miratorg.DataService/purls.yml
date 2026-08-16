@@ -27,6 +27,7 @@
 - pkg:nuget/Miratorg.DataService@1.8.4
 - pkg:nuget/Miratorg.DataService@1.8.5
 - pkg:nuget/Miratorg.DataService@1.8.6
+- pkg:nuget/Miratorg.DataService@10.8.0
 - pkg:nuget/Miratorg.DataService@2.0.0
 - pkg:nuget/Miratorg.DataService@2.0.1
 - pkg:nuget/Miratorg.DataService@2.0.2
