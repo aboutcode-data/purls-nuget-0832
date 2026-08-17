@@ -73,3 +73,6 @@
 - pkg:nuget/ProphetsWay.BaseDataAccess@2.5.0-469.Beta
 - pkg:nuget/ProphetsWay.BaseDataAccess@3.0.0-485.Alpha
 - pkg:nuget/ProphetsWay.BaseDataAccess@3.0.0-485.Beta
+- pkg:nuget/ProphetsWay.BaseDataAccess@3.1.0
+- pkg:nuget/ProphetsWay.BaseDataAccess@3.1.0-495.Alpha
+- pkg:nuget/ProphetsWay.BaseDataAccess@3.1.0-495.Beta
