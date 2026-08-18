@@ -52,3 +52,4 @@
 - pkg:nuget/Akka.Http.Shim@1.5.5
 - pkg:nuget/Akka.Http.Shim@1.5.63
 - pkg:nuget/Akka.Http.Shim@1.5.7
+- pkg:nuget/Akka.Http.Shim@1.5.70
