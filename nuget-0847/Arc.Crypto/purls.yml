@@ -71,6 +71,7 @@
 - pkg:nuget/Arc.Crypto@1.41.0
 - pkg:nuget/Arc.Crypto@1.41.2
 - pkg:nuget/Arc.Crypto@1.41.3
+- pkg:nuget/Arc.Crypto@1.45.0
 - pkg:nuget/Arc.Crypto@1.5.0
 - pkg:nuget/Arc.Crypto@1.6.0
 - pkg:nuget/Arc.Crypto@1.6.1
