@@ -1,2 +1,4 @@
 - pkg:nuget/Altairis.Services.Mailing.Mandrill@1.0.0
 - pkg:nuget/Altairis.Services.Mailing.Mandrill@1.0.1
+- pkg:nuget/Altairis.Services.Mailing.Mandrill@1.1.1
+- pkg:nuget/Altairis.Services.Mailing.Mandrill@2.0.0
