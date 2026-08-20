@@ -28,4 +28,5 @@
 - pkg:nuget/OneWare.Essentials@0.8.0
 - pkg:nuget/OneWare.Essentials@0.9.0
 - pkg:nuget/OneWare.Essentials@0.99.7
+- pkg:nuget/OneWare.Essentials@1.0.27
 - pkg:nuget/OneWare.Essentials@1.0.8
