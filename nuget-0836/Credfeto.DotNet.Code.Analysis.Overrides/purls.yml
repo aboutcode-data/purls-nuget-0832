@@ -146,3 +146,5 @@
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.645-ruleset-exit-co
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.669-main
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.682-inifile-quadrat
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.695-dotnet-sdk-10-0
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.696-main
