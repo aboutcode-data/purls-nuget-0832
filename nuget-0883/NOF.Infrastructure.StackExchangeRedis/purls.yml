@@ -10,6 +10,7 @@
 - pkg:nuget/NOF.Infrastructure.StackExchangeRedis@11.0.0-nightly.1364403.4b091b94
 - pkg:nuget/NOF.Infrastructure.StackExchangeRedis@11.0.0-nightly.1365744.4d84d0d7
 - pkg:nuget/NOF.Infrastructure.StackExchangeRedis@11.0.0-nightly.1376901.73dcff26
+- pkg:nuget/NOF.Infrastructure.StackExchangeRedis@11.0.0-nightly.1385860.ed434de0
 - pkg:nuget/NOF.Infrastructure.StackExchangeRedis@5.3.0
 - pkg:nuget/NOF.Infrastructure.StackExchangeRedis@6.3.0
 - pkg:nuget/NOF.Infrastructure.StackExchangeRedis@7.1.0-nightly.1150087.067890f
