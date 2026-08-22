@@ -36,6 +36,7 @@
 - pkg:nuget/StockSharp.Transaq@5.0.13
 - pkg:nuget/StockSharp.Transaq@5.0.130
 - pkg:nuget/StockSharp.Transaq@5.0.14
+- pkg:nuget/StockSharp.Transaq@5.0.145
 - pkg:nuget/StockSharp.Transaq@5.0.15
 - pkg:nuget/StockSharp.Transaq@5.0.16
 - pkg:nuget/StockSharp.Transaq@5.0.17
