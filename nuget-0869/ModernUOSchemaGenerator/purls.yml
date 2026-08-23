@@ -59,3 +59,4 @@
 - pkg:nuget/ModernUOSchemaGenerator@2.8.0
 - pkg:nuget/ModernUOSchemaGenerator@2.9.0
 - pkg:nuget/ModernUOSchemaGenerator@2.9.0.1-alpha.1
+- pkg:nuget/ModernUOSchemaGenerator@3.0.0
