@@ -2371,3 +2371,5 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.8.3471-cleanup-bom-enc
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.8.3499-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.9.3502-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.9.3513-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.9.3514-main
