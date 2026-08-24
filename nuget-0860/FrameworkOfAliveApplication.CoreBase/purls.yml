@@ -148,8 +148,10 @@
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@5.2.0.160
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@5.2.0.166
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@5.2.0.167
+- pkg:nuget/FrameworkOfAliveApplication.CoreBase@5.2.0.175
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@8.0.0.15
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@8.0.0.17
+- pkg:nuget/FrameworkOfAliveApplication.CoreBase@8.1.0.110
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@8.1.0.23
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@8.1.0.34
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase@8.1.0.53
