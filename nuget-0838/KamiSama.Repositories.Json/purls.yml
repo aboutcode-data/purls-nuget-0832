@@ -3,6 +3,7 @@
 - pkg:nuget/KamiSama.Repositories.Json@10.0.10.1
 - pkg:nuget/KamiSama.Repositories.Json@10.0.11
 - pkg:nuget/KamiSama.Repositories.Json@10.0.11.2
+- pkg:nuget/KamiSama.Repositories.Json@10.0.11.9
 - pkg:nuget/KamiSama.Repositories.Json@10.0.7
 - pkg:nuget/KamiSama.Repositories.Json@2.10.0
 - pkg:nuget/KamiSama.Repositories.Json@2.10.1
