@@ -5337,3 +5337,5 @@
 - pkg:nuget/Soenneker.Redis.Util@4.0.5328
 - pkg:nuget/Soenneker.Redis.Util@4.0.5355
 - pkg:nuget/Soenneker.Redis.Util@4.0.5362
+- pkg:nuget/Soenneker.Redis.Util@4.0.5364
+- pkg:nuget/Soenneker.Redis.Util@4.0.5365
