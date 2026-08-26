@@ -10,4 +10,5 @@
 - pkg:nuget/Soenneker.OpenHands.HttpClients@4.0.47
 - pkg:nuget/Soenneker.OpenHands.HttpClients@4.0.53
 - pkg:nuget/Soenneker.OpenHands.HttpClients@4.0.57
+- pkg:nuget/Soenneker.OpenHands.HttpClients@4.0.69
 - pkg:nuget/Soenneker.OpenHands.HttpClients@4.0.8
