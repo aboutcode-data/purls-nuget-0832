@@ -52,3 +52,4 @@
 - pkg:nuget/Fonlow.WebApiClientGenCore.Abstract@3.5.3
 - pkg:nuget/Fonlow.WebApiClientGenCore.Abstract@3.6.0
 - pkg:nuget/Fonlow.WebApiClientGenCore.Abstract@3.7.0
+- pkg:nuget/Fonlow.WebApiClientGenCore.Abstract@4.2.4
