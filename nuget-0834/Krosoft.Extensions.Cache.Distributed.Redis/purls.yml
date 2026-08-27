@@ -87,3 +87,4 @@
 - pkg:nuget/Krosoft.Extensions.Cache.Distributed.Redis@2026.4.7.6422
 - pkg:nuget/Krosoft.Extensions.Cache.Distributed.Redis@2026.6.25.7909
 - pkg:nuget/Krosoft.Extensions.Cache.Distributed.Redis@2026.6.25.7910
+- pkg:nuget/Krosoft.Extensions.Cache.Distributed.Redis@2026.8.27.9675
