@@ -6,4 +6,7 @@
 - pkg:nuget/DiagnosticExplorer@3.0.7
 - pkg:nuget/DiagnosticExplorer@3.0.8
 - pkg:nuget/DiagnosticExplorer@3.0.9
+- pkg:nuget/DiagnosticExplorer@5.0.13
+- pkg:nuget/DiagnosticExplorer@5.0.14
+- pkg:nuget/DiagnosticExplorer@5.0.15
 - pkg:nuget/DiagnosticExplorer@5.0.3
