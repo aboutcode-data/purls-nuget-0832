@@ -28,3 +28,6 @@
 - pkg:nuget/RetroSharp.FunctionalAcceptance@0.0.483
 - pkg:nuget/RetroSharp.FunctionalAcceptance@0.0.512
 - pkg:nuget/RetroSharp.FunctionalAcceptance@0.0.516
+- pkg:nuget/RetroSharp.FunctionalAcceptance@0.0.521
+- pkg:nuget/RetroSharp.FunctionalAcceptance@0.0.522
+- pkg:nuget/RetroSharp.FunctionalAcceptance@0.0.523
