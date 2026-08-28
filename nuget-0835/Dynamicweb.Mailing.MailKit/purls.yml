@@ -1,3 +1,5 @@
+- pkg:nuget/Dynamicweb.Mailing.MailKit@10.27.11
 - pkg:nuget/Dynamicweb.Mailing.MailKit@10.27.3-PreRelease
 - pkg:nuget/Dynamicweb.Mailing.MailKit@10.27.8
+- pkg:nuget/Dynamicweb.Mailing.MailKit@10.28.8
 - pkg:nuget/Dynamicweb.Mailing.MailKit@10.29.0-PreRelease
