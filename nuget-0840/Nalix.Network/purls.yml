@@ -49,6 +49,7 @@
 - pkg:nuget/Nalix.Network@14.0.0
 - pkg:nuget/Nalix.Network@14.2.18
 - pkg:nuget/Nalix.Network@14.2.3
+- pkg:nuget/Nalix.Network@14.3.0
 - pkg:nuget/Nalix.Network@2.1.7
 - pkg:nuget/Nalix.Network@2.2.0
 - pkg:nuget/Nalix.Network@2.2.1
