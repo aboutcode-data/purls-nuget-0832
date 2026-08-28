@@ -83,6 +83,7 @@
 - pkg:nuget/Indice.Scalefin.CustomerModule@2.4.0
 - pkg:nuget/Indice.Scalefin.CustomerModule@2.4.1
 - pkg:nuget/Indice.Scalefin.CustomerModule@2.4.2
+- pkg:nuget/Indice.Scalefin.CustomerModule@2.40.0-beta-02
 - pkg:nuget/Indice.Scalefin.CustomerModule@2.5.0
 - pkg:nuget/Indice.Scalefin.CustomerModule@2.5.0-beta-01
 - pkg:nuget/Indice.Scalefin.CustomerModule@2.6.0
