@@ -218,6 +218,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.54
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.57
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-testing.15
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-feature-mockRoutingMidpoint-add-IHasNamedRoutingSlots.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-fix-audio-codec-messenger-codec-info-null-ref.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates-claude-tests.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.2
