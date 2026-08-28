@@ -5,6 +5,7 @@
 - pkg:nuget/cloudscribe.PwaKit@1.0.0-alpha-20190629
 - pkg:nuget/cloudscribe.PwaKit@1.0.0-alpha-20190701
 - pkg:nuget/cloudscribe.PwaKit@1.0.0-alpha-20190702
+- pkg:nuget/cloudscribe.PwaKit@10.1.0
 - pkg:nuget/cloudscribe.PwaKit@3.0.0-beta20191012
 - pkg:nuget/cloudscribe.PwaKit@3.0.0-beta20191102
 - pkg:nuget/cloudscribe.PwaKit@3.1.3
