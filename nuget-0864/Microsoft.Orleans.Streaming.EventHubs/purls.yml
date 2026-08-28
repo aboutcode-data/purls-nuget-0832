@@ -1,3 +1,4 @@
+- pkg:nuget/Microsoft.Orleans.Streaming.EventHubs@10.3.0
 - pkg:nuget/Microsoft.Orleans.Streaming.EventHubs@4.0.0-preview1
 - pkg:nuget/Microsoft.Orleans.Streaming.EventHubs@4.0.0-preview2
 - pkg:nuget/Microsoft.Orleans.Streaming.EventHubs@7.0.0
