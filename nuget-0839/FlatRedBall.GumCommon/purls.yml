@@ -137,4 +137,5 @@
 - pkg:nuget/FlatRedBall.GumCommon@2026.5.31.1
 - pkg:nuget/FlatRedBall.GumCommon@2026.6.16.1-preview.3
 - pkg:nuget/FlatRedBall.GumCommon@2026.8.27.1-preview.1
+- pkg:nuget/FlatRedBall.GumCommon@2026.8.28.2-preview.1
 - pkg:nuget/FlatRedBall.GumCommon@2026.8.5.2-preview.2
