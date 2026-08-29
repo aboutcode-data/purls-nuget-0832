@@ -105,3 +105,4 @@
 - pkg:nuget/SFA.DAS.Payments.Monitoring.Jobs.Data@2.1.1-prerelease-10
 - pkg:nuget/SFA.DAS.Payments.Monitoring.Jobs.Data@2.1.2
 - pkg:nuget/SFA.DAS.Payments.Monitoring.Jobs.Data@2.1.5-prerelease-2
+- pkg:nuget/SFA.DAS.Payments.Monitoring.Jobs.Data@2.1.8-prerelease-2
