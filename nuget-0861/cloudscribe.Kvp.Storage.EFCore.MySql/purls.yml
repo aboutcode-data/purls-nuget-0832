@@ -1,4 +1,5 @@
 - pkg:nuget/cloudscribe.Kvp.Storage.EFCore.MySql@1.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.MySql@10.1.0
 - pkg:nuget/cloudscribe.Kvp.Storage.EFCore.MySql@2.0.0
 - pkg:nuget/cloudscribe.Kvp.Storage.EFCore.MySql@2.0.0-preview20170905
 - pkg:nuget/cloudscribe.Kvp.Storage.EFCore.MySql@2.0.1
