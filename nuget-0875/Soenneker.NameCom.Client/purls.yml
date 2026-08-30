@@ -260,3 +260,5 @@
 - pkg:nuget/Soenneker.NameCom.Client@4.0.493
 - pkg:nuget/Soenneker.NameCom.Client@4.0.500
 - pkg:nuget/Soenneker.NameCom.Client@4.0.511
+- pkg:nuget/Soenneker.NameCom.Client@4.0.528
+- pkg:nuget/Soenneker.NameCom.Client@4.0.529
