@@ -13,6 +13,7 @@
 - pkg:nuget/Toggl.Api@8.0.5
 - pkg:nuget/Toggl.Api@8.0.6
 - pkg:nuget/Toggl.Api@8.0.7
+- pkg:nuget/Toggl.Api@9.0.106
 - pkg:nuget/Toggl.Api@9.0.13-gbcf250f55c
 - pkg:nuget/Toggl.Api@9.0.23-g51970e5617
 - pkg:nuget/Toggl.Api@9.0.31-gc0142499d1
