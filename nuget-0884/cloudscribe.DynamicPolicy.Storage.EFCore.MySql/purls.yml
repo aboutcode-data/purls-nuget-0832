@@ -1,3 +1,4 @@
+- pkg:nuget/cloudscribe.DynamicPolicy.Storage.EFCore.MySql@10.1.0
 - pkg:nuget/cloudscribe.DynamicPolicy.Storage.EFCore.MySql@2.1.0
 - pkg:nuget/cloudscribe.DynamicPolicy.Storage.EFCore.MySql@2.1.1
 - pkg:nuget/cloudscribe.DynamicPolicy.Storage.EFCore.MySql@2.1.10
