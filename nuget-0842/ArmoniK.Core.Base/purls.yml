@@ -4205,6 +4205,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-perfpgselectorprojection.85.sha.40620fe5
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-renovategithubactions.117.sha.561dd21d
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-renovategithubactions.88.sha.e755d937
+- pkg:nuget/ArmoniK.Core.Base@0.41.0-renovatenuget.117.sha.7070e41d
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-renovatenuget.117.sha.7b2452bb
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-testpollstereventdrivenstop.97.sha.11005eff
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-testpollstereventdrivenstop.97.sha.1f056445
