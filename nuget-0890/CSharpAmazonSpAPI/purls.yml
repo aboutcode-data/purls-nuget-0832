@@ -216,6 +216,7 @@
 - pkg:nuget/CSharpAmazonSpAPI@1.9.2
 - pkg:nuget/CSharpAmazonSpAPI@1.9.3
 - pkg:nuget/CSharpAmazonSpAPI@1.9.31
+- pkg:nuget/CSharpAmazonSpAPI@1.9.32
 - pkg:nuget/CSharpAmazonSpAPI@1.9.4
 - pkg:nuget/CSharpAmazonSpAPI@1.9.5
 - pkg:nuget/CSharpAmazonSpAPI@1.9.6
