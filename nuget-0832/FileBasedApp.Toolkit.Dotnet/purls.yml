@@ -1,2 +1,3 @@
 - pkg:nuget/FileBasedApp.Toolkit.Dotnet@1.0.0
 - pkg:nuget/FileBasedApp.Toolkit.Dotnet@1.0.1
+- pkg:nuget/FileBasedApp.Toolkit.Dotnet@1.1.0
