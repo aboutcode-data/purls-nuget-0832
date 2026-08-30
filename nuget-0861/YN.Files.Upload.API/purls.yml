@@ -26,3 +26,5 @@
 - pkg:nuget/YN.Files.Upload.API@1.1.0
 - pkg:nuget/YN.Files.Upload.API@1.1.1
 - pkg:nuget/YN.Files.Upload.API@1.1.2
+- pkg:nuget/YN.Files.Upload.API@2.0.3
+- pkg:nuget/YN.Files.Upload.API@2.0.4
