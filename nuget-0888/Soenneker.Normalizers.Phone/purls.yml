@@ -64,6 +64,7 @@
 - pkg:nuget/Soenneker.Normalizers.Phone@4.0.188
 - pkg:nuget/Soenneker.Normalizers.Phone@4.0.193
 - pkg:nuget/Soenneker.Normalizers.Phone@4.0.195
+- pkg:nuget/Soenneker.Normalizers.Phone@4.0.203
 - pkg:nuget/Soenneker.Normalizers.Phone@4.0.57
 - pkg:nuget/Soenneker.Normalizers.Phone@4.0.59
 - pkg:nuget/Soenneker.Normalizers.Phone@4.0.79
