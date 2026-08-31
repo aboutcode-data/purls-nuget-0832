@@ -339,3 +339,5 @@
 - pkg:nuget/Soenneker.Controllers.Alerts@4.0.722
 - pkg:nuget/Soenneker.Controllers.Alerts@4.0.739
 - pkg:nuget/Soenneker.Controllers.Alerts@4.0.747
+- pkg:nuget/Soenneker.Controllers.Alerts@4.0.750
+- pkg:nuget/Soenneker.Controllers.Alerts@4.0.751
