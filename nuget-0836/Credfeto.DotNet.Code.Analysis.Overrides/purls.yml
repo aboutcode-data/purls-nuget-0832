@@ -151,3 +151,4 @@
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.699-main
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.701-ruleset-async-c
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.712-ini-parser-edge
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.720-ini-parser-edge
