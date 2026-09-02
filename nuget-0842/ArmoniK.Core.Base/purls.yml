@@ -4195,9 +4195,11 @@
 - pkg:nuget/ArmoniK.Core.Base@0.40.2-renovatemajorgithubactions.6.sha.ff02c9b9
 - pkg:nuget/ArmoniK.Core.Base@0.40.2-renovatenugetarmonikapi.6.sha.3c660bf9
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-SNAPSHOT.103.sha.44529704
+- pkg:nuget/ArmoniK.Core.Base@0.41.0-SNAPSHOT.132.sha.d4f19b0e
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-SNAPSHOT.87.sha.1998e8ff
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-ciwindowsdockerdaemonfix.88.sha.884b6156
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-flfixpubsubprefix.117.sha.705737a7
+- pkg:nuget/ArmoniK.Core.Base@0.41.0-flredissnapshot.131.sha.9b6731b9
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-jgpostgressql.50.sha.57658b07
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-jgpostgressql.51.sha.ca49385b
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-jgpostgressql.57.sha.7a5a5d0a
@@ -4207,5 +4209,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-renovategithubactions.88.sha.e755d937
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-renovatenuget.117.sha.7070e41d
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-renovatenuget.117.sha.7b2452bb
+- pkg:nuget/ArmoniK.Core.Base@0.41.0-renovatenuget.131.sha.7b5b2cae
+- pkg:nuget/ArmoniK.Core.Base@0.41.0-renovatenuget.131.sha.b739743d
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-testpollstereventdrivenstop.97.sha.11005eff
 - pkg:nuget/ArmoniK.Core.Base@0.41.0-testpollstereventdrivenstop.97.sha.1f056445
