@@ -1,1 +1,2 @@
 - pkg:nuget/Cobytelabs.Modulus.Storage.AzureBlobs@1.1.0
+- pkg:nuget/Cobytelabs.Modulus.Storage.AzureBlobs@1.3.0
