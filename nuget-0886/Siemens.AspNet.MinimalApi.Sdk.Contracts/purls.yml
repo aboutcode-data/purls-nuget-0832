@@ -134,4 +134,5 @@
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk.Contracts@7.6.16%2B1
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk.Contracts@7.6.24%2B1
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk.Contracts@7.6.29%2B1
+- pkg:nuget/Siemens.AspNet.MinimalApi.Sdk.Contracts@7.6.31%2B1
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk.Contracts@7.6.5%2B1
