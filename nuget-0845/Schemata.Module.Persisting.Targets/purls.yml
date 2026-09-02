@@ -114,6 +114,7 @@
 - pkg:nuget/Schemata.Module.Persisting.Targets@10.0.0-preview.26374.56
 - pkg:nuget/Schemata.Module.Persisting.Targets@10.0.0-preview.26377.57
 - pkg:nuget/Schemata.Module.Persisting.Targets@10.0.0-preview.26420.39
+- pkg:nuget/Schemata.Module.Persisting.Targets@10.0.0-preview.26452.1
 - pkg:nuget/Schemata.Module.Persisting.Targets@9.0.0-preview.25128.36
 - pkg:nuget/Schemata.Module.Persisting.Targets@9.0.0-preview.25153.54
 - pkg:nuget/Schemata.Module.Persisting.Targets@9.0.0-preview.25154.27
