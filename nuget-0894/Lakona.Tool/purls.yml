@@ -47,6 +47,7 @@
 - pkg:nuget/Lakona.Tool@0.32.35
 - pkg:nuget/Lakona.Tool@0.36.19
 - pkg:nuget/Lakona.Tool@0.36.42
+- pkg:nuget/Lakona.Tool@0.38.10
 - pkg:nuget/Lakona.Tool@0.7.7
 - pkg:nuget/Lakona.Tool@0.7.8
 - pkg:nuget/Lakona.Tool@0.8.13
