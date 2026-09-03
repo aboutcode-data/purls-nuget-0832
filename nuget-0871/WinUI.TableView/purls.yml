@@ -12,6 +12,7 @@
 - pkg:nuget/WinUI.TableView@0.0.547-dev
 - pkg:nuget/WinUI.TableView@0.0.592-dev
 - pkg:nuget/WinUI.TableView@0.0.653-dev
+- pkg:nuget/WinUI.TableView@0.0.703-dev
 - pkg:nuget/WinUI.TableView@1.0.0
 - pkg:nuget/WinUI.TableView@1.0.0-preview1
 - pkg:nuget/WinUI.TableView@1.0.0-preview2
@@ -29,3 +30,4 @@
 - pkg:nuget/WinUI.TableView@1.3.0-preview2
 - pkg:nuget/WinUI.TableView@1.3.1
 - pkg:nuget/WinUI.TableView@1.3.2
+- pkg:nuget/WinUI.TableView@1.5.0-preview2

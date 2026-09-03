@@ -4,4 +4,5 @@
 - pkg:nuget/Rocket.Builder@0.12.5.2630
 - pkg:nuget/Rocket.Builder@0.14.2.2634
 - pkg:nuget/Rocket.Builder@0.14.4.2634
+- pkg:nuget/Rocket.Builder@0.15.1.2634
 - pkg:nuget/Rocket.Builder@0.8.0.2622
