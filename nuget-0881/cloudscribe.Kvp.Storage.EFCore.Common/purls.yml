@@ -1,4 +1,5 @@
 - pkg:nuget/cloudscribe.Kvp.Storage.EFCore.Common@1.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.Common@10.1.0
 - pkg:nuget/cloudscribe.Kvp.Storage.EFCore.Common@2.0.0
 - pkg:nuget/cloudscribe.Kvp.Storage.EFCore.Common@3.0.0
 - pkg:nuget/cloudscribe.Kvp.Storage.EFCore.Common@3.0.1
