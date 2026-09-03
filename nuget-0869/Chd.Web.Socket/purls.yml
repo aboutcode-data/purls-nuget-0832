@@ -1,1 +1,3 @@
+- pkg:nuget/Chd.Web.Socket@10.0.1
+- pkg:nuget/Chd.Web.Socket@10.0.2
 - pkg:nuget/Chd.Web.Socket@8.5.5
