@@ -11,3 +11,4 @@
 - pkg:nuget/Rsk.AspNetCore.Fido.EntityFramework@4.0.0
 - pkg:nuget/Rsk.AspNetCore.Fido.EntityFramework@5.0.0
 - pkg:nuget/Rsk.AspNetCore.Fido.EntityFramework@5.0.1
+- pkg:nuget/Rsk.AspNetCore.Fido.EntityFramework@5.2.0
