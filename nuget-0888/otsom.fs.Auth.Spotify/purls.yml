@@ -12,3 +12,6 @@
 - pkg:nuget/otsom.fs.Auth.Spotify@0.0.45
 - pkg:nuget/otsom.fs.Auth.Spotify@0.0.6
 - pkg:nuget/otsom.fs.Auth.Spotify@0.0.8
+- pkg:nuget/otsom.fs.Auth.Spotify@0.1.10
+- pkg:nuget/otsom.fs.Auth.Spotify@0.1.8
+- pkg:nuget/otsom.fs.Auth.Spotify@0.1.9
