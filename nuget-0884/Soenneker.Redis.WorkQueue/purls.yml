@@ -1,0 +1,5 @@
+- pkg:nuget/Soenneker.Redis.WorkQueue@4.0.18
+- pkg:nuget/Soenneker.Redis.WorkQueue@4.0.29
+- pkg:nuget/Soenneker.Redis.WorkQueue@4.0.30
+- pkg:nuget/Soenneker.Redis.WorkQueue@4.0.31
+- pkg:nuget/Soenneker.Redis.WorkQueue@4.0.35
