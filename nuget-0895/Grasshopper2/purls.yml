@@ -1,3 +1,5 @@
 - pkg:nuget/Grasshopper2@2.0.9114-wip.27439
 - pkg:nuget/Grasshopper2@2.0.9205-wip.35525
 - pkg:nuget/Grasshopper2@2.0.9225-wip.14825
+- pkg:nuget/Grasshopper2@9.0.26160.12305-wip
+- pkg:nuget/Grasshopper2@9.0.26209.18303-beta
