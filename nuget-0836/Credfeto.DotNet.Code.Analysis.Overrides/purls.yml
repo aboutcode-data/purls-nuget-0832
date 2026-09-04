@@ -154,3 +154,5 @@
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.720-ini-parser-edge
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.723-section-save-pr
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.724-section-save-pr
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.727-main
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.728-main
