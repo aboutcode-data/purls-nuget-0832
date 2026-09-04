@@ -4,3 +4,4 @@
 - pkg:nuget/DittoTools.PresenceViewer@1.1.0
 - pkg:nuget/DittoTools.PresenceViewer@1.1.1
 - pkg:nuget/DittoTools.PresenceViewer@1.2.0-maccatalyst.1
+- pkg:nuget/DittoTools.PresenceViewer@2.0.0-rc.6
