@@ -36,3 +36,4 @@
 - pkg:nuget/Musoq.DataSources.Archives@4.2.7
 - pkg:nuget/Musoq.DataSources.Archives@4.2.9
 - pkg:nuget/Musoq.DataSources.Archives@4.3.0
+- pkg:nuget/Musoq.DataSources.Archives@6.0.3-alpha.7
