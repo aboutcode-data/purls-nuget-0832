@@ -13,3 +13,6 @@
 - pkg:nuget/Niobium.Messaging.ServiceBus@3.2.21
 - pkg:nuget/Niobium.Messaging.ServiceBus@3.2.9
 - pkg:nuget/Niobium.Messaging.ServiceBus@4.0.48
+- pkg:nuget/Niobium.Messaging.ServiceBus@4.0.53
+- pkg:nuget/Niobium.Messaging.ServiceBus@4.0.55
+- pkg:nuget/Niobium.Messaging.ServiceBus@4.2.66

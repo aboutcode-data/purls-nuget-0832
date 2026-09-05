@@ -13,3 +13,5 @@
 - pkg:nuget/Niobium.Platform.Speech@3.2.21
 - pkg:nuget/Niobium.Platform.Speech@3.2.9
 - pkg:nuget/Niobium.Platform.Speech@4.0.48
+- pkg:nuget/Niobium.Platform.Speech@4.0.53
+- pkg:nuget/Niobium.Platform.Speech@4.2.66
