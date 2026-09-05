@@ -47,6 +47,7 @@
 - pkg:nuget/complog@0.9.5
 - pkg:nuget/complog@0.9.57
 - pkg:nuget/complog@0.9.6
+- pkg:nuget/complog@0.9.61
 - pkg:nuget/complog@0.9.7
 - pkg:nuget/complog@0.9.8
 - pkg:nuget/complog@0.9.9
