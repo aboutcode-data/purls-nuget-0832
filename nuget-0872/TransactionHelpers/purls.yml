@@ -130,7 +130,9 @@
 - pkg:nuget/TransactionHelpers@2.6.10%2Bbuild.139
 - pkg:nuget/TransactionHelpers@2.6.101%2Bbuild.20260610193721.0cb705f
 - pkg:nuget/TransactionHelpers@2.6.11%2Bbuild.140
+- pkg:nuget/TransactionHelpers@2.6.119%2Bbuild.20260904145249.a1149a7
 - pkg:nuget/TransactionHelpers@2.6.12%2Bbuild.141
+- pkg:nuget/TransactionHelpers@2.6.120%2Bbuild.20260904193746.af81250
 - pkg:nuget/TransactionHelpers@2.6.13%2Bbuild.142
 - pkg:nuget/TransactionHelpers@2.6.14%2Bbuild.143
 - pkg:nuget/TransactionHelpers@2.6.15%2Bbuild.144
