@@ -9,6 +9,9 @@
 - pkg:nuget/cCoder.AppSecurity@2026.7.7.1434
 - pkg:nuget/cCoder.AppSecurity@2026.8.10.1714
 - pkg:nuget/cCoder.AppSecurity@2026.8.11.1949
+- pkg:nuget/cCoder.AppSecurity@2026.8.26.1251
+- pkg:nuget/cCoder.AppSecurity@2026.8.26.2237
+- pkg:nuget/cCoder.AppSecurity@2026.8.28.1718
 - pkg:nuget/cCoder.AppSecurity@2026.8.4.2137
 - pkg:nuget/cCoder.AppSecurity@2026.8.4.2155
 - pkg:nuget/cCoder.AppSecurity@2026.8.8.1554
