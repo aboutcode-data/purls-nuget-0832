@@ -1,3 +1,4 @@
 - pkg:nuget/Sencilla.Authentication.Facebook@10.0.35
 - pkg:nuget/Sencilla.Authentication.Facebook@10.0.44
 - pkg:nuget/Sencilla.Authentication.Facebook@10.0.47
+- pkg:nuget/Sencilla.Authentication.Facebook@10.0.49
