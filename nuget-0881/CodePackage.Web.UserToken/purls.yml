@@ -55,6 +55,7 @@
 - pkg:nuget/CodePackage.Web.UserToken@17.4.4
 - pkg:nuget/CodePackage.Web.UserToken@18.0.12
 - pkg:nuget/CodePackage.Web.UserToken@18.0.13
+- pkg:nuget/CodePackage.Web.UserToken@18.0.16
 - pkg:nuget/CodePackage.Web.UserToken@18.0.5
 - pkg:nuget/CodePackage.Web.UserToken@8.0.0
 - pkg:nuget/CodePackage.Web.UserToken@8.0.1
