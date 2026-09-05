@@ -64,6 +64,7 @@
 - pkg:nuget/Microsoft.OpenApi.Hidi@1.6.24
 - pkg:nuget/Microsoft.OpenApi.Hidi@1.6.25
 - pkg:nuget/Microsoft.OpenApi.Hidi@1.6.29
+- pkg:nuget/Microsoft.OpenApi.Hidi@1.6.31
 - pkg:nuget/Microsoft.OpenApi.Hidi@2.0.0
 - pkg:nuget/Microsoft.OpenApi.Hidi@2.0.0-preview.11
 - pkg:nuget/Microsoft.OpenApi.Hidi@2.0.0-preview.12
@@ -95,6 +96,7 @@
 - pkg:nuget/Microsoft.OpenApi.Hidi@2.0.0-preview9
 - pkg:nuget/Microsoft.OpenApi.Hidi@2.0.1
 - pkg:nuget/Microsoft.OpenApi.Hidi@2.1.0
+- pkg:nuget/Microsoft.OpenApi.Hidi@2.12.2
 - pkg:nuget/Microsoft.OpenApi.Hidi@2.2.0
 - pkg:nuget/Microsoft.OpenApi.Hidi@2.3.0
 - pkg:nuget/Microsoft.OpenApi.Hidi@2.3.1
