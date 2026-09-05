@@ -1,3 +1,9 @@
+- pkg:nuget/Rappd.CQRS.AspNet@0.0.1-beta.105
+- pkg:nuget/Rappd.CQRS.AspNet@0.0.1-beta.109
+- pkg:nuget/Rappd.CQRS.AspNet@0.0.1-beta.117
+- pkg:nuget/Rappd.CQRS.AspNet@0.0.1-beta.123
 - pkg:nuget/Rappd.CQRS.AspNet@0.0.1-beta.20
 - pkg:nuget/Rappd.CQRS.AspNet@0.0.1-beta.32
 - pkg:nuget/Rappd.CQRS.AspNet@0.0.1-beta.33
+- pkg:nuget/Rappd.CQRS.AspNet@0.0.1-beta.96
+- pkg:nuget/Rappd.CQRS.AspNet@0.0.1-beta.98
