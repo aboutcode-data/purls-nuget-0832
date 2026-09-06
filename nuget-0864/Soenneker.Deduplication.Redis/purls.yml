@@ -13,4 +13,5 @@
 - pkg:nuget/Soenneker.Deduplication.Redis@4.0.79
 - pkg:nuget/Soenneker.Deduplication.Redis@4.0.8
 - pkg:nuget/Soenneker.Deduplication.Redis@4.0.81
+- pkg:nuget/Soenneker.Deduplication.Redis@4.0.85
 - pkg:nuget/Soenneker.Deduplication.Redis@4.0.9
