@@ -7,3 +7,5 @@
 - pkg:nuget/GHIElectronics.TinyCLR.Drivers.ManagedFileSystem@2.2.1.2000
 - pkg:nuget/GHIElectronics.TinyCLR.Drivers.ManagedFileSystem@2.2.2.1000
 - pkg:nuget/GHIElectronics.TinyCLR.Drivers.ManagedFileSystem@2.3.0.1000
+- pkg:nuget/GHIElectronics.TinyCLR.Drivers.ManagedFileSystem@3.0.0.1000-prerelease
+- pkg:nuget/GHIElectronics.TinyCLR.Drivers.ManagedFileSystem@3.0.1.2000-prerelease
