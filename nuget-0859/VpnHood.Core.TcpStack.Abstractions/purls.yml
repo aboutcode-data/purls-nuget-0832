@@ -1,2 +1,3 @@
 - pkg:nuget/VpnHood.Core.TcpStack.Abstractions@7.9.810-prerelease
 - pkg:nuget/VpnHood.Core.TcpStack.Abstractions@7.9.812
+- pkg:nuget/VpnHood.Core.TcpStack.Abstractions@8.1.840

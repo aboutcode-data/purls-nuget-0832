@@ -7,3 +7,4 @@
 - pkg:nuget/Lombiq.MSBuild.OrchardCore.Theme.Sdk@1.0.1-alpha.7.osoe-1208
 - pkg:nuget/Lombiq.MSBuild.OrchardCore.Theme.Sdk@1.0.1-alpha.8.osoe-1208
 - pkg:nuget/Lombiq.MSBuild.OrchardCore.Theme.Sdk@2.0.1
+- pkg:nuget/Lombiq.MSBuild.OrchardCore.Theme.Sdk@2.1.0
