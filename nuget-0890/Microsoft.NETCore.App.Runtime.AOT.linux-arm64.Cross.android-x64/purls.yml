@@ -35,6 +35,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@8.0.20
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@8.0.29
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@8.0.3
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@8.0.31
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@8.0.4
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@8.0.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@8.0.6
@@ -55,6 +56,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@9.0.16
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@9.0.19
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@9.0.2
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@9.0.20
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@9.0.4
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64@9.0.5

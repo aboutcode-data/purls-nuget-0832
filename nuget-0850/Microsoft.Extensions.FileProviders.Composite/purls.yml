@@ -17,6 +17,7 @@
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@10.0.7
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@10.0.8
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.Extensions.FileProviders.Composite@11.0.0-rc.1.26425.128
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@2.0.0
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@2.0.0-preview1-final
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@2.0.0-preview2-final
@@ -138,6 +139,7 @@
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@9.0.13
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@9.0.19
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@9.0.2
+- pkg:nuget/Microsoft.Extensions.FileProviders.Composite@9.0.20
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@9.0.3
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@9.0.4
 - pkg:nuget/Microsoft.Extensions.FileProviders.Composite@9.0.5
