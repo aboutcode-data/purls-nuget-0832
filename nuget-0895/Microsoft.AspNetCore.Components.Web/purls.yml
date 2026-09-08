@@ -12,6 +12,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.Web@10.0.7
 - pkg:nuget/Microsoft.AspNetCore.Components.Web@10.0.8
 - pkg:nuget/Microsoft.AspNetCore.Components.Web@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.AspNetCore.Components.Web@11.0.0-rc.1.26425.128
 - pkg:nuget/Microsoft.AspNetCore.Components.Web@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.Components.Web@3.0.0-preview8.19405.7
 - pkg:nuget/Microsoft.AspNetCore.Components.Web@3.0.0-preview9.19424.4
