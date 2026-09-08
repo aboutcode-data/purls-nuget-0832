@@ -26,6 +26,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@10.0.7
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@10.0.8
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.EntityFrameworkCore.Design@11.0.0-rc.1.26425.128
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@2.0.0
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@2.0.0-preview1-final
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@2.0.0-preview2-final
@@ -249,6 +250,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@9.0.16
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@9.0.19
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@9.0.2
+- pkg:nuget/Microsoft.EntityFrameworkCore.Design@9.0.20
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@9.0.3
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@9.0.4
 - pkg:nuget/Microsoft.EntityFrameworkCore.Design@9.0.5
