@@ -16,6 +16,7 @@
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Common@1.2.0
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Common@1.2.10
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Common@1.2.12
+- pkg:nuget/Microsoft.AspNetCore.SignalR.Common@1.2.13
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Common@10.0.0-preview.1.25120.3
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Common@10.0.0-preview.2.25164.1
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Common@10.0.0-preview.3.25172.1
