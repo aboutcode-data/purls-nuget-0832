@@ -20,3 +20,4 @@
 - pkg:nuget/Microsoft.AspNetCore.Mvc.RazorPages@2.2.0-preview3-35497
 - pkg:nuget/Microsoft.AspNetCore.Mvc.RazorPages@2.2.5
 - pkg:nuget/Microsoft.AspNetCore.Mvc.RazorPages@2.3.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.RazorPages@2.3.13
