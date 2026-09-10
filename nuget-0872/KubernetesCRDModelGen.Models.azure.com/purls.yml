@@ -574,6 +574,7 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.azure.com@1.0.0-alpha.98
 - pkg:nuget/KubernetesCRDModelGen.Models.azure.com@1.0.0-alpha.99
 - pkg:nuget/KubernetesCRDModelGen.Models.azure.com@1.1.0
+- pkg:nuget/KubernetesCRDModelGen.Models.azure.com@1.19.0
 - pkg:nuget/KubernetesCRDModelGen.Models.azure.com@1.2.0
 - pkg:nuget/KubernetesCRDModelGen.Models.azure.com@1.4.1
 - pkg:nuget/KubernetesCRDModelGen.Models.azure.com@1.4.2
