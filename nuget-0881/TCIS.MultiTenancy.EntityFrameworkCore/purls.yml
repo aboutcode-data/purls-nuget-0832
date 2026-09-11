@@ -6,4 +6,5 @@
 - pkg:nuget/TCIS.MultiTenancy.EntityFrameworkCore@1.0.0-rc.41
 - pkg:nuget/TCIS.MultiTenancy.EntityFrameworkCore@1.0.0-rc.42
 - pkg:nuget/TCIS.MultiTenancy.EntityFrameworkCore@1.0.0-rc.44
+- pkg:nuget/TCIS.MultiTenancy.EntityFrameworkCore@1.0.0-rc.45
 - pkg:nuget/TCIS.MultiTenancy.EntityFrameworkCore@1.0.0-rc.8
