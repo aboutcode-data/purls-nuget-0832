@@ -3,6 +3,7 @@
 - pkg:nuget/Beep.Database.Mapper@1.0.8-build.3
 - pkg:nuget/Beep.Database.Mapper@1.0.9-build.103
 - pkg:nuget/Beep.Database.Mapper@1.0.9-build.109
+- pkg:nuget/Beep.Database.Mapper@1.0.9-build.117
 - pkg:nuget/Beep.Database.Mapper@1.0.9-build.12
 - pkg:nuget/Beep.Database.Mapper@1.0.9-build.18
 - pkg:nuget/Beep.Database.Mapper@1.0.9-build.3
