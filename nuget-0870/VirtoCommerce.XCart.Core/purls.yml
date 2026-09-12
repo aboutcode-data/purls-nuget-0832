@@ -16,6 +16,7 @@
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1028.0
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1035.0-alpha.277-vcst-5919-icartsharingservice
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1035.0-alpha.281-vcst-5919-icartsharingservice
+- pkg:nuget/VirtoCommerce.XCart.Core@3.1036.0-alpha.288-vcst-5850-5728-multi-sharing-key-message
 - pkg:nuget/VirtoCommerce.XCart.Core@3.800.0
 - pkg:nuget/VirtoCommerce.XCart.Core@3.800.0-alpha.2-vcst-1352
 - pkg:nuget/VirtoCommerce.XCart.Core@3.800.0-alpha.4-vcst-1352
