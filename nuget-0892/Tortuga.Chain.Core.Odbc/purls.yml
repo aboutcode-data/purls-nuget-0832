@@ -19,3 +19,4 @@
 - pkg:nuget/Tortuga.Chain.Core.Odbc@5.3.0
 - pkg:nuget/Tortuga.Chain.Core.Odbc@5.4.0
 - pkg:nuget/Tortuga.Chain.Core.Odbc@5.4.5
+- pkg:nuget/Tortuga.Chain.Core.Odbc@6.1.0
