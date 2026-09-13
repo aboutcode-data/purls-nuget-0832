@@ -22,3 +22,4 @@
 - pkg:nuget/Kahuna.Core@1.5.5
 - pkg:nuget/Kahuna.Core@1.5.7
 - pkg:nuget/Kahuna.Core@1.6.3
+- pkg:nuget/Kahuna.Core@1.8.0
