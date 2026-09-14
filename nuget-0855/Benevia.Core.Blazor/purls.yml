@@ -32,6 +32,8 @@
 - pkg:nuget/Benevia.Core.Blazor@0.10.1-ci.420
 - pkg:nuget/Benevia.Core.Blazor@0.10.1-ci.433
 - pkg:nuget/Benevia.Core.Blazor@0.10.1-ci.439
+- pkg:nuget/Benevia.Core.Blazor@0.10.1-ci.448
+- pkg:nuget/Benevia.Core.Blazor@0.10.1-ci.449
 - pkg:nuget/Benevia.Core.Blazor@0.8.3
 - pkg:nuget/Benevia.Core.Blazor@0.8.3-ci.17
 - pkg:nuget/Benevia.Core.Blazor@0.8.3-ci.20
