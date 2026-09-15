@@ -7,3 +7,4 @@
 - pkg:nuget/Transformalize.Transform.Ado@0.3.25-beta
 - pkg:nuget/Transformalize.Transform.Ado@0.4.1-beta
 - pkg:nuget/Transformalize.Transform.Ado@0.6.31-beta
+- pkg:nuget/Transformalize.Transform.Ado@1.5.0

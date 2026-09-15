@@ -6,3 +6,4 @@
 - pkg:nuget/Transformalize.Provider.GeoJson@0.3.29-beta
 - pkg:nuget/Transformalize.Provider.GeoJson@0.4.0-beta
 - pkg:nuget/Transformalize.Provider.GeoJson@0.5.0-beta
+- pkg:nuget/Transformalize.Provider.GeoJson@1.5.0
