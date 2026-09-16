@@ -12,4 +12,6 @@
 - pkg:nuget/Rask.SqlServer@0.21.1-alpha.0.87
 - pkg:nuget/Rask.SqlServer@0.22.0
 - pkg:nuget/Rask.SqlServer@0.22.1-alpha.0.1
+- pkg:nuget/Rask.SqlServer@0.22.1-alpha.0.14
+- pkg:nuget/Rask.SqlServer@0.22.1-alpha.0.15
 - pkg:nuget/Rask.SqlServer@0.22.1-alpha.0.2
