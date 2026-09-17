@@ -4222,3 +4222,6 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.1-renovatenuget.1.sha.43aad5e3
 - pkg:nuget/ArmoniK.Core.Base@0.41.1-renovatenuget.1.sha.b543d400
 - pkg:nuget/ArmoniK.Core.Base@0.41.1-renovatenuget.1.sha.d05d9b9d
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.12.sha.49ca5ee6
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.14.sha.8fd3c3d8
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-renovatenuget.15.sha.1591a346
