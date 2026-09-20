@@ -6,6 +6,7 @@
 - pkg:nuget/HartsyInference.Cuda@2.0.0-alpha.11
 - pkg:nuget/HartsyInference.Cuda@2.0.0-alpha.124
 - pkg:nuget/HartsyInference.Cuda@2.0.0-alpha.125
+- pkg:nuget/HartsyInference.Cuda@2.0.0-alpha.137
 - pkg:nuget/HartsyInference.Cuda@2.0.0-alpha.18
 - pkg:nuget/HartsyInference.Cuda@2.0.0-alpha.3
 - pkg:nuget/HartsyInference.Cuda@2.0.0-alpha.39
