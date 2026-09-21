@@ -114,6 +114,7 @@
 - pkg:nuget/Doordeck.Headless.Sdk@0.98.0
 - pkg:nuget/Doordeck.Headless.Sdk@0.99.0
 - pkg:nuget/Doordeck.Headless.Sdk@2.1.0
+- pkg:nuget/Doordeck.Headless.Sdk@2.11.0
 - pkg:nuget/Doordeck.Headless.Sdk@2.3.0
 - pkg:nuget/Doordeck.Headless.Sdk@2.4.0
 - pkg:nuget/Doordeck.Headless.Sdk@2.9.0
