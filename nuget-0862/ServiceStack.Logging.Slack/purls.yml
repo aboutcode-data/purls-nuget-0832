@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.Logging.Slack@10.0.0
+- pkg:nuget/ServiceStack.Logging.Slack@10.2.0
 - pkg:nuget/ServiceStack.Logging.Slack@4.0.58
 - pkg:nuget/ServiceStack.Logging.Slack@4.0.60
 - pkg:nuget/ServiceStack.Logging.Slack@4.0.62
