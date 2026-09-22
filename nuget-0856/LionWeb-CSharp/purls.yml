@@ -38,3 +38,4 @@
 - pkg:nuget/LionWeb-CSharp@0.3.0-rc.8
 - pkg:nuget/LionWeb-CSharp@0.6.0-RC.3
 - pkg:nuget/LionWeb-CSharp@0.6.0-RC.6
+- pkg:nuget/LionWeb-CSharp@0.7.0-alpha.0
