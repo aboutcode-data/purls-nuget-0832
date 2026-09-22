@@ -1,4 +1,8 @@
+- pkg:nuget/Soenneker.Composio.HttpClients@4.0.100
+- pkg:nuget/Soenneker.Composio.HttpClients@4.0.105
+- pkg:nuget/Soenneker.Composio.HttpClients@4.0.114
 - pkg:nuget/Soenneker.Composio.HttpClients@4.0.12
+- pkg:nuget/Soenneker.Composio.HttpClients@4.0.123
 - pkg:nuget/Soenneker.Composio.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Composio.HttpClients@4.0.22
 - pkg:nuget/Soenneker.Composio.HttpClients@4.0.23
