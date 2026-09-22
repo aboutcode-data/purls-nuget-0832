@@ -56,4 +56,6 @@
 - pkg:nuget/Umbraco.Commerce.Cms.Web.Api@16.4.0
 - pkg:nuget/Umbraco.Commerce.Cms.Web.Api@16.5.0
 - pkg:nuget/Umbraco.Commerce.Cms.Web.Api@17.1.11
+- pkg:nuget/Umbraco.Commerce.Cms.Web.Api@17.2.5
 - pkg:nuget/Umbraco.Commerce.Cms.Web.Api@18.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.Cms.Web.Api@18.1.5

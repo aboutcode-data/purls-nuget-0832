@@ -118,4 +118,6 @@
 - pkg:nuget/Umbraco.Commerce.Persistence.SqlServer@16.4.0
 - pkg:nuget/Umbraco.Commerce.Persistence.SqlServer@16.5.0
 - pkg:nuget/Umbraco.Commerce.Persistence.SqlServer@17.1.11
+- pkg:nuget/Umbraco.Commerce.Persistence.SqlServer@17.2.5
 - pkg:nuget/Umbraco.Commerce.Persistence.SqlServer@18.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.Persistence.SqlServer@18.1.5
