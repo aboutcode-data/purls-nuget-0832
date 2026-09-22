@@ -17,3 +17,4 @@
 - pkg:nuget/Elmah.Io.Blazor.Wasm@5.0.24-pre
 - pkg:nuget/Elmah.Io.Blazor.Wasm@5.0.25-pre
 - pkg:nuget/Elmah.Io.Blazor.Wasm@5.0.26
+- pkg:nuget/Elmah.Io.Blazor.Wasm@6.0.28-pre
