@@ -8,3 +8,7 @@
 - pkg:nuget/Shiny.Data.Sync.Blazor@5.5.0-beta-0079
 - pkg:nuget/Shiny.Data.Sync.Blazor@5.5.0-beta-0085
 - pkg:nuget/Shiny.Data.Sync.Blazor@5.5.0-beta-0087
+- pkg:nuget/Shiny.Data.Sync.Blazor@5.6.0
+- pkg:nuget/Shiny.Data.Sync.Blazor@5.6.0-beta-0087
+- pkg:nuget/Shiny.Data.Sync.Blazor@5.6.2
+- pkg:nuget/Shiny.Data.Sync.Blazor@5.6.3
