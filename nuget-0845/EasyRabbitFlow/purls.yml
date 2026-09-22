@@ -19,3 +19,4 @@
 - pkg:nuget/EasyRabbitFlow@3.0.6
 - pkg:nuget/EasyRabbitFlow@3.0.7
 - pkg:nuget/EasyRabbitFlow@4.0.2
+- pkg:nuget/EasyRabbitFlow@8.0.0-rc.2
