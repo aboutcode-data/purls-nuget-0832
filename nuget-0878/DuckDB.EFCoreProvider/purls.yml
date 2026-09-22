@@ -1,0 +1,8 @@
+- pkg:nuget/DuckDB.EFCoreProvider@1.0.21
+- pkg:nuget/DuckDB.EFCoreProvider@1.11.0
+- pkg:nuget/DuckDB.EFCoreProvider@1.12.1
+- pkg:nuget/DuckDB.EFCoreProvider@1.15.0
+- pkg:nuget/DuckDB.EFCoreProvider@1.17.3
+- pkg:nuget/DuckDB.EFCoreProvider@1.18.0
+- pkg:nuget/DuckDB.EFCoreProvider@1.24.0
+- pkg:nuget/DuckDB.EFCoreProvider@1.5.0
