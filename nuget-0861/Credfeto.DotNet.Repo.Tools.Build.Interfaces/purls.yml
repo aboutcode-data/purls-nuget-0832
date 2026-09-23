@@ -2311,6 +2311,7 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.16.3752-pull-312-merge
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.16.3763-suppressmessage
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.16.3767-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.16.3779-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.2.3041-template-update
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.2.3042-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build.Interfaces@1.5.2.3043-main
