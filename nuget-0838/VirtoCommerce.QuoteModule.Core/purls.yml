@@ -5,6 +5,7 @@
 - pkg:nuget/VirtoCommerce.QuoteModule.Core@3.10.0
 - pkg:nuget/VirtoCommerce.QuoteModule.Core@3.10.0-alpha.209
 - pkg:nuget/VirtoCommerce.QuoteModule.Core@3.10.0-alpha.212
+- pkg:nuget/VirtoCommerce.QuoteModule.Core@3.1003.0
 - pkg:nuget/VirtoCommerce.QuoteModule.Core@3.11.0
 - pkg:nuget/VirtoCommerce.QuoteModule.Core@3.11.0-alpha.213
 - pkg:nuget/VirtoCommerce.QuoteModule.Core@3.11.0-alpha.214
