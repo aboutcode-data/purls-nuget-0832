@@ -25,6 +25,7 @@
 - pkg:nuget/IkeMtz.NRSRx.Core.SignalR@1.20.330.1
 - pkg:nuget/IkeMtz.NRSRx.Core.SignalR@1.20.330.3
 - pkg:nuget/IkeMtz.NRSRx.Core.SignalR@1.20.330.5
+- pkg:nuget/IkeMtz.NRSRx.Core.SignalR@10.0.266.2
 - pkg:nuget/IkeMtz.NRSRx.Core.SignalR@5.0.102.2
 - pkg:nuget/IkeMtz.NRSRx.Core.SignalR@5.0.104.2
 - pkg:nuget/IkeMtz.NRSRx.Core.SignalR@5.0.104.3
