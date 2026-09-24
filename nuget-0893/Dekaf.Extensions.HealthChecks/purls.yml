@@ -2,5 +2,6 @@
 - pkg:nuget/Dekaf.Extensions.HealthChecks@1.14.0
 - pkg:nuget/Dekaf.Extensions.HealthChecks@1.14.1
 - pkg:nuget/Dekaf.Extensions.HealthChecks@1.19.0
+- pkg:nuget/Dekaf.Extensions.HealthChecks@1.21.0
 - pkg:nuget/Dekaf.Extensions.HealthChecks@1.4.0
 - pkg:nuget/Dekaf.Extensions.HealthChecks@1.9.1
