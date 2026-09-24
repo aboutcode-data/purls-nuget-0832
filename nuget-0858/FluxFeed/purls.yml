@@ -4,5 +4,6 @@
 - pkg:nuget/FluxFeed@0.26.0
 - pkg:nuget/FluxFeed@0.28.1
 - pkg:nuget/FluxFeed@0.31.0
+- pkg:nuget/FluxFeed@0.33.16
 - pkg:nuget/FluxFeed@0.33.4
 - pkg:nuget/FluxFeed@0.6.1
