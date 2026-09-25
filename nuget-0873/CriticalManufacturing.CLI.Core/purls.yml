@@ -112,6 +112,7 @@
 - pkg:nuget/CriticalManufacturing.CLI.Core@5.6.0-pre.6
 - pkg:nuget/CriticalManufacturing.CLI.Core@5.7.0
 - pkg:nuget/CriticalManufacturing.CLI.Core@6.0.0-pre.0
+- pkg:nuget/CriticalManufacturing.CLI.Core@6.0.0-pre.10
 - pkg:nuget/CriticalManufacturing.CLI.Core@6.0.0-pre.2
 - pkg:nuget/CriticalManufacturing.CLI.Core@6.0.0-pre.5
 - pkg:nuget/CriticalManufacturing.CLI.Core@6.0.0-pre.7
