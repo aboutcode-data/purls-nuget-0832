@@ -24,6 +24,7 @@
 - pkg:nuget/Giraffe.Htmx@2.0.0-beta3
 - pkg:nuget/Giraffe.Htmx@2.0.0-beta4
 - pkg:nuget/Giraffe.Htmx@2.0.1
+- pkg:nuget/Giraffe.Htmx@2.0.11
 - pkg:nuget/Giraffe.Htmx@2.0.2
 - pkg:nuget/Giraffe.Htmx@2.0.3
 - pkg:nuget/Giraffe.Htmx@2.0.4
