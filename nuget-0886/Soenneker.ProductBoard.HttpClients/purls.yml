@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.115
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.13
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.130
+- pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.132
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.16
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.2
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.22
