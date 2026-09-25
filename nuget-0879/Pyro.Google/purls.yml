@@ -6,6 +6,7 @@
 - pkg:nuget/Pyro.Google@1.10.47
 - pkg:nuget/Pyro.Google@1.10.73
 - pkg:nuget/Pyro.Google@1.10.87
+- pkg:nuget/Pyro.Google@1.10.93
 - pkg:nuget/Pyro.Google@1.8.100
 - pkg:nuget/Pyro.Google@1.8.101
 - pkg:nuget/Pyro.Google@1.8.102
