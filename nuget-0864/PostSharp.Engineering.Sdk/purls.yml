@@ -441,6 +441,7 @@
 - pkg:nuget/PostSharp.Engineering.Sdk@2023.2.441
 - pkg:nuget/PostSharp.Engineering.Sdk@2023.2.45
 - pkg:nuget/PostSharp.Engineering.Sdk@2023.2.46
+- pkg:nuget/PostSharp.Engineering.Sdk@2023.2.465
 - pkg:nuget/PostSharp.Engineering.Sdk@2023.2.47
 - pkg:nuget/PostSharp.Engineering.Sdk@2023.2.48
 - pkg:nuget/PostSharp.Engineering.Sdk@2023.2.49
