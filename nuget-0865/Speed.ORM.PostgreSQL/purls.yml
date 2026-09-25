@@ -18,3 +18,5 @@
 - pkg:nuget/Speed.ORM.PostgreSQL@2.0.5
 - pkg:nuget/Speed.ORM.PostgreSQL@2.0.6
 - pkg:nuget/Speed.ORM.PostgreSQL@2.0.8
+- pkg:nuget/Speed.ORM.PostgreSQL@3.0.0.1
+- pkg:nuget/Speed.ORM.PostgreSQL@3.0.0.3
