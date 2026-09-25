@@ -23,5 +23,6 @@
 - pkg:nuget/MaxFactry.Provider.Azure@1.0.24.56
 - pkg:nuget/MaxFactry.Provider.Azure@1.0.24.58
 - pkg:nuget/MaxFactry.Provider.Azure@1.0.24.59
+- pkg:nuget/MaxFactry.Provider.Azure@1.0.26.35
 - pkg:nuget/MaxFactry.Provider.Azure@1.0.3
 - pkg:nuget/MaxFactry.Provider.Azure@1.0.4
