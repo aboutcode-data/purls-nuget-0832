@@ -69,3 +69,4 @@
 - pkg:nuget/CK.DB.GuestActor.Acl@0.7.1
 - pkg:nuget/CK.DB.GuestActor.Acl@0.8.0
 - pkg:nuget/CK.DB.GuestActor.Acl@0.9.0
+- pkg:nuget/CK.DB.GuestActor.Acl@1.0.0
