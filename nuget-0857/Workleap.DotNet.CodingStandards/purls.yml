@@ -180,3 +180,5 @@
 - pkg:nuget/Workleap.DotNet.CodingStandards@1.2.4
 - pkg:nuget/Workleap.DotNet.CodingStandards@1.2.4-preview.1
 - pkg:nuget/Workleap.DotNet.CodingStandards@1.2.5-preview.1
+- pkg:nuget/Workleap.DotNet.CodingStandards@2.0.7
+- pkg:nuget/Workleap.DotNet.CodingStandards@2.0.7-preview.1
