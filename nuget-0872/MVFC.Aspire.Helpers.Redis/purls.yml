@@ -1,3 +1,4 @@
+- pkg:nuget/MVFC.Aspire.Helpers.Redis@10.1.0
 - pkg:nuget/MVFC.Aspire.Helpers.Redis@6.2.0
 - pkg:nuget/MVFC.Aspire.Helpers.Redis@6.4.0
 - pkg:nuget/MVFC.Aspire.Helpers.Redis@6.4.2
@@ -10,3 +11,4 @@
 - pkg:nuget/MVFC.Aspire.Helpers.Redis@7.3.2
 - pkg:nuget/MVFC.Aspire.Helpers.Redis@7.3.3
 - pkg:nuget/MVFC.Aspire.Helpers.Redis@8.0.0
+- pkg:nuget/MVFC.Aspire.Helpers.Redis@9.0.5
