@@ -4,6 +4,7 @@
 - pkg:nuget/GenHTTP.Modules.IO@11.0.0-preview.21
 - pkg:nuget/GenHTTP.Modules.IO@11.0.0-preview.23
 - pkg:nuget/GenHTTP.Modules.IO@11.0.0-preview.9
+- pkg:nuget/GenHTTP.Modules.IO@11.0.4
 - pkg:nuget/GenHTTP.Modules.IO@4.0.0
 - pkg:nuget/GenHTTP.Modules.IO@4.1.0
 - pkg:nuget/GenHTTP.Modules.IO@5.0.0
