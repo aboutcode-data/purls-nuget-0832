@@ -11,3 +11,4 @@
 - pkg:nuget/Soenneker.Docker.Hub.OpenApiClientUtil@4.0.66
 - pkg:nuget/Soenneker.Docker.Hub.OpenApiClientUtil@4.0.69
 - pkg:nuget/Soenneker.Docker.Hub.OpenApiClientUtil@4.0.7
+- pkg:nuget/Soenneker.Docker.Hub.OpenApiClientUtil@4.0.76
