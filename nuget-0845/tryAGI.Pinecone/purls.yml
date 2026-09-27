@@ -2,6 +2,8 @@
 - pkg:nuget/tryAGI.Pinecone@0.0.0-dev.11
 - pkg:nuget/tryAGI.Pinecone@0.0.0-dev.12
 - pkg:nuget/tryAGI.Pinecone@0.0.0-dev.5
+- pkg:nuget/tryAGI.Pinecone@0.0.0-dev.51
+- pkg:nuget/tryAGI.Pinecone@0.0.0-dev.55
 - pkg:nuget/tryAGI.Pinecone@0.0.0-dev.7
 - pkg:nuget/tryAGI.Pinecone@0.0.0-dev.8
 - pkg:nuget/tryAGI.Pinecone@0.0.0-dev.9
