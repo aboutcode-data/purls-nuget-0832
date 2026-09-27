@@ -1,1 +1,9 @@
 - pkg:nuget/ExistForAll.SimpleSettings.Core.AspNet@1.0.0
+- pkg:nuget/ExistForAll.SimpleSettings.Core.AspNet@2.0.0-alpha.0.111
+- pkg:nuget/ExistForAll.SimpleSettings.Core.AspNet@2.0.0-alpha.0.112
+- pkg:nuget/ExistForAll.SimpleSettings.Core.AspNet@2.0.0-alpha.0.123
+- pkg:nuget/ExistForAll.SimpleSettings.Core.AspNet@2.0.0-alpha.0.124
+- pkg:nuget/ExistForAll.SimpleSettings.Core.AspNet@2.0.0-alpha.0.125
+- pkg:nuget/ExistForAll.SimpleSettings.Core.AspNet@2.0.0-alpha.0.128
+- pkg:nuget/ExistForAll.SimpleSettings.Core.AspNet@2.0.0-alpha.0.130
+- pkg:nuget/ExistForAll.SimpleSettings.Core.AspNet@2.0.0-alpha.0.133
