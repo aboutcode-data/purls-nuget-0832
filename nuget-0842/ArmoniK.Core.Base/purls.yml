@@ -4256,6 +4256,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.1-renovatenuget.1.sha.d05d9b9d
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.12.sha.49ca5ee6
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.14.sha.8fd3c3d8
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-jgreplaceminios3mock.22.sha.2839f3ce
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-refactorrenamepostgresqladapto.22.sha.2310e6ae
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovateaneoconsultingarmonikd.22.sha.d0d3cd8a
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovatedocker.22.sha.341a3dac
