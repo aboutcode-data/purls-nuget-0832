@@ -81,3 +81,4 @@
 - pkg:nuget/ThisAssembly.AssemblyInfo@2.0.7
 - pkg:nuget/ThisAssembly.AssemblyInfo@2.0.8
 - pkg:nuget/ThisAssembly.AssemblyInfo@2.0.9
+- pkg:nuget/ThisAssembly.AssemblyInfo@2.1.6
