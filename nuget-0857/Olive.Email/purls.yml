@@ -42,6 +42,7 @@
 - pkg:nuget/Olive.Email@1.0.7
 - pkg:nuget/Olive.Email@1.0.8
 - pkg:nuget/Olive.Email@1.0.9
+- pkg:nuget/Olive.Email@10.2.1
 - pkg:nuget/Olive.Email@2.1.102
 - pkg:nuget/Olive.Email@2.1.103
 - pkg:nuget/Olive.Email@2.1.104
