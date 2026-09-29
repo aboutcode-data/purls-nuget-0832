@@ -73,3 +73,4 @@
 - pkg:nuget/DotNetBrowser.WinForms.x86@3.5.1
 - pkg:nuget/DotNetBrowser.WinForms.x86@4.2.1
 - pkg:nuget/DotNetBrowser.WinForms.x86@4.3.0
+- pkg:nuget/DotNetBrowser.WinForms.x86@4.3.2
