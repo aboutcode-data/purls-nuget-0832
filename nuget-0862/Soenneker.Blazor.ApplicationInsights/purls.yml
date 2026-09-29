@@ -1755,3 +1755,4 @@
 - pkg:nuget/Soenneker.Blazor.ApplicationInsights@4.0.1847
 - pkg:nuget/Soenneker.Blazor.ApplicationInsights@4.0.1864
 - pkg:nuget/Soenneker.Blazor.ApplicationInsights@4.0.1893
+- pkg:nuget/Soenneker.Blazor.ApplicationInsights@4.0.1898
