@@ -218,6 +218,7 @@
 - pkg:nuget/Beep.DAL.Queries.Benchmarks@1.1.1-build.495
 - pkg:nuget/Beep.DAL.Queries.Benchmarks@1.1.1-build.512
 - pkg:nuget/Beep.DAL.Queries.Benchmarks@1.1.1-build.513
+- pkg:nuget/Beep.DAL.Queries.Benchmarks@1.1.1-build.518
 - pkg:nuget/Beep.DAL.Queries.Benchmarks@1.1.1-build.88
 - pkg:nuget/Beep.DAL.Queries.Benchmarks@1.1.1-build.89
 - pkg:nuget/Beep.DAL.Queries.Benchmarks@1.1.1-build.91
