@@ -1,1 +1,2 @@
 - pkg:nuget/NetWasm.HostTools.linux-arm64@0.4.1
+- pkg:nuget/NetWasm.HostTools.linux-arm64@0.5.0-preview.1
