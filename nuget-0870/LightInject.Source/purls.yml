@@ -80,3 +80,4 @@
 - pkg:nuget/LightInject.Source@6.6.4
 - pkg:nuget/LightInject.Source@7.0.0
 - pkg:nuget/LightInject.Source@7.0.1
+- pkg:nuget/LightInject.Source@7.1.1
