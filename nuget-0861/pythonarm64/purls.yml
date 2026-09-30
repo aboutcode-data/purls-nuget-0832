@@ -96,6 +96,7 @@
 - pkg:nuget/pythonarm64@3.14.0-b4
 - pkg:nuget/pythonarm64@3.14.0-rc1
 - pkg:nuget/pythonarm64@3.14.0-rc2
+- pkg:nuget/pythonarm64@3.14.8
 - pkg:nuget/pythonarm64@3.9.10
 - pkg:nuget/pythonarm64@3.9.11
 - pkg:nuget/pythonarm64@3.9.7
