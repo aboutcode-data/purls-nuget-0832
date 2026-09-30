@@ -701,6 +701,7 @@
 - pkg:nuget/Grasshopper@8.33.26168.9001-rc
 - pkg:nuget/Grasshopper@8.34.26215.11001-rc
 - pkg:nuget/Grasshopper@8.35.26251.13001
+- pkg:nuget/Grasshopper@8.36.26272.13001-rc
 - pkg:nuget/Grasshopper@8.4.24009.13521-rc
 - pkg:nuget/Grasshopper@8.4.24016.19001-rc
 - pkg:nuget/Grasshopper@8.4.24023.15001-rc
@@ -763,3 +764,4 @@
 - pkg:nuget/Grasshopper@9.0.26034.12305-wip
 - pkg:nuget/Grasshopper@9.0.26160.12305-wip
 - pkg:nuget/Grasshopper@9.0.26209.18303-beta
+- pkg:nuget/Grasshopper@9.0.26272.12303-beta
