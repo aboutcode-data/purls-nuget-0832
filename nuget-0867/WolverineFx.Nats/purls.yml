@@ -19,4 +19,5 @@
 - pkg:nuget/WolverineFx.Nats@6.32.0
 - pkg:nuget/WolverineFx.Nats@6.39.0
 - pkg:nuget/WolverineFx.Nats@6.41.0
+- pkg:nuget/WolverineFx.Nats@6.44.0
 - pkg:nuget/WolverineFx.Nats@6.7.0
