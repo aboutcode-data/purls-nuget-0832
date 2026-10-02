@@ -168,6 +168,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.42.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.42.3-hotfix-ssh-stopprog-timing.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.42.3-hotfix-ssh-stopprog-timing.2
+- pkg:nuget/PepperDash.Essentials.MobileControl@2.43.0-feat-mc-client-allowlist.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.43.0-feat-techpassword-per-client-isolation.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.5.0
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.5.0-DGE-1000.1
