@@ -1,2 +1,4 @@
 - pkg:nuget/go.lib@0.1.0
 - pkg:nuget/go.lib@1.23.12.1
+- pkg:nuget/go.lib@1.24.13.2
+- pkg:nuget/go.lib@1.24.13.3
