@@ -80,6 +80,7 @@
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.410
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.420
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.44
+- pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.443
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.5
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.56
 - pkg:nuget/Altemiq.DotNet.CodingStandard@1.0.6
