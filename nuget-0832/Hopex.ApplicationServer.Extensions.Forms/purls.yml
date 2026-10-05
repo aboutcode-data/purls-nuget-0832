@@ -1201,6 +1201,7 @@
 - pkg:nuget/Hopex.ApplicationServer.Extensions.Forms@62.19.58.1
 - pkg:nuget/Hopex.ApplicationServer.Extensions.Forms@62.19.58.4
 - pkg:nuget/Hopex.ApplicationServer.Extensions.Forms@62.19.58.5
+- pkg:nuget/Hopex.ApplicationServer.Extensions.Forms@62.19.60.2
 - pkg:nuget/Hopex.ApplicationServer.Extensions.Forms@62.2.11.6
 - pkg:nuget/Hopex.ApplicationServer.Extensions.Forms@62.20.0.167
 - pkg:nuget/Hopex.ApplicationServer.Extensions.Forms@62.21.0.169
