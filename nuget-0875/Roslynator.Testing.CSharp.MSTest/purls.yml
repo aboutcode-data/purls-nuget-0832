@@ -27,3 +27,4 @@
 - pkg:nuget/Roslynator.Testing.CSharp.MSTest@4.7.0
 - pkg:nuget/Roslynator.Testing.CSharp.MSTest@4.8.0
 - pkg:nuget/Roslynator.Testing.CSharp.MSTest@4.9.0
+- pkg:nuget/Roslynator.Testing.CSharp.MSTest@5.0.1
