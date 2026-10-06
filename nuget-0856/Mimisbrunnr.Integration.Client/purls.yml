@@ -30,6 +30,7 @@
 - pkg:nuget/Mimisbrunnr.Integration.Client@1.11.1-unstalable.0.1
 - pkg:nuget/Mimisbrunnr.Integration.Client@1.11.1-unstalable.0.7
 - pkg:nuget/Mimisbrunnr.Integration.Client@1.11.2-unstalable.0.2
+- pkg:nuget/Mimisbrunnr.Integration.Client@1.11.2-unstalable.0.3
 - pkg:nuget/Mimisbrunnr.Integration.Client@1.2.0
 - pkg:nuget/Mimisbrunnr.Integration.Client@1.2.1
 - pkg:nuget/Mimisbrunnr.Integration.Client@1.2.1-unstalable.0.1
