@@ -138,3 +138,4 @@
 - pkg:nuget/ZhileTime.Docs.Admin.Web@6.1.23
 - pkg:nuget/ZhileTime.Docs.Admin.Web@6.1.3
 - pkg:nuget/ZhileTime.Docs.Admin.Web@7.0.0
+- pkg:nuget/ZhileTime.Docs.Admin.Web@8.1.0
