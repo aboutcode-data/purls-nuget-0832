@@ -50,3 +50,5 @@
 - pkg:nuget/Indigina.WMS.DispatchOperator.Client@1.1.89
 - pkg:nuget/Indigina.WMS.DispatchOperator.Client@1.1.91
 - pkg:nuget/Indigina.WMS.DispatchOperator.Client@1.1.92
+- pkg:nuget/Indigina.WMS.DispatchOperator.Client@1.1.96
+- pkg:nuget/Indigina.WMS.DispatchOperator.Client@1.1.97
