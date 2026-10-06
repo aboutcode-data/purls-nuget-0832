@@ -9,3 +9,5 @@
 - pkg:nuget/HotChocolate.Fusion.Subscriptions.NATS@16.6.2-p.8
 - pkg:nuget/HotChocolate.Fusion.Subscriptions.NATS@16.6.3
 - pkg:nuget/HotChocolate.Fusion.Subscriptions.NATS@16.7.0-p.12
+- pkg:nuget/HotChocolate.Fusion.Subscriptions.NATS@16.7.0-p.14
+- pkg:nuget/HotChocolate.Fusion.Subscriptions.NATS@16.7.0-p.18
