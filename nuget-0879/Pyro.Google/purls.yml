@@ -1,4 +1,5 @@
 - pkg:nuget/Pyro.Google@1.10.100
+- pkg:nuget/Pyro.Google@1.10.101
 - pkg:nuget/Pyro.Google@1.10.13
 - pkg:nuget/Pyro.Google@1.10.14
 - pkg:nuget/Pyro.Google@1.10.24
