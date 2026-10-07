@@ -52,6 +52,7 @@
 - pkg:nuget/OBeautifulCode.Build.Conventions.ReSharper@1.1.139
 - pkg:nuget/OBeautifulCode.Build.Conventions.ReSharper@1.1.14-prerelease
 - pkg:nuget/OBeautifulCode.Build.Conventions.ReSharper@1.1.141
+- pkg:nuget/OBeautifulCode.Build.Conventions.ReSharper@1.1.142
 - pkg:nuget/OBeautifulCode.Build.Conventions.ReSharper@1.1.15-prerelease
 - pkg:nuget/OBeautifulCode.Build.Conventions.ReSharper@1.1.16-prerelease
 - pkg:nuget/OBeautifulCode.Build.Conventions.ReSharper@1.1.17-prerelease

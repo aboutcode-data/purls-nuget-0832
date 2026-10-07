@@ -36,6 +36,7 @@
 - pkg:nuget/OBeautifulCode.Build.Conventions.VisualStudioProjectTemplates.Serialization.Json@1.1.137
 - pkg:nuget/OBeautifulCode.Build.Conventions.VisualStudioProjectTemplates.Serialization.Json@1.1.139
 - pkg:nuget/OBeautifulCode.Build.Conventions.VisualStudioProjectTemplates.Serialization.Json@1.1.141
+- pkg:nuget/OBeautifulCode.Build.Conventions.VisualStudioProjectTemplates.Serialization.Json@1.1.142
 - pkg:nuget/OBeautifulCode.Build.Conventions.VisualStudioProjectTemplates.Serialization.Json@1.1.69
 - pkg:nuget/OBeautifulCode.Build.Conventions.VisualStudioProjectTemplates.Serialization.Json@1.1.70
 - pkg:nuget/OBeautifulCode.Build.Conventions.VisualStudioProjectTemplates.Serialization.Json@1.1.71
