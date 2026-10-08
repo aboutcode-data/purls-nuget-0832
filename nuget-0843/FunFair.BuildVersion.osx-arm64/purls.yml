@@ -93,3 +93,6 @@
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2369-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2382-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2383-github-actions
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2393-pull-406-merge
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2394-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2397-main
