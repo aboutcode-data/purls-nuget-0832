@@ -1,3 +1,5 @@
+- pkg:nuget/Wayfinder.Engine.Api@0.11.2
+- pkg:nuget/Wayfinder.Engine.Api@0.18.0
 - pkg:nuget/Wayfinder.Engine.Api@0.4.5
 - pkg:nuget/Wayfinder.Engine.Api@0.7.2
 - pkg:nuget/Wayfinder.Engine.Api@0.7.6
