@@ -523,6 +523,7 @@
 - pkg:nuget/Amazon.CDK.CXAPI@2.262.1
 - pkg:nuget/Amazon.CDK.CXAPI@2.27.0
 - pkg:nuget/Amazon.CDK.CXAPI@2.272.0
+- pkg:nuget/Amazon.CDK.CXAPI@2.273.0
 - pkg:nuget/Amazon.CDK.CXAPI@2.28.0
 - pkg:nuget/Amazon.CDK.CXAPI@2.28.1
 - pkg:nuget/Amazon.CDK.CXAPI@2.29.0
