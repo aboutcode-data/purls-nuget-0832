@@ -49,6 +49,7 @@
 - pkg:nuget/commercetools.Base.Abstractions@13.0.0
 - pkg:nuget/commercetools.Base.Abstractions@13.1.0
 - pkg:nuget/commercetools.Base.Abstractions@14.0.0
+- pkg:nuget/commercetools.Base.Abstractions@15.6.0
 - pkg:nuget/commercetools.Base.Abstractions@2.0.0
 - pkg:nuget/commercetools.Base.Abstractions@2.1.0
 - pkg:nuget/commercetools.Base.Abstractions@2.1.1
