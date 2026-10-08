@@ -1,3 +1,5 @@
+- pkg:nuget/Yoyo.Pro.ExternalAuth.OAuth@10.3.2
+- pkg:nuget/Yoyo.Pro.ExternalAuth.OAuth@10.5.5
 - pkg:nuget/Yoyo.Pro.ExternalAuth.OAuth@7.3.0.31
 - pkg:nuget/Yoyo.Pro.ExternalAuth.OAuth@7.3.0.32
 - pkg:nuget/Yoyo.Pro.ExternalAuth.OAuth@7.3.0.33
