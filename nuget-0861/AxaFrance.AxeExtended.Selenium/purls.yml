@@ -30,3 +30,5 @@
 - pkg:nuget/AxaFrance.AxeExtended.Selenium@3.25.31.1
 - pkg:nuget/AxaFrance.AxeExtended.Selenium@3.25.35.1
 - pkg:nuget/AxaFrance.AxeExtended.Selenium@3.25.41.1
+- pkg:nuget/AxaFrance.AxeExtended.Selenium@3.26.245.1
+- pkg:nuget/AxaFrance.AxeExtended.Selenium@3.26.274.1-preview

@@ -1,1 +1,7 @@
+- pkg:nuget/DevExpress.Win.SpellChecker.de@25.1.12
 - pkg:nuget/DevExpress.Win.SpellChecker.de@25.1.3
+- pkg:nuget/DevExpress.Win.SpellChecker.de@26.1.2-beta
+- pkg:nuget/DevExpress.Win.SpellChecker.de@26.1.4-pre-26179
+- pkg:nuget/DevExpress.Win.SpellChecker.de@26.1.4-pre-26190
+- pkg:nuget/DevExpress.Win.SpellChecker.de@26.1.5-pre-26241
+- pkg:nuget/DevExpress.Win.SpellChecker.de@26.1.5-pre-26248
