@@ -33,4 +33,5 @@
 - pkg:nuget/ktsu.PreciseNumber@1.7.6-pre.5
 - pkg:nuget/ktsu.PreciseNumber@2.0.1
 - pkg:nuget/ktsu.PreciseNumber@2.3.0
+- pkg:nuget/ktsu.PreciseNumber@2.6.10
 - pkg:nuget/ktsu.PreciseNumber@2.6.4
