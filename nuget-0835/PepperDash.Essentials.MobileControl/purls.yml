@@ -228,3 +228,4 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.4
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-perf-mc-batch-timing.2
