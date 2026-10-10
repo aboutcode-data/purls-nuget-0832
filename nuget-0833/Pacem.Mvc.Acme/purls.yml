@@ -3,6 +3,7 @@
 - pkg:nuget/Pacem.Mvc.Acme@0.10.13
 - pkg:nuget/Pacem.Mvc.Acme@0.10.15
 - pkg:nuget/Pacem.Mvc.Acme@0.10.18-riemann
+- pkg:nuget/Pacem.Mvc.Acme@0.10.18-turing
 - pkg:nuget/Pacem.Mvc.Acme@0.10.8-carnot
 - pkg:nuget/Pacem.Mvc.Acme@0.6.0
 - pkg:nuget/Pacem.Mvc.Acme@0.7.0-atlantis
