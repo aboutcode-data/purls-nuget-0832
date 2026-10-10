@@ -4256,6 +4256,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.1-renovatenuget.1.sha.d05d9b9d
 - pkg:nuget/ArmoniK.Core.Base@0.41.2-fluuidgenerator.2.sha.5be27c3e
 - pkg:nuget/ArmoniK.Core.Base@0.41.2-renovategithubactions.14.sha.a3e01c03
+- pkg:nuget/ArmoniK.Core.Base@0.41.2-renovategithubactions.16.sha.8e4691e7
 - pkg:nuget/ArmoniK.Core.Base@0.41.2-renovategithubactions.9.sha.28c0a768
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.12.sha.49ca5ee6
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.14.sha.8fd3c3d8
