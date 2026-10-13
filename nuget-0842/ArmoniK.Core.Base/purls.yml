@@ -4255,9 +4255,12 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.1-renovatenuget.1.sha.b543d400
 - pkg:nuget/ArmoniK.Core.Base@0.41.1-renovatenuget.1.sha.d05d9b9d
 - pkg:nuget/ArmoniK.Core.Base@0.41.2-fluuidgenerator.2.sha.5be27c3e
+- pkg:nuget/ArmoniK.Core.Base@0.41.2-renovateaneoconsultingarmonikd.16.sha.a2f20305
 - pkg:nuget/ArmoniK.Core.Base@0.41.2-renovategithubactions.14.sha.a3e01c03
 - pkg:nuget/ArmoniK.Core.Base@0.41.2-renovategithubactions.16.sha.8e4691e7
 - pkg:nuget/ArmoniK.Core.Base@0.41.2-renovategithubactions.9.sha.28c0a768
+- pkg:nuget/ArmoniK.Core.Base@0.41.2-renovatenugetdotnet.16.sha.0c2422f3
+- pkg:nuget/ArmoniK.Core.Base@0.41.2-renovatenugetdotnet.16.sha.1095ac8c
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.12.sha.49ca5ee6
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.14.sha.8fd3c3d8
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-featbroker.57.sha.f6efa3ca
@@ -4271,3 +4274,4 @@
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovategithubactions.22.sha.fc01815f
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovatemajornuget.18.sha.565b3555
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovatenuget.15.sha.1591a346
+- pkg:nuget/ArmoniK.Core.Base@1.0.0-featauthz.39.sha.50705731
