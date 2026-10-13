@@ -18,6 +18,8 @@
 - pkg:nuget/Pulumi.GitLab@10.1.0-alpha.1784550352
 - pkg:nuget/Pulumi.GitLab@10.3.0-alpha.1787818597
 - pkg:nuget/Pulumi.GitLab@10.3.0-alpha.1788846638
+- pkg:nuget/Pulumi.GitLab@10.3.2
+- pkg:nuget/Pulumi.GitLab@10.3.2-alpha.1791908386
 - pkg:nuget/Pulumi.GitLab@2.0.0
 - pkg:nuget/Pulumi.GitLab@2.0.0-beta.1
 - pkg:nuget/Pulumi.GitLab@2.1.0
