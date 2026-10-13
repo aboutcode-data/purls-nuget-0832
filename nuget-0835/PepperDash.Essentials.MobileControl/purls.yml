@@ -210,6 +210,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-meter-feedback-interface.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-meter-feedback-interface.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@2.9.0-unique-client-ids.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-chore-update-ssh-net.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.10
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.26
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.29
@@ -220,12 +221,18 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.54
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.57
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-testing.15
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-docs-mobile-control-batch-sync.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-feature-add-metadatatlist-custom-properties.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-feature-demo-room.4
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-feature-mockRoutingMidpoint-add-IHasNamedRoutingSlots.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-fix-1503-double-port-registration.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-fix-1503-double-port-registration.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-fix-audio-codec-messenger-codec-info-null-ref.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates-claude-tests.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-net8-updates.4
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-perf-mc-batch-timing.2
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-rc.13
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-rc.14
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-rc.15
