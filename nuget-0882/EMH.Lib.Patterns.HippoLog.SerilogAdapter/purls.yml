@@ -74,3 +74,4 @@
 - pkg:nuget/EMH.Lib.Patterns.HippoLog.SerilogAdapter@1.1.95
 - pkg:nuget/EMH.Lib.Patterns.HippoLog.SerilogAdapter@1.1.97
 - pkg:nuget/EMH.Lib.Patterns.HippoLog.SerilogAdapter@1.1.99
+- pkg:nuget/EMH.Lib.Patterns.HippoLog.SerilogAdapter@3.1.196
