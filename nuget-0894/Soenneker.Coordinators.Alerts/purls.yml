@@ -322,6 +322,8 @@
 - pkg:nuget/Soenneker.Coordinators.Alerts@3.0.98
 - pkg:nuget/Soenneker.Coordinators.Alerts@3.0.99
 - pkg:nuget/Soenneker.Coordinators.Alerts@4.0.1007
+- pkg:nuget/Soenneker.Coordinators.Alerts@4.0.1030
+- pkg:nuget/Soenneker.Coordinators.Alerts@4.0.1031
 - pkg:nuget/Soenneker.Coordinators.Alerts@4.0.357
 - pkg:nuget/Soenneker.Coordinators.Alerts@4.0.364
 - pkg:nuget/Soenneker.Coordinators.Alerts@4.0.365
