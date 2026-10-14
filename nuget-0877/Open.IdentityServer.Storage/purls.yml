@@ -1,1 +1,2 @@
 - pkg:nuget/Open.IdentityServer.Storage@1.0.1
+- pkg:nuget/Open.IdentityServer.Storage@3.0.0
