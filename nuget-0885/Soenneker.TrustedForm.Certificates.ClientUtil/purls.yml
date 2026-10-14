@@ -66,6 +66,7 @@
 - pkg:nuget/Soenneker.TrustedForm.Certificates.ClientUtil@4.0.363
 - pkg:nuget/Soenneker.TrustedForm.Certificates.ClientUtil@4.0.366
 - pkg:nuget/Soenneker.TrustedForm.Certificates.ClientUtil@4.0.378
+- pkg:nuget/Soenneker.TrustedForm.Certificates.ClientUtil@4.0.390
 - pkg:nuget/Soenneker.TrustedForm.Certificates.ClientUtil@4.0.61
 - pkg:nuget/Soenneker.TrustedForm.Certificates.ClientUtil@4.0.73
 - pkg:nuget/Soenneker.TrustedForm.Certificates.ClientUtil@4.0.87
