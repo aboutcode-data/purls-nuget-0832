@@ -61,6 +61,7 @@
 - pkg:nuget/Empezar.BlazorWebClient@2.2.22
 - pkg:nuget/Empezar.BlazorWebClient@2.2.23
 - pkg:nuget/Empezar.BlazorWebClient@2.2.3
+- pkg:nuget/Empezar.BlazorWebClient@2.2.31
 - pkg:nuget/Empezar.BlazorWebClient@2.2.4
 - pkg:nuget/Empezar.BlazorWebClient@2.2.5
 - pkg:nuget/Empezar.BlazorWebClient@2.2.6
