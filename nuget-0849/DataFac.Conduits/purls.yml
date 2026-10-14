@@ -1,2 +1,6 @@
 - pkg:nuget/DataFac.Conduits@1.0.18-dev
 - pkg:nuget/DataFac.Conduits@1.0.21-dev
+- pkg:nuget/DataFac.Conduits@1.0.72-dev
+- pkg:nuget/DataFac.Conduits@1.0.75-dev
+- pkg:nuget/DataFac.Conduits@1.0.76-dev
+- pkg:nuget/DataFac.Conduits@1.0.77-dev
