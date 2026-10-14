@@ -56,6 +56,7 @@
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@14.2.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@144.1.0
+- pkg:nuget/OCI.DotNetSDK.Resourcemanager@149.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@15.2.0
