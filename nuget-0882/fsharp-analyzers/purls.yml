@@ -38,6 +38,7 @@
 - pkg:nuget/fsharp-analyzers@0.38.0
 - pkg:nuget/fsharp-analyzers@0.4.0
 - pkg:nuget/fsharp-analyzers@0.4.1
+- pkg:nuget/fsharp-analyzers@0.40.0
 - pkg:nuget/fsharp-analyzers@0.5.0
 - pkg:nuget/fsharp-analyzers@0.6.0
 - pkg:nuget/fsharp-analyzers@0.7.0
