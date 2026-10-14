@@ -92,3 +92,4 @@
 - pkg:nuget/Avalara.AvaTax@25.6.2
 - pkg:nuget/Avalara.AvaTax@25.7.1
 - pkg:nuget/Avalara.AvaTax@25.9.0
+- pkg:nuget/Avalara.AvaTax@26.10.0
