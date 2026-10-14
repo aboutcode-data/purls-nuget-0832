@@ -14,3 +14,7 @@
 - pkg:nuget/tryAGI.Anthropic@3.8.1-dev.89
 - pkg:nuget/tryAGI.Anthropic@3.8.1-dev.94
 - pkg:nuget/tryAGI.Anthropic@3.8.2
+- pkg:nuget/tryAGI.Anthropic@3.8.4-dev.27
+- pkg:nuget/tryAGI.Anthropic@3.8.4-dev.29
+- pkg:nuget/tryAGI.Anthropic@3.8.4-dev.37
+- pkg:nuget/tryAGI.Anthropic@3.8.4-dev.40
