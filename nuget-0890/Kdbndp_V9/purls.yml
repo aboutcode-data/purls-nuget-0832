@@ -31,6 +31,7 @@
 - pkg:nuget/Kdbndp_V9@4.5.1.827
 - pkg:nuget/Kdbndp_V9@4.5.1.910
 - pkg:nuget/Kdbndp_V9@4.5.1.915
+- pkg:nuget/Kdbndp_V9@4.5.2.1015
 - pkg:nuget/Kdbndp_V9@4.5.2.326
 - pkg:nuget/Kdbndp_V9@4.5.2.330
 - pkg:nuget/Kdbndp_V9@4.5.2.803
