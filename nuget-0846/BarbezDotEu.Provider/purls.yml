@@ -1,6 +1,7 @@
 - pkg:nuget/BarbezDotEu.Provider@1.0.0
 - pkg:nuget/BarbezDotEu.Provider@10.0.0
 - pkg:nuget/BarbezDotEu.Provider@10.0.1
+- pkg:nuget/BarbezDotEu.Provider@11.0.0
 - pkg:nuget/BarbezDotEu.Provider@2.0.0
 - pkg:nuget/BarbezDotEu.Provider@2.0.1
 - pkg:nuget/BarbezDotEu.Provider@2.0.2
