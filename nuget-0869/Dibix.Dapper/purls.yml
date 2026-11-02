@@ -283,4 +283,6 @@
 - pkg:nuget/Dibix.Dapper@1.6.5
 - pkg:nuget/Dibix.Dapper@1.6.6
 - pkg:nuget/Dibix.Dapper@1.6.92
+- pkg:nuget/Dibix.Dapper@1.7.231
 - pkg:nuget/Dibix.Dapper@1.7.96
+- pkg:nuget/Dibix.Dapper@1.8.1
