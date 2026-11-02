@@ -31,6 +31,7 @@
 - pkg:nuget/ZhileTime.Hope.AuditLogging.Application@1.8.1
 - pkg:nuget/ZhileTime.Hope.AuditLogging.Application@1.8.2
 - pkg:nuget/ZhileTime.Hope.AuditLogging.Application@1.8.5
+- pkg:nuget/ZhileTime.Hope.AuditLogging.Application@11.0.0
 - pkg:nuget/ZhileTime.Hope.AuditLogging.Application@2.1.0
 - pkg:nuget/ZhileTime.Hope.AuditLogging.Application@2.2.0
 - pkg:nuget/ZhileTime.Hope.AuditLogging.Application@2.2.1
@@ -135,3 +136,4 @@
 - pkg:nuget/ZhileTime.Hope.AuditLogging.Application@6.1.20
 - pkg:nuget/ZhileTime.Hope.AuditLogging.Application@6.1.23
 - pkg:nuget/ZhileTime.Hope.AuditLogging.Application@6.1.3
+- pkg:nuget/ZhileTime.Hope.AuditLogging.Application@9.0.0
