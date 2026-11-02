@@ -87,3 +87,4 @@
 - pkg:nuget/DevExtreme.AspNet.Data@5.0.0-beta
 - pkg:nuget/DevExtreme.AspNet.Data@5.0.0-rc1
 - pkg:nuget/DevExtreme.AspNet.Data@5.1.0
+- pkg:nuget/DevExtreme.AspNet.Data@6.0.0-beta
