@@ -152,3 +152,6 @@
 - pkg:nuget/Soenneker.Tests.Logging@4.0.154
 - pkg:nuget/Soenneker.Tests.Logging@4.0.156
 - pkg:nuget/Soenneker.Tests.Logging@4.0.160
+- pkg:nuget/Soenneker.Tests.Logging@4.0.162
+- pkg:nuget/Soenneker.Tests.Logging@4.0.163
+- pkg:nuget/Soenneker.Tests.Logging@4.0.169
