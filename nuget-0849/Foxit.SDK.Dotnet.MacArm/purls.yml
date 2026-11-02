@@ -1,2 +1,3 @@
 - pkg:nuget/Foxit.SDK.Dotnet.MacArm@11.0.0
 - pkg:nuget/Foxit.SDK.Dotnet.MacArm@11.1.0
+- pkg:nuget/Foxit.SDK.Dotnet.MacArm@12.0.0
