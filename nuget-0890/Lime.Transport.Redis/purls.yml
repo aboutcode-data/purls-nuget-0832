@@ -91,6 +91,7 @@
 - pkg:nuget/Lime.Transport.Redis@0.12.179
 - pkg:nuget/Lime.Transport.Redis@0.12.2
 - pkg:nuget/Lime.Transport.Redis@0.12.2-beta
+- pkg:nuget/Lime.Transport.Redis@0.12.203
 - pkg:nuget/Lime.Transport.Redis@0.12.22
 - pkg:nuget/Lime.Transport.Redis@0.12.31
 - pkg:nuget/Lime.Transport.Redis@0.12.42
