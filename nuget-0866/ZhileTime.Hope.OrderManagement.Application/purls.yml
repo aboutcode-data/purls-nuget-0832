@@ -2,6 +2,9 @@
 - pkg:nuget/ZhileTime.Hope.OrderManagement.Application@1.8.1
 - pkg:nuget/ZhileTime.Hope.OrderManagement.Application@1.8.2
 - pkg:nuget/ZhileTime.Hope.OrderManagement.Application@1.8.5
+- pkg:nuget/ZhileTime.Hope.OrderManagement.Application@10.0.0
+- pkg:nuget/ZhileTime.Hope.OrderManagement.Application@11.2.0
+- pkg:nuget/ZhileTime.Hope.OrderManagement.Application@11.4.0
 - pkg:nuget/ZhileTime.Hope.OrderManagement.Application@2.1.0
 - pkg:nuget/ZhileTime.Hope.OrderManagement.Application@2.2.0
 - pkg:nuget/ZhileTime.Hope.OrderManagement.Application@2.2.1

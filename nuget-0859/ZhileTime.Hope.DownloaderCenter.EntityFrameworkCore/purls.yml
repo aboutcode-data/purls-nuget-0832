@@ -1,3 +1,4 @@
+- pkg:nuget/ZhileTime.Hope.DownloaderCenter.EntityFrameworkCore@11.0.0
 - pkg:nuget/ZhileTime.Hope.DownloaderCenter.EntityFrameworkCore@2.3.0
 - pkg:nuget/ZhileTime.Hope.DownloaderCenter.EntityFrameworkCore@2.3.1
 - pkg:nuget/ZhileTime.Hope.DownloaderCenter.EntityFrameworkCore@2.3.2
@@ -94,3 +95,4 @@
 - pkg:nuget/ZhileTime.Hope.DownloaderCenter.EntityFrameworkCore@6.1.21
 - pkg:nuget/ZhileTime.Hope.DownloaderCenter.EntityFrameworkCore@6.2.0
 - pkg:nuget/ZhileTime.Hope.DownloaderCenter.EntityFrameworkCore@6.2.1
+- pkg:nuget/ZhileTime.Hope.DownloaderCenter.EntityFrameworkCore@9.0.0
