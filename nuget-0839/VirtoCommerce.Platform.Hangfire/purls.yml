@@ -21,6 +21,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Hangfire@3.1007.20
 - pkg:nuget/VirtoCommerce.Platform.Hangfire@3.1007.23
 - pkg:nuget/VirtoCommerce.Platform.Hangfire@3.1007.24
+- pkg:nuget/VirtoCommerce.Platform.Hangfire@3.1007.29
 - pkg:nuget/VirtoCommerce.Platform.Hangfire@3.1007.5
 - pkg:nuget/VirtoCommerce.Platform.Hangfire@3.1007.6
 - pkg:nuget/VirtoCommerce.Platform.Hangfire@3.101.0-alpha.12190
