@@ -120,6 +120,7 @@
 - pkg:nuget/PdfPig@0.1.17-alpha-202610120043-fa347
 - pkg:nuget/PdfPig@0.1.17-alpha-202610130041-a0fc5
 - pkg:nuget/PdfPig@0.1.17-alpha-202610150035-3452b
+- pkg:nuget/PdfPig@0.1.17-alpha-202610270036-c94f1
 - pkg:nuget/PdfPig@0.1.2
 - pkg:nuget/PdfPig@0.1.2-alpha001
 - pkg:nuget/PdfPig@0.1.2-alpha002
