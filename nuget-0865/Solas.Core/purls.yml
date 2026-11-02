@@ -1,1 +1,5 @@
+- pkg:nuget/Solas.Core@0.2.11
+- pkg:nuget/Solas.Core@0.2.12
 - pkg:nuget/Solas.Core@0.2.3
+- pkg:nuget/Solas.Core@0.2.7
+- pkg:nuget/Solas.Core@0.2.9
