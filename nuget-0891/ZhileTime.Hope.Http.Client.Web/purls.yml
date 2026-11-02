@@ -32,6 +32,7 @@
 - pkg:nuget/ZhileTime.Hope.Http.Client.Web@1.8.1
 - pkg:nuget/ZhileTime.Hope.Http.Client.Web@1.8.2
 - pkg:nuget/ZhileTime.Hope.Http.Client.Web@1.8.5
+- pkg:nuget/ZhileTime.Hope.Http.Client.Web@11.0.0
 - pkg:nuget/ZhileTime.Hope.Http.Client.Web@2.1.0
 - pkg:nuget/ZhileTime.Hope.Http.Client.Web@2.2.0
 - pkg:nuget/ZhileTime.Hope.Http.Client.Web@2.2.1
@@ -132,3 +133,4 @@
 - pkg:nuget/ZhileTime.Hope.Http.Client.Web@6.1.16
 - pkg:nuget/ZhileTime.Hope.Http.Client.Web@6.1.20
 - pkg:nuget/ZhileTime.Hope.Http.Client.Web@6.1.23
+- pkg:nuget/ZhileTime.Hope.Http.Client.Web@9.0.0
