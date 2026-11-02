@@ -98,6 +98,7 @@
 - pkg:nuget/QuantConnect.pythonnet@2.0.6
 - pkg:nuget/QuantConnect.pythonnet@2.0.60
 - pkg:nuget/QuantConnect.pythonnet@2.0.63
+- pkg:nuget/QuantConnect.pythonnet@2.0.68
 - pkg:nuget/QuantConnect.pythonnet@2.0.7
 - pkg:nuget/QuantConnect.pythonnet@2.0.8
 - pkg:nuget/QuantConnect.pythonnet@2.0.9
