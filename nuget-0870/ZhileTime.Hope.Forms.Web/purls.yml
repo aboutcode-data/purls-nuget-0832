@@ -1,3 +1,4 @@
+- pkg:nuget/ZhileTime.Hope.Forms.Web@11.4.0
 - pkg:nuget/ZhileTime.Hope.Forms.Web@4.0.1
 - pkg:nuget/ZhileTime.Hope.Forms.Web@4.1.0
 - pkg:nuget/ZhileTime.Hope.Forms.Web@4.1.2
@@ -42,3 +43,4 @@
 - pkg:nuget/ZhileTime.Hope.Forms.Web@6.1.10
 - pkg:nuget/ZhileTime.Hope.Forms.Web@6.2.0
 - pkg:nuget/ZhileTime.Hope.Forms.Web@6.2.1
+- pkg:nuget/ZhileTime.Hope.Forms.Web@8.1.0
