@@ -154,6 +154,8 @@
 - pkg:nuget/Kentico.Xperience.Admin@30.9.1
 - pkg:nuget/Kentico.Xperience.Admin@30.9.2
 - pkg:nuget/Kentico.Xperience.Admin@31.1.0
+- pkg:nuget/Kentico.Xperience.Admin@31.10.0
+- pkg:nuget/Kentico.Xperience.Admin@31.10.1
 - pkg:nuget/Kentico.Xperience.Admin@31.3.2
 - pkg:nuget/Kentico.Xperience.Admin@31.4.0
 - pkg:nuget/Kentico.Xperience.Admin@31.4.1
