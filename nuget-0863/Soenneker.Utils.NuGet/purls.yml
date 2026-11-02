@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Utils.NuGet@11.0.2971
+- pkg:nuget/Soenneker.Utils.NuGet@11.0.2973
 - pkg:nuget/Soenneker.Utils.NuGet@2.1.1
 - pkg:nuget/Soenneker.Utils.NuGet@2.1.10
 - pkg:nuget/Soenneker.Utils.NuGet@2.1.100
@@ -2321,3 +2323,5 @@
 - pkg:nuget/Soenneker.Utils.NuGet@4.0.2946
 - pkg:nuget/Soenneker.Utils.NuGet@4.0.2947
 - pkg:nuget/Soenneker.Utils.NuGet@4.0.2950
+- pkg:nuget/Soenneker.Utils.NuGet@4.0.2953
+- pkg:nuget/Soenneker.Utils.NuGet@4.0.2954
