@@ -11,8 +11,10 @@
 - pkg:nuget/Microsoft.TemplateEngine.Utils@10.0.203
 - pkg:nuget/Microsoft.TemplateEngine.Utils@10.0.302
 - pkg:nuget/Microsoft.TemplateEngine.Utils@10.0.400
+- pkg:nuget/Microsoft.TemplateEngine.Utils@10.0.403
 - pkg:nuget/Microsoft.TemplateEngine.Utils@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.TemplateEngine.Utils@11.0.100-preview.2.26159.112
+- pkg:nuget/Microsoft.TemplateEngine.Utils@11.0.100-rc.3.26522.148
 - pkg:nuget/Microsoft.TemplateEngine.Utils@5.0.0
 - pkg:nuget/Microsoft.TemplateEngine.Utils@5.0.0-rc.1.20431.3
 - pkg:nuget/Microsoft.TemplateEngine.Utils@5.0.0-rc.2.20474.2
