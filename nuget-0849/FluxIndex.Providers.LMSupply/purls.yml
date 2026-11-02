@@ -1,5 +1,6 @@
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.10.3
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.10.6
+- pkg:nuget/FluxIndex.Providers.LMSupply@0.103.0
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.13.1
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.13.19
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.21.5
@@ -20,3 +21,6 @@
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.76.0
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.80.11
 - pkg:nuget/FluxIndex.Providers.LMSupply@0.80.14
+- pkg:nuget/FluxIndex.Providers.LMSupply@0.83.0
+- pkg:nuget/FluxIndex.Providers.LMSupply@0.95.0
+- pkg:nuget/FluxIndex.Providers.LMSupply@0.98.0
