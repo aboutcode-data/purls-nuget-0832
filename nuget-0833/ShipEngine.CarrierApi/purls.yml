@@ -143,3 +143,5 @@
 - pkg:nuget/ShipEngine.CarrierApi@1.30.0
 - pkg:nuget/ShipEngine.CarrierApi@1.43.0-pre
 - pkg:nuget/ShipEngine.CarrierApi@1.50.0-pre
+- pkg:nuget/ShipEngine.CarrierApi@1.55.0
+- pkg:nuget/ShipEngine.CarrierApi@1.56.0
