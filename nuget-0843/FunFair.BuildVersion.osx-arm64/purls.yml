@@ -96,3 +96,16 @@
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2393-pull-406-merge
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2394-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2397-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2399-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2403-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2404-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2405-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2423-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2432-update-mezianto
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2458-dotnet-sdk-10-0
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2459-pull-417-merge
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2483-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2484-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2485-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2488-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2490-main
