@@ -51,6 +51,7 @@
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.373
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.379
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.380
+- pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.385
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.6
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.69
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.71
