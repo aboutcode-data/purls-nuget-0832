@@ -110,3 +110,4 @@
 - pkg:nuget/Aurora.Workflows.UI.Host@0.4.1.29
 - pkg:nuget/Aurora.Workflows.UI.Host@0.4.1.5
 - pkg:nuget/Aurora.Workflows.UI.Host@0.5.1.24
+- pkg:nuget/Aurora.Workflows.UI.Host@0.6.2.1090
