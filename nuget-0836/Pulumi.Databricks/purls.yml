@@ -40,6 +40,7 @@
 - pkg:nuget/Pulumi.Databricks@1.12.0-alpha.1683350726%2B050cbd28
 - pkg:nuget/Pulumi.Databricks@1.12.0-alpha.1683609757%2B46973ef9
 - pkg:nuget/Pulumi.Databricks@1.12.0-alpha.1683648237%2Bc9ecd5ab
+- pkg:nuget/Pulumi.Databricks@1.120.0-alpha.1793685352
 - pkg:nuget/Pulumi.Databricks@1.13.0
 - pkg:nuget/Pulumi.Databricks@1.13.0-alpha.1683783504%2B0f73b414
 - pkg:nuget/Pulumi.Databricks@1.13.0-alpha.1683919853%2Beeb55ccc
