@@ -38,6 +38,8 @@
 - pkg:nuget/DWIS.OPCUA.Vocabulary@2.2.26
 - pkg:nuget/DWIS.OPCUA.Vocabulary@2.2.27
 - pkg:nuget/DWIS.OPCUA.Vocabulary@2.2.32
+- pkg:nuget/DWIS.OPCUA.Vocabulary@2.2.33
+- pkg:nuget/DWIS.OPCUA.Vocabulary@2.2.34
 - pkg:nuget/DWIS.OPCUA.Vocabulary@2.2.6
 - pkg:nuget/DWIS.OPCUA.Vocabulary@2.2.8
 - pkg:nuget/DWIS.OPCUA.Vocabulary@2.2.9
