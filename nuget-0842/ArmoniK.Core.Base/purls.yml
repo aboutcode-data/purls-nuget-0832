@@ -4285,6 +4285,11 @@
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.12.sha.49ca5ee6
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.14.sha.8fd3c3d8
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.44.sha.12e13ed5
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.54.sha.bcebafe5
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.73.sha.186460d1
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-claudemagicalgoodall9j2vk8.54.sha.25bae582
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-claudemagicalgoodall9j2vk8.55.sha.cc56a9ef
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-claudeniceramanujanzyxzsp.62.sha.901a7652
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-featbroker.57.sha.f6efa3ca
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-featbroker.70.sha.2a8b7b23
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-jgreplaceminios3mock.22.sha.2839f3ce
@@ -4294,7 +4299,10 @@
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovatedocker.22.sha.341a3dac
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovategithubactions.22.sha.ec7a53ab
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovategithubactions.22.sha.fc01815f
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-renovategithubactions.55.sha.b087e54f
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovatemajornuget.18.sha.565b3555
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-renovatemicrosoftnettestsdk18x.55.sha.b874fc51
+- pkg:nuget/ArmoniK.Core.Base@0.42.0-renovatemoq4x.55.sha.d432707f
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-renovatenuget.15.sha.1591a346
 - pkg:nuget/ArmoniK.Core.Base@1.0.0-featauthz.124.sha.147c0dcc
 - pkg:nuget/ArmoniK.Core.Base@1.0.0-featauthz.39.sha.50705731
