@@ -2,6 +2,8 @@
 - pkg:nuget/Soenneker.Instantly.ClientUtil@11.0.727
 - pkg:nuget/Soenneker.Instantly.ClientUtil@11.0.729
 - pkg:nuget/Soenneker.Instantly.ClientUtil@11.0.737
+- pkg:nuget/Soenneker.Instantly.ClientUtil@11.0.743
+- pkg:nuget/Soenneker.Instantly.ClientUtil@11.0.745
 - pkg:nuget/Soenneker.Instantly.ClientUtil@3.0.1
 - pkg:nuget/Soenneker.Instantly.ClientUtil@3.0.10
 - pkg:nuget/Soenneker.Instantly.ClientUtil@3.0.101
