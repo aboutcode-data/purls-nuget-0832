@@ -202,6 +202,10 @@
 - pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.100
 - pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.107
 - pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.116
+- pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.123
+- pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.124
+- pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.125
+- pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.127
 - pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.13
 - pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.20
 - pkg:nuget/FiftyOne.Pipeline.JsonBuilder@4.5.25
