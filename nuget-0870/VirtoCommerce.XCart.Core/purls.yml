@@ -21,6 +21,7 @@
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1040.0-alpha.294-vcst-6089-cart-aggr-refactoring
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1042.0
 - pkg:nuget/VirtoCommerce.XCart.Core@3.1042.0-alpha.302-vcst-6089-cart-aggr-refactoring
+- pkg:nuget/VirtoCommerce.XCart.Core@3.1043.0-alpha.300-vcst-6507
 - pkg:nuget/VirtoCommerce.XCart.Core@3.800.0
 - pkg:nuget/VirtoCommerce.XCart.Core@3.800.0-alpha.2-vcst-1352
 - pkg:nuget/VirtoCommerce.XCart.Core@3.800.0-alpha.4-vcst-1352
