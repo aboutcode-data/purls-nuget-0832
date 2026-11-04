@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Enums.StorageTypes@11.0.95
+- pkg:nuget/Soenneker.Enums.StorageTypes@11.0.96
 - pkg:nuget/Soenneker.Enums.StorageTypes@3.0.1
 - pkg:nuget/Soenneker.Enums.StorageTypes@3.0.10
 - pkg:nuget/Soenneker.Enums.StorageTypes@3.0.11
@@ -23,3 +25,6 @@
 - pkg:nuget/Soenneker.Enums.StorageTypes@4.0.62
 - pkg:nuget/Soenneker.Enums.StorageTypes@4.0.64
 - pkg:nuget/Soenneker.Enums.StorageTypes@4.0.76
+- pkg:nuget/Soenneker.Enums.StorageTypes@4.0.81
+- pkg:nuget/Soenneker.Enums.StorageTypes@4.0.84
+- pkg:nuget/Soenneker.Enums.StorageTypes@4.0.93
