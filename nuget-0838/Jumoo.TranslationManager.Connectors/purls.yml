@@ -9,5 +9,7 @@
 - pkg:nuget/Jumoo.TranslationManager.Connectors@18.1.1
 - pkg:nuget/Jumoo.TranslationManager.Connectors@18.2.1
 - pkg:nuget/Jumoo.TranslationManager.Connectors@18.3.0
+- pkg:nuget/Jumoo.TranslationManager.Connectors@18.4.0
+- pkg:nuget/Jumoo.TranslationManager.Connectors@19.0.0-beta01
 - pkg:nuget/Jumoo.TranslationManager.Connectors@8.3.3
 - pkg:nuget/Jumoo.TranslationManager.Connectors@8.4.1
