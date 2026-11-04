@@ -24,6 +24,7 @@
 - pkg:nuget/intelopenmp.devel.win@2024.0.1.49879
 - pkg:nuget/intelopenmp.devel.win@2024.1.0.964
 - pkg:nuget/intelopenmp.devel.win@2024.2.1.1083
+- pkg:nuget/intelopenmp.devel.win@2024.2.3.36
 - pkg:nuget/intelopenmp.devel.win@2025.0.0.1162
 - pkg:nuget/intelopenmp.devel.win@2025.0.1.1238
 - pkg:nuget/intelopenmp.devel.win@2025.0.3.1400
