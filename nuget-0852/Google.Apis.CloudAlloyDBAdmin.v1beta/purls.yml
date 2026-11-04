@@ -62,3 +62,6 @@
 - pkg:nuget/Google.Apis.CloudAlloyDBAdmin.v1beta@1.75.0.4228
 - pkg:nuget/Google.Apis.CloudAlloyDBAdmin.v1beta@1.76.0.4242
 - pkg:nuget/Google.Apis.CloudAlloyDBAdmin.v1beta@1.76.0.4255
+- pkg:nuget/Google.Apis.CloudAlloyDBAdmin.v1beta@1.76.0.4264
+- pkg:nuget/Google.Apis.CloudAlloyDBAdmin.v1beta@1.77.0.4284
+- pkg:nuget/Google.Apis.CloudAlloyDBAdmin.v1beta@1.77.0.4308
