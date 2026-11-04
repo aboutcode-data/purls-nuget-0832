@@ -4,6 +4,11 @@
 - pkg:nuget/DrawnUi.Maui.Game@1.10.5.12
 - pkg:nuget/DrawnUi.Maui.Game@1.10.5.19-pre
 - pkg:nuget/DrawnUi.Maui.Game@1.10.6.9
+- pkg:nuget/DrawnUi.Maui.Game@1.10.7.12-pre1
+- pkg:nuget/DrawnUi.Maui.Game@1.10.7.12-pre3
+- pkg:nuget/DrawnUi.Maui.Game@1.10.8.1
+- pkg:nuget/DrawnUi.Maui.Game@1.10.8.2
+- pkg:nuget/DrawnUi.Maui.Game@1.10.8.3
 - pkg:nuget/DrawnUi.Maui.Game@1.2.2.3
 - pkg:nuget/DrawnUi.Maui.Game@1.2.2.5
 - pkg:nuget/DrawnUi.Maui.Game@1.2.2.617
