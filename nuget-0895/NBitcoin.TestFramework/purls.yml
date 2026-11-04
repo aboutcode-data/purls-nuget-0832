@@ -128,3 +128,4 @@
 - pkg:nuget/NBitcoin.TestFramework@3.0.9
 - pkg:nuget/NBitcoin.TestFramework@4.0.0
 - pkg:nuget/NBitcoin.TestFramework@4.0.1
+- pkg:nuget/NBitcoin.TestFramework@5.0.6
