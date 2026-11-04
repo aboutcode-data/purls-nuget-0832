@@ -36,6 +36,7 @@
 - pkg:nuget/Soenneker.Extensions.Stream@1.0.6
 - pkg:nuget/Soenneker.Extensions.Stream@1.0.7
 - pkg:nuget/Soenneker.Extensions.Stream@1.0.8
+- pkg:nuget/Soenneker.Extensions.Stream@11.0.175
 - pkg:nuget/Soenneker.Extensions.Stream@2.0.1
 - pkg:nuget/Soenneker.Extensions.Stream@2.0.2
 - pkg:nuget/Soenneker.Extensions.Stream@2.0.40
