@@ -499,6 +499,7 @@
 - pkg:nuget/JetBrains.Platform.Core.Ide@262.0.20261030.12655
 - pkg:nuget/JetBrains.Platform.Core.Ide@263.0.20261015.214124-eap07
 - pkg:nuget/JetBrains.Platform.Core.Ide@263.0.20261023.71039-eap08
+- pkg:nuget/JetBrains.Platform.Core.Ide@263.0.20261104.131144-rc01
 - pkg:nuget/JetBrains.Platform.Core.Ide@6.0.20141127.180119-eap9
 - pkg:nuget/JetBrains.Platform.Core.Ide@6.0.20141201.160117-eap10
 - pkg:nuget/JetBrains.Platform.Core.Ide@6.0.20141204.190160
