@@ -22,3 +22,6 @@
 - pkg:nuget/AppDeployHub.Forge.MacAgent.Cli@2.5.74
 - pkg:nuget/AppDeployHub.Forge.MacAgent.Cli@2.5.75
 - pkg:nuget/AppDeployHub.Forge.MacAgent.Cli@2.5.77
+- pkg:nuget/AppDeployHub.Forge.MacAgent.Cli@2.5.79
+- pkg:nuget/AppDeployHub.Forge.MacAgent.Cli@2.5.82
+- pkg:nuget/AppDeployHub.Forge.MacAgent.Cli@2.5.83
