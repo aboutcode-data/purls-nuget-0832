@@ -4282,6 +4282,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.4-jgpollstertrackpermessage.3.sha.1c98b319
 - pkg:nuget/ArmoniK.Core.Base@0.41.4-perfskipcompleteddependencies.14.sha.54d9db4f
 - pkg:nuget/ArmoniK.Core.Base@0.41.4-renovategithubactions.18.sha.13fd7e42
+- pkg:nuget/ArmoniK.Core.Base@0.41.5-renovategithubactions.1.sha.357751c2
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.12.sha.49ca5ee6
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.14.sha.8fd3c3d8
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.44.sha.12e13ed5
