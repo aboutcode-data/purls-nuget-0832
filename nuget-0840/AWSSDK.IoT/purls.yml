@@ -1292,6 +1292,7 @@
 - pkg:nuget/AWSSDK.IoT@4.0.100.8
 - pkg:nuget/AWSSDK.IoT@4.0.101.10
 - pkg:nuget/AWSSDK.IoT@4.0.101.12
+- pkg:nuget/AWSSDK.IoT@4.0.101.14
 - pkg:nuget/AWSSDK.IoT@4.0.101.2
 - pkg:nuget/AWSSDK.IoT@4.0.101.8
 - pkg:nuget/AWSSDK.IoT@4.0.2
