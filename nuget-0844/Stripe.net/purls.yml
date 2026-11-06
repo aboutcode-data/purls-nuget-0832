@@ -820,6 +820,7 @@
 - pkg:nuget/Stripe.net@52.5.0-alpha.4
 - pkg:nuget/Stripe.net@52.5.0-alpha.5
 - pkg:nuget/Stripe.net@52.5.0-beta.1
+- pkg:nuget/Stripe.net@53.2.0-alpha.2
 - pkg:nuget/Stripe.net@6.0.0
 - pkg:nuget/Stripe.net@6.0.1
 - pkg:nuget/Stripe.net@6.1.0
