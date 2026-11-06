@@ -1119,6 +1119,7 @@
 - pkg:nuget/Credfeto.Package.Update@1.10.219.2781-main
 - pkg:nuget/Credfeto.Package.Update@1.10.219.2791-main
 - pkg:nuget/Credfeto.Package.Update@1.10.219.2792-main
+- pkg:nuget/Credfeto.Package.Update@1.10.219.2810-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.26-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.27-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.28-main
