@@ -224,6 +224,7 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-routing.57
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-dev-v3-testing.15
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-docs-mobile-control-batch-sync.1
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-feature-EWP-8320-secure-storage-secrets.3
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-feature-add-metadatatlist-custom-properties.2
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-feature-demo-room.4
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-feature-http-polling-streams.1
