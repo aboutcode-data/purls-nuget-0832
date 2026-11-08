@@ -281,6 +281,7 @@
 - pkg:nuget/ShiftSoftware.ShiftEntity.CosmosDbReplication@2025.9.24.1
 - pkg:nuget/ShiftSoftware.ShiftEntity.CosmosDbReplication@2025.9.26.1
 - pkg:nuget/ShiftSoftware.ShiftEntity.CosmosDbReplication@2026.11.4.1
+- pkg:nuget/ShiftSoftware.ShiftEntity.CosmosDbReplication@2026.11.8.1
 - pkg:nuget/ShiftSoftware.ShiftEntity.CosmosDbReplication@2026.2.25.1
 - pkg:nuget/ShiftSoftware.ShiftEntity.CosmosDbReplication@2026.3.20.1
 - pkg:nuget/ShiftSoftware.ShiftEntity.CosmosDbReplication@2026.3.29.1
