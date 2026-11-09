@@ -110,3 +110,5 @@
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2488-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2490-main
 - pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2508-main
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2520-dotnet-11
+- pkg:nuget/FunFair.BuildVersion.osx-arm64@6.2.20.2521-pull-423-merge
