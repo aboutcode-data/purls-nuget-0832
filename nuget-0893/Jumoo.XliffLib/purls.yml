@@ -101,6 +101,7 @@
 - pkg:nuget/Jumoo.XliffLib@18.2.1
 - pkg:nuget/Jumoo.XliffLib@18.3.0
 - pkg:nuget/Jumoo.XliffLib@18.4.0
+- pkg:nuget/Jumoo.XliffLib@18.5.0
 - pkg:nuget/Jumoo.XliffLib@19.0.0-beta01
 - pkg:nuget/Jumoo.XliffLib@9.0.0
 - pkg:nuget/Jumoo.XliffLib@9.0.0-beta002
