@@ -41,3 +41,4 @@
 - pkg:nuget/Credfeto.Database.Migrations@1.2.228.2847-update-credfeto
 - pkg:nuget/Credfeto.Database.Migrations@1.2.228.2854-main
 - pkg:nuget/Credfeto.Database.Migrations@1.2.228.2855-update-credfeto
+- pkg:nuget/Credfeto.Database.Migrations@1.2.228.2860-net11-runtime-a
