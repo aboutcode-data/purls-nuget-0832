@@ -23,6 +23,10 @@
 - pkg:nuget/NSail.SourceGeneration.Testing@0.1.709
 - pkg:nuget/NSail.SourceGeneration.Testing@0.1.753
 - pkg:nuget/NSail.SourceGeneration.Testing@0.1.794
+- pkg:nuget/NSail.SourceGeneration.Testing@0.1.860
 - pkg:nuget/NSail.SourceGeneration.Testing@0.1.87
 - pkg:nuget/NSail.SourceGeneration.Testing@0.1.91
 - pkg:nuget/NSail.SourceGeneration.Testing@0.1.93
+- pkg:nuget/NSail.SourceGeneration.Testing@0.1.939
+- pkg:nuget/NSail.SourceGeneration.Testing@0.1.984
+- pkg:nuget/NSail.SourceGeneration.Testing@0.1.986
