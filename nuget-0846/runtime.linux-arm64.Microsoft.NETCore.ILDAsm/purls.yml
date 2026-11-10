@@ -10,6 +10,7 @@
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@10.0.11
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@10.0.12
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@10.0.14
+- pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@10.0.15
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@10.0.3
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@10.0.7
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@10.0.8
@@ -72,6 +73,7 @@
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@9.0.0-rc.1.24431.7
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@9.0.0-rc.2.24473.5
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@9.0.18
+- pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@9.0.23
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@9.0.4
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@9.0.5
 - pkg:nuget/runtime.linux-arm64.Microsoft.NETCore.ILDAsm@9.0.6
