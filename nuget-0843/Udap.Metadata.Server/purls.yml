@@ -243,4 +243,5 @@
 - pkg:nuget/Udap.Metadata.Server@0.9.15
 - pkg:nuget/Udap.Metadata.Server@0.9.16
 - pkg:nuget/Udap.Metadata.Server@0.9.18-preview001
+- pkg:nuget/Udap.Metadata.Server@0.9.20
 - pkg:nuget/Udap.Metadata.Server@0.9.4
