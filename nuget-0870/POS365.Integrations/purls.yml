@@ -181,6 +181,8 @@
 - pkg:nuget/POS365.Integrations@2.0.17
 - pkg:nuget/POS365.Integrations@2.0.17-bc-voucher
 - pkg:nuget/POS365.Integrations@2.0.21-dev.1
+- pkg:nuget/POS365.Integrations@2.0.22-bc-returns.16
+- pkg:nuget/POS365.Integrations@2.0.29-tax-category.1
 - pkg:nuget/POS365.Integrations@2.0.3-dev
 - pkg:nuget/POS365.Integrations@2.0.5-dev-ja-POS-6261-1
 - pkg:nuget/POS365.Integrations@2.0.6-dev-ja-POS-6261-1
