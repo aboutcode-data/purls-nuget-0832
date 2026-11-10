@@ -10,6 +10,7 @@
 - pkg:nuget/Thinktecture.EntityFrameworkCore.Testing@10.3.0-beta01
 - pkg:nuget/Thinktecture.EntityFrameworkCore.Testing@10.5.0
 - pkg:nuget/Thinktecture.EntityFrameworkCore.Testing@10.6.0-beta01
+- pkg:nuget/Thinktecture.EntityFrameworkCore.Testing@10.6.0-beta03
 - pkg:nuget/Thinktecture.EntityFrameworkCore.Testing@2.0.0
 - pkg:nuget/Thinktecture.EntityFrameworkCore.Testing@2.0.0-beta001
 - pkg:nuget/Thinktecture.EntityFrameworkCore.Testing@2.0.0-beta002
