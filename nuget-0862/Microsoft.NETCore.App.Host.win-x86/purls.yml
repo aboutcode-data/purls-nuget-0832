@@ -9,7 +9,9 @@
 - pkg:nuget/Microsoft.NETCore.App.Host.win-x86@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Host.win-x86@10.0.10
 - pkg:nuget/Microsoft.NETCore.App.Host.win-x86@10.0.13
+- pkg:nuget/Microsoft.NETCore.App.Host.win-x86@10.0.15
 - pkg:nuget/Microsoft.NETCore.App.Host.win-x86@10.0.7
+- pkg:nuget/Microsoft.NETCore.App.Host.win-x86@11.0.0
 - pkg:nuget/Microsoft.NETCore.App.Host.win-x86@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NETCore.App.Host.win-x86@3.0.0
 - pkg:nuget/Microsoft.NETCore.App.Host.win-x86@3.0.0-preview5-27626-15
