@@ -8,6 +8,7 @@
 - pkg:nuget/Packet.Mailcast@0.28.1
 - pkg:nuget/Packet.Mailcast@0.29.1
 - pkg:nuget/Packet.Mailcast@0.36.0
+- pkg:nuget/Packet.Mailcast@0.37.0
 - pkg:nuget/Packet.Mailcast@0.4.1
 - pkg:nuget/Packet.Mailcast@0.6.2
 - pkg:nuget/Packet.Mailcast@0.8.3
