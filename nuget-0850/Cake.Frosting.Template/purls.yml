@@ -32,3 +32,4 @@
 - pkg:nuget/Cake.Frosting.Template@4.2.0
 - pkg:nuget/Cake.Frosting.Template@5.0.0
 - pkg:nuget/Cake.Frosting.Template@6.0.0
+- pkg:nuget/Cake.Frosting.Template@7.0.0
