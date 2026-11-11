@@ -943,3 +943,4 @@
 - pkg:nuget/FastEndpoints@8.4.0-beta.7
 - pkg:nuget/FastEndpoints@8.4.0-beta.8
 - pkg:nuget/FastEndpoints@9.0.0-beta.10
+- pkg:nuget/FastEndpoints@9.0.0-beta.11
