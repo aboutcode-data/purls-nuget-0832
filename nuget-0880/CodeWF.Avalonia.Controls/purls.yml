@@ -6,6 +6,7 @@
 - pkg:nuget/CodeWF.Avalonia.Controls@12.1.4.9
 - pkg:nuget/CodeWF.Avalonia.Controls@12.1.5.11
 - pkg:nuget/CodeWF.Avalonia.Controls@12.1.5.6
+- pkg:nuget/CodeWF.Avalonia.Controls@12.1.6.2
 - pkg:nuget/CodeWF.Avalonia.Controls@12.2.0
 - pkg:nuget/CodeWF.Avalonia.Controls@12.2.11
 - pkg:nuget/CodeWF.Avalonia.Controls@12.2.12

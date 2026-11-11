@@ -25,3 +25,4 @@
 - pkg:nuget/Leistd.Response.AspNetCore@2.0.0-beta.256
 - pkg:nuget/Leistd.Response.AspNetCore@2.0.0-beta.297
 - pkg:nuget/Leistd.Response.AspNetCore@2.0.0-beta.304
+- pkg:nuget/Leistd.Response.AspNetCore@2.0.0-beta.320
