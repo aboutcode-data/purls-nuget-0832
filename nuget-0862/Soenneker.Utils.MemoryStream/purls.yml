@@ -188,6 +188,7 @@
 - pkg:nuget/Soenneker.Utils.MemoryStream@1.0.99
 - pkg:nuget/Soenneker.Utils.MemoryStream@11.0.1611
 - pkg:nuget/Soenneker.Utils.MemoryStream@11.0.1613
+- pkg:nuget/Soenneker.Utils.MemoryStream@11.0.1616
 - pkg:nuget/Soenneker.Utils.MemoryStream@2.0.1
 - pkg:nuget/Soenneker.Utils.MemoryStream@2.0.193
 - pkg:nuget/Soenneker.Utils.MemoryStream@2.0.194
