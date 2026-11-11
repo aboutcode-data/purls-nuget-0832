@@ -4286,6 +4286,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-jgconfidentknuthgo65l9.2.sha.5a66708b
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-jgrelaxedbellr1jz4j.1.sha.2f368af5
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-jgrelaxedbellr1jz4j.1.sha.522d184a
+- pkg:nuget/ArmoniK.Core.Base@0.41.5-renovateallminorpatch.1.sha.88784796
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-renovateaneoconsultingarmonikd.1.sha.dded1002
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-renovategithubactions.1.sha.357751c2
 - pkg:nuget/ArmoniK.Core.Base@0.42.0-SNAPSHOT.12.sha.49ca5ee6
