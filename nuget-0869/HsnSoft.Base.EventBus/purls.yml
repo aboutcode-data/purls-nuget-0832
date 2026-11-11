@@ -91,6 +91,7 @@
 - pkg:nuget/HsnSoft.Base.EventBus@2026.10.34
 - pkg:nuget/HsnSoft.Base.EventBus@2026.10.41-rc.261031.151
 - pkg:nuget/HsnSoft.Base.EventBus@2026.10.42
+- pkg:nuget/HsnSoft.Base.EventBus@2026.11.0-rc.261110.161
 - pkg:nuget/HsnSoft.Base.EventBus@6.0.1
 - pkg:nuget/HsnSoft.Base.EventBus@6.0.10
 - pkg:nuget/HsnSoft.Base.EventBus@6.0.11
