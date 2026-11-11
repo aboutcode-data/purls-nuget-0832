@@ -63,4 +63,6 @@
 - pkg:nuget/Cratis.Stage.Contracts@4.98.0
 - pkg:nuget/Cratis.Stage.Contracts@4.98.1
 - pkg:nuget/Cratis.Stage.Contracts@5.1.1
+- pkg:nuget/Cratis.Stage.Contracts@5.10.0
 - pkg:nuget/Cratis.Stage.Contracts@5.5.0
+- pkg:nuget/Cratis.Stage.Contracts@5.9.0
