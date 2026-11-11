@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@11.0.414
+- pkg:nuget/Soenneker.Playwrights.Tests.Unit@11.0.421
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.1
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.11
 - pkg:nuget/Soenneker.Playwrights.Tests.Unit@4.0.123
