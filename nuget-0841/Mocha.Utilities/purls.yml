@@ -56,6 +56,11 @@
 - pkg:nuget/Mocha.Utilities@16.7.0-p.32
 - pkg:nuget/Mocha.Utilities@16.7.0-p.33
 - pkg:nuget/Mocha.Utilities@16.7.5
+- pkg:nuget/Mocha.Utilities@16.8.0-p.1
+- pkg:nuget/Mocha.Utilities@16.8.0-p.2
+- pkg:nuget/Mocha.Utilities@16.8.0-p.3
 - pkg:nuget/Mocha.Utilities@16.8.0-p.4
+- pkg:nuget/Mocha.Utilities@16.8.0-p.6
+- pkg:nuget/Mocha.Utilities@16.8.0-p.7
 - pkg:nuget/Mocha.Utilities@16.8.0-p.8
 - pkg:nuget/Mocha.Utilities@16.8.0-p.9
