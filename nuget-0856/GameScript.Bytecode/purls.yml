@@ -19,3 +19,6 @@
 - pkg:nuget/GameScript.Bytecode@1.4.4
 - pkg:nuget/GameScript.Bytecode@1.4.5
 - pkg:nuget/GameScript.Bytecode@1.4.6
+- pkg:nuget/GameScript.Bytecode@2.0.0
+- pkg:nuget/GameScript.Bytecode@2.3.0
+- pkg:nuget/GameScript.Bytecode@2.4.2
