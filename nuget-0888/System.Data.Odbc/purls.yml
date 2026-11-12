@@ -8,6 +8,7 @@
 - pkg:nuget/System.Data.Odbc@10.0.0-rc.1.25451.107
 - pkg:nuget/System.Data.Odbc@10.0.1
 - pkg:nuget/System.Data.Odbc@10.0.10
+- pkg:nuget/System.Data.Odbc@10.0.15
 - pkg:nuget/System.Data.Odbc@10.0.7
 - pkg:nuget/System.Data.Odbc@11.0.0-preview.1.26104.118
 - pkg:nuget/System.Data.Odbc@11.0.0-preview.4.26230.115
@@ -93,6 +94,7 @@
 - pkg:nuget/System.Data.Odbc@9.0.18
 - pkg:nuget/System.Data.Odbc@9.0.2
 - pkg:nuget/System.Data.Odbc@9.0.20
+- pkg:nuget/System.Data.Odbc@9.0.23
 - pkg:nuget/System.Data.Odbc@9.0.3
 - pkg:nuget/System.Data.Odbc@9.0.4
 - pkg:nuget/System.Data.Odbc@9.0.5
