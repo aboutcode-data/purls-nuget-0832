@@ -4,6 +4,9 @@
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.Bundling@10.3.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.Bundling@10.5.0
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.Bundling@10.5.0-rc.1
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.Bundling@10.6.3
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.Bundling@10.7.1
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.Bundling@11.0.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.Bundling@9.1.0
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.Bundling@9.1.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.Bundling@9.1.0-rc.2
