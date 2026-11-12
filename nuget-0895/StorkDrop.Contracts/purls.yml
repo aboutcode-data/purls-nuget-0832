@@ -28,3 +28,5 @@
 - pkg:nuget/StorkDrop.Contracts@1.1.85
 - pkg:nuget/StorkDrop.Contracts@1.1.9
 - pkg:nuget/StorkDrop.Contracts@1.2.1
+- pkg:nuget/StorkDrop.Contracts@1.2.7
+- pkg:nuget/StorkDrop.Contracts@1.2.9
