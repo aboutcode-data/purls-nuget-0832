@@ -1054,3 +1054,4 @@
 - pkg:nuget/AWSSDK.FraudDetector@4.0.2.21
 - pkg:nuget/AWSSDK.FraudDetector@4.0.3.10
 - pkg:nuget/AWSSDK.FraudDetector@4.0.3.5
+- pkg:nuget/AWSSDK.FraudDetector@4.1.0
