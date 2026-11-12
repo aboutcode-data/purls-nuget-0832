@@ -1,6 +1,7 @@
 - pkg:nuget/ProgressOnderwijsUtils.AspNetCore@1.0.0
 - pkg:nuget/ProgressOnderwijsUtils.AspNetCore@10.0.0
 - pkg:nuget/ProgressOnderwijsUtils.AspNetCore@11.4.0
+- pkg:nuget/ProgressOnderwijsUtils.AspNetCore@12.0.0
 - pkg:nuget/ProgressOnderwijsUtils.AspNetCore@2.0.0
 - pkg:nuget/ProgressOnderwijsUtils.AspNetCore@2.1.0
 - pkg:nuget/ProgressOnderwijsUtils.AspNetCore@2.1.1
