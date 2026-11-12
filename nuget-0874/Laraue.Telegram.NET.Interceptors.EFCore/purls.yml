@@ -57,3 +57,6 @@
 - pkg:nuget/Laraue.Telegram.NET.Interceptors.EFCore@2.6.1
 - pkg:nuget/Laraue.Telegram.NET.Interceptors.EFCore@2.6.2
 - pkg:nuget/Laraue.Telegram.NET.Interceptors.EFCore@4.1.2
+- pkg:nuget/Laraue.Telegram.NET.Interceptors.EFCore@5.0.0
+- pkg:nuget/Laraue.Telegram.NET.Interceptors.EFCore@5.0.1
+- pkg:nuget/Laraue.Telegram.NET.Interceptors.EFCore@5.2.0
