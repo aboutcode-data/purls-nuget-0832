@@ -1,5 +1,7 @@
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@11.0.164
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@11.0.167
+- pkg:nuget/Soenneker.ProductBoard.HttpClients@11.0.171
+- pkg:nuget/Soenneker.ProductBoard.HttpClients@11.0.172
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.1
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.103
 - pkg:nuget/Soenneker.ProductBoard.HttpClients@4.0.106
