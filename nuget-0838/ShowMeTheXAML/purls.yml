@@ -56,4 +56,5 @@
 - pkg:nuget/ShowMeTheXAML@2.0.0-ci8
 - pkg:nuget/ShowMeTheXAML@2.0.0-ci9
 - pkg:nuget/ShowMeTheXAML@2.1.0
+- pkg:nuget/ShowMeTheXAML@2.1.0-ci103
 - pkg:nuget/ShowMeTheXAML@2.1.0-ci87
