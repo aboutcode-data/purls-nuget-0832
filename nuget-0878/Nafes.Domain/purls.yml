@@ -57,3 +57,6 @@
 - pkg:nuget/Nafes.Domain@1.9.7
 - pkg:nuget/Nafes.Domain@1.9.9
 - pkg:nuget/Nafes.Domain@2.2.0
+- pkg:nuget/Nafes.Domain@2.3.1
+- pkg:nuget/Nafes.Domain@2.4.1
+- pkg:nuget/Nafes.Domain@2.4.6

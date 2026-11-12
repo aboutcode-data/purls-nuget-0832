@@ -7,3 +7,4 @@
 - pkg:nuget/AgentFrameworkToolkit.AmazonBedrock@1.1.0
 - pkg:nuget/AgentFrameworkToolkit.AmazonBedrock@1.11.1
 - pkg:nuget/AgentFrameworkToolkit.AmazonBedrock@1.16.1
+- pkg:nuget/AgentFrameworkToolkit.AmazonBedrock@1.28.1

@@ -10,3 +10,4 @@
 - pkg:nuget/AgentFrameworkToolkit@1.1.0
 - pkg:nuget/AgentFrameworkToolkit@1.11.1
 - pkg:nuget/AgentFrameworkToolkit@1.16.1
+- pkg:nuget/AgentFrameworkToolkit@1.28.1
