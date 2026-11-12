@@ -4,3 +4,5 @@
 - pkg:nuget/Zedal.Sdk@1.1.0-diwass-preview-2
 - pkg:nuget/Zedal.Sdk@1.1.0-diwass-preview-4
 - pkg:nuget/Zedal.Sdk@1.1.0-diwass-preview-7
+- pkg:nuget/Zedal.Sdk@1.3.0
+- pkg:nuget/Zedal.Sdk@1.4.0
