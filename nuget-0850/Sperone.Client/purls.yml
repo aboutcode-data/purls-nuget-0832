@@ -3,6 +3,8 @@
 - pkg:nuget/Sperone.Client@0.1.26
 - pkg:nuget/Sperone.Client@0.1.27
 - pkg:nuget/Sperone.Client@0.1.28
+- pkg:nuget/Sperone.Client@0.1.53
+- pkg:nuget/Sperone.Client@0.1.54
 - pkg:nuget/Sperone.Client@0.1.6
 - pkg:nuget/Sperone.Client@0.1.7
 - pkg:nuget/Sperone.Client@0.1.8
