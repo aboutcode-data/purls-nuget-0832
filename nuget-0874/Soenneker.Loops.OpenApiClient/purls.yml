@@ -1,3 +1,8 @@
+- pkg:nuget/Soenneker.Loops.OpenApiClient@11.0.195
+- pkg:nuget/Soenneker.Loops.OpenApiClient@11.0.196
+- pkg:nuget/Soenneker.Loops.OpenApiClient@11.0.197
+- pkg:nuget/Soenneker.Loops.OpenApiClient@11.0.198
+- pkg:nuget/Soenneker.Loops.OpenApiClient@11.0.204
 - pkg:nuget/Soenneker.Loops.OpenApiClient@3.0.1
 - pkg:nuget/Soenneker.Loops.OpenApiClient@3.0.10
 - pkg:nuget/Soenneker.Loops.OpenApiClient@3.0.11
@@ -50,6 +55,7 @@
 - pkg:nuget/Soenneker.Loops.OpenApiClient@4.0.167
 - pkg:nuget/Soenneker.Loops.OpenApiClient@4.0.168
 - pkg:nuget/Soenneker.Loops.OpenApiClient@4.0.181
+- pkg:nuget/Soenneker.Loops.OpenApiClient@4.0.189
 - pkg:nuget/Soenneker.Loops.OpenApiClient@4.0.81
 - pkg:nuget/Soenneker.Loops.OpenApiClient@4.0.82
 - pkg:nuget/Soenneker.Loops.OpenApiClient@4.0.86
