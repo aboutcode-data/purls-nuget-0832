@@ -1,0 +1,14 @@
+- pkg:nuget/NewHeap.Platform.AspNet.Common@10.0.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@14.0.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@23.0.1
+- pkg:nuget/NewHeap.Platform.AspNet.Common@34.0.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@37.0.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@4.0.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@4.1.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@4.3.1
+- pkg:nuget/NewHeap.Platform.AspNet.Common@7.0.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@7.1.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@7.2.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@7.7.0
+- pkg:nuget/NewHeap.Platform.AspNet.Common@7.8.2
+- pkg:nuget/NewHeap.Platform.AspNet.Common@8.0.0
