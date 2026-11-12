@@ -25,3 +25,5 @@
 - pkg:nuget/Soenneker.Kiota.BearerAuthenticationProvider@4.0.47
 - pkg:nuget/Soenneker.Kiota.BearerAuthenticationProvider@4.0.50
 - pkg:nuget/Soenneker.Kiota.BearerAuthenticationProvider@4.0.51
+- pkg:nuget/Soenneker.Kiota.BearerAuthenticationProvider@4.0.53
+- pkg:nuget/Soenneker.Kiota.BearerAuthenticationProvider@4.0.56
