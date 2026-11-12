@@ -9,3 +9,4 @@
 - pkg:nuget/WebMarkupMin.AspNetCore8@2.18.0-rc1
 - pkg:nuget/WebMarkupMin.AspNetCore8@2.18.1
 - pkg:nuget/WebMarkupMin.AspNetCore8@2.19.0
+- pkg:nuget/WebMarkupMin.AspNetCore8@2.23.0
