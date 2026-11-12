@@ -7,3 +7,4 @@
 - pkg:nuget/AlmightyShogun.RemoteCommands@2.3.0
 - pkg:nuget/AlmightyShogun.RemoteCommands@2.4.0
 - pkg:nuget/AlmightyShogun.RemoteCommands@3.1.0
+- pkg:nuget/AlmightyShogun.RemoteCommands@4.0.0
