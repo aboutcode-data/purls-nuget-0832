@@ -54,6 +54,7 @@
 - pkg:nuget/Krosoft.Extensions.WebApi.Swagger@2026.10.7.11052
 - pkg:nuget/Krosoft.Extensions.WebApi.Swagger@2026.11.11.12917
 - pkg:nuget/Krosoft.Extensions.WebApi.Swagger@2026.11.11.12974
+- pkg:nuget/Krosoft.Extensions.WebApi.Swagger@2026.11.12.13200
 - pkg:nuget/Krosoft.Extensions.WebApi.Swagger@2026.11.2.12422
 - pkg:nuget/Krosoft.Extensions.WebApi.Swagger@2026.11.2.12477
 - pkg:nuget/Krosoft.Extensions.WebApi.Swagger@2026.11.6.12697
