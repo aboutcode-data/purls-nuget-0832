@@ -96,6 +96,7 @@
 - pkg:nuget/RestSharp.Serializers.CsvHelper@112.1.1-alpha.0.19
 - pkg:nuget/RestSharp.Serializers.CsvHelper@112.1.1-alpha.0.4
 - pkg:nuget/RestSharp.Serializers.CsvHelper@114.0.1-alpha.0.10
+- pkg:nuget/RestSharp.Serializers.CsvHelper@114.0.1-alpha.0.13
 - pkg:nuget/RestSharp.Serializers.CsvHelper@114.0.1-alpha.0.2
 - pkg:nuget/RestSharp.Serializers.CsvHelper@114.0.1-alpha.0.3
 - pkg:nuget/RestSharp.Serializers.CsvHelper@114.0.1-alpha.0.4
@@ -103,3 +104,4 @@
 - pkg:nuget/RestSharp.Serializers.CsvHelper@114.0.1-alpha.0.6
 - pkg:nuget/RestSharp.Serializers.CsvHelper@114.0.1-alpha.0.8
 - pkg:nuget/RestSharp.Serializers.CsvHelper@114.0.1-alpha.0.9
+- pkg:nuget/RestSharp.Serializers.CsvHelper@114.1.0
