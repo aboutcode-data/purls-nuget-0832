@@ -15,7 +15,10 @@
 - pkg:nuget/ghul.templates@0.2.0
 - pkg:nuget/ghul.templates@0.2.1
 - pkg:nuget/ghul.templates@0.2.127
+- pkg:nuget/ghul.templates@0.2.130
+- pkg:nuget/ghul.templates@0.2.132
 - pkg:nuget/ghul.templates@0.2.14
+- pkg:nuget/ghul.templates@0.2.146
 - pkg:nuget/ghul.templates@0.2.15
 - pkg:nuget/ghul.templates@0.2.18
 - pkg:nuget/ghul.templates@0.2.2
