@@ -66,5 +66,6 @@
 - pkg:nuget/Microsoft.Build@17.8.29
 - pkg:nuget/Microsoft.Build@17.8.3
 - pkg:nuget/Microsoft.Build@17.9.5
+- pkg:nuget/Microsoft.Build@18.12.2
 - pkg:nuget/Microsoft.Build@18.4.0
 - pkg:nuget/Microsoft.Build@18.9.6
