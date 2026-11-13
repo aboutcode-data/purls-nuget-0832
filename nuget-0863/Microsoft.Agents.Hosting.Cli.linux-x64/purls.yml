@@ -3,3 +3,4 @@
 - pkg:nuget/Microsoft.Agents.Hosting.Cli.linux-x64@0.2.30-beta
 - pkg:nuget/Microsoft.Agents.Hosting.Cli.linux-x64@0.2.83-beta
 - pkg:nuget/Microsoft.Agents.Hosting.Cli.linux-x64@0.2.88-beta
+- pkg:nuget/Microsoft.Agents.Hosting.Cli.linux-x64@0.2.96-beta
