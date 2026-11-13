@@ -12,6 +12,7 @@
 - pkg:nuget/SAMMAI.Transverse@0.14.4-beta
 - pkg:nuget/SAMMAI.Transverse@0.14.5-beta
 - pkg:nuget/SAMMAI.Transverse@0.15.0-beta
+- pkg:nuget/SAMMAI.Transverse@0.20.5-beta
 - pkg:nuget/SAMMAI.Transverse@0.7.0-beta
 - pkg:nuget/SAMMAI.Transverse@0.7.1-beta
 - pkg:nuget/SAMMAI.Transverse@0.8.0-beta
