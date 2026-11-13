@@ -52,3 +52,4 @@
 - pkg:nuget/DotNetBrowser.Linux-arm64@4.3.0
 - pkg:nuget/DotNetBrowser.Linux-arm64@4.3.2
 - pkg:nuget/DotNetBrowser.Linux-arm64@4.4.0
+- pkg:nuget/DotNetBrowser.Linux-arm64@4.4.1
