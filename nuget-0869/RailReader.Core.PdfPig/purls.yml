@@ -13,4 +13,14 @@
 - pkg:nuget/RailReader.Core.PdfPig@0.55.0
 - pkg:nuget/RailReader.Core.PdfPig@0.63.0
 - pkg:nuget/RailReader.Core.PdfPig@0.63.1
+- pkg:nuget/RailReader.Core.PdfPig@0.64.0
+- pkg:nuget/RailReader.Core.PdfPig@0.64.1
+- pkg:nuget/RailReader.Core.PdfPig@0.67.0
+- pkg:nuget/RailReader.Core.PdfPig@0.68.0
+- pkg:nuget/RailReader.Core.PdfPig@0.69.0
+- pkg:nuget/RailReader.Core.PdfPig@0.74.1
+- pkg:nuget/RailReader.Core.PdfPig@0.76.1
+- pkg:nuget/RailReader.Core.PdfPig@0.81.0
+- pkg:nuget/RailReader.Core.PdfPig@0.82.2
+- pkg:nuget/RailReader.Core.PdfPig@0.83.1
 - pkg:nuget/RailReader.Core.PdfPig@0.9.0

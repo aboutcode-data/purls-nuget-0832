@@ -1,1 +1,3 @@
 - pkg:nuget/DataLens.CLI@0.13.0
+- pkg:nuget/DataLens.CLI@0.18.8
+- pkg:nuget/DataLens.CLI@0.23.1
