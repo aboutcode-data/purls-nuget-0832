@@ -7,6 +7,9 @@
 - pkg:nuget/Nextended.Cache@10.1.4
 - pkg:nuget/Nextended.Cache@10.1.50
 - pkg:nuget/Nextended.Cache@10.1.55
+- pkg:nuget/Nextended.Cache@10.1.60
+- pkg:nuget/Nextended.Cache@10.1.62
+- pkg:nuget/Nextended.Cache@10.1.63
 - pkg:nuget/Nextended.Cache@5.0.3
 - pkg:nuget/Nextended.Cache@6.0.0
 - pkg:nuget/Nextended.Cache@6.0.1
