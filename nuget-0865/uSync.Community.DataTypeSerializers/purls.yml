@@ -86,6 +86,7 @@
 - pkg:nuget/uSync.Community.DataTypeSerializers@17.6.2
 - pkg:nuget/uSync.Community.DataTypeSerializers@18.2.0
 - pkg:nuget/uSync.Community.DataTypeSerializers@19.0.0-beta01
+- pkg:nuget/uSync.Community.DataTypeSerializers@19.0.0-rc1
 - pkg:nuget/uSync.Community.DataTypeSerializers@8.5.0.1
 - pkg:nuget/uSync.Community.DataTypeSerializers@8.5.1
 - pkg:nuget/uSync.Community.DataTypeSerializers@8.6.2
