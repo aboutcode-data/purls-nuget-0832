@@ -156,3 +156,5 @@
 - pkg:nuget/Indiko.Blocks.Common.Management@2.6.2
 - pkg:nuget/Indiko.Blocks.Common.Management@2.6.3
 - pkg:nuget/Indiko.Blocks.Common.Management@2.6.4
+- pkg:nuget/Indiko.Blocks.Common.Management@4.2.0
+- pkg:nuget/Indiko.Blocks.Common.Management@4.3.0
