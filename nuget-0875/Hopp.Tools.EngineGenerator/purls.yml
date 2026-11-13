@@ -63,3 +63,5 @@
 - pkg:nuget/Hopp.Tools.EngineGenerator@2.5.0.7040
 - pkg:nuget/Hopp.Tools.EngineGenerator@2.5.0.7041
 - pkg:nuget/Hopp.Tools.EngineGenerator@2.5.27.1249
+- pkg:nuget/Hopp.Tools.EngineGenerator@2.5.30.1841
+- pkg:nuget/Hopp.Tools.EngineGenerator@2.6.16.1842
