@@ -1,3 +1,5 @@
 - pkg:nuget/Syncfusion.MarkdownViewer.WinUI@34.1.29
 - pkg:nuget/Syncfusion.MarkdownViewer.WinUI@34.1.32
 - pkg:nuget/Syncfusion.MarkdownViewer.WinUI@34.2.3
+- pkg:nuget/Syncfusion.MarkdownViewer.WinUI@35.1.37
+- pkg:nuget/Syncfusion.MarkdownViewer.WinUI@35.1.40
