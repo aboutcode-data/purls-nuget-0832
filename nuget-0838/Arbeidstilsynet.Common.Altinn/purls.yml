@@ -5,3 +5,5 @@
 - pkg:nuget/Arbeidstilsynet.Common.Altinn@4.0.0-alpha9
 - pkg:nuget/Arbeidstilsynet.Common.Altinn@4.1.0
 - pkg:nuget/Arbeidstilsynet.Common.Altinn@4.2.0
+- pkg:nuget/Arbeidstilsynet.Common.Altinn@4.2.2
+- pkg:nuget/Arbeidstilsynet.Common.Altinn@4.3.0
