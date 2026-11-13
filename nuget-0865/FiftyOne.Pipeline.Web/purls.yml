@@ -209,6 +209,7 @@
 - pkg:nuget/FiftyOne.Pipeline.Web@4.5.125
 - pkg:nuget/FiftyOne.Pipeline.Web@4.5.127
 - pkg:nuget/FiftyOne.Pipeline.Web@4.5.13
+- pkg:nuget/FiftyOne.Pipeline.Web@4.5.130
 - pkg:nuget/FiftyOne.Pipeline.Web@4.5.20
 - pkg:nuget/FiftyOne.Pipeline.Web@4.5.25
 - pkg:nuget/FiftyOne.Pipeline.Web@4.5.28
