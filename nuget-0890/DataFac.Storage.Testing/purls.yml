@@ -113,8 +113,10 @@
 - pkg:nuget/DataFac.Storage.Testing@3.1.34
 - pkg:nuget/DataFac.Storage.Testing@3.1.8
 - pkg:nuget/DataFac.Storage.Testing@3.1.9
+- pkg:nuget/DataFac.Storage.Testing@3.2.1
 - pkg:nuget/DataFac.Storage.Testing@4.0.11-dev
 - pkg:nuget/DataFac.Storage.Testing@4.0.18-dev
 - pkg:nuget/DataFac.Storage.Testing@4.0.20-dev
 - pkg:nuget/DataFac.Storage.Testing@4.0.23-dev
+- pkg:nuget/DataFac.Storage.Testing@4.0.26-dev
 - pkg:nuget/DataFac.Storage.Testing@4.0.8-dev
