@@ -3,6 +3,7 @@
 - pkg:nuget/StorageConnector@1.2.0
 - pkg:nuget/StorageConnector@10.1.0
 - pkg:nuget/StorageConnector@10.1.2
+- pkg:nuget/StorageConnector@10.1.4
 - pkg:nuget/StorageConnector@2.0.0
 - pkg:nuget/StorageConnector@3.0.0
 - pkg:nuget/StorageConnector@4.0.0
