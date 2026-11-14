@@ -47,3 +47,5 @@
 - pkg:nuget/Bliss@1.6.28
 - pkg:nuget/Bliss@1.6.30
 - pkg:nuget/Bliss@1.6.9
+- pkg:nuget/Bliss@1.7.0
+- pkg:nuget/Bliss@1.7.1
