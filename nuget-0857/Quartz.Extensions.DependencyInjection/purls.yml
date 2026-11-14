@@ -40,3 +40,5 @@
 - pkg:nuget/Quartz.Extensions.DependencyInjection@4.1.1
 - pkg:nuget/Quartz.Extensions.DependencyInjection@4.2.0
 - pkg:nuget/Quartz.Extensions.DependencyInjection@4.3.0
+- pkg:nuget/Quartz.Extensions.DependencyInjection@4.5.0
+- pkg:nuget/Quartz.Extensions.DependencyInjection@4.5.1
