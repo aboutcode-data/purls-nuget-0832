@@ -1,6 +1,11 @@
 - pkg:nuget/MLambda.Genesis.Generator@0.1.2
 - pkg:nuget/MLambda.Genesis.Generator@0.1.3
 - pkg:nuget/MLambda.Genesis.Generator@0.1.4
+- pkg:nuget/MLambda.Genesis.Generator@0.12.1162-rc
+- pkg:nuget/MLambda.Genesis.Generator@0.12.1164-rc
+- pkg:nuget/MLambda.Genesis.Generator@0.12.1172-rc
+- pkg:nuget/MLambda.Genesis.Generator@0.12.1173-rc
+- pkg:nuget/MLambda.Genesis.Generator@0.12.97-rc
 - pkg:nuget/MLambda.Genesis.Generator@0.2.0
 - pkg:nuget/MLambda.Genesis.Generator@0.6.0
 - pkg:nuget/MLambda.Genesis.Generator@0.6.2

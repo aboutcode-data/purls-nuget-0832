@@ -10,3 +10,8 @@
 - pkg:nuget/Trax.Runner.Lambda@1.28.0
 - pkg:nuget/Trax.Runner.Lambda@1.29.0
 - pkg:nuget/Trax.Runner.Lambda@1.31.0
+- pkg:nuget/Trax.Runner.Lambda@1.65.0
+- pkg:nuget/Trax.Runner.Lambda@1.67.0
+- pkg:nuget/Trax.Runner.Lambda@1.69.0
+- pkg:nuget/Trax.Runner.Lambda@1.69.1
+- pkg:nuget/Trax.Runner.Lambda@1.70.0
