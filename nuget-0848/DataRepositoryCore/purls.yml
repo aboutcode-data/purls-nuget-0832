@@ -8,6 +8,8 @@
 - pkg:nuget/DataRepositoryCore@0.8.0
 - pkg:nuget/DataRepositoryCore@0.9.0
 - pkg:nuget/DataRepositoryCore@10.0.14
+- pkg:nuget/DataRepositoryCore@11.0.0
+- pkg:nuget/DataRepositoryCore@11.0.1
 - pkg:nuget/DataRepositoryCore@2.1.0
 - pkg:nuget/DataRepositoryCore@2.1.1
 - pkg:nuget/DataRepositoryCore@6.0.4
