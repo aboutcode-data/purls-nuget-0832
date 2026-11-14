@@ -42,3 +42,5 @@
 - pkg:nuget/FjordTours.DistributorApi.Octo@4.5.0
 - pkg:nuget/FjordTours.DistributorApi.Octo@4.5.2
 - pkg:nuget/FjordTours.DistributorApi.Octo@4.6.0
+- pkg:nuget/FjordTours.DistributorApi.Octo@4.7.3
+- pkg:nuget/FjordTours.DistributorApi.Octo@4.7.4
