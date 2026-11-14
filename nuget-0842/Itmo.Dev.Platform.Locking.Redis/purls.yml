@@ -6,3 +6,5 @@
 - pkg:nuget/Itmo.Dev.Platform.Locking.Redis@1.0.282
 - pkg:nuget/Itmo.Dev.Platform.Locking.Redis@1.0.288
 - pkg:nuget/Itmo.Dev.Platform.Locking.Redis@1.0.308
+- pkg:nuget/Itmo.Dev.Platform.Locking.Redis@1.0.466
+- pkg:nuget/Itmo.Dev.Platform.Locking.Redis@1.0.468

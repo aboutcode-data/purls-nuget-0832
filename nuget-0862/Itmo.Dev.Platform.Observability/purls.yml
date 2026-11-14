@@ -50,3 +50,5 @@
 - pkg:nuget/Itmo.Dev.Platform.Observability@1.4.340
 - pkg:nuget/Itmo.Dev.Platform.Observability@1.4.433
 - pkg:nuget/Itmo.Dev.Platform.Observability@1.4.435
+- pkg:nuget/Itmo.Dev.Platform.Observability@1.4.466
+- pkg:nuget/Itmo.Dev.Platform.Observability@1.4.468
