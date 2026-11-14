@@ -40,3 +40,4 @@
 - pkg:nuget/ktsu.NJsonSchemaJsonConverter@1.0.44
 - pkg:nuget/ktsu.NJsonSchemaJsonConverter@1.0.55
 - pkg:nuget/ktsu.NJsonSchemaJsonConverter@1.0.56
+- pkg:nuget/ktsu.NJsonSchemaJsonConverter@1.0.58-pre.1
