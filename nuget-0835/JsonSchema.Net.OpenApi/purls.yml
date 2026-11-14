@@ -12,3 +12,4 @@
 - pkg:nuget/JsonSchema.Net.OpenApi@3.0.1
 - pkg:nuget/JsonSchema.Net.OpenApi@3.1.0
 - pkg:nuget/JsonSchema.Net.OpenApi@3.2.0
+- pkg:nuget/JsonSchema.Net.OpenApi@5.1.0
