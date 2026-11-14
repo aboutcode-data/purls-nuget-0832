@@ -1,0 +1,2 @@
+- pkg:nuget/Icu4C.Runtime.linux-musl-x64@77.1.1
+- pkg:nuget/Icu4C.Runtime.linux-musl-x64@77.1.2
