@@ -11,3 +11,4 @@
 - pkg:nuget/NJsonSchema.Annotations@11.3.2
 - pkg:nuget/NJsonSchema.Annotations@11.4.0
 - pkg:nuget/NJsonSchema.Annotations@11.5.0
+- pkg:nuget/NJsonSchema.Annotations@11.6.2
