@@ -1,3 +1,4 @@
+- pkg:nuget/Juice.Storage@10.3.0
 - pkg:nuget/Juice.Storage@6.0.0-local.20221009.1
 - pkg:nuget/Juice.Storage@7.0.0-beta.1
 - pkg:nuget/Juice.Storage@7.0.0-beta.2
