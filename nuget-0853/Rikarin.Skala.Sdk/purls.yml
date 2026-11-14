@@ -13,3 +13,5 @@
 - pkg:nuget/Rikarin.Skala.Sdk@4.4.1
 - pkg:nuget/Rikarin.Skala.Sdk@4.4.1-alpha.33
 - pkg:nuget/Rikarin.Skala.Sdk@4.4.1-alpha.35
+- pkg:nuget/Rikarin.Skala.Sdk@4.5.0-alpha.26
+- pkg:nuget/Rikarin.Skala.Sdk@4.5.0-alpha.45
