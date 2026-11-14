@@ -54,3 +54,4 @@
 - pkg:nuget/BccCode.PubSub.Client@0.0.459
 - pkg:nuget/BccCode.PubSub.Client@0.0.469
 - pkg:nuget/BccCode.PubSub.Client@0.0.471
+- pkg:nuget/BccCode.PubSub.Client@0.0.716
