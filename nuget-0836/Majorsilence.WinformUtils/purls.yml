@@ -1,1 +1,7 @@
+- pkg:nuget/Majorsilence.WinformUtils@26.0.2
+- pkg:nuget/Majorsilence.WinformUtils@26.0.7
+- pkg:nuget/Majorsilence.WinformUtils@27.0.0-alpha.11
+- pkg:nuget/Majorsilence.WinformUtils@27.0.0-alpha.2
+- pkg:nuget/Majorsilence.WinformUtils@27.0.0-alpha.3
+- pkg:nuget/Majorsilence.WinformUtils@27.0.0-alpha.6
 - pkg:nuget/Majorsilence.WinformUtils@5.0.16

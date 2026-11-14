@@ -1,4 +1,8 @@
 - pkg:nuget/Majorsilence.Reporting.RdlEngine.SkiaSharp@26.0.2
+- pkg:nuget/Majorsilence.Reporting.RdlEngine.SkiaSharp@26.0.7
+- pkg:nuget/Majorsilence.Reporting.RdlEngine.SkiaSharp@27.0.0-alpha.11
+- pkg:nuget/Majorsilence.Reporting.RdlEngine.SkiaSharp@27.0.0-alpha.2
+- pkg:nuget/Majorsilence.Reporting.RdlEngine.SkiaSharp@27.0.0-alpha.3
 - pkg:nuget/Majorsilence.Reporting.RdlEngine.SkiaSharp@5.0.10
 - pkg:nuget/Majorsilence.Reporting.RdlEngine.SkiaSharp@5.0.11
 - pkg:nuget/Majorsilence.Reporting.RdlEngine.SkiaSharp@5.0.12
