@@ -1,5 +1,13 @@
+- pkg:nuget/SoftwareThingies.KalBlazor.Core@0.17.0-pr.32.83.1
+- pkg:nuget/SoftwareThingies.KalBlazor.Core@0.17.0-pr.32.84.1
+- pkg:nuget/SoftwareThingies.KalBlazor.Core@0.17.0-pr.32.b6cc676
+- pkg:nuget/SoftwareThingies.KalBlazor.Core@0.17.0-pr.32.c16a3fb
+- pkg:nuget/SoftwareThingies.KalBlazor.Core@0.17.0-pr.32.e27691b
+- pkg:nuget/SoftwareThingies.KalBlazor.Core@0.18.0-pr.33.89.1
+- pkg:nuget/SoftwareThingies.KalBlazor.Core@0.18.2-pr.35.93.1
 - pkg:nuget/SoftwareThingies.KalBlazor.Core@0.6.0
 - pkg:nuget/SoftwareThingies.KalBlazor.Core@0.6.1
 - pkg:nuget/SoftwareThingies.KalBlazor.Core@0.7.0
 - pkg:nuget/SoftwareThingies.KalBlazor.Core@0.7.1
 - pkg:nuget/SoftwareThingies.KalBlazor.Core@0.8.0
+- pkg:nuget/SoftwareThingies.KalBlazor.Core@0.9.0
