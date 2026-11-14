@@ -49,3 +49,4 @@
 - pkg:nuget/Excalibur@0.7.1
 - pkg:nuget/Excalibur@0.8.0
 - pkg:nuget/Excalibur@0.9.0
+- pkg:nuget/Excalibur@1.0.1
