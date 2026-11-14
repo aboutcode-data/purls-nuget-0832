@@ -44,3 +44,4 @@
 - pkg:nuget/SFA.DAS.Payments.Audit.Application@2.0.8-prerelease-16
 - pkg:nuget/SFA.DAS.Payments.Audit.Application@2.0.8-prerelease-17
 - pkg:nuget/SFA.DAS.Payments.Audit.Application@2.1.0-prerelease-10
+- pkg:nuget/SFA.DAS.Payments.Audit.Application@2.1.1-prerelease-12
