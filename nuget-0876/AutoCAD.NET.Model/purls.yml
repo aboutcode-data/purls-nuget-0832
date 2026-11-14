@@ -11,4 +11,5 @@
 - pkg:nuget/AutoCAD.NET.Model@24.2.0
 - pkg:nuget/AutoCAD.NET.Model@24.3.0
 - pkg:nuget/AutoCAD.NET.Model@25.0.0
+- pkg:nuget/AutoCAD.NET.Model@25.0.2
 - pkg:nuget/AutoCAD.NET.Model@25.1.0
