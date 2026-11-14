@@ -1,3 +1,4 @@
+- pkg:nuget/MinApiLib.HashedIds@10.0.1
 - pkg:nuget/MinApiLib.HashedIds@7.0.0
 - pkg:nuget/MinApiLib.HashedIds@7.0.0-beta
 - pkg:nuget/MinApiLib.HashedIds@7.0.1
