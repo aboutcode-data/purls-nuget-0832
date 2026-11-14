@@ -1,0 +1,4 @@
+- pkg:nuget/Soenneker.Cron.Parser@11.0.25
+- pkg:nuget/Soenneker.Cron.Parser@4.0.10
+- pkg:nuget/Soenneker.Cron.Parser@4.0.20
+- pkg:nuget/Soenneker.Cron.Parser@4.0.23
