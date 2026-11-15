@@ -174,4 +174,5 @@
 - pkg:nuget/ModularPipelines.Kubernetes@2.8.23
 - pkg:nuget/ModularPipelines.Kubernetes@2.8.4
 - pkg:nuget/ModularPipelines.Kubernetes@2.9.0
+- pkg:nuget/ModularPipelines.Kubernetes@4.0.0
 - pkg:nuget/ModularPipelines.Kubernetes@4.0.0-rc.1
