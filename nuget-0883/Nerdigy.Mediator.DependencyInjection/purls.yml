@@ -1,0 +1,4 @@
+- pkg:nuget/Nerdigy.Mediator.DependencyInjection@0.8.0
+- pkg:nuget/Nerdigy.Mediator.DependencyInjection@0.9.1
+- pkg:nuget/Nerdigy.Mediator.DependencyInjection@1.0.0
+- pkg:nuget/Nerdigy.Mediator.DependencyInjection@2.1.0
