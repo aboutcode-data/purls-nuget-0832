@@ -1,4 +1,6 @@
 - pkg:nuget/SAF.Messaging.Redis@10.0.1
+- pkg:nuget/SAF.Messaging.Redis@11.0.0-alpha.12
+- pkg:nuget/SAF.Messaging.Redis@11.0.0-alpha.15
 - pkg:nuget/SAF.Messaging.Redis@11.0.0-alpha.2
 - pkg:nuget/SAF.Messaging.Redis@11.0.0-alpha.3
 - pkg:nuget/SAF.Messaging.Redis@5.0.0
