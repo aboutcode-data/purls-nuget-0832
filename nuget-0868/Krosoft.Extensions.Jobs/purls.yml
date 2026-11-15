@@ -46,6 +46,11 @@
 - pkg:nuget/Krosoft.Extensions.Jobs@2025.8.23.2289
 - pkg:nuget/Krosoft.Extensions.Jobs@2025.8.23.2290
 - pkg:nuget/Krosoft.Extensions.Jobs@2025.9.9.2860
+- pkg:nuget/Krosoft.Extensions.Jobs@2026.10.14.11460
+- pkg:nuget/Krosoft.Extensions.Jobs@2026.10.15.11613
+- pkg:nuget/Krosoft.Extensions.Jobs@2026.11.13.13274
+- pkg:nuget/Krosoft.Extensions.Jobs@2026.11.13.13276
+- pkg:nuget/Krosoft.Extensions.Jobs@2026.11.2.12417
 - pkg:nuget/Krosoft.Extensions.Jobs@2026.4.27.7046
 - pkg:nuget/Krosoft.Extensions.Jobs@2026.8.27.9667
 - pkg:nuget/Krosoft.Extensions.Jobs@2026.8.28.9807
