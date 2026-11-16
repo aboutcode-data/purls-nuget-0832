@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Clamav.Freshclam.Util@11.0.101
 - pkg:nuget/Soenneker.Clamav.Freshclam.Util@11.0.106
+- pkg:nuget/Soenneker.Clamav.Freshclam.Util@11.0.111
 - pkg:nuget/Soenneker.Clamav.Freshclam.Util@11.0.91
 - pkg:nuget/Soenneker.Clamav.Freshclam.Util@11.0.96
 - pkg:nuget/Soenneker.Clamav.Freshclam.Util@11.0.97
