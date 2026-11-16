@@ -1,3 +1,4 @@
 - pkg:nuget/BorrowedTorch.RayTracing@1.1.1
 - pkg:nuget/BorrowedTorch.RayTracing@1.4.0
 - pkg:nuget/BorrowedTorch.RayTracing@1.5.0
+- pkg:nuget/BorrowedTorch.RayTracing@1.6.0
