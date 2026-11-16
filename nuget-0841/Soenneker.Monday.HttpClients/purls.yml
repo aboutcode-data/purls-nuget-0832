@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Monday.HttpClients@11.0.125
 - pkg:nuget/Soenneker.Monday.HttpClients@11.0.126
 - pkg:nuget/Soenneker.Monday.HttpClients@11.0.127
+- pkg:nuget/Soenneker.Monday.HttpClients@11.0.134
 - pkg:nuget/Soenneker.Monday.HttpClients@4.0.110
 - pkg:nuget/Soenneker.Monday.HttpClients@4.0.111
 - pkg:nuget/Soenneker.Monday.HttpClients@4.0.16

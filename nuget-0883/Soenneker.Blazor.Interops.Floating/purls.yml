@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Blazor.Interops.Floating@11.0.142
 - pkg:nuget/Soenneker.Blazor.Interops.Floating@11.0.144
 - pkg:nuget/Soenneker.Blazor.Interops.Floating@11.0.150
+- pkg:nuget/Soenneker.Blazor.Interops.Floating@11.0.165
 - pkg:nuget/Soenneker.Blazor.Interops.Floating@4.0.105
 - pkg:nuget/Soenneker.Blazor.Interops.Floating@4.0.108
 - pkg:nuget/Soenneker.Blazor.Interops.Floating@4.0.109
