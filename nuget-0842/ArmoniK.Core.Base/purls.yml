@@ -4284,6 +4284,8 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.4-renovategithubactions.18.sha.13fd7e42
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-SNAPSHOT.14.sha.0cb42ddc
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-SNAPSHOT.2.sha.17c19e90
+- pkg:nuget/ArmoniK.Core.Base@0.41.5-fixpartitionnotinsessioninvali.35.sha.e4d5b6ad
+- pkg:nuget/ArmoniK.Core.Base@0.41.5-fixpartitionnotinsessioninvali.36.sha.afbfe703
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-jgconfidentknuthgo65l9.1.sha.acf18813
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-jgconfidentknuthgo65l9.2.sha.5a66708b
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-jgconfidentknuthgo65l9.3.sha.311a1cf5
