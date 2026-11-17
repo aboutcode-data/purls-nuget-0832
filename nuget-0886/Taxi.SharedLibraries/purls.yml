@@ -414,4 +414,5 @@
 - pkg:nuget/Taxi.SharedLibraries@0.6.9
 - pkg:nuget/Taxi.SharedLibraries@0.7.100
 - pkg:nuget/Taxi.SharedLibraries@0.7.92
+- pkg:nuget/Taxi.SharedLibraries@0.8.10
 - pkg:nuget/Taxi.SharedLibraries@0.8.4
