@@ -8,6 +8,7 @@
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.Contracts@10.7.0-rc.2
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.Contracts@10.7.0-rc.3
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.Contracts@10.7.0-rc.5
+- pkg:nuget/Volo.Abp.VirtualFileExplorer.Contracts@11.0.0-rc.3
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.Contracts@9.2.0
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.Contracts@9.2.0-rc.1
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.Contracts@9.2.0-rc.2
