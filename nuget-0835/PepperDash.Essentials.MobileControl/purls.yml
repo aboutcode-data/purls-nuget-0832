@@ -256,4 +256,5 @@
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-rc.14
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.0.0-rc.15
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.1.0
+- pkg:nuget/PepperDash.Essentials.MobileControl@3.1.1
 - pkg:nuget/PepperDash.Essentials.MobileControl@3.1.1-fix-1475-directory-null-safety.1
