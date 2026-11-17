@@ -12,4 +12,7 @@
 - pkg:nuget/GovUK.Dfe.FlexForms.Api.Client@0.0.54-prerelease.17
 - pkg:nuget/GovUK.Dfe.FlexForms.Api.Client@0.0.54-prerelease.5
 - pkg:nuget/GovUK.Dfe.FlexForms.Api.Client@0.0.54-prerelease.8
+- pkg:nuget/GovUK.Dfe.FlexForms.Api.Client@0.0.59-prerelease.25
+- pkg:nuget/GovUK.Dfe.FlexForms.Api.Client@0.0.59-prerelease.41
+- pkg:nuget/GovUK.Dfe.FlexForms.Api.Client@0.0.59-prerelease.51
 - pkg:nuget/GovUK.Dfe.FlexForms.Api.Client@0.0.9
