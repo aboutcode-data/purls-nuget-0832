@@ -162,4 +162,5 @@
 - pkg:nuget/SharpAbp.MinId.EntityFrameworkCore@4.6.9
 - pkg:nuget/SharpAbp.MinId.EntityFrameworkCore@4.7.10
 - pkg:nuget/SharpAbp.MinId.EntityFrameworkCore@4.7.5
+- pkg:nuget/SharpAbp.MinId.EntityFrameworkCore@4.8.0
 - pkg:nuget/SharpAbp.MinId.EntityFrameworkCore@6.0.1
