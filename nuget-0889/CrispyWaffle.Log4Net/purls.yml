@@ -60,6 +60,9 @@
 - pkg:nuget/CrispyWaffle.Log4Net@10.4.5
 - pkg:nuget/CrispyWaffle.Log4Net@10.4.8
 - pkg:nuget/CrispyWaffle.Log4Net@10.4.9
+- pkg:nuget/CrispyWaffle.Log4Net@10.5.10
+- pkg:nuget/CrispyWaffle.Log4Net@10.5.11
+- pkg:nuget/CrispyWaffle.Log4Net@10.5.12
 - pkg:nuget/CrispyWaffle.Log4Net@2.1.54
 - pkg:nuget/CrispyWaffle.Log4Net@2.2.20
 - pkg:nuget/CrispyWaffle.Log4Net@2.2.29

@@ -61,6 +61,9 @@
 - pkg:nuget/CrispyWaffle.EventLog@10.4.5
 - pkg:nuget/CrispyWaffle.EventLog@10.4.8
 - pkg:nuget/CrispyWaffle.EventLog@10.4.9
+- pkg:nuget/CrispyWaffle.EventLog@10.5.10
+- pkg:nuget/CrispyWaffle.EventLog@10.5.11
+- pkg:nuget/CrispyWaffle.EventLog@10.5.12
 - pkg:nuget/CrispyWaffle.EventLog@8.1.102
 - pkg:nuget/CrispyWaffle.EventLog@8.1.109
 - pkg:nuget/CrispyWaffle.EventLog@8.1.11
