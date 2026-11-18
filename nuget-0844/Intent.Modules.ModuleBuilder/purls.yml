@@ -45,6 +45,7 @@
 - pkg:nuget/Intent.Modules.ModuleBuilder@3.2.6
 - pkg:nuget/Intent.Modules.ModuleBuilder@3.2.7
 - pkg:nuget/Intent.Modules.ModuleBuilder@3.2.8
+- pkg:nuget/Intent.Modules.ModuleBuilder@3.21.0
 - pkg:nuget/Intent.Modules.ModuleBuilder@3.3.0
 - pkg:nuget/Intent.Modules.ModuleBuilder@3.3.10
 - pkg:nuget/Intent.Modules.ModuleBuilder@3.3.11

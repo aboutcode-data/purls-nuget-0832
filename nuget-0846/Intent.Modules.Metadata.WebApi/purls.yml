@@ -71,3 +71,4 @@
 - pkg:nuget/Intent.Modules.Metadata.WebApi@4.7.7
 - pkg:nuget/Intent.Modules.Metadata.WebApi@4.7.8
 - pkg:nuget/Intent.Modules.Metadata.WebApi@4.7.9
+- pkg:nuget/Intent.Modules.Metadata.WebApi@4.8.0
