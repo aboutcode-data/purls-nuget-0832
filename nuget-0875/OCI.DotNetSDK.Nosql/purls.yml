@@ -61,6 +61,7 @@
 - pkg:nuget/OCI.DotNetSDK.Nosql@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Nosql@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Nosql@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Nosql@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Nosql@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Nosql@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Nosql@17.1.0

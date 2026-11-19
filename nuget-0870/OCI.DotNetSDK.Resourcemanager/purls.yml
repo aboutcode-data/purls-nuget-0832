@@ -60,6 +60,7 @@
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Resourcemanager@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcemanager@17.1.0
