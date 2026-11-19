@@ -193,3 +193,5 @@
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.961-main
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.962-main
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.972-main
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.974-native-aot-tool
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides@1.0.5.979-main
