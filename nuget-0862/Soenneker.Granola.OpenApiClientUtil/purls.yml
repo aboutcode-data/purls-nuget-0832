@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Granola.OpenApiClientUtil@11.0.100
 - pkg:nuget/Soenneker.Granola.OpenApiClientUtil@11.0.102
+- pkg:nuget/Soenneker.Granola.OpenApiClientUtil@11.0.108
 - pkg:nuget/Soenneker.Granola.OpenApiClientUtil@11.0.81
 - pkg:nuget/Soenneker.Granola.OpenApiClientUtil@11.0.87
 - pkg:nuget/Soenneker.Granola.OpenApiClientUtil@11.0.88
