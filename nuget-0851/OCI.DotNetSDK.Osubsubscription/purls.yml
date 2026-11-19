@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Osubsubscription@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Osubsubscription@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Osubsubscription@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Osubsubscription@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Osubsubscription@30.2.0
 - pkg:nuget/OCI.DotNetSDK.Osubsubscription@30.3.0
 - pkg:nuget/OCI.DotNetSDK.Osubsubscription@31.0.0
