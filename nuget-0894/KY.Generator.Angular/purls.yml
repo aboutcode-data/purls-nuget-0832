@@ -11,6 +11,7 @@
 - pkg:nuget/KY.Generator.Angular@10.1.0
 - pkg:nuget/KY.Generator.Angular@10.1.2
 - pkg:nuget/KY.Generator.Angular@10.2.1
+- pkg:nuget/KY.Generator.Angular@11.0.0
 - pkg:nuget/KY.Generator.Angular@2.0.0
 - pkg:nuget/KY.Generator.Angular@2.1.0
 - pkg:nuget/KY.Generator.Angular@2.2.0
