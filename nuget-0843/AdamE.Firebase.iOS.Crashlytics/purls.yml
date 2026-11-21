@@ -34,5 +34,7 @@
 - pkg:nuget/AdamE.Firebase.iOS.Crashlytics@11.8.0
 - pkg:nuget/AdamE.Firebase.iOS.Crashlytics@11.9.0
 - pkg:nuget/AdamE.Firebase.iOS.Crashlytics@12.0.0
+- pkg:nuget/AdamE.Firebase.iOS.Crashlytics@12.15.0
+- pkg:nuget/AdamE.Firebase.iOS.Crashlytics@12.17.0
 - pkg:nuget/AdamE.Firebase.iOS.Crashlytics@12.2.0
 - pkg:nuget/AdamE.Firebase.iOS.Crashlytics@12.3.0
