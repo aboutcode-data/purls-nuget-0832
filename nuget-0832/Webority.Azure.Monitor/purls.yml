@@ -9,3 +9,6 @@
 - pkg:nuget/Webority.Azure.Monitor@0.34.0
 - pkg:nuget/Webority.Azure.Monitor@0.35.2
 - pkg:nuget/Webority.Azure.Monitor@0.39.1
+- pkg:nuget/Webority.Azure.Monitor@0.40.8
+- pkg:nuget/Webority.Azure.Monitor@0.42.0
+- pkg:nuget/Webority.Azure.Monitor@0.43.0
