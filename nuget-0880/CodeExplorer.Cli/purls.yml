@@ -45,3 +45,8 @@
 - pkg:nuget/CodeExplorer.Cli@1.79.0
 - pkg:nuget/CodeExplorer.Cli@1.80.0
 - pkg:nuget/CodeExplorer.Cli@1.80.2
+- pkg:nuget/CodeExplorer.Cli@1.89.6
+- pkg:nuget/CodeExplorer.Cli@1.89.7
+- pkg:nuget/CodeExplorer.Cli@1.90.11
+- pkg:nuget/CodeExplorer.Cli@1.90.3
+- pkg:nuget/CodeExplorer.Cli@1.91.2
