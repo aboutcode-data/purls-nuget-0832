@@ -158,5 +158,6 @@
 - pkg:nuget/Dapplo.Windows.Gdi32@3.22.2
 - pkg:nuget/Dapplo.Windows.Gdi32@3.23.3
 - pkg:nuget/Dapplo.Windows.Gdi32@3.24.2
+- pkg:nuget/Dapplo.Windows.Gdi32@3.25.2
 - pkg:nuget/Dapplo.Windows.Gdi32@3.8.2
 - pkg:nuget/Dapplo.Windows.Gdi32@3.9.2
