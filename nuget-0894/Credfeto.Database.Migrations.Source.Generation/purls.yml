@@ -58,3 +58,4 @@
 - pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.233.2950-pull-205-merge
 - pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.233.2959-main
 - pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.233.2960-main
+- pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.235.2970-main
