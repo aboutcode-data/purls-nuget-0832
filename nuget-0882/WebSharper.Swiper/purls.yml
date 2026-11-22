@@ -1,3 +1,4 @@
+- pkg:nuget/WebSharper.Swiper@10.1.0.744
 - pkg:nuget/WebSharper.Swiper@4.0.10.29-rc
 - pkg:nuget/WebSharper.Swiper@4.0.13.32
 - pkg:nuget/WebSharper.Swiper@4.0.15.34
