@@ -1,2 +1,3 @@
 - pkg:nuget/Doka.EntityFrameworkCore.NestedSet.MySql@10.1.0
 - pkg:nuget/Doka.EntityFrameworkCore.NestedSet.MySql@10.2.0
+- pkg:nuget/Doka.EntityFrameworkCore.NestedSet.MySql@10.4.0
