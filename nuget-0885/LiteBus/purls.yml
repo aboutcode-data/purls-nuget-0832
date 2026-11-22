@@ -63,3 +63,4 @@
 - pkg:nuget/LiteBus@7.0.0-preview.3
 - pkg:nuget/LiteBus@8.0.0-preview.2
 - pkg:nuget/LiteBus@8.0.0-preview.3
+- pkg:nuget/LiteBus@8.0.0-preview.7
