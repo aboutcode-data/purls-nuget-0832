@@ -7,6 +7,9 @@
 - pkg:nuget/JvmBridge@26.10.22.7463
 - pkg:nuget/JvmBridge@26.11.10.9660
 - pkg:nuget/JvmBridge@26.11.18.1773
+- pkg:nuget/JvmBridge@26.11.21.6218
+- pkg:nuget/JvmBridge@26.11.21.6314
+- pkg:nuget/JvmBridge@26.11.21.6388
 - pkg:nuget/JvmBridge@26.11.3.3660
 - pkg:nuget/JvmBridge@26.9.22.7633
 - pkg:nuget/JvmBridge@26.9.23.1576
