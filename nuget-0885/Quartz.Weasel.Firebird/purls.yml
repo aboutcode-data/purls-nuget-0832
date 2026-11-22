@@ -1,1 +1,2 @@
 - pkg:nuget/Quartz.Weasel.Firebird@4.5.0
+- pkg:nuget/Quartz.Weasel.Firebird@4.8.1
