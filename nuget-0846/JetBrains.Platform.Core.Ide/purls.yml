@@ -472,6 +472,7 @@
 - pkg:nuget/JetBrains.Platform.Core.Ide@252.0.20251120.150646
 - pkg:nuget/JetBrains.Platform.Core.Ide@252.0.20260728.124700
 - pkg:nuget/JetBrains.Platform.Core.Ide@252.0.20260827.135105
+- pkg:nuget/JetBrains.Platform.Core.Ide@252.0.20261123.90853
 - pkg:nuget/JetBrains.Platform.Core.Ide@253.0.20250914.4854-eap01
 - pkg:nuget/JetBrains.Platform.Core.Ide@253.0.20250922.232725-eap02
 - pkg:nuget/JetBrains.Platform.Core.Ide@253.0.20250926.140429-eap03
@@ -502,6 +503,7 @@
 - pkg:nuget/JetBrains.Platform.Core.Ide@263.0.20261023.71039-eap08
 - pkg:nuget/JetBrains.Platform.Core.Ide@263.0.20261104.131144-rc01
 - pkg:nuget/JetBrains.Platform.Core.Ide@263.0.20261118.32606
+- pkg:nuget/JetBrains.Platform.Core.Ide@263.0.20261122.191247
 - pkg:nuget/JetBrains.Platform.Core.Ide@6.0.20141127.180119-eap9
 - pkg:nuget/JetBrains.Platform.Core.Ide@6.0.20141201.160117-eap10
 - pkg:nuget/JetBrains.Platform.Core.Ide@6.0.20141204.190160
