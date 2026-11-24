@@ -40,4 +40,14 @@
 - pkg:nuget/GameFrameX.DataBase.Mongo@1.2.0-beta9
 - pkg:nuget/GameFrameX.DataBase.Mongo@1.6.1
 - pkg:nuget/GameFrameX.DataBase.Mongo@1.8.0
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.1-dev9
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev05
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev06
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev07
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev08
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev09
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev1
 - pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev11
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev2
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev3
+- pkg:nuget/GameFrameX.DataBase.Mongo@2.0.0.2-dev4
