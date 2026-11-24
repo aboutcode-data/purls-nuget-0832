@@ -95,3 +95,4 @@
 - pkg:nuget/ktsu.DeepClone@2.5.0
 - pkg:nuget/ktsu.DeepClone@2.7.1-pre.2
 - pkg:nuget/ktsu.DeepClone@2.8.0
+- pkg:nuget/ktsu.DeepClone@2.8.1-pre.2
