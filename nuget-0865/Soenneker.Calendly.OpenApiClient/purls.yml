@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.Calendly.OpenApiClient@11.0.137
 - pkg:nuget/Soenneker.Calendly.OpenApiClient@11.0.149
 - pkg:nuget/Soenneker.Calendly.OpenApiClient@11.0.155
+- pkg:nuget/Soenneker.Calendly.OpenApiClient@11.0.159
 - pkg:nuget/Soenneker.Calendly.OpenApiClient@4.0.10
 - pkg:nuget/Soenneker.Calendly.OpenApiClient@4.0.104
 - pkg:nuget/Soenneker.Calendly.OpenApiClient@4.0.105
