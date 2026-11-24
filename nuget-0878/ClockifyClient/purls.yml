@@ -9,5 +9,10 @@
 - pkg:nuget/ClockifyClient@1.0.9
 - pkg:nuget/ClockifyClient@1.1.1
 - pkg:nuget/ClockifyClient@1.1.17
+- pkg:nuget/ClockifyClient@1.2.12
+- pkg:nuget/ClockifyClient@1.2.13
 - pkg:nuget/ClockifyClient@1.2.2
 - pkg:nuget/ClockifyClient@1.2.3
+- pkg:nuget/ClockifyClient@1.2.9
+- pkg:nuget/ClockifyClient@1.3.4
+- pkg:nuget/ClockifyClient@1.4.5
