@@ -13,3 +13,4 @@
 - pkg:nuget/G4.WebDriver.Remote.Firefox@2025.2.6.8
 - pkg:nuget/G4.WebDriver.Remote.Firefox@2025.2.7.9
 - pkg:nuget/G4.WebDriver.Remote.Firefox@2025.3.7.10
+- pkg:nuget/G4.WebDriver.Remote.Firefox@2026.11.24.18
