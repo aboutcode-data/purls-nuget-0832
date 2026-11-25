@@ -1133,6 +1133,7 @@
 - pkg:nuget/Credfeto.Package.Update@1.10.219.2882-native-aot-tool
 - pkg:nuget/Credfeto.Package.Update@1.10.219.2889-native-aot-tool
 - pkg:nuget/Credfeto.Package.Update@1.10.219.2890-native-aot-tool
+- pkg:nuget/Credfeto.Package.Update@1.10.219.2898-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.26-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.27-main
 - pkg:nuget/Credfeto.Package.Update@1.10.22.28-main
