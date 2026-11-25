@@ -21,3 +21,4 @@
 - pkg:nuget/Webority.Support.AspNetCore@0.76.0
 - pkg:nuget/Webority.Support.AspNetCore@0.78.0
 - pkg:nuget/Webority.Support.AspNetCore@0.78.1
+- pkg:nuget/Webority.Support.AspNetCore@0.79.1
