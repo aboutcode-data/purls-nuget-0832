@@ -52,3 +52,4 @@
 - pkg:nuget/CodeExplorer.Cli@1.91.2
 - pkg:nuget/CodeExplorer.Cli@1.95.0
 - pkg:nuget/CodeExplorer.Cli@1.95.1
+- pkg:nuget/CodeExplorer.Cli@1.99.0
