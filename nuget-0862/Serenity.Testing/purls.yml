@@ -112,6 +112,7 @@
 - pkg:nuget/Serenity.Testing@1.9.7
 - pkg:nuget/Serenity.Testing@1.9.8
 - pkg:nuget/Serenity.Testing@1.9.9
+- pkg:nuget/Serenity.Testing@10.8.0
 - pkg:nuget/Serenity.Testing@2.0.0
 - pkg:nuget/Serenity.Testing@2.0.1
 - pkg:nuget/Serenity.Testing@2.0.10
