@@ -10,3 +10,5 @@
 - pkg:nuget/JKToolKit.CodexSDK@0.0.407
 - pkg:nuget/JKToolKit.CodexSDK@0.0.436
 - pkg:nuget/JKToolKit.CodexSDK@0.161.0
+- pkg:nuget/JKToolKit.CodexSDK@0.165.0
+- pkg:nuget/JKToolKit.CodexSDK@0.167.2
