@@ -1,1 +1,5 @@
 - pkg:nuget/dev.breadpack.UnityMcpBridge@0.6.1
+- pkg:nuget/dev.breadpack.UnityMcpBridge@0.6.14
+- pkg:nuget/dev.breadpack.UnityMcpBridge@0.6.15
+- pkg:nuget/dev.breadpack.UnityMcpBridge@0.6.20
+- pkg:nuget/dev.breadpack.UnityMcpBridge@0.6.25
