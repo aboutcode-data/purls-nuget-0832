@@ -158,5 +158,8 @@
 - pkg:nuget/Umbraco.Community.BackOfficeOrganiser@16.0.3-alpha0003
 - pkg:nuget/Umbraco.Community.BackOfficeOrganiser@17.0.0-alpha0001
 - pkg:nuget/Umbraco.Community.BackOfficeOrganiser@17.0.3-alpha.15
+- pkg:nuget/Umbraco.Community.BackOfficeOrganiser@17.0.5
+- pkg:nuget/Umbraco.Community.BackOfficeOrganiser@17.0.5-alpha.5
 - pkg:nuget/Umbraco.Community.BackOfficeOrganiser@18.0.0-alpha.1
 - pkg:nuget/Umbraco.Community.BackOfficeOrganiser@18.0.0-alpha.6
+- pkg:nuget/Umbraco.Community.BackOfficeOrganiser@18.0.2
