@@ -1,2 +1,5 @@
 - pkg:nuget/Beep.Setting.Email@1.0.5-build.1
 - pkg:nuget/Beep.Setting.Email@1.0.6
+- pkg:nuget/Beep.Setting.Email@1.0.9-build.12
+- pkg:nuget/Beep.Setting.Email@1.0.9-build.13
+- pkg:nuget/Beep.Setting.Email@1.0.9-build.14
