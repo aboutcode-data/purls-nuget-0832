@@ -13,3 +13,4 @@
 - pkg:nuget/GSS.Authorization.OAuth@2.6.0
 - pkg:nuget/GSS.Authorization.OAuth@2.6.1
 - pkg:nuget/GSS.Authorization.OAuth@2.7.0
+- pkg:nuget/GSS.Authorization.OAuth@2.8.2
