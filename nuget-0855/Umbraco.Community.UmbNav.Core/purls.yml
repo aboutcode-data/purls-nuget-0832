@@ -22,6 +22,11 @@
 - pkg:nuget/Umbraco.Community.UmbNav.Core@4.0.0-umbraco-v15-0004
 - pkg:nuget/Umbraco.Community.UmbNav.Core@4.0.0-umbraco-v15-0005
 - pkg:nuget/Umbraco.Community.UmbNav.Core@4.1.1-beta.56
+- pkg:nuget/Umbraco.Community.UmbNav.Core@4.1.10-fix-migration-nested-blocks-and-meganav.4
 - pkg:nuget/Umbraco.Community.UmbNav.Core@4.1.4
 - pkg:nuget/Umbraco.Community.UmbNav.Core@4.1.4-beta.2
 - pkg:nuget/Umbraco.Community.UmbNav.Core@4.1.5
+- pkg:nuget/Umbraco.Community.UmbNav.Core@5.0.1
+- pkg:nuget/Umbraco.Community.UmbNav.Core@5.0.1-beta.4
+- pkg:nuget/Umbraco.Community.UmbNav.Core@5.0.1-beta.6
+- pkg:nuget/Umbraco.Community.UmbNav.Core@5.0.1-beta.8
