@@ -1,5 +1,6 @@
 - pkg:nuget/SourceKit.Generators.Builder.Annotations@1.0.0
 - pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.10
+- pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.103-alpha
 - pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.11
 - pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.13
 - pkg:nuget/SourceKit.Generators.Builder.Annotations@1.1.14
