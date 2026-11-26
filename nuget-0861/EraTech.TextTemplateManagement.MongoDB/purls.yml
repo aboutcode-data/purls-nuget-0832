@@ -51,4 +51,5 @@
 - pkg:nuget/EraTech.TextTemplateManagement.MongoDB@2.2.27
 - pkg:nuget/EraTech.TextTemplateManagement.MongoDB@2.2.34
 - pkg:nuget/EraTech.TextTemplateManagement.MongoDB@2.2.39
+- pkg:nuget/EraTech.TextTemplateManagement.MongoDB@2.2.45
 - pkg:nuget/EraTech.TextTemplateManagement.MongoDB@2.2.6
