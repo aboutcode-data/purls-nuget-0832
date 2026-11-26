@@ -20,6 +20,9 @@
 - pkg:nuget/Soenneker.Flywheel.Dashboard@11.0.576
 - pkg:nuget/Soenneker.Flywheel.Dashboard@11.0.579
 - pkg:nuget/Soenneker.Flywheel.Dashboard@11.0.580
+- pkg:nuget/Soenneker.Flywheel.Dashboard@11.0.582
+- pkg:nuget/Soenneker.Flywheel.Dashboard@11.0.583
+- pkg:nuget/Soenneker.Flywheel.Dashboard@11.0.587
 - pkg:nuget/Soenneker.Flywheel.Dashboard@4.0.17
 - pkg:nuget/Soenneker.Flywheel.Dashboard@4.0.26
 - pkg:nuget/Soenneker.Flywheel.Dashboard@4.0.27
