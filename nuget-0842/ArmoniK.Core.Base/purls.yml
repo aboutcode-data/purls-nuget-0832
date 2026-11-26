@@ -4302,6 +4302,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.5-renovatemajordotnetmonorepo.3.sha.a4b10622
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-featauthz.148.sha.d1e58cd4
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-fixauthinitpositionids.9.sha.b144e950
+- pkg:nuget/ArmoniK.Core.Base@0.41.6-jgsharpvoltaz4d0sb.19.sha.55c274c0
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-jgstoiccurieyzm1wa.15.sha.93984d56
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-renovategithubactions.9.sha.71ed5a19
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-renovatenugetarmonikapi.9.sha.82ec7d9f
