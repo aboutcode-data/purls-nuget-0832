@@ -6,3 +6,7 @@
 - pkg:nuget/IntegratoR.CodeGen@1.3.2-ci.1
 - pkg:nuget/IntegratoR.CodeGen@1.3.5
 - pkg:nuget/IntegratoR.CodeGen@1.3.5-ci.1
+- pkg:nuget/IntegratoR.CodeGen@2.0.2-ci.2
+- pkg:nuget/IntegratoR.CodeGen@2.0.2-ci.3
+- pkg:nuget/IntegratoR.CodeGen@3.0.0-ci.4
+- pkg:nuget/IntegratoR.CodeGen@3.0.0-ci.5

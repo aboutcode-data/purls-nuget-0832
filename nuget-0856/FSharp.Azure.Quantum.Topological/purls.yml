@@ -1,1 +1,4 @@
 - pkg:nuget/FSharp.Azure.Quantum.Topological@0.3.11
+- pkg:nuget/FSharp.Azure.Quantum.Topological@0.4.3
+- pkg:nuget/FSharp.Azure.Quantum.Topological@0.4.8
+- pkg:nuget/FSharp.Azure.Quantum.Topological@0.6.2
