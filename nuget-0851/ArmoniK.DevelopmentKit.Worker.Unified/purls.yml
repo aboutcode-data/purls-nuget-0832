@@ -1772,6 +1772,8 @@
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.19.9-01972g57a6d186.2.sha.57a6d186
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.19.9-01972gdff8d1e7.2.sha.dff8d1e7
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.19.9-01972gf28e5b13.2.sha.f28e5b13
+- pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.19.9-01973g0d683c37.3.sha.0d683c37
+- pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.19.9-01973g85a32de2.3.sha.85a32de2
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.7.2-dbreorganise.25.839e065
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.7.2-dbreorganise.26.84a3dd7
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.7.2-dbreorganise.4.e45d205
@@ -2044,3 +2046,5 @@
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.9.6-ddufixblockbufferexception.35.4b6b8ac
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.9.6-ddufixblockbufferexception.35.ba44e58
 - pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@0.9.6-ddufixblockbufferexception.36.95202e4
+- pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@1.0.0-01977gbbccdd50.7.sha.bbccdd50
+- pkg:nuget/ArmoniK.DevelopmentKit.Worker.Unified@1.0.0-SNAPSHOT.5.sha.c4eb380e
