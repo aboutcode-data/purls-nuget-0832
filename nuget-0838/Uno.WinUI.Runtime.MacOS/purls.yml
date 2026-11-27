@@ -76,5 +76,7 @@
 - pkg:nuget/Uno.WinUI.Runtime.MacOS@7.1.0-dev.597
 - pkg:nuget/Uno.WinUI.Runtime.MacOS@7.1.0-dev.599
 - pkg:nuget/Uno.WinUI.Runtime.MacOS@7.1.0-dev.601
+- pkg:nuget/Uno.WinUI.Runtime.MacOS@7.1.0-dev.635
+- pkg:nuget/Uno.WinUI.Runtime.MacOS@7.1.0-dev.645
 - pkg:nuget/Uno.WinUI.Runtime.MacOS@7.1.0-dev.75
 - pkg:nuget/Uno.WinUI.Runtime.MacOS@7.1.0-dev.77
