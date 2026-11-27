@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Maf.Dtos.Options@11.0.66
 - pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.14
 - pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.23
 - pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.27
@@ -5,5 +6,9 @@
 - pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.3
 - pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.32
 - pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.36
+- pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.48
 - pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.5
+- pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.51
+- pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.56
+- pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.64
 - pkg:nuget/Soenneker.Maf.Dtos.Options@4.0.9
