@@ -6,6 +6,7 @@
 - pkg:nuget/CookieTractor.Umbraco@14.0.0-rc4
 - pkg:nuget/CookieTractor.Umbraco@15.0.0
 - pkg:nuget/CookieTractor.Umbraco@16.0.0
+- pkg:nuget/CookieTractor.Umbraco@18.0.0-rc2
 - pkg:nuget/CookieTractor.Umbraco@8.0.0
 - pkg:nuget/CookieTractor.Umbraco@8.0.1
 - pkg:nuget/CookieTractor.Umbraco@8.0.2
