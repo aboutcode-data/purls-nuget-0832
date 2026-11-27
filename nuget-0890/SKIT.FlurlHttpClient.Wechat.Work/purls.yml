@@ -68,3 +68,4 @@
 - pkg:nuget/SKIT.FlurlHttpClient.Wechat.Work@3.7.0
 - pkg:nuget/SKIT.FlurlHttpClient.Wechat.Work@3.8.0
 - pkg:nuget/SKIT.FlurlHttpClient.Wechat.Work@3.9.0
+- pkg:nuget/SKIT.FlurlHttpClient.Wechat.Work@4.0.0
