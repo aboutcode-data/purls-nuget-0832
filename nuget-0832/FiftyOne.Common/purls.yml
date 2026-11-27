@@ -33,4 +33,5 @@
 - pkg:nuget/FiftyOne.Common@4.4.7
 - pkg:nuget/FiftyOne.Common@4.4.8
 - pkg:nuget/FiftyOne.Common@4.4.9
+- pkg:nuget/FiftyOne.Common@5.1.10
 - pkg:nuget/FiftyOne.Common@5.1.6
