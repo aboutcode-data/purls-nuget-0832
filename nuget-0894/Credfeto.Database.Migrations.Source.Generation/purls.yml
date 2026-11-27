@@ -64,3 +64,5 @@
 - pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.238.2984-main
 - pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.240.3005-main
 - pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.240.3006-main
+- pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.240.3011-update-microsof
+- pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.240.3012-pull-206-merge
