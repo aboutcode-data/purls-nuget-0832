@@ -4303,6 +4303,7 @@
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-SNAPSHOT.20.sha.0f11d0b1
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-SNAPSHOT.25.sha.a2bd6835
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-featauthz.148.sha.d1e58cd4
+- pkg:nuget/ArmoniK.Core.Base@0.41.6-featlocalstoragestripes.26.sha.28142c59
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-fixauthinitpositionids.9.sha.b144e950
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-jgsharpvoltaz4d0sb.19.sha.55c274c0
 - pkg:nuget/ArmoniK.Core.Base@0.41.6-jgsharpvoltaz4d0sb.22.sha.7fb7b69b
