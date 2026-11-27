@@ -2,3 +2,11 @@
 - pkg:nuget/Invex.Atom.Workflows@3.0.0-rc.201
 - pkg:nuget/Invex.Atom.Workflows@3.2.0-rc.2
 - pkg:nuget/Invex.Atom.Workflows@3.7.0-rc.2
+- pkg:nuget/Invex.Atom.Workflows@4.0.0-rc.50
+- pkg:nuget/Invex.Atom.Workflows@4.0.0-rc.52
+- pkg:nuget/Invex.Atom.Workflows@4.3.0-rc.2
+- pkg:nuget/Invex.Atom.Workflows@5.0.0-rc.5
+- pkg:nuget/Invex.Atom.Workflows@5.1.0-beta.feature-cld-atom-monorepo-phase-2.33
+- pkg:nuget/Invex.Atom.Workflows@5.1.0-rc.2
+- pkg:nuget/Invex.Atom.Workflows@5.2.0
+- pkg:nuget/Invex.Atom.Workflows@5.4.0-rc.5
