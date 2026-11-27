@@ -1,4 +1,5 @@
 - pkg:nuget/C1.Blazor.DataPager@10.0.20261.90
+- pkg:nuget/C1.Blazor.DataPager@11.0.20262.103
 - pkg:nuget/C1.Blazor.DataPager@3.0.20193.426
 - pkg:nuget/C1.Blazor.DataPager@3.1.20193.434
 - pkg:nuget/C1.Blazor.DataPager@3.1.20193.437
