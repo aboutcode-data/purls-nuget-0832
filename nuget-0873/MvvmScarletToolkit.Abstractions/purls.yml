@@ -44,3 +44,6 @@
 - pkg:nuget/MvvmScarletToolkit.Abstractions@3.0.58
 - pkg:nuget/MvvmScarletToolkit.Abstractions@3.0.94
 - pkg:nuget/MvvmScarletToolkit.Abstractions@4.0.3
+- pkg:nuget/MvvmScarletToolkit.Abstractions@5.0.225
+- pkg:nuget/MvvmScarletToolkit.Abstractions@5.0.226
+- pkg:nuget/MvvmScarletToolkit.Abstractions@5.0.248
