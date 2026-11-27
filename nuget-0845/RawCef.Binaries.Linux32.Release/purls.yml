@@ -13,4 +13,13 @@
 - pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.37622128161
 - pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.38262248272
 - pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.38554352717
+- pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.38722898951
+- pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.39411097393
+- pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.40684687412
+- pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.41464336418
+- pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.42040234745
+- pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.42832362719
+- pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.45442741461
+- pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.45657192918
+- pkg:nuget/RawCef.Binaries.Linux32.Release@1000.0.0-cef.101.0.18.ci.45857688733
 - pkg:nuget/RawCef.Binaries.Linux32.Release@101.0.18
