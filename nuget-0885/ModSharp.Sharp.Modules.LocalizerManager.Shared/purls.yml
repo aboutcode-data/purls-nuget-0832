@@ -1,1 +1,4 @@
 - pkg:nuget/ModSharp.Sharp.Modules.LocalizerManager.Shared@2.1.109
+- pkg:nuget/ModSharp.Sharp.Modules.LocalizerManager.Shared@2.1.141
+- pkg:nuget/ModSharp.Sharp.Modules.LocalizerManager.Shared@2.1.170
+- pkg:nuget/ModSharp.Sharp.Modules.LocalizerManager.Shared@2.1.180
