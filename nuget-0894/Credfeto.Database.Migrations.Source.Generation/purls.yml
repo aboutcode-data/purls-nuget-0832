@@ -62,3 +62,5 @@
 - pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.235.2974
 - pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.236.2973-main
 - pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.238.2984-main
+- pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.240.3005-main
+- pkg:nuget/Credfeto.Database.Migrations.Source.Generation@1.2.240.3006-main
