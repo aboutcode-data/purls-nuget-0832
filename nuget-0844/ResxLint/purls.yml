@@ -2,5 +2,9 @@
 - pkg:nuget/ResxLint@1.0.1
 - pkg:nuget/ResxLint@1.0.2
 - pkg:nuget/ResxLint@2.3.0
+- pkg:nuget/ResxLint@2.4.50
+- pkg:nuget/ResxLint@2.4.51
+- pkg:nuget/ResxLint@2.4.52
+- pkg:nuget/ResxLint@2.4.53
 - pkg:nuget/ResxLint@2.4.8
 - pkg:nuget/ResxLint@2.4.9
