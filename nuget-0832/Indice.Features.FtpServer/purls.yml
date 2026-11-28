@@ -10,3 +10,9 @@
 - pkg:nuget/Indice.Features.FtpServer@8.47.0-rc02
 - pkg:nuget/Indice.Features.FtpServer@8.47.0-rc03
 - pkg:nuget/Indice.Features.FtpServer@8.51.0
+- pkg:nuget/Indice.Features.FtpServer@8.52.0
+- pkg:nuget/Indice.Features.FtpServer@8.54.0
+- pkg:nuget/Indice.Features.FtpServer@8.59.0
+- pkg:nuget/Indice.Features.FtpServer@8.60.0
+- pkg:nuget/Indice.Features.FtpServer@8.61.0
+- pkg:nuget/Indice.Features.FtpServer@8.64.1
