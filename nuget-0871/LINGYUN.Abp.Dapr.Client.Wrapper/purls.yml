@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.Dapr.Client.Wrapper@10.7.0
 - pkg:nuget/LINGYUN.Abp.Dapr.Client.Wrapper@5.0.0
 - pkg:nuget/LINGYUN.Abp.Dapr.Client.Wrapper@5.1.1
 - pkg:nuget/LINGYUN.Abp.Dapr.Client.Wrapper@5.1.3
