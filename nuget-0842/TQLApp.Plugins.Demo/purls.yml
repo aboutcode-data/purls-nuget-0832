@@ -4,6 +4,7 @@
 - pkg:nuget/TQLApp.Plugins.Demo@0.10.3
 - pkg:nuget/TQLApp.Plugins.Demo@0.10.4
 - pkg:nuget/TQLApp.Plugins.Demo@0.10.5
+- pkg:nuget/TQLApp.Plugins.Demo@0.11.0
 - pkg:nuget/TQLApp.Plugins.Demo@0.6.10
 - pkg:nuget/TQLApp.Plugins.Demo@0.6.6
 - pkg:nuget/TQLApp.Plugins.Demo@0.6.7
