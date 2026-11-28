@@ -1,1 +1,9 @@
 - pkg:nuget/Net.Agora.Signaling.iOS@2.1.7.1-beta1
+- pkg:nuget/Net.Agora.Signaling.iOS@2.2.6.1-beta.4.10
+- pkg:nuget/Net.Agora.Signaling.iOS@2.2.6.1-beta.6.14
+- pkg:nuget/Net.Agora.Signaling.iOS@2.2.6.2-beta.9.19
+- pkg:nuget/Net.Agora.Signaling.iOS@2.2.6.3-beta.21.37
+- pkg:nuget/Net.Agora.Signaling.iOS@2.2.6.3-beta.22.51
+- pkg:nuget/Net.Agora.Signaling.iOS@2.2.6.3-beta.29.50
+- pkg:nuget/Net.Agora.Signaling.iOS@2.2.6.4
+- pkg:nuget/Net.Agora.Signaling.iOS@2.2.6.4-beta.31.54

@@ -3,3 +3,5 @@
 - pkg:nuget/XLibur@0.106.1-beta.95
 - pkg:nuget/XLibur@0.301.0
 - pkg:nuget/XLibur@0.311.2-alpha.34
+- pkg:nuget/XLibur@0.730.0
+- pkg:nuget/XLibur@0.900.0
