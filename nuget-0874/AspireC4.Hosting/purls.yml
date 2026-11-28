@@ -4,3 +4,6 @@
 - pkg:nuget/AspireC4.Hosting@13.3.0-prerelease.9
 - pkg:nuget/AspireC4.Hosting@13.3.2
 - pkg:nuget/AspireC4.Hosting@13.6.4-preview.1
+- pkg:nuget/AspireC4.Hosting@13.6.5
+- pkg:nuget/AspireC4.Hosting@17.0.0-prerelease.2
+- pkg:nuget/AspireC4.Hosting@17.0.0-prerelease.3
