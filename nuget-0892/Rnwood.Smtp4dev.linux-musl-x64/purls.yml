@@ -27,3 +27,5 @@
 - pkg:nuget/Rnwood.Smtp4dev.linux-musl-x64@3.16.0-ci20260911123%2Bpr2103
 - pkg:nuget/Rnwood.Smtp4dev.linux-musl-x64@3.16.0-ci20260911138%2Bpr2111
 - pkg:nuget/Rnwood.Smtp4dev.linux-musl-x64@3.16.0-ci20261005100%2Bpr2130
+- pkg:nuget/Rnwood.Smtp4dev.linux-musl-x64@3.16.0-ci20261020100%2Bpr2130
+- pkg:nuget/Rnwood.Smtp4dev.linux-musl-x64@3.16.0-ci20261020101%2Bpr2099
