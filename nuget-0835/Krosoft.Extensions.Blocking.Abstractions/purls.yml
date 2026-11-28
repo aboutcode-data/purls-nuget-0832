@@ -68,6 +68,10 @@
 - pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2025.8.20.1759
 - pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2025.8.20.1760
 - pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2025.8.20.1761
+- pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2026.10.16.11664
+- pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2026.11.11.12961
+- pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2026.11.16.13410
+- pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2026.11.2.12412
 - pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2026.8.28.9865
 - pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2026.8.7.8914
 - pkg:nuget/Krosoft.Extensions.Blocking.Abstractions@2026.8.7.8915
