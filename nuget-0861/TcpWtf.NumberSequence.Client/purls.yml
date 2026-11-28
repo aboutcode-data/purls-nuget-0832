@@ -280,3 +280,4 @@
 - pkg:nuget/TcpWtf.NumberSequence.Client@7.6.1
 - pkg:nuget/TcpWtf.NumberSequence.Client@7.6.2
 - pkg:nuget/TcpWtf.NumberSequence.Client@8.5.0
+- pkg:nuget/TcpWtf.NumberSequence.Client@8.6.5
