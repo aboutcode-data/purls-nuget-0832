@@ -9,6 +9,10 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@13.5.1-beta.763
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@13.5.1-beta.895
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@13.6.1-beta.935
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@17.0.0
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@17.0.0-beta.1052
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@17.0.0-beta.1075
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@17.0.0-beta.1090
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@9.7.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@9.7.0-beta.335
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SurrealDb@9.7.0-beta.336
