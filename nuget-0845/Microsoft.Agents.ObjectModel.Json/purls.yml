@@ -1,3 +1,12 @@
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.10.13.271
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.10.15.275
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.10.21.279
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.10.21.280
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.10.9.270
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.11.10.295
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.11.12.298
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.11.17.301
+- pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.11.6.294
 - pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.3.27.28-prerelease
 - pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.3.27.30-prerelease
 - pkg:nuget/Microsoft.Agents.ObjectModel.Json@2026.3.30.33-prerelease
